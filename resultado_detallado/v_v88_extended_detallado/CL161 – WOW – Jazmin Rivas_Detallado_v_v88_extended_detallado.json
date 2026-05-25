@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra impulsada por la decisión de dejar de perder dinero en alquiler y convertirlo en una inversión patrimonial. La elección del proyecto se basó en la familiaridad previa y en atributos que optimizan su vida (cercanía al trabajo, amenities), asegurando una doble funcionalidad: inversión rentable y/o vivienda ideal.",
+    "historia_causal": {
+        "contexto_previo": "Vivía de alquiler durante 4 años en el mismo complejo (Magna House), por lo que conocía perfectamente la zona, el funcionamiento y la administración. Su estilo de vida incluía viajes frecuentes, lo que generaba una fuerte renuencia a comprometerse con la compra de una propiedad.",
+        "tension_acumulada": "La tensión principal era financiera y latente. Al hacer cuentas, se dio cuenta de que la suma de sus pagos de alquiler a lo largo de los años superaba el monto de una cuota inicial, conceptualizando el alquiler como una pérdida de capital. Su hermana reforzó esta idea, presionándola a considerar la compra.",
+        "bloqueadores": "El principal bloqueador era su propia mentalidad: su plan de vida no incluía necesariamente una residencia permanente en Perú debido a sus constantes viajes. Esto la mantenía en la comodidad del alquiler, evitando un compromiso a largo plazo.",
+        "eventos_habilitadores": "El evento clave fue la conversación con su hermana que la impulsó a actuar. Financieramente, el hecho de poder mudarse temporalmente con su hermana le permitió ahorrar el costo del alquiler, facilitando la espera de un proyecto en planos y la acumulación de capital.",
+        "switching_trigger": "El detonante fue la realización matemática de que había 'pagado más que una cuota inicial' en alquileres. Este cálculo transformó la percepción de un gasto operativo (alquiler) en una oportunidad de inversión perdida, activando la búsqueda de una solución patrimonial.",
+        "momento_de_decision": "El proceso fue extremadamente rápido. Tras ser impulsada por su hermana, visitó el proyecto un lunes y el martes ya estaba pagando la cuota inicial. Su profundo conocimiento previo del lugar eliminó la necesidad de una evaluación prolongada; la decisión fue casi inmediata al confirmar que la nueva propuesta encajaba."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional que, a pesar de tener un estilo de vida móvil y una preferencia por la flexibilidad del alquiler, opera dentro de un sistema donde la acumulación de patrimonio es valorada. La decisión se activa cuando la ineficiencia financiera del alquiler se vuelve evidente y una opción de inversión de bajo riesgo (un proyecto conocido) se presenta."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar su futuro financiero transformando un gasto recurrente en un activo patrimonial que genere rentabilidad y ofrezca flexibilidad, sin sacrificar la calidad de vida si decide usarlo como vivienda.",
+        "job_statement": "Cuando me doy cuenta de que estoy perdiendo capital con el alquiler, quiero comprar una propiedad en una zona de alta demanda para proteger mi patrimonio y tener la flexibilidad de alquilarla si viajo.",
+        "job_dominante_narrativo": "La clienta está tratando de dejar de 'quemar' dinero en alquiler para empezar a construir un patrimonio sólido. Busca una solución que sea una inversión inteligente, fácil de alquilar, y que le dé tranquilidad financiera, especialmente considerando su estilo de vida poco sedentario.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La alta y rápida rentabilidad por alquiler en la zona, la flexibilidad de uso (vivir o alquilar), la cercanía al trabajo, las amenities superiores (gimnasio, piscina) y la baja densidad del edificio (menos pisos, menos saturación).",
+        "firing_criteria": "Proyectos en edificios muy altos y saturados, con mala iluminación (vista interior), y con áreas comunes de menor calidad. También descartó proyectos ya terminados por tener un precio significativamente más alto.",
+        "trade_offs_reales": "Aceptó comprar un proyecto en planos y esperar un año para la entrega, a cambio de un mejor precio. Sacrificó la inmediatez por la viabilidad financiera. Superó su propia convicción de no comprar para asegurar un activo.",
+        "factores_de_confianza": "Su experiencia previa viviendo 4 años en el mismo complejo. Conocía la administración, la demanda de alquiler y la calidad de vida. La recomendación y acompañamiento de su hermana fue un validador clave.",
+        "reduccion_de_riesgo": "El riesgo era mínimo porque conocía el producto y el desarrollador de primera mano. La decisión fue sobre un terreno conocido, no una apuesta en un lugar nuevo. La alta demanda de alquiler en el edificio era una prueba tangible de la seguridad de la inversión."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El potencial de inversión (alta demanda de alquiler), la ubicación estratégica (cerca al trabajo y universidad), las amenities de alta calidad y el diseño de baja densidad del condominio.",
+        "atributos_secundarios": "La atención amable del personal de ventas y la visita a los departamentos modelo, que si bien fueron positivos, solo confirmaron una decisión ya tomada.",
+        "alternativas_descartadas": "Descartó proyectos vistos en ferias por estar en edificios muy altos y saturados, y una unidad inicial en el mismo WOW por tener mala iluminación. Descartó el proyecto MOVE por ser más caro al estar ya terminado."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto en cuanto a la decisión de compra ('todo bien hasta el momento'). La experiencia con el personal de ventas fue positiva.",
+        "reservas": "Ninguna expresada en la entrevista sobre la compra en sí. La historia se corta antes de la entrega.",
+        "fricciones_pendientes": "El proyecto está en construcción, por lo que las fricciones típicas de la entrega, acabados y post-venta aún no han ocurrido."
+    },
+    "proyecto": "WOW"
+}

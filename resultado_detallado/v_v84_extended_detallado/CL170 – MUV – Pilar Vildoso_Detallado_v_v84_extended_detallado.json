@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una pareja de propietarios, afectados por la distancia al trabajo y la humedad de su vivienda en Chorrillos, inician una búsqueda para optimizar su rutina y calidad de vida, eligiendo un proyecto que resuelve sus problemas y se adecúa a su dinámica familiar.",
+    "historia_causal": {
+        "contexto_previo": "Vivían en un departamento propio, grande y en un primer piso en Chorrillos, junto a sus dos hijos varones ya adultos.",
+        "tension_acumulada": "Deseo latente de mudarse para acortar la distancia al trabajo de la esposa y escapar de la excesiva humedad de Chorrillos, que le afectaba la salud, especialmente en invierno.",
+        "bloqueadores": "No se mencionan bloqueadores económicos o de otro tipo; la tensión era una incomodidad creciente pero no una urgencia crítica hasta que decidieron actuar.",
+        "eventos_habilitadores": "La acumulación de las fricciones diarias (traslado y salud) los llevó a iniciar una búsqueda activa de alternativas por la zona de trabajo de la esposa. Tener una propiedad para vender facilitó la aprobación del crédito hipotecario.",
+        "switching_trigger": "La búsqueda activa los llevó a identificar el proyecto por internet y luego a visitar una feria inmobiliaria (Expo Vivienda), donde el contacto directo con la propuesta del proyecto catalizó la decisión.",
+        "momento_de_decision": "La decisión fue muy rápida y se tomó en la misma feria. Quedaron tan convencidos por las ventajas del condominio (club, distribución) que no exploraron otras opciones y separaron la unidad con 1000 soles en ese mismo momento."
+    },
+    "contexto_activador": {
+        "marco_general": "Una pareja estable, ya propietarios de una vivienda, con hijos adultos viviendo en casa. Su sistema de vida está consolidado, pero limitado por fricciones logísticas (distancia al trabajo) y ambientales (humedad), lo que activa la búsqueda de una solución que optimice su bienestar diario sin alterar su núcleo familiar."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Mejorar la calidad de vida diaria eliminando el estrés del transporte y los problemas de salud asociados a la vivienda actual, en un espacio que siga siendo adecuado para toda la familia.",
+        "job_statement": "Cuando las condiciones de mi vivienda actual afectan mi salud y me hacen perder mucho tiempo en traslados, quiero encontrar un nuevo hogar cercano a mi trabajo y en un mejor entorno, para poder vivir de forma más saludable, eficiente y cómoda con mi familia.",
+        "job_dominante_narrativo": "El cliente está intentando reorganizar su geografía habitacional para eliminar las fricciones diarias de un largo viaje al trabajo y un clima perjudicial para su salud, buscando así una vida cotidiana más fluida y saludable.",
+        "job_dominante_canonico": "J03 - Optimizar la vida cotidiana",
+        "job_secundario_canonico": "J04 - Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Proximidad al trabajo (7 minutos), un entorno con menos humedad, un departamento de 3 dormitorios para sus hijos, y un club con excelentes áreas comunes (piscina, gimnasio, sala de cine).",
+        "firing_criteria": "Ubicaciones lejanas al trabajo, zonas con alta humedad (como Chorrillos), y proyectos sin una propuesta de valor clara en cuanto a áreas comunes y distribución.",
+        "trade_offs_reales": "Aceptaron defectos de construcción (puntos de luz descentrados, acero de baja calidad en balcones), la inflexibilidad de la inmobiliaria para personalizar el departamento (no poder quitar una tina), y problemas post-venta como el ruido de clubes cercanos y la mala gestión de mascotas.",
+        "factores_de_confianza": "La presentación de las ventajas del proyecto en la feria, la visita a los departamentos piloto y al club, que les permitió visualizar y validar la calidad de vida que ofrecían.",
+        "reduccion_de_riesgo": "La compra se realizó cuando el edificio ya estaba en construcción (quinto piso), lo que daba certeza sobre el avance del proyecto. Además, la existencia de departamentos piloto permitió evaluar la distribución y acabados de forma tangible."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca al trabajo, el concepto de club con múltiples amenities (piscina, gimnasio), y la distribución funcional del departamento de tres dormitorios.",
+        "atributos_secundarios": "La preferencia por un piso alto y una buena orientación para recibir la luz del sol.",
+        "alternativas_descartadas": "Tenían identificado otro proyecto en la misma zona, pero lo descartaron sin siquiera visitarlo en la feria, ya que quedaron completamente convencidos con la primera opción. Su vivienda anterior en Chorrillos fue 'despedida' por sus problemas de ubicación y humedad."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto en general, evidenciado por haber recomendado el proyecto a tres personas que compraron. Sin embargo, esta satisfacción se ve matizada por numerosas frustraciones post-venta.",
+        "reservas": "Decepción con la calidad de algunos acabados y detalles de construcción (luces, balcones, tomas de corriente). Molestia por el ruido externo y la falta de control sobre el uso de áreas comunes y mascotas.",
+        "fricciones_pendientes": "Problemas de construcción que requirieron reparaciones, promesas incumplidas por la inmobiliaria (sol y sombra en parrillas), y la demora en el inicio de la siguiente etapa del proyecto, lo que genera incertidumbre en sus referidos."
+    },
+    "proyecto": "MUV"
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Familia residente en Cusco compra un departamento en Lima como solución de soporte para su hijo mayor que inicia la universidad, priorizando de forma absoluta la seguridad y la proximidad al centro de estudios sobre cualquier otro factor.",
+    "historia_causal": {
+        "contexto_previo": "La familia reside en Cusco. Su hijo mayor se muda a Lima para iniciar sus estudios universitarios en la UPC y vive en un departamento alquilado.",
+        "tension_acumulada": "Existía una preocupación constante de los padres por la seguridad del hijo viviendo solo en Lima, especialmente por los traslados. Además, sentían la frustración de las limitaciones de un alquiler, donde no se puede personalizar el espacio ('ni un clavo').",
+        "bloqueadores": "La principal barrera era la distancia geográfica, ya que la familia no vivía en Lima y su involucramiento en la búsqueda era logísticamente complejo.",
+        "eventos_habilitadores": "El inicio de la etapa universitaria del hijo fue el habilitador principal. La disponibilidad económica para la compra y el hecho de que el hijo, en su rutina diaria, descubriera el proyecto y se sintiera atraído por él, viabilizó la decisión.",
+        "switching_trigger": "El hijo, al pasar diariamente por el proyecto, vio la publicidad, lo visitó con un amigo, quedó encantado con las instalaciones y convenció a su padre de considerarlo seriamente.",
+        "momento_de_decision": "La decisión fue rápida y liderada por el hijo y el padre. Tras la visita, ambos quedaron convencidos. La madre aceptó la decisión sin haber visitado las áreas comunes, basándose en la confianza y el entusiasmo de su esposo e hijo ('dos convencidos contra una')."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia de provincia con hijos en edad escolar y universitaria, cuyo sistema de valores prioriza la seguridad y el bienestar de los hijos por encima de consideraciones económicas. Operan como una unidad de soporte donde las decisiones importantes se toman para facilitar las transiciones vitales de sus miembros."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la tranquilidad de saber que su hijo vive en un entorno seguro, propio y conveniente durante su formación universitaria, estableciendo una base familiar en Lima que también servirá para los hijos menores en el futuro.",
+        "job_statement": "Cuando mi hijo se va a estudiar a otra ciudad, quiero comprarle un departamento propio cerca de su universidad para tener la tranquilidad de que está seguro y minimizar las fricciones de su vida diaria.",
+        "job_dominante_narrativo": "La familia busca resolver la desalineación logística y de seguridad que implica tener un hijo estudiando lejos de casa. La compra es una herramienta para extender el cuidado y soporte familiar a distancia, asegurando un entorno controlado.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J01: Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La cercanía a la universidad (UPC) y la seguridad del condominio fueron los criterios absolutamente decisivos. Las áreas comunes (piscina, gimnasio) fueron un plus que encantó al hijo.",
+        "firing_criteria": "Cualquier ubicación que implicara traslados largos o que fuera percibida como insegura para el hijo. La opción de seguir alquilando fue descartada por sus limitaciones.",
+        "trade_offs_reales": "Aceptaron un retraso de un año en la entrega, problemas administrativos graves como la doble venta de su estacionamiento y acabados con defectos. La madre aceptó la compra sin haber conocido el proyecto a fondo.",
+        "factores_de_confianza": "La confianza principal recayó en el juicio y entusiasmo del hijo y del esposo. La percepción de seguridad del condominio cerrado fue clave para la madre.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al elegir un lugar que el hijo ya conocía por pasar por ahí diariamente y que era un condominio cerrado, lo que daba una sensación de entorno controlado y seguro."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Ubicación a pasos de la universidad. Concepto de condominio cerrado que proyecta seguridad. Áreas comunes que atrajeron al usuario final (el hijo).",
+        "atributos_secundarios": "La distribución de 2 dormitorios fue funcional para futuras visitas, pero no el driver principal. La posibilidad de alquilarlo a futuro es una consecuencia, no un motivador de compra.",
+        "alternativas_descartadas": "Seguir en el departamento alquilado fue descartado por la falta de control y personalización. Otras zonas de Lima fueron descartadas por la distancia a la universidad y la percepción de inseguridad."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "8/10. Alta satisfacción con el propósito cumplido (seguridad y conveniencia para los hijos), pero mermada por la mala experiencia post-venta.",
+        "reservas": "La gestión de la inmobiliaria es deficiente, con problemas graves de comunicación, retrasos y errores administrativos (estacionamiento, acabados).",
+        "fricciones_pendientes": "El departamento está actualmente vacío y en proceso de ser alquilado. Los trámites de independización y titulación aún no concluyen. La confianza en la inmobiliaria está dañada."
+    },
+    "proyecto": "MUV"
+}

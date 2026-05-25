@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es puramente aspiracional y emocional, activado por la visita al club house. El cliente no tenía ninguna necesidad o intención de compra previa. Los filtros de selección (Selection Drivers) fueron la persistencia en querer ese condominio específico a pesar de malas experiencias y, finalmente, la obtención de un precio muy favorable que viabilizó la compra.",
+        "debate_deal_breaker": "El 'deal breaker' o factor innegociable era el condominio y su propuesta de valor (amenities/club house). El cliente lo afirma explícitamente: 'yo quería comprarlo aquí, porque me gustó el condominio más que el departamento'. Rechazó otras ofertas económicamente superiores porque no le ofrecían el mismo estilo de vida. Sin el club house, la compra nunca se hubiera iniciado.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Al inicio no tenía la necesidad de comprar.",
+                    "Solo fue el vi, me mostraron el club, todas esas cosas y automáticamente... ah, lo compro.",
+                    "Fue muy muy una venta muy emocional, porque me gustó el condominio más que el departamento."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. La compra fue 100% impulsada por el deseo generado por el producto, no por una necesidad preexistente."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "En su momento, iba a ser para probablemente alquilarlo.",
+                    "Como ya tenía eso de comprar ese departamento (para inversión), y al ver ese, dije, ya, pues, también lo adquiero."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí, compraría igual. La idea de inversión fue una justificación posterior o una opción de uso, no el motor original. El impulso fue emocional y aspiracional. Finalmente, decidió vivir en él, descartando la inversión."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es un caso claro de J06 (Emocional Impulsivo). No existía un problema o tensión a resolver. La visita al proyecto y la exposición a su propuesta de valor (club house) crearon un deseo súbito que activó la compra. El J02 aparece como una racionalización o posibilidad, pero no es el origen de la demanda; el motor fue la atracción pura hacia el estilo de vida ofrecido."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y consistente. El cliente detalla de forma explícita la ausencia de una necesidad previa y el carácter impulsivo y emocional de su decisión, gatillada 100% por la propuesta de valor del producto. La historia es un ejemplo canónico de una compra gobernada por el Job to be Done J06."
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo (Entry Driver) es la reconfiguración familiar: el apartamento actual de la clienta es demasiado grande y costoso de mantener ahora que sus hijos se han independizado, lo que crea una desalineación estructural. El plan de comprar dos departamentos (uno para ella, otro para su hijo) para mantener la cercanía y el apoyo mutuo es la necesidad central. El Filtro de Selección (Selection Driver) son los criterios para elegir el proyecto: cercanía a la universidad del hijo (UPC), un entorno tranquilo y costos de mantenimiento bajos.",
+        "debate_deal_breaker": "El elemento innegociable es resolver la inadecuación de su vivienda actual a la nueva etapa de su familia. Si el proyecto MUV no hubiera cumplido con la ubicación y la posibilidad de reconfigurar su sistema de vida, no lo habría comprado. La prueba es que, debido a la desconfianza generada, solo compró una unidad y resolvió la necesidad de la segunda unidad comprando en otro proyecto (La Molina). El 'Job' era tan fuerte que persistió y se resolvió con otra solución. El producto específico no era el deal-breaker, sino la solución a la necesidad familiar.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "quiero que uno de los departamentos, mi hijo se está independizando, y el otro para mí.",
+                    "mi departamento es bien grande, pero ahora que ya mi hija se fue, mi hijo también se independizó, ese departamento es demasiado grande para mí.",
+                    "compramos en un lugar relativamente cerca uno al otro. Así podemos comprar, prestarnos el vehículo, así cocinamos para los dos..."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si su situación familiar no hubiera cambiado (hijos aún en casa), ¿habría comprado dos departamentos más pequeños? No, la compra no tendría sentido."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo tenía un ahorro importante",
+                    "estoy pagando a la muni, mantenimiento me cuesta caro y ya vivo sola",
+                    "el costo de mantenimiento es bastante alto... es más que un alquiler. Entonces digo, no, no tiene sentido"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuviera la necesidad de reconfiguración familiar, ¿habría invertido sus ahorros de esta manera específica? Probablemente no. La necesidad familiar dictó el tipo de inversión, no al revés. El aspecto financiero es un habilitador y un criterio, no el origen del problema."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La decisión de compra se origina inequívocamente en una desalineación estructural entre la vivienda actual y la nueva etapa del ciclo familiar (hijos independizándose). La clienta busca activamente reconfigurar el 'sistema operativo familiar' en nuevos nodos coordinados (dos departamentos cercanos) para dar soporte a la independencia del hijo sin perder la interdependencia funcional. Esto es la definición canónica de J04 (Subtipo: Reconfiguración y Soporte Familiar). El capital disponible (J02) es el medio que habilita la solución, pero no la causa raíz de la demanda."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es claramente J04: Acompañar el crecimiento familiar, en su subtipo de Reconfiguración y Soporte.",
+    "justificacion": "La compra no se origina por una necesidad de primera vivienda (J01) ni por una simple optimización de rutina (J03). El motor de la decisión es la inadecuación de la vivienda actual debido a un cambio en la estructura familiar. La solución buscada (dos departamentos coordinados) está completamente subordinada a las necesidades del 'sistema familiar' (ella y su hijo), lo cual es el núcleo definitorio del J04. La inversión (J02) es una consecuencia lógica y un habilitador, pero no el problema fundamental que se busca resolver."
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra para habilitar un cambio de vida (jubilación y retorno a Perú), usando la inversión como un puente temporal y la cercanía familiar como criterio de selección.",
+    "historia_causal": {
+        "contexto_previo": "Reside en Florida, EE.UU., con su esposo e hijos. Tiene una carrera en el ejército estadounidense y está a punto de jubilarse. Su familia nuclear (madre, hermanos) vive en Perú, manteniendo un fuerte vínculo a pesar de la distancia.",
+        "tension_acumulada": "Un deseo de largo plazo de no envejecer en EE.UU. y regresar a Perú para estar cerca de su familia. La proximidad de la jubilación convierte este deseo latente en una necesidad de planificación concreta.",
+        "bloqueadores": "La complejidad de gestionar una compra inmobiliaria desde el extranjero, la falta de un historial crediticio activo en Perú y el tiempo limitado durante sus visitas para investigar y decidir.",
+        "eventos_habilitadores": "La conversación con un amigo que también compró en Perú activó la idea. Su próxima jubilación en 2-3 años creó un cronograma definido y la necesidad de actuar. Un viaje a Perú le dio la ventana de oportunidad para la búsqueda física.",
+        "switching_trigger": "La inminencia de su jubilación (en 2 años) fue el catalizador que transformó la idea de 'algún día volveré' en un plan de acción concreto para asegurar su futura vivienda.",
+        "momento_de_decision": "Durante un viaje corto a Perú, realizó una búsqueda intensiva. Descartó opciones por factores como la altura de los pisos, la seguridad de la zona y los riesgos de proyectos en planos. La decisión por MUV fue rápida al encontrar un producto con entrega inmediata que cumplía su criterio clave de ubicación cerca de su familia."
+    },
+    "contexto_activador": {
+        "marco_general": "Una peruana residente en el extranjero, en la fase final de su carrera profesional, planificando activamente su jubilación. Su sistema de vida está a punto de transicionar de una vida en EE.UU. a un retorno a su país de origen, motivada por la reunificación familiar y la optimización de su pensión."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un 'puerto seguro' en mi país de origen que me permita aterrizar mi nueva etapa de vida post-jubilación, reunificarme con mi familia y vivir cómodamente con mi pensión.",
+        "job_statement": "Cuando estoy planificando mi retiro y mi regreso a mi país, quiero comprar una propiedad que esté lista y bien ubicada, para poder habilitar esta transición de vida de manera segura y estar cerca de mi familia.",
+        "job_dominante_narrativo": "La clienta está intentando materializar su plan de vida post-jubilación, asegurando la pieza clave (la vivienda) que le permitirá cerrar su etapa en el extranjero y comenzar una nueva cerca de sus raíces y afectos.",
+        "job_dominante_canonico": "J05: Cerrar una etapa y avanzar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación era el criterio principal: debía estar cerca de su madre y hermana. La entrega inmediata fue decisiva para mitigar el riesgo de demoras. La calidad de los acabados y las áreas comunes confirmaron el valor percibido.",
+        "firing_criteria": "Descartó proyectos en zonas percibidas como inseguras (cerca de la Panamericana), con pisos muy altos (preferencia personal) y en planos (riesgo de demora).",
+        "trade_offs_reales": "Aceptó un departamento de 2 dormitorios para ella y sus dos hijos, sacrificando espacio individual a cambio de la ubicación ideal. También enfrentó la fricción burocrática de comprar desde el extranjero.",
+        "factores_de_confianza": "La experiencia de su madre comprando en un proyecto cercano y la percepción de calidad en los acabados y detalles del proyecto MUV.",
+        "reduccion_de_riesgo": "Elegir un proyecto con entrega inmediata fue la principal estrategia de reducción de riesgo, eliminando la incertidumbre de los plazos de construcción que le habían advertido."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Ubicación estratégica entre las viviendas de su madre y hermana. Áreas comunes, distribución y calidad de acabados. Y, crucialmente, la condición de entrega inmediata.",
+        "atributos_secundarios": "El proyecto WOW fue considerado pero su distribución no le gustó. El tamaño exacto o tener más dormitorios fue secundario frente a la ubicación.",
+        "alternativas_descartadas": "Proyecto 'Look and Feel' (pisos muy altos), proyecto cerca de la Panamericana (inseguridad), proyecto 'Wow' (distribución no atractiva), y cualquier proyecto en planos (riesgo de demora)."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto. Satisfecha con la compra y la atención post-venta ('Son muy amables... bastante atentos').",
+        "reservas": "No expresa reservas sobre la propiedad, sino sobre las dificultades del proceso para peruanos en el extranjero.",
+        "fricciones_pendientes": "El proceso de calificación crediticia y la gestión de pagos desde el extranjero. La entrega final del inmueble está pendiente."
+    },
+    "proyecto": "MUV"
+}

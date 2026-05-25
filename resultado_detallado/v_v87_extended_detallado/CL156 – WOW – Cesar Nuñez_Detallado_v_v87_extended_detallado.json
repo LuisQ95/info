@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra de inversión activada por un capital disponible, donde los criterios de selección del activo inmobiliario estuvieron fuertemente definidos por la conveniencia logística y las actividades de sus hijos universitarios.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive cómodamente en un departamento propio, más grande que el adquirido. No tienen ninguna necesidad habitacional. Cuentan con un capital excedente que no está generando rentabilidad.",
+        "tension_acumulada": "La tensión principal era el costo de oportunidad de tener un capital disponible sin invertir, perdiendo potencial de rentabilidad y apreciación. Era una conciencia latente de una oportunidad financiera no aprovechada.",
+        "bloqueadores": "La búsqueda de una inversión era pasiva y no estructurada. No había una urgencia que los empujara a buscar activamente, por lo que se mantenían en un estado de inacción hasta encontrar una oportunidad que encajara perfectamente.",
+        "eventos_habilitadores": "La disponibilidad de capital para la cuota inicial y la situación de sus hijos, ambos estudiando en la Universidad de Lima, crearon el marco perfecto para una inversión que pudiera tener un doble propósito a futuro.",
+        "switching_trigger": "Ver una publicidad del proyecto WOW en internet. El anuncio calzó inmediatamente con sus criterios latentes de ubicación (cerca de la universidad) y áreas comunes, lo que los movió de una búsqueda pasiva a una acción concreta.",
+        "momento_de_decision": "La decisión fue extremadamente rápida. Visitaron el proyecto, confirmaron que cumplía con todos sus requisitos (ubicación, cancha de tenis, tipología flexible) y, motivados por descuentos de preventa y la idea preexistente de comprar, separaron la unidad casi de inmediato."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia con una situación habitacional resuelta y estable, con hijos en etapa universitaria. Su sistema de vida no requiere cambios, pero la disponibilidad de un excedente de capital activa la búsqueda de una inversión inmobiliaria que, además de ser rentable, pueda servir como soporte logístico o futuro hogar para la familia."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario flexible que funcione como una inversión rentable a corto plazo (alquiler) y como una potencial vivienda familiar a futuro, optimizando la conveniencia para los hijos universitarios y la seguridad patrimonial.",
+        "job_statement": "Cuando tengo un capital excedente sin rentabilidad, quiero invertirlo en un departamento para generar ingresos pasivos y tener una opción de vivienda futura para mi familia.",
+        "job_dominante_narrativo": "La misión principal era poner a trabajar un capital disponible. La compra se origina en una lógica puramente financiera: adquirir un activo para proteger el patrimonio y generar una renta a través del alquiler. No hay un problema habitacional que resolver.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Los criterios decisivos fueron: 1) Ubicación estratégica cerca de la Universidad de Lima para sus hijos. 2) La presencia de una cancha de tenis, un hobby de sus hijos. 3) La tipología flexible (2+flex) que permite una futura conversión a 3 dormitorios para uso familiar.",
+        "firing_criteria": "Descartaron automáticamente opciones en ubicaciones con mucho tráfico y ruido, como el proyecto que vieron en El Derby. También descartaron proyectos con áreas comunes menos atractivas o que no se alinearan con el estilo de vida de sus hijos.",
+        "trade_offs_reales": "Aceptaron un cambio en la ubicación de la cochera asignada, toleraron tácticas de presión de venta y, sobre todo, están soportando una comunicación post-venta deficiente y contradictoria que genera incertidumbre.",
+        "factores_de_confianza": "La confianza inicial se basó en el producto mismo, que encajaba perfectamente con sus necesidades. Sin embargo, esta confianza se ha visto severamente erosionada por la mala gestión post-venta de la inmobiliaria.",
+        "reduccion_de_riesgo": "La decisión se sintió segura porque el proyecto cumplía con todos sus criterios de selección y aprovecharon un descuento. La compra rápida buscaba asegurar una oportunidad que parecía ideal, minimizando el riesgo de perderla."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación (cerca de la universidad), áreas comunes específicas (cancha de tenis) y la tipología de producto (2+flex adaptable a 3 dormitorios) generó un encaje perfecto con sus criterios de selección.",
+        "atributos_secundarios": "Otras áreas comunes del proyecto fueron valoradas pero no fueron determinantes como la cancha de tenis.",
+        "alternativas_descartadas": "Descartaron un proyecto en la zona de El Derby principalmente por la ubicación (mucho tráfico y ruido) y porque sus áreas comunes no les parecieron tan atractivas en comparación con WOW."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Moderado, pero en claro descenso. Están satisfechos con la inversión realizada, pero muy insatisfechos y preocupados por la experiencia post-venta.",
+        "reservas": "Tienen una gran incertidumbre sobre el proceso. No tienen documentos físicos que respalden su inversión, han recibido información contradictoria sobre plazos y no tienen claridad sobre las fechas clave del proyecto.",
+        "fricciones_pendientes": "La principal fricción es la ausencia total de comunicación proactiva por parte de la inmobiliaria. Se sienten 'en el aire' con una inversión considerable, sin un contrato físico y con dudas sobre la asignación final de su cochera y los plazos de construcción y entrega."
+    },
+    "proyecto": "WOW"
+}

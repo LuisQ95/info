@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad estructural de la pareja de establecer un hogar propio para iniciar su vida en común (J01). El filtro de selección (Selection Driver) fue la propuesta de valor única del proyecto, específicamente sus amenidades tipo club con piscina semi-olímpica (J06), que lo diferenciaron de todas las demás opciones y generaron un fuerte deseo.",
+        "debate_deal_breaker": "El deal-breaker que los hizo descartar la opción anterior fue la falta de transparencia en la minuta. Para el proyecto elegido, la existencia de las áreas comunes tipo club fue el factor innegociable que solidificó la decisión. Sin ese diferenciador, probablemente no hubieran elegido este proyecto sobre otros.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "nosotros hemos comprado para vivir",
+                    "somos novios de que se van a casar",
+                    "queremos que se concrete el departamento para después usarlo"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuvieran la necesidad de un hogar para empezar su vida juntos, no habrían entrado al mercado a comprar. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "ningún otro proyecto que nosotros habíamos visto tenía este concepto",
+                    "acá es una piscina semiolímpica. Entonces, es una de las cosas que sí nos atrajo un montón",
+                    "cuando nos hicieron el recorrido, general, de todo el proyecto, nos gustó un montón"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera estas amenidades únicas, habrían seguido buscando otras opciones. No habrían comprado este proyecto en particular."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra es originada por la necesidad fundamental de la pareja de consolidar su proyecto de vida en un hogar propio (J01). Sin embargo, la elección específica del proyecto WOW fue determinada de manera decisiva por su propuesta de valor aspiracional y sus amenidades únicas (J06), que funcionaron como el principal criterio de selección."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la historia causal de la compra, desde el contexto previo y las tensiones acumuladas hasta los criterios de decisión y la experiencia post-compra. Se identifica con claridad el Job Dominante (J01) y los fuertes criterios de selección (J06, J03)."
+}

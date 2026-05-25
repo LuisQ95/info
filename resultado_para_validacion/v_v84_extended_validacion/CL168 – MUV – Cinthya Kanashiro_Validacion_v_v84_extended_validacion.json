@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado fue la necesidad de proveer una vivienda segura y estable en Lima para el hijo mayor que iniciaba sus estudios universitarios, reemplazando una situación de alquiler insatisfactoria. El filtro de selección fue la combinación de extrema proximidad a la universidad (UPC), la seguridad de un condominio cerrado y las áreas comunes que atrajeron al hijo.",
+        "debate_deal_breaker": "El factor innegociable fue la necesidad de dar soporte habitacional al hijo universitario. Sin esta circunstancia, la compra no se habría realizado. Las amenidades y el diseño del proyecto, aunque fueron factores de 'encantamiento' que facilitaron la elección, no constituían el motivo estructural de la compra. Si hubieran encontrado otro proyecto igualmente seguro y cercano sin esas amenidades, la compra aún habría sido una posibilidad.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nuestro hijo mayor terminó el colegio y se estaba yendo a estudiar a Lima, ¿no?",
+                    "Vimos que lo más conveniente era que era un departamento que estuviese cerca de la universidad.",
+                    "lo que nos interesó siempre era la seguridad de nuestro hijo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Negativo. Sin la necesidad de proveer vivienda al hijo en la universidad, la compra no se habría realizado en absoluto."
+            },
+            {
+                "codigo_y_nombre_job": "J01 - Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "en lo que no es tuyo ni un clavo, pues...",
+                    "si quieres poner un cuadro, lo piensas veinte veces porque después tienes que devolver la pared entera.",
+                    "por eso buscamos algo propio."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Positivo. Aunque deseaban algo propio, si el hijo no se mudaba a Lima, no habrían comprado esta propiedad. El deseo de propiedad era secundario a la necesidad de soporte familiar."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J01 - Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "La compra es un caso claro de J04 en su subtipo 'Soporte Familiar'. La decisión de compra es completamente subordinada a la necesidad de facilitar la etapa de vida de un miembro de la familia (el hijo universitario). La familia, como sistema, se reorganiza para proveer una base segura y funcional en otra ciudad. El deseo de salir del alquiler (J01) actúa como un motivador secundario que justifica la compra sobre la renta, pero no es el origen de la necesidad de tener una vivienda en Lima."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J04 - Acompañar el crecimiento familiar (subtipo: Soporte Familiar).",
+    "justificacion": "La compra es una consecuencia directa y exclusiva de la necesidad de dar soporte al hijo que se muda a Lima para estudiar. El test canónico es claro: sin este evento familiar, la compra no se habría producido. La familia actúa como un sistema que se reorganiza para facilitar la transición de uno de sus miembros, lo que define perfectamente al J04. Los criterios de selección (seguridad, cercanía a la universidad) son una manifestación directa de este Job de cuidado y protección a distancia."
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad estructural de independizarse y establecer su propia base habitacional (J01), un deseo latente desde la pandemia y activado por una mejora económica. El filtro de selección (Selection Driver) es la optimización de su vida cotidiana (J03); elige MUV porque su ubicación y amenities reducen fricciones diarias, una opción viable gracias a que su nuevo trabajo le da libertad geográfica.",
+        "debate_deal_breaker": "El factor innegociable es la independencia. La clienta ya había intentado comprar en otro distrito (San Isidro) para optimizar una circunstancia diferente (cercanía al trabajo anterior). Al fallar esa compra y cambiar su contexto laboral, la necesidad de independizarse (J01) persistió, pero los criterios de optimización (J03) se adaptaron. Sin el deseo de independencia, la compra no se habría iniciado.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "Yo vivo con mi mamá y mi hermano y me estoy mudando por independizarme.",
+                    "Eso empieza en pandemia. Este, por por temas pandemia, en algún momento sí decidí querer irme...",
+                    "yo mejoré mi situación actual laboral. Ahorita ya estoy con un mejor puesto y con un mejor sueldo. Entonces, también me dio la la posibilidad o el empuje..."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No compraría. La compra se origina en la necesidad de tener un espacio propio y salir de la casa familiar. Los beneficios del proyecto son secundarios a esta necesidad fundamental."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "A mí me encantan los deportes y me parece súper chévere cómo es el clubhouse que se tiene...",
+                    "no hay un, ok, me tengo que mover primero para ir al gimnasio, de ahí volver a regresar...",
+                    "el tema de no tener cochera en este trabajo te condicionaba a estar cerca en la compra... como el nuevo trabajo tiene cochera, te abre un grado de libertad y ahí más bien ves con mejores ojos quedarte en Surco."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí compraría, pero buscaría otro proyecto que cumpliera con sus nuevos criterios de optimización. La necesidad de independencia (J01) la mantendría en el mercado."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La decisión de compra es gobernada por el J01, ya que el origen de la búsqueda es la necesidad de establecer su primera vivienda independiente. El J03 actúa como un poderoso criterio de selección, definiendo 'qué' proyecto comprar (uno que optimice su rutina y la mantenga cerca de su red de apoyo), pero no 'por qué' comprar en primer lugar."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista proporciona una narrativa causal completa y detallada. Expone claramente el contexto, las tensiones, los bloqueadores y los habilitadores de la decisión. Permite una distinción nítida entre el driver de entrada al mercado (J01: necesidad de independencia) y los criterios de selección del producto (J03: optimización de la vida diaria), lo que la hace metodológicamente robusta."
+}

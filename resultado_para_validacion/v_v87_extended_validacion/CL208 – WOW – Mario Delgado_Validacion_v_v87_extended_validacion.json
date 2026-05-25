@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la disponibilidad de fondos de jubilación, lo que apunta a una necesidad de inversión (J02). Sin embargo, el cliente no estaba buscando activamente una propiedad. La compra se activa únicamente por la presentación de un producto específico con una propuesta de valor aspiracional (clubhouse, amenities), que actúa como el filtro de selección y el verdadero motor de la decisión. El deseo por el producto (J06) es lo que convierte la posibilidad de invertir en una compra real.",
+        "debate_deal_breaker": "El deal breaker es la propuesta de valor del proyecto. Si el proyecto no tuviera el 'concepto' y las áreas comunes que lo enamoraron, no habría comprado, incluso teniendo el dinero para invertir. La inversión (J02) es una condición necesaria (el 'qué'), pero el estilo de vida (J06) es la causa suficiente (el 'porqué'). La compra es 'No Problem-Driven', activada por el deseo que genera el producto.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "me gustó mucho el el concepto de de todo el condominio en general.",
+                    "el clubhouse es el que me, me, me jala más.",
+                    "No es que estuvimos buscando dónde, cómo comprar, ni nada. Estamos tranquilos."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. La decisión fue 'amor a primera vista' con el producto; sin ese atractivo aspiracional, la transacción no se habría materializado."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "estaba en las fechas justamente de que yo iba a recibir mi jubilación.",
+                    "iba a recibir un dinero y preferí invertirlo ahí que que hacer otro tipo de inversión.",
+                    "yo puedo alquilarlo y tener una especie de pensión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No compraría. Aunque tenía el capital, no estaba buscando activamente invertir en inmuebles. El dinero es el habilitador, no el motor de la elección específica."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es originada por el producto, no por un problema preexistente. El cliente, sin una necesidad activa, es 'atraído' por una propuesta de estilo de vida superior que lo convence de usar su capital de jubilación. El J06 (deseo por el producto) domina sobre el J02 (necesidad de invertir), que funciona como el contexto habilitador y la justificación racional de una decisión fundamentalmente emocional y aspiracional."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista reconstruye de manera clara y coherente la cadena causal de la decisión. Se identifica un gatillo financiero claro (fondos de jubilación), un canal de descubrimiento específico (su hija) y un motor de decisión inequívoco (atracción por el producto). La narrativa permite diferenciar con precisión el rol del dinero como habilitador (J02) y el del deseo por el estilo de vida como el verdadero driver dominante (J06)."
+}

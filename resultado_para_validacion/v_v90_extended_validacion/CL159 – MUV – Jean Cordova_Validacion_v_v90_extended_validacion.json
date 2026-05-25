@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada fue puramente emocional y aspiracional (J06), activado por la visita al club house y la propuesta de estilo de vida del condominio. El cliente no tenía necesidad de comprar. La negociación de precio y el cambio de proyecto a MUV fueron filtros de selección posteriores, pero la decisión de comprar 'en este lugar' ya estaba tomada por el atractivo del producto.",
+        "debate_deal_breaker": "El test canónico para J06 es claro: sin la propuesta de valor aspiracional del condominio, la compra no habría ocurrido. El cliente lo confirma al decir 'Al inicio no tenía la necesidad de comprar' y 'me gustó el condominio más que el departamento'. La compra es 100% 'No Problem-Driven'.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Al inicio no tenía el, o sea, la necesidad de comprar.",
+                    "solo fue el vi, me mostraron el club, todas esas cosas y automáticamente... lo compro.",
+                    "fue muy muy una venta muy emocional",
+                    "yo quería comprarlo aquí, porque me gustó el condominio más que el departamento."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No habría comprado. La compra fue un impulso generado por el deseo que le provocó el proyecto, no por una necesidad preexistente."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "iba a ser para probablemente alquilarlo.",
+                    "como ya tenía eso de comprar ese departamento (el de inversión), y al ver ese, dije, ya, pues, también lo lo adquiero"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí, habría comprado igual. La idea de alquilarlo fue una justificación secundaria y no el motor de la decisión. El impulso inicial fue el disfrute y el estilo de vida, no la rentabilidad."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es un caso canónico de J06 (Emocional Impulsivo). El cliente, sin necesidad habitacional, es seducido por la propuesta de valor del proyecto durante una visita casual. La demanda es creada por el producto. El componente de inversión (J02) es una racionalización secundaria y no el driver causal que origina la transacción."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista revela una clara historia causal 'No Problem-Driven', donde la demanda es creada por el producto. El cliente narra con detalle el impulso emocional inicial, los conflictos del proceso y la resolución final, permitiendo identificar un J06 dominante de manera inequívoca."
+}

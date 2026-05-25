@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra activada por una oportunidad financiera (crédito pre-aprobado) para dejar de gastar en alquiler y construir patrimonio, seleccionando un proyecto cuyas amenidades y entorno resolvían la necesidad de un mejor estilo de vida para su familia.",
+    "historia_causal": {
+        "contexto_previo": "Una familia extranjera viviendo en un departamento alquilado en Lima, con capital en su país de origen. Su situación era estable pero insatisfactoria por las limitaciones del alquiler y la sensación de no estar construyendo patrimonio. La movilidad laboral del esposo generaba incertidumbre sobre su permanencia a largo plazo en Perú.",
+        "tension_acumulada": "Existía una frustración latente por pagar un alquiler que percibían como 'dinero botado a la basura'. A esto se sumaba el deseo de ofrecer a sus hijos un mejor entorno con más espacios para jugar y socializar, similar a los condominios a los que estaban acostumbrados en Colombia.",
+        "bloqueadores": "El principal bloqueador era la incertidumbre sobre cuánto tiempo más vivirían en Perú, lo que hacía que la esposa fuera reacia a comprar. Además, no había una urgencia activa que los empujara a buscar, manteniendo una actitud pasiva de 'idea latente'.",
+        "eventos_habilitadores": "Un crédito pre-aprobado ofrecido por el banco fue el catalizador principal. Al calcular que la cuota mensual del crédito sería muy similar a su alquiler actual, la idea de comprar se transformó de una posibilidad lejana a una oportunidad financiera concreta y atractiva.",
+        "switching_trigger": "La comunicación del banco sobre el crédito pre-aprobado fue el estímulo que los hizo pasar de un estado pasivo a una búsqueda activa de proyectos inmobiliarios, convirtiendo una idea abstracta de inversión en una acción concreta.",
+        "momento_de_decision": "La decisión fue notablemente rápida y emocional. Tras una búsqueda superficial, visitaron el proyecto WOW y quedaron inmediatamente 'antojados' por las áreas comunes. La percepción de que el lugar era ideal para sus hijos generó un impulso que los llevó a separar el departamento el mismo fin de semana de la visita."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida es el de una familia extranjera con dos hijos, adaptándose a la vida en Lima pero con un marco de referencia de vivienda de su país de origen (condominios con amplias áreas comunes). Están restringidos por la incertidumbre de su permanencia en el país y la complejidad de mover capital internacionalmente. La decisión se activa cuando una oportunidad financiera (crédito) hace que la compra sea percibida como una jugada patrimonial inteligente y de bajo riesgo relativo frente a seguir alquilando."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una inversión patrimonial inteligente y flexible que, al mismo tiempo, eleve la calidad de vida de la familia de manera inmediata, ofreciendo un entorno seguro y estimulante para los hijos.",
+        "job_statement": "Cuando se presenta una oportunidad financiera favorable, quiero invertir mi dinero en una propiedad que pueda funcionar como un activo rentable y, a la vez, como un hogar que mejore nuestro estilo de vida, para así dejar de sentir que desperdicio dinero en alquiler y asegurar el bienestar de mi familia.",
+        "job_dominante_narrativo": "Esta persona está intentando capitalizar su dinero y aprovechar una oportunidad de crédito para convertir un gasto (alquiler) en una inversión (propiedad), asegurando así su patrimonio y manteniendo la flexibilidad de vender o alquilar en el futuro si sus planes de vida cambian.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La elección se basó en la combinación de una ubicación deseada (Surco/San Borja) con una propuesta de valor superior en áreas comunes (piscina, gimnasio, áreas verdes), que era un factor decisivo para el bienestar de sus hijos. La flexibilidad de la distribución del departamento (2+flex) también fue clave.",
+        "firing_criteria": "Descartaron proyectos que eran 'muy normalitos' o básicos, sin áreas comunes atractivas. También descartaron departamentos antiguos en San Borja que, aunque amplios, requerían mucha remodelación y no ofrecían las comodidades modernas que buscaban (ej. estacionamiento techado).",
+        "trade_offs_reales": "Aceptaron un proceso de compra con fricciones, como descubrir que debían pagar la cuota del crédito antes de la entrega del inmueble. Tuvieron que cambiar de unidad post-compra porque la distribución inicial no era funcional, lo que implicó un esfuerzo y tiempo extra.",
+        "factores_de_confianza": "La confianza inicial se basó en la percepción de que el proyecto era un 'club' y cumplía con todas sus expectativas. Sin embargo, esta confianza se vio erosionada por las discrepancias y la falta de claridad en el proceso post-venta.",
+        "reduccion_de_riesgo": "El riesgo se mitigó al percibir que la cuota era similar al alquiler, lo que hacía la carga financiera manejable. La idea de que el mercado inmobiliario en Perú es dinámico les dio la seguridad de que podrían vender o alquilar la propiedad si se mudaban, protegiendo su inversión."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes fueron el principal activador ('el 50% de la decisión fue por eso'). La sensación de que era un 'club' para sus hijos, con piscina, gimnasio y zonas de juego, conectó directamente con su deseo de un mejor estilo de vida familiar. La ubicación y características como el balcón y estacionamiento techado también fueron importantes.",
+        "atributos_secundarios": "La posibilidad de tener un depósito fue valorada pero finalmente no fue un factor crítico en la decisión. La negociación en soles en lugar de dólares fue un punto de fricción y análisis, pero no detuvo la compra.",
+        "alternativas_descartadas": "Descartaron proyectos en San Borja por ser antiguos o muy costosos para lo que ofrecían. El proyecto MUV fue descartado por precio, al percibir que estaba por encima de su presupuesto (más de 1 millón de soles), sin una exploración profunda."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Mixto. Satisfecho con la propiedad y el proyecto elegido, pero insatisfecho y sorprendido por el proceso post-venta y las fricciones encontradas.",
+        "reservas": "La principal reserva es la falta de claridad y precisión en la información proporcionada por la inmobiliaria, especialmente en cuanto a los planos acotados y el cronograma de pagos, lo que los hizo sentir como 'novatos' y les generó costos y esfuerzos inesperados.",
+        "fricciones_pendientes": "La principal fricción fue tener que realizar un cambio de departamento después de la firma inicial debido a que el metraje y la distribución no eran los esperados. Además, la sorpresa de tener que pagar la cuota del crédito y el alquiler simultáneamente durante un año."
+    },
+    "proyecto": "WOW"
+}

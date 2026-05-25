@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente sin necesidad de vivienda realiza una compra impulsiva y emocional, gatillada exclusivamente por la atracción a la propuesta de lifestyle del condominio (club house). A pesar de una pésima experiencia inicial de venta, su deseo de pertenecer a ese entorno lo lleva a renegociar y concretar la compra en una unidad superior y con mejores condiciones.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vive solo en un departamento propio de 200m² en Los Álamos, que además utiliza como almacén para su empresa de marketing y merchandising. No tiene ninguna necesidad funcional, de espacio o de ubicación que lo motive a buscar una nueva propiedad.",
+        "tension_acumulada": "No existe una tensión acumulada. La demanda es 'No Problem-Driven'. El deseo de compra es creado desde cero en el momento en que interactúa con la propuesta de valor del proyecto.",
+        "bloqueadores": "El principal bloqueador inicial era la simple falta de intención; no estaba en el mercado. Una vez decidido, los bloqueadores fueron un proceso de venta deficiente, con información falsa sobre precios y plazos de construcción, y la desconfianza generada por los vendedores, que casi lo hacen desistir.",
+        "eventos_habilitadores": "La sólida capacidad económica de su empresa le permite realizar compras de alto valor por impulso. Recibir una publicidad por WhatsApp y tener tiempo libre un domingo habilitaron la visita exploratoria que lo cambió todo.",
+        "switching_trigger": "La visita al proyecto, donde el vendedor le muestra primero el club house. Esta experiencia genera una atracción instantánea y un deseo irrefrenable de comprar para acceder a ese estilo de vida.",
+        "momento_de_decision": "La decisión fue inmediata, impulsiva y emocional. El mismo día de la visita, sin una necesidad preexistente, decide separar la unidad, motivado puramente por el 'enamoramiento' con las áreas comunes del condominio."
+    },
+    "contexto_activador": {
+        "marco_general": "Empresario exitoso, con liquidez y acostumbrado a tomar decisiones rápidas. Su sistema de vida es individual y no tiene ataduras o necesidades familiares que condicionen una compra. La cercanía de su vivienda actual al proyecto (5 minutos) eliminó cualquier fricción para una visita casual, creando las condiciones perfectas para una compra por impulso."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Acceder y disfrutar de un estilo de vida superior, tipo resort, que le brinde placer y una sensación de estatus, sin tener que salir de su casa.",
+        "job_statement": "Cuando me encuentro con un producto que representa un estilo de vida aspiracional y superior, quiero adquirirlo de inmediato para poder disfrutar de esa experiencia y expresar mi éxito personal.",
+        "job_dominante_narrativo": "Esta persona está intentando comprar un departamento en este condominio específico para satisfacer un deseo repentino y emocional de vivir en un lugar con amenities de lujo que le generen placer y estatus, una decisión totalmente desvinculada de una necesidad habitacional.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio de contratación fue único y absoluto: la calidad y el atractivo del club house y las áreas comunes. El departamento en sí era secundario; contrató el estilo de vida del condominio.",
+        "firing_criteria": "La deshonestidad y la falta de cumplimiento por parte del equipo de ventas. Estuvo a punto de descartar el proyecto por la mala gestión, no por el producto.",
+        "trade_offs_reales": "No hubo trade-offs significativos. Al contrario, la resolución del conflicto le permitió pasar de un proyecto futuro (WOW) a uno de entrega inmediata (MUV), más grande y por un precio final mejor. Fue una ganancia neta.",
+        "factores_de_confianza": "La intervención directa de una persona de la inmobiliaria (Stephanie) que tomó su caso en serio y le ofreció una solución real. Esto restauró la confianza que los vendedores externos habían destruido.",
+        "reduccion_de_riesgo": "El cambio a un departamento en MUV (entrega inmediata) eliminó el riesgo de construcción y las demoras inciertas del proyecto WOW. Además, obtener un precio significativamente más bajo validó la decisión como una compra inteligente y sin riesgo financiero."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El club house, la piscina y el concepto general de condominio-club. La promesa de un estilo de vida de ocio y disfrute fue el único activador.",
+        "atributos_secundarios": "El tamaño y la distribución del departamento. Inicialmente no le importaba, pero al final obtuvo una mejor unidad, lo cual fue un bono, no el driver inicial.",
+        "alternativas_descartadas": "Rechazó activamente ofertas con descuentos de hasta 150,000 soles en otros proyectos como Highline y Amaras porque su deseo estaba anclado específicamente al condominio MUV/WOW. Esto demuestra la dominancia del J06 sobre cualquier lógica de optimización o inversión."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto. Está muy contento con la compra, siente que salió beneficiado y no ha tenido problemas personales con su departamento.",
+        "reservas": "El único tema pendiente que le genera cierta inquietud es la independización de la propiedad, aunque no es algo que le 'quite el sueño'.",
+        "fricciones_pendientes": "Ninguna a nivel personal. Su proceso de compra y entrega ya concluyó. Sin embargo, es consciente de las fricciones que tienen otros vecinos con la inmobiliaria y la administración."
+    },
+    "proyecto": "MUV"
+}

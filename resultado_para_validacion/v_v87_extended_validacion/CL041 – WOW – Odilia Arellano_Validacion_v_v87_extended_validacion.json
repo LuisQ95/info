@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es una mentalidad de inversión (J02), buscando rentabilizar un capital disponible. Sin embargo, el filtro de selección es 100% dominado por la necesidad de reconfigurar la vivienda familiar (J04). Los criterios de elección (amenities para los hijos, ubicación, tamaño) responden a la nueva dinámica familiar, no a una optimización de inversión.",
+        "debate_deal_breaker": "El factor innegociable era la adecuación de la propiedad a la estructura y necesidades de la familia. Una propiedad que no sirviera como futuro hogar familiar, que no tuviera las áreas comunes para los hijos (tenis) y nietos (juegos), o que no estuviera cerca de la universidad, habría sido descartada, incluso si era una buena inversión en papel.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Para el departamento, pensamos un principio para mi hijo.",
+                    "vamos a ir a vivir porque queremos... Ya está en venta la casa.",
+                    "El área de tenis también parece que me..."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin la necesidad de adaptar la vivienda a la nueva etapa de la familia (hijo independizándose, downsizing de la casa), no hubieran comprado esta propiedad específica."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "quisimos comprar como para, para inversión.",
+                    "Si yo no vendo el de mi casa... yo lo podría alquilar y no, yo no lo veo ahí este mal inversión.",
+                    "compramos un, este, una tienda comercial."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí, probablemente hubieran comprado igual si resolvía el problema familiar, ya que el plan principal era mudarse. La inversión era el marco inicial y el plan B."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "Aunque el cliente entra al mercado con una mentalidad de inversión (J02), la decisión de compra se subordina completamente a resolver una desalineación en la estructura familiar (J04). Los criterios de selección son exclusivamente de J04. El J02 opera como un marco de validación y plan de contingencia, pero el motor real de la elección es J04."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista revela una historia causal clara y profunda. Se logra identificar la tensión entre el gatillo de inversión (J02) y el driver de selección dominante, que es la reconfiguración familiar (J04). La narrativa post-compra es coherente y aporta valiosa información sobre las fricciones del cliente."
+}

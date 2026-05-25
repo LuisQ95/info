@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de proveer una vivienda segura y funcional para su hija que se muda a Lima por estudios (J04). Este no es un deseo de inversión que busca un producto, sino una necesidad familiar que encuentra en la compra una solución óptima. Los criterios de selección (Selection Filters) como la seguridad, la cercanía a la UPC y la calidad del mantenimiento, son extensiones directas del Job Dominante.",
+        "debate_deal_breaker": "El factor innegociable era la combinación de seguridad extrema y proximidad a la universidad. Si el proyecto no cumplía con estas dos condiciones, la compra no se habría realizado, independientemente de su potencial como inversión. El test canónico lo confirma: sin la necesidad de alojar a la hija, no habrían comprado. El aspecto patrimonial (J02) es un beneficio secundario que valida la decisión, pero no la origina.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Mi hija, el año pasado, se fue a Lima para estudiar la carrera de medicina en la UPC.",
+                    "decidió que era una buena oportunidad para comprar, para ya no alquilar, y que mi hija viva en el departamento que se está comprando.",
+                    "solo por la seguridad nos hemos quedado ahí. Aunque sabemos que es mucho más lejos el aeropuerto, mucho más lejos otras cosas de Lima."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin la necesidad de asegurar una vivienda para su hija en Lima, la compra no habría ocurrido. Habrían mantenido el capital o lo habrían invertido de otra forma en Tacna."
+            },
+            {
+                "codigo_y_nombre_job": "J02 - Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "al tener un dinero mi esposa, de la venta de unos terrenos, decidió que era una buena oportunidad para comprar.",
+                    "teníamos el dinero como le dijo mi esposo, yo había vendido unos terrenos acá en Tagna y teníamos la disposición del dinero.",
+                    "dijimos, nos devolverán la plata y nos compramos algo pronto, porque en verdad, como hay que pagar doble cosa, estamos durando."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, la necesidad de vivienda para su hija persistiría. Probablemente habrían seguido alquilando o buscando otra solución si no hubieran tenido el capital disponible en ese momento."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es un caso claro de J04, subtipo 'Soporte Familiar'. La decisión y el desembolso de capital son ejecutados por los padres para resolver una necesidad estructural de un miembro de la familia (la hija) en una etapa clave (universidad). El J02 actúa como un habilitador financiero y un validador racional de la decisión, pero no es el motor de origen de la demanda."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la historia causal completa. El detonante (hija se muda a Lima por estudios), los habilitadores (capital disponible, experiencia positiva alquilando) y la lógica de elección (seguridad y cercanía a la universidad) están explícitamente conectados, permitiendo una clasificación precisa del Job Dominante (J04) y el secundario (J02)."
+}

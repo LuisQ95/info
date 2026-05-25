@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de la pareja de establecer su primer hogar juntos (J01). El filtro de selección final (Selection Driver) fue la propuesta de valor única del proyecto, específicamente el club con piscina semiolímpica, un atributo aspiracional (J06). La necesidad de un hogar precede y origina la búsqueda, mientras que las amenidades determinan la elección específica.",
+        "debate_deal_breaker": "El club con piscina semiolímpica fue el 'deal-breaker' o factor decisivo para la selección del proyecto. Si el proyecto no tuviera esta característica, es muy probable que no lo hubieran elegido. Sin embargo, esto no anula el Job Dominante. Sin la necesidad fundamental de un hogar para empezar su vida en pareja (J01), la existencia de la piscina sería irrelevante. Habrían seguido buscando otra propiedad que cumpliera su Job principal.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "Ustedes son novios, ¿verdad? Sí. Novios de que se van a casar. Correcto, sí.",
+                    "como novios han comprado esta propiedad...",
+                    "¿Ustedes ya viven juntos? No, no vivimos juntos."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la pareja no necesitara un lugar para consolidar su vida juntos y empezar una familia, ¿comprarían una propiedad? No. La compra no tendría sentido. Este es el motor de origen."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "en particular a nosotros nos gusta bastante nadar, ir a la piscina.",
+                    "lo vimos viable porque ningún otro proyecto que nosotros habíamos visto tenía este concepto... acá es una piscina semiolímpica. Entonces, es una de las cosas que sí nos atrajo un montón.",
+                    "cuando nos hicieron el recorrido, general, de todo el proyecto, nos gustó un montón."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera el club y la piscina semiolímpica, ¿la pareja seguiría necesitando un lugar para vivir? Sí. Simplemente habrían elegido otro proyecto. El atributo es un filtro de selección, no el origen de la necesidad."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La decisión de compra se origina en una necesidad estructural de J01: la pareja busca consolidar su relación y establecer su primer hogar. Este es el 'Entry Driver' que los introduce al mercado. La elección final del proyecto WOW, sin embargo, es gobernada por criterios de J06, donde las amenidades aspiracionales (club y piscina) actúan como el filtro de selección decisivo. El Job Dominante es J01 porque explica el porqué de la compra, mientras que el J06 explica la elección del qué."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J01: Establecer estabilidad habitacional. La compra es un acto de consolidación de pareja para crear su primera base de vida.",
+    "justificacion": "La pareja entra al mercado inmobiliario porque su etapa de vida lo requiere: van a casarse y necesitan un hogar propio (J01). Este es el origen estructural de la demanda. Si bien la elección del proyecto WOW fue fuertemente impulsada por sus amenidades aspiracionales (J06), estos son criterios de selección. El test canónico lo confirma: sin la necesidad de un hogar, no comprarían. Sin las amenidades específicas, seguirían buscando un hogar. Por lo tanto, J01 es el driver dominante que explica por qué la compra ocurre."
+}

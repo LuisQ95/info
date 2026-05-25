@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente en etapa de jubilación, sin una necesidad de vivienda activa, invierte su capital previsional en un proyecto que lo cautiva por su propuesta de estilo de vida y amenities, tomando una decisión rápida y emocional.",
+    "historia_causal": {
+        "contexto_previo": "Cliente de 66 años, viviendo cómodamente con su esposa en un departamento propio en Surco. Estaba en el proceso de recibir sus fondos de jubilación (AFP) y no tenía una búsqueda activa de propiedades.",
+        "tension_acumulada": "La tensión era puramente financiera y latente: tener un capital significativo a punto de ser recibido, pero sin un plan de inversión activo, lo que representaba un costo de oportunidad.",
+        "bloqueadores": "La inercia y la falta de una necesidad o problema habitacional. El cliente estaba 'tranquilo' en su situación actual y no tenía ninguna presión para mudarse o invertir en bienes raíces.",
+        "eventos_habilitadores": "La recepción de los fondos de su jubilación le proporcionó el capital necesario. El factor clave fue que su hija, trabajando como agente inmobiliaria, le presentó el proyecto WOW, actuando como un canal de confianza y descubrimiento.",
+        "switching_trigger": "La visita al proyecto. El cliente se 'enamoró' inmediatamente del concepto general del condominio, especialmente de las áreas comunes (clubhouse, piscina, gimnasio, cancha de tenis), lo que transformó una posibilidad latente en una decisión de compra activa.",
+        "momento_de_decision": "La decisión fue extremadamente rápida y se basó en el atractivo del producto ('amor a primera vista'). No hubo un proceso de comparación con otros proyectos inmobiliarios; la elección fue directa y motivada por el deseo que generó el proyecto en sí."
+    },
+    "contexto_activador": {
+        "marco_general": "Un hombre entrando en la etapa de jubilación, con capital disponible para invertir y un estilo de vida que valora las actividades recreativas. Su conexión familiar con el sector inmobiliario (a través de su hija) lo expone a una oportunidad que encaja perfectamente con su perfil aspiracional, activando una compra no planificada."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar su patrimonio de jubilación a través de una inversión que no solo sea financieramente sólida, sino que también ofrezca un estilo de vida superior y disfrutable, con la flexibilidad de ser una fuente de ingresos o una futura vivienda familiar.",
+        "job_statement": "Cuando recibo el dinero de mi jubilación, quiero invertirlo en una propiedad con un concepto y áreas comunes excepcionales para poder disfrutar de un estilo de vida superior y, a la vez, proteger mi patrimonio.",
+        "job_dominante_narrativo": "El cliente busca materializar una visión de vida ideal para su jubilación. La compra no resuelve un problema, sino que cumple un deseo de vivir en un entorno que refleje estatus, comodidad y ocio, utilizando la inversión como vehículo para alcanzar esa aspiración.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El factor decisivo fue la propuesta de valor extrínseca al departamento: el clubhouse, la piscina temperada, el gimnasio y la cancha de tenis. El 'concepto' general del condominio fue lo que lo convenció.",
+        "firing_criteria": "No hubo un proceso de descarte activo, ya que no estaba buscando. Sin embargo, implícitamente, cualquier proyecto sin una fuerte propuesta de lifestyle y amenities habría sido irrelevante para él. Descartó proyectos terminados de la misma empresa por ser más caros.",
+        "trade_offs_reales": "Aceptó una ubicación distante, un largo tiempo de espera por ser un proyecto en planos y una alta incertidumbre y malestar post-venta debido a los retrasos en la construcción y la mala comunicación de la empresa.",
+        "factores_de_confianza": "La principal fuente de confianza inicial fue que su hija le presentó el proyecto. Sin embargo, esta confianza se ha visto severamente erosionada por la experiencia post-venta.",
+        "reduccion_de_riesgo": "El plan de pagos semestrales, ofrecido por ser uno de los primeros compradores, le dio flexibilidad financiera y redujo la presión inicial del desembolso total."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes fueron el principal activador: el clubhouse, la piscina, el gimnasio y la cancha de tenis. El concepto general del condominio como un espacio de recreación y estilo de vida.",
+        "atributos_secundarios": "La distribución del departamento (2 dormitorios + flex) fue considerada adecuada pero no decisiva. La ubicación en Surco era conocida para él, pero aceptó que fuera distante.",
+        "alternativas_descartadas": "Otras formas de inversión no inmobiliarias como la bolsa. No se evaluaron otros proyectos inmobiliarios de manera comparativa. La opción de 'no hacer nada' era la alternativa por defecto antes de conocer el proyecto."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy bajo. Describe la experiencia de espera como de 'incertidumbre' y 'constante malestar' debido a los retrasos y la falta de comunicación de la inmobiliaria.",
+        "reservas": "Tiene una profunda desconfianza en la empresa por los plazos incumplidos y la comunicación deficiente, al punto de que le resultaría difícil recomendar la compra de un proyecto en planos de la misma.",
+        "fricciones_pendientes": "La construcción del proyecto está significativamente retrasada. Ha tenido que firmar adendas para aplazar sus propios pagos y siente que su inversión está en el aire, sin un respaldo tangible y con falta de certezas sobre la entrega final."
+    },
+    "proyecto": "WOW"
+}

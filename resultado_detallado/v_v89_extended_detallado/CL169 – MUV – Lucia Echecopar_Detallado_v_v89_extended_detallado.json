@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente compra su primer departamento para independizarse de sus padres, eligiendo un proyecto que no solo cumple con sus requisitos funcionales de ubicación para optimizar su rutina, sino que también le atrae por el estilo de vida que ofrecen sus áreas comunes.",
+    "historia_causal": {
+        "contexto_previo": "La cliente vivía con sus padres en Surco, en un sistema de vida estable y con una rutina consolidada que giraba en torno a su familia en Surco y su trabajo en La Molina.",
+        "tension_acumulada": "Existía un deseo latente y creciente de independizarse y tener su propio espacio. Esta tensión se manifestaba como una curiosidad por los proyectos inmobiliarios que veía, aunque sin una búsqueda activa inicial.",
+        "bloqueadores": "El principal bloqueador era la incertidumbre sobre su capacidad financiera real para afrontar la compra de un inmueble. No había realizado un análisis detallado de su presupuesto ni de sus opciones de financiamiento.",
+        "eventos_habilitadores": "La búsqueda se activa cuando, por curiosidad, se detiene a preguntar en un proyecto y esto la lleva a analizar su situación financiera. Al confirmar que podía comprar, incluso con potencial ayuda familiar, la idea pasó de latente a activa.",
+        "switching_trigger": "El momento en que se da cuenta de que tiene la capacidad financiera para independizarse, transformando una curiosidad pasiva en una búsqueda activa y enfocada de su primer departamento.",
+        "momento_de_decision": "El proceso de decisión fue rápido y directo. Tras evaluar pocas opciones y descartar varias por seguridad, ubicación o ruido, encontró en MUV una combinación de ubicación conveniente, áreas comunes atractivas y una buena oferta económica, lo que la llevó a cerrar la compra rápidamente."
+    },
+    "contexto_activador": {
+        "marco_general": "Una joven profesional que vive con sus padres en Surco y trabaja en La Molina. Su sistema de vida está fuertemente anclado a esta geografía, lo que crea una restricción logística clave. La decisión de compra se activa en el momento en que confirma que posee la capacidad financiera para dar el paso hacia la independencia, buscando una solución que no rompa drásticamente con su red de vida actual."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la independencia habitacional estableciendo una primera base propia, en un entorno que sea funcional para su rutina diaria y le permita mantener su estilo de vida.",
+        "job_statement": "Cuando estoy lista para independizarme de casa de mis padres, quiero encontrar un primer departamento propio que me permita establecer mi propia base de vida, en una ubicación que optimice mis traslados diarios y me ofrezca comodidades para mi estilo de vida.",
+        "job_dominante_narrativo": "La cliente está intentando establecer su primera base de vida independiente para dejar de vivir con sus padres y tener su propio espacio personal.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación que la acercaba a su trabajo en La Molina ('me ahorraba un par de semáforos feos'), el clubhouse con piscina y canchas de tenis, la percepción de seguridad del condominio y el valor económico (mantenimiento más barato que un gimnasio).",
+        "firing_criteria": "Ubicaciones inseguras ('alguien me iba a asesinar'), zonas con mucho ruido de tráfico ('escuchar ese tráfico todas las noches'), proyectos fuera de su presupuesto y zonas percibidas como 'feas' o con malos accesos.",
+        "trade_offs_reales": "Aceptó un departamento pequeño (49m²), sin posibilidad de instalar aire acondicionado (un problema que la 'molesta'), y tuvo que soportar un pésimo servicio post-venta y demoras significativas en la conexión de gas y en el proceso de independización.",
+        "factores_de_confianza": "El hecho de que su padre conociera a alguien del proyecto fue un 'plus extra' pero no decisivo. La confianza principal provino de la solidez del producto tangible y una rebaja importante en el precio.",
+        "reduccion_de_riesgo": "Comprar un proyecto prácticamente terminado que pudo visitar físicamente, lo que eliminó la incertidumbre de comprar en planos. Además, obtener un descuento significativo ('me hicieron una rebaja importante') le dio seguridad de estar haciendo un buen negocio."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica entre Surco y La Molina, el clubhouse como propuesta de estilo de vida (piscina, tenis), y la seguridad de un condominio cerrado. La condición de ser 'pet friendly' era un requisito no negociable para el futuro.",
+        "atributos_secundarios": "La distribución del departamento era cómoda, pero no un factor decisivo. El gimnasio no fue relevante para ella. La puerta 'inteligente' fue un detalle menor.",
+        "alternativas_descartadas": "Un departamento de reventa en el mismo Magna Haus (no le gustó la distribución), un primer piso con rejas inseguras, un departamento en un cerro en una zona 'fea', y otro en Chacarilla con mucho ruido y fuera de presupuesto."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Diferenciado: Califica el proyecto/condominio con un 7/10 por su funcionalidad y estilo de vida, pero a la inmobiliaria con un 4/10 debido a una gestión post-venta desastrosa, desordenada y con nula comunicación.",
+        "reservas": "El ruido constante del Club Árabe Palestino los fines de semana, la escasez de estacionamientos de visita y la existencia de amenities que considera un 'espacio desperdiciado' como las canchas de squash.",
+        "fricciones_pendientes": "La principal fricción es la mala gestión y falta de comunicación de la inmobiliaria en el proceso de independización, lo cual le impidió votar en la junta de propietarios. También, la imposibilidad de instalar aire acondicionado y los errores en el contrato de compra-venta."
+    },
+    "proyecto": "MUV"
+}

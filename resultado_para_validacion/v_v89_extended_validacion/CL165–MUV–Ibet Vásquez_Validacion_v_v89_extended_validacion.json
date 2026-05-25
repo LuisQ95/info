@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El debate se centra en si el gatillo de compra fue la búsqueda de un mejor entorno (J03) o la necesidad de facilitar los estudios del hermano (J04). La evidencia textual, 'Era más importante que esté cerca de su universidad', confirma que la necesidad familiar (J04) fue el 'Entry Driver' que activó la búsqueda. La mejora del entorno (seguridad, tranquilidad) funcionó como un criterio de selección clave, pero no fue el origen de la decisión de mudarse de una casa propia.",
+        "debate_deal_breaker": "El test canónico es decisivo: ¿Sin el hermano estudiando en la UPC, la familia habría vendido o alquilado su casa propia en Chorrillos para mudarse a Surco? La respuesta es no. La operación se justifica y subordina completamente a la necesidad de dar soporte a un miembro de la familia. La compra no es autónoma, sino una decisión del 'sistema familiar', lo que anula a J03 como dominante y confirma a J04.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "queríamos hacer un cambio... y también para que mi hermano estudie, porque estudia cerca, en la UPC.",
+                    "Era más importante que esté cerca de su universidad.",
+                    "Sí, sí o sí tenía que ser tres. Un cuarto para cada uno, para mayor privacidad."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Negativo. Sin la necesidad de estar cerca de la universidad del hermano, la familia no se habría mudado de su casa propia en Chorrillos. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "queríamos hacer un cambio a a una zona más bonita, más tranquila para nosotros",
+                    "Eh, mayor seguridad, más que todo."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Positivo. Aunque la seguridad y tranquilidad eran importantes, la compra habría ocurrido en otra zona si la universidad del hermano estuviera allí. El factor 'optimización' no era el motor principal, sino una condición deseada para la solución."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "Se determina que el Job Dominante es J04: Acompañar el crecimiento familiar (Subtipo: Soporte Familiar). La decisión de compra es una reorganización completa del sistema familiar para facilitar la etapa educativa de uno de sus miembros (el hermano). La búsqueda de seguridad y tranquilidad (J03) es un poderoso Job Secundario que califica la elección final, pero no origina la transacción."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y consistente. El Job Dominante (J04) está fuertemente respaldado por evidencia textual explícita, donde la necesidad de apoyar al hermano en su etapa universitaria se declara como el factor 'más importante'. El análisis de la compra no autónoma y la dinámica del 'sistema familiar' confirman el diagnóstico con alta certeza."
+}

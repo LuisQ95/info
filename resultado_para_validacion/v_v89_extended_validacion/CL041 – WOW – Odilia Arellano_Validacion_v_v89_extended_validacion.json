@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de invertir un capital disponible, siguiendo la compra previa de un local comercial. La clienta busca rentabilizar su dinero. Los criterios de selección (Selection Drivers) son las necesidades familiares futuras: un espacio para el hijo, la posibilidad de mudarse todos, y áreas comunes para los nietos. La familia define QUÉ comprar, pero la inversión define POR QUÉ comprar.",
+        "debate_deal_breaker": "La compra se origina en la búsqueda de una inversión. El esposo lo confirma: 'quisimos comprar como para, para inversión. Y, y, a futuro, mudarnos para allá'. La funcionalidad familiar es una condición de flexibilidad deseada para el activo, no el motor original. Sin el capital disponible y la intención de invertirlo, la compra no se habría iniciado, aunque la necesidad familiar ya existiera de forma latente. La inversión es el deal-breaker.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "quisimos comprar como para, para inversión.",
+                    "Y, y, a futuro, mudarnos para allá",
+                    "Si yo no vendo mi casa porque está en venta, yo lo podría alquilar y no, yo no lo veo ahí este mal inversión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuvieran el capital disponible buscando rentabilidad, ¿habrían entrado al mercado a comprar un departamento en este momento? No, la compra es una consecuencia directa de la estrategia de inversión que ya habían iniciado con el local comercial."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Para el departamento, pensamos un principio para mi hijo.",
+                    "vamos a ir a vivir porque queremos... Ya está en venta la casa.",
+                    "tengo nietos que tengo dos nietecitos que sea pensando en ellos que quizás en algún momento, un fin de semana, viene y me visitan"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no hubiera tenido 3 dormitorios o áreas para niños, ¿lo habrían comprado como inversión pura? Probablemente no. La adecuación familiar fue el filtro clave para ELEGIR esta inversión sobre otras, pero no fue la razón para empezar a buscar."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El Job Dominante es J02. La compra es una decisión patrimonial para rentabilizar un capital. El J04 actúa como un poderoso Job Secundario que define los criterios de selección, exigiendo que el activo de inversión sea además un hogar familiar viable a futuro. Esta dualidad (inversión + hogar) es lo que hace que la propuesta de WOW sea la ganadora."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista reconstruye con claridad la historia causal, desde el origen de la necesidad (invertir capital) hasta la lógica de elección (adecuación familiar). Expone un caso claro de J02 (Entry Driver) modulado por un J04 (Selection Driver). Además, ofrece evidencia crítica sobre las graves fallas en la experiencia post-venta, que están destruyendo la confianza del cliente."
+}

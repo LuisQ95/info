@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente compra su primera propiedad para establecer una base de vida estable, proyectando su futuro familiar. La elección del proyecto está fuertemente influenciada por la seguridad del condominio y una conexión emocional de larga data.",
+    "historia_causal": {
+        "contexto_previo": "Profesional joven que regresa a Perú tras estudiar en el extranjero. Vive alquilado y sin urgencia de mudanza, pero con una conexión emocional previa con el proyecto desde sus años de estudiante.",
+        "tension_acumulada": "Deseo latente de establecerse, dejar de alquilar y construir una base para su futuro, que incluye planes de matrimonio y familia. Busca un entorno que le ofrezca seguridad y estabilidad a largo plazo.",
+        "bloqueadores": "Inicialmente no tenía apuro y esperaba una mejor oportunidad dentro del mismo proyecto, descartando las unidades de la segunda etapa. La pandemia también limitó las visitas físicas.",
+        "eventos_habilitadores": "La inmobiliaria lo contacta para la preventa de la tercera etapa. La posibilidad de un tour virtual y un descuento significativo ofrecido para compensar demoras y el alza de la tasa de interés, habilitaron la decisión financiera.",
+        "switching_trigger": "El contacto proactivo de la inmobiliaria en mayo de 2020 ofreciendo la preventa de la tercera etapa, que encajaba con su plan de vida a mediano plazo.",
+        "momento_de_decision": "La decisión se toma en dos fases: una inicial, solo, basada en la proyección y la conexión emocional. Y una segunda 'aceptación' con su pareja para continuar con la compra a pesar de las demoras, validando la elección."
+    },
+    "contexto_activador": {
+        "marco_general": "Un profesional que está en una fase de transición vital clave: de regresar al país y vivir solo a consolidar una pareja y planificar una familia. Su sistema de vida está cambiando de uno transitorio (alquiler) a uno permanente y proyectado, donde la seguridad y la estabilidad son las condiciones estructurales que activan la compra."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un patrimonio y un hogar estable que sirva como base para construir mi vida y mi futura familia en un entorno seguro y controlado.",
+        "job_statement": "Cuando regreso al país y comienzo a planificar mi futuro a largo plazo, quiero comprar mi primera propiedad en un lugar seguro para establecer una base de vida estable que me dé tranquilidad y se adapte a mi futura familia.",
+        "job_dominante_narrativo": "El cliente está intentando establecer una base habitacional propia y definitiva tras un período de transitoriedad, para asegurar un futuro estable y seguro para él y su futura familia.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La seguridad de un condominio cerrado, los parques internos, y la conexión emocional preexistente con el proyecto. La proyección de tener hijos hizo que estas características fueran decisivas.",
+        "firing_criteria": "Proyectos 'puerta de calle' que no ofrecían la misma sensación de seguridad y entorno controlado. Descartó opciones que no fueran un condominio con estas características.",
+        "trade_offs_reales": "Aceptó un retraso de dos años en la entrega, un aumento en la tasa hipotecaria (mitigado por un descuento), y acabados de menor calidad a los esperados. También aceptó la no habilitación de amenities prometidas como la zona de canes y la lavandería.",
+        "factores_de_confianza": "La conexión emocional de largo plazo con el proyecto. A pesar de los problemas, el acuerdo del descuento de S/50,000 le dio la confianza para seguir adelante.",
+        "reduccion_de_riesgo": "El descuento financiero redujo el riesgo del aumento de la tasa de interés. La decisión de continuar con su pareja (segundo momento de aceptación) validó la compra y redujo la incertidumbre emocional."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de condominio cerrado con seguridad y parques privados. El clubhouse y las áreas comunes. La tipología de 2 dormitorios que se ajustaba a su proyección familiar inicial.",
+        "atributos_secundarios": "La calidad de los acabados, que resultó ser menor a la esperada. Amenities como la zona de canes o la lavandería, que fueron prometidas pero no entregadas, demostrando no ser críticas para la decisión final.",
+        "alternativas_descartadas": "Proyectos en Surquillo, Miraflores o San Isidro que eran 'puerta de calle' y no cumplían con el criterio fundamental de ser un condominio cerrado y seguro."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Satisfecho con la decisión de vivir allí ('me gusta vivir acá'), pero muy insatisfecho con la gestión post-venta, la calidad de los acabados y las promesas incumplidas. Lo recomendaría 'con advertencias'.",
+        "reservas": "La inmobiliaria tiene problemas reputacionales, de comunicación y de calidad. Da la impresión de falta de liquidez y de priorizar costos sobre calidad.",
+        "fricciones_pendientes": "Problemas estructurales con acabados (moho en balcones), infraestructura (desagüe no conectado a red pública), y gestión de áreas comunes (coworking sin sillas, parrillas no habilitadas inicialmente)."
+    },
+    "proyecto": "MUV"
+}

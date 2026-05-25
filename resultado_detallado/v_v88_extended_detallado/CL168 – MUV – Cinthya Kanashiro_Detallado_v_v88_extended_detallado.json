@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Padres residentes en Cusco compran un departamento para dar soporte, seguridad y conveniencia a su hijo que se muda a Lima para estudiar en la universidad. La decisión es una compra no autónoma, totalmente subordinada a las necesidades del hijo.",
+    "historia_causal": {
+        "contexto_previo": "La familia tiene su residencia principal en Cusco. Su hijo mayor se traslada a Lima para cursar sus estudios universitarios en la UPC, para lo cual vivía en un departamento alquilado.",
+        "tension_acumulada": "Los padres sentían una constante preocupación por la seguridad de su hijo al vivir solo en una ciudad grande y tener que movilizarse. Adicionalmente, existía la frustración por las limitaciones de un alquiler, como la imposibilidad de personalizar el espacio, lo que generó el deseo de 'buscar algo propio'.",
+        "bloqueadores": "La principal barrera era la distancia física y la falta de una opción concreta que cumpliera con sus estrictos requisitos. La búsqueda no era activa hasta que se presentó una solución ideal.",
+        "eventos_habilitadores": "El inicio de la etapa universitaria del hijo en Lima fue el evento que creó la necesidad. La familia contaba con la capacidad económica para realizar la inversión, lo que les permitió considerar la compra como una alternativa viable al alquiler continuo.",
+        "switching_trigger": "El hijo, en su trayecto diario a la universidad, pasa por el proyecto MUV, ve la publicidad y, movido por la curiosidad, entra a conocerlo. Este acto transforma una necesidad latente en una búsqueda activa y concreta.",
+        "momento_de_decision": "El hijo queda 'encantado' con las instalaciones y convence a su padre, que estaba de visita en Lima, para que lo conozca. El padre comparte el entusiasmo y juntos deciden la compra. La madre, desde Cusco, acepta la decisión de ambos, confiando en su criterio sin haber visitado el proyecto."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia con base en provincia (Cusco) cuyos hijos están llegando a la edad universitaria, lo que implica una necesaria migración a la capital (Lima) para su formación. Sus decisiones están gobernadas por un fuerte sentido de protección parental, donde la seguridad y la logística de los hijos son las máximas prioridades, por encima de consideraciones de costo o inversión pura."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un entorno seguro, estable y conveniente para su hijo durante su formación universitaria, aliviando la ansiedad de los padres sobre su bienestar y, al mismo tiempo, consolidar un patrimonio familiar en Lima que pueda ser utilizado por sus otros hijos en el futuro.",
+        "job_statement": "Cuando mi hijo se va a estudiar a otra ciudad, quiero comprarle un departamento propio cerca de su universidad para asegurar su bienestar y mi tranquilidad.",
+        "job_dominante_narrativo": "La misión principal es dar soporte a un miembro de la familia en una transición vital clave (la universidad). Esto se materializa en la creación de un 'hub' familiar en Lima que minimice los riesgos y fricciones para el hijo (movilidad, exposición) y maximice su enfoque en los estudios, funcionando como un acto de provisión y cuidado a distancia.",
+        "job_dominante_canonico": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_canonico": "J01 - Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La proximidad a la universidad UPC era el criterio fundamental y no negociable. La seguridad de un condominio cerrado era el segundo factor más importante. Las áreas comunes (piscina, gimnasio) fueron un plus decisivo que encantó al hijo y al padre.",
+        "firing_criteria": "Cualquier proyecto ubicado en otro distrito o que implicara un desplazamiento significativo para el hijo habría sido descartado de inmediato. La falta de un entorno seguro era un eliminador automático.",
+        "trade_offs_reales": "Aceptaron graves deficiencias en el servicio postventa: un año de retraso en la entrega, la venta de su estacionamiento a otra persona y problemas con los acabados. Toleraron estas fricciones porque la solución cumplía perfectamente con el Job principal de ubicación y seguridad.",
+        "factores_de_confianza": "La confianza se basó enteramente en el fuerte convencimiento del hijo y del esposo. La madre delegó la decisión en ellos, confiando en su juicio y entusiasmo por el proyecto.",
+        "reduccion_de_riesgo": "La seguridad intrínseca del condominio cerrado fue el principal mitigador de riesgo. El hecho de que el hijo viera el proyecto todos los días le daba una sensación de tangibilidad y cercanía."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica a pasos de la universidad. El concepto de condominio cerrado que garantizaba la seguridad. Las áreas comunes que conectaron con el estilo de vida deseado para el hijo.",
+        "atributos_secundarios": "La tipología exacta del departamento (2 dormitorios) fue una elección funcional pero no el driver principal. La marca de la inmobiliaria no fue un factor mencionado en la decisión.",
+        "alternativas_descartadas": "La alternativa principal era continuar alquilando, la cual fue descartada por sus limitaciones y la falta de seguridad percibida. Otros proyectos en zonas más lejanas fueron implícitamente descartados al no cumplir con el criterio de proximidad."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (8/10). A pesar de los problemas de postventa, el producto cumple su función principal a la perfección: a los hijos les gusta, es seguro y está bien ubicado. La satisfacción del usuario final (los hijos) prevalece.",
+        "reservas": "Gran insatisfacción con la gestión de la inmobiliaria, particularmente el retraso de un año en la entrega, la desorganización con el estacionamiento y la falta de comunicación y compensación prometida.",
+        "fricciones_pendientes": "El departamento está actualmente desocupado, y la familia está en proceso de decidir si lo alquilará. El trámite de independización y titulación aún no ha concluido."
+    },
+    "proyecto": "MUV"
+}

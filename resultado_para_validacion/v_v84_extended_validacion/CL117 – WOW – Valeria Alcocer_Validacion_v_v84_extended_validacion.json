@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo de Entrada (Entry Driver) es la combinación de la intención de inversión de la madre y la tasa de interés preferencial de la hija como empleada de banco. Es una decisión de origen puramente financiero. El Filtro de Selección (Selection Driver) son las espectaculares áreas comunes del proyecto (piscina, cine) y la percepción de valor ('ganga'), que generaron un fuerte apego emocional y definieron la elección del proyecto específico.",
+        "debate_deal_breaker": "El verdadero innegociable es la oportunidad financiera. Sin la tasa preferencial de la hija y el capital de la madre, la compra no se habría iniciado. A nivel de producto, un 'deal-breaker' funcional era la distribución (el baño no podía estar dentro del único cuarto). Sin embargo, el 'deal-maker' emocional fue la piscina, que transformó una búsqueda de inversión en una compra aspiracional y duplicó la operación (compraron dos departamentos).",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "en realidad yo no tenía planificado un hipotecario, pero mi mamá sí tenía planificado sacar un hipotecario adicional",
+                    "en realidad fue para darle el beneficio de mi taza, pero al final salimos las dos porque nos encantó",
+                    "cuando entreguen el inmueble y me pase a vivir ahí, yo el departamento donde estoy lo voy a alquilar. Entonces, al final, se va a pagar solito el hipotecario"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la clienta no tuviera su tasa preferencial y su madre no quisiera invertir, ¿habría comprado? No. La compra no habría ocurrido. El Job es el origen."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "solamente mira la piscina y vas a decir yo quiero esto",
+                    "La piscina fue lo que más me encantó",
+                    "yo vi la piscina y dije, y mi amiga me dice así, que me he levantado a las cinco de la mañana y estaba andando en mi piscina."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera esa piscina, ¿habría buscado otra opción de inversión con su madre? Sí. La búsqueda ya estaba activa (habían visto otro proyecto en Surquillo). El Job no depende de este producto específico."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra se origina estrictamente por una motivación financiera y de optimización patrimonial (J02). La clienta entra al mercado para capitalizar su tasa de interés preferencial en conjunto con la intención de inversión de su madre. Las características aspiracionales del proyecto (J06) actúan como un potente criterio de selección que sella el trato y modifica el plan de uso (de alquilar a vivir temporalmente), pero no constituyen el motivo original de la transacción."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J02: Proteger y flexibilizar el patrimonio.",
+    "justificacion": "La decisión de compra se origina inequívocamente en una lógica de inversión y optimización financiera. La clienta no tenía necesidad de vivienda, y el proceso se inicia por el plan de su madre de adquirir un activo. La tasa preferencial de la clienta es el habilitador clave. Las características del producto (J06) son un poderoso criterio de selección que explican por qué se eligió 'WOW' sobre otras opciones, pero no explican por qué se entró al mercado en primer lugar. El test canónico lo confirma: sin la oportunidad financiera, la compra no habría sucedido."
+}

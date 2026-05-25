@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Padres residentes en Tacna deciden comprar un departamento en Lima para su hija, quien se mudó para estudiar en la UPC. La decisión se activa al tener capital disponible de una venta y experimentar positivamente la seguridad y conveniencia del complejo donde ya alquilaban, transformando un gasto recurrente en una inversión patrimonial.",
+    "historia_causal": {
+        "contexto_previo": "La familia reside en Tacna. Su hija se muda a Lima para estudiar medicina en la UPC, por lo que le alquilan un departamento en el complejo Magna House, cerca de la universidad.",
+        "tension_acumulada": "Existía una preocupación constante por la seguridad de la hija viviendo sola en una ciudad grande, junto con la conciencia de que el pago del alquiler era un gasto sin retorno. Adicionalmente, disponían de un capital producto de la venta de terrenos que no estaba siendo invertido.",
+        "bloqueadores": "Inicialmente, el plan era solo alquilar, no había una búsqueda activa de compra. Las opciones de entrega inmediata en el proyecto MUV no les convencían por la ubicación (pisos muy altos o cerca de la ruidosa cancha de tenis).",
+        "eventos_habilitadores": "La experiencia positiva con la seguridad, limpieza y personal del complejo Magna House donde alquilaban. La disponibilidad de liquidez por la venta de terrenos de la esposa. El descubrimiento de que se construiría un nuevo proyecto (WOW) en el mismo lugar.",
+        "switching_trigger": "La combinación de estar muy satisfechos con el complejo donde alquilaban y tener el capital disponible los llevó a considerar la compra como una oportunidad para dejar de alquilar y asegurar un activo para su hija.",
+        "momento_de_decision": "El proceso fue rápido. Al estar ya familiarizados y contentos con el lugar, la decisión de comprar en WOW se tomó casi en paralelo a la firma del alquiler. Optaron por comprar en planos para poder elegir una unidad específica que cumpliera sus requisitos (piso bajo, no ruidoso)."
+    },
+    "contexto_activador": {
+        "marco_general": "Son padres de familia que viven en provincia (Tacna) y deben proveer y garantizar la seguridad y bienestar de su hija que se ha mudado a la capital para realizar sus estudios universitarios. Toman decisiones de forma planificada y con una lógica de protección patrimonial."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr total tranquilidad sobre la seguridad y comodidad de su hija en Lima, mientras transforman un gasto fijo (alquiler) en una inversión patrimonial inteligente y a largo plazo.",
+        "job_statement": "Cuando mi hija se muda a otra ciudad para estudiar, quiero comprarle un departamento en un lugar seguro y conveniente para garantizar su bienestar y, a la vez, invertir nuestro capital de forma productiva.",
+        "job_dominante_narrativo": "La misión es reorganizar los recursos familiares para dar soporte a la etapa universitaria de su hija, asegurando un entorno seguro y funcional para ella mientras está lejos de casa.",
+        "job_dominante_canonico": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_canonico": "J02 - Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La seguridad del condominio cerrado fue el factor principal. La ubicación estratégica, a minutos de la UPC, era crucial. La calidad del mantenimiento, la limpieza y la amabilidad del personal del complejo existente les dio muchísima confianza. La tipología de 2 dormitorios + flex era ideal para la hija y para las visitas de los padres.",
+        "firing_criteria": "Descartaron opciones en pisos muy altos por preferencia personal. Rechazaron unidades con vista o cercanía a la cancha de tenis por el ruido, una experiencia que vivieron directamente. Proyectos en otros distritos fueron descartados por no ofrecer el mismo nivel de seguridad y cercanía a la universidad.",
+        "trade_offs_reales": "Aceptaron comprar en planos y enfrentar la incertidumbre y los retrasos en la entrega, lo que implicó gastos no previstos al tener que extender el contrato de alquiler. Sacrificaron la inmediatez por la posibilidad de elegir la ubicación exacta del departamento.",
+        "factores_de_confianza": "La experiencia vivida como inquilinos en el complejo adyacente (Magna House) fue el mayor factor de confianza. El buen trato del vendedor inicial (Jorge) también ayudó a animarlos a comprar.",
+        "reduccion_de_riesgo": "Conocían el producto 'en vivo' al vivir en el mismo condominio, lo que redujo el riesgo percibido sobre la calidad de la administración y la seguridad. La compra en planos, aunque riesgosa en tiempo, les permitió controlar el riesgo de ubicación (evitar ruido, piso alto)."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Seguridad 24/7, condominio cerrado, proximidad a la UPC, limpieza y orden de las áreas comunes, amabilidad del personal, edificio de baja altura (8 pisos).",
+        "atributos_secundarios": "La presencia de un balcón fue valorada para 'poner plantitas', pero no fue decisiva. La cochera y el depósito fueron comprados pero no eran el driver principal.",
+        "alternativas_descartadas": "Departamentos de entrega inmediata en MUV (mismo complejo) por estar en pisos muy altos o cerca de la cancha de tenis. Proyectos en El Derby (B&B) y otros distritos como Miraflores o Jesús María, descartados por no tener la combinación de seguridad y cercanía a la UPC."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Califican con un 7/10. Estarían en 10 si no fuera por los retrasos en la entrega.",
+        "reservas": "La principal reserva es la frustración y molestia por los constantes retrasos en el inicio de la construcción y la falta de comunicación proactiva de la inmobiliaria.",
+        "fricciones_pendientes": "La incertidumbre sobre la fecha de entrega final, lo que les obliga a gestionar la extensión de su contrato de alquiler actual, generando gastos adicionales y angustia. La mala experiencia con el personal de post-venta ha dañado la confianza."
+    },
+    "proyecto": "WOW"
+}

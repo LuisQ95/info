@@ -1,0 +1,39 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de invertir un capital disponible para generar rentabilidad (J02). El cliente busca un activo que se pague solo. Los criterios de selección (Filtro) son aspiracionales: un proyecto de baja densidad, con excelentes áreas comunes y tranquilidad, que sirva como un futuro hogar ideal (J06).",
+        "debate_deal_breaker": "El factor innegociable es el potencial de inversión. Si el proyecto no estuviera ubicado estratégicamente cerca de universidades para garantizar una alta demanda de alquiler, la compra no se habría realizado. Las características de estilo de vida, aunque muy importantes para la selección, no habrían justificado la inversión por sí solas.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Lo compré como inversión, con inicio.",
+                    "la vivienda o el inmueble que iba a adquirir tenía que tener estas dos perspectivas. Una de inversión a corto plazo.",
+                    "conocía muy bien el negocio, el lugar, la perspectiva de ese sitio",
+                    "siempre se va a requerir, pues, el alquiler a estudiantes de este inmueble, ¿no?",
+                    "decidí por wow, que estaba más que nada por el precio."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin el potencial de rentabilidad por la cercanía a universidades, la compra no se habría realizado. Era el requisito fundamental para que la inversión tuviera sentido."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "si yo quisiera tener un hijo... Yo quisiera que viva acá, que tenga toda esta experiencia",
+                    "Es como un mini condominio, un mini club dentro.",
+                    "la tranquilidad y este cero contacto con el exterior... te da una tranquilidad y paz",
+                    "eran las seis de la tarde, aproximadamente. Y la vista era preciosa, ¿no?"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, probablemente habría comprado un proyecto con el mismo potencial de inversión pero menos lujos, aunque con menor entusiasmo. La inversión era la prioridad; el estilo de vida fue el factor que lo enamoró de esta opción en particular."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra es originada inequívocamente por una lógica de inversión (J02): poner a trabajar un capital disponible. Sin embargo, la elección del producto específico fue fuertemente determinada por criterios aspiracionales (J06), al visualizarlo como un futuro hogar ideal para él y su familia. J02 explica el 'porqué comprar ahora', mientras que J06 explica el 'porqué elegir este'."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista es rica en detalles causales y revela claramente la secuencia de pensamiento del cliente. Se puede identificar sin ambigüedad el gatillo de la compra (inversión de capital), los criterios de selección (ubicación, baja densidad, amenities) y los trade-offs realizados. La narrativa es coherente y permite reconstruir la historia de la decisión con alta fidelidad."
+}

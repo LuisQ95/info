@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es claramente la necesidad de independizarse y establecer una base habitacional propia, lo que corresponde a J01. Los filtros de selección (Selection Drivers) fueron la optimización de su rutina diaria (ubicación cerca de trabajo y familia, J03) y el estilo de vida ofrecido por las áreas comunes (J06). El J01 explica por qué compró, mientras que el J03 y J06 explican por qué eligió MUV.",
+        "debate_deal_breaker": "El factor innegociable era la ubicación. La compra debía realizarse dentro de su ecosistema geográfico (Surco-La Molina) para no romper su sistema de vida. Opciones fuera de esta zona fueron descartadas de inmediato. Adicionalmente, que el condominio permitiera mascotas era un requisito no negociable para su futuro.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "ya me quería independizar",
+                    "no es, digamos, el departamento en el que quiero vivir toda mi vida",
+                    "el primer espacio en el que voy a vivir sola"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin la necesidad de independizarse de casa de sus padres, la compra no se habría realizado. Es el origen fundamental de la búsqueda."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "nada de mi vida del día a día se mueve fuera de Surco, La Molina",
+                    "me acercaba incluso más hacia La Molina, como me ahorraba un par de semáforos feos",
+                    "no me quería mudar más lejos porque la verdad es que no había manera de que aguante el tráfico al trabajo"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, compraría para independizarse, pero no en este proyecto. La optimización de la ubicación fue el filtro decisivo para elegir MUV sobre otras opciones."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La compra es un caso claro de J01 (Primera Independencia), donde el motor principal es el hito de salir de casa de sus padres y establecer una base propia. Este Job explica por qué entró al mercado. El J03 (Optimizar vida cotidiana) actúa como el principal criterio de selección, restringiendo la búsqueda a una zona geográfica específica para no generar fricción en su rutina. Las amenidades (J06) fueron un potente atributo de cierre, pero no el origen de la demanda."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye con alta fidelidad la historia causal de la compra. Se identifica un Job Dominante claro (J01) como gatillo de entrada y un Job Secundario (J03) como filtro de selección principal, ambos respaldados por evidencia textual explícita. La narrativa es coherente y rica en detalles sobre la lógica de elección, los trade-offs y la experiencia post-compra."
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es claramente la necesidad de independizarse y establecer una base habitacional propia, un hito de vida. Los filtros de selección (Selection Drivers) son los factores de optimización: la ubicación para reducir el tráfico hacia su trabajo y estar cerca de su familia, y las amenidades del clubhouse que ofrecen un estilo de vida superior a un costo razonable. La compra se origina en la necesidad de una base (J01), pero la elección del producto se define por la optimización de la vida diaria (J03).",
+        "debate_deal_breaker": "El innegociable es la independencia misma. Sin la necesidad de salir de casa de sus padres, la compra no habría ocurrido. Secundariamente, la ubicación en el eje Surco-La Molina era una restricción dura; no consideraría opciones que rompieran su sistema de vida. Finalmente, que el lugar permita mascotas es un 'no negociable' explícito, un criterio funcional clave para su estilo de vida.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "ya me quería independizar",
+                    "creo que sí tengo, digamos, la la situación financiera para independizarme",
+                    "no es, digamos, el departamento en el que quiero vivir toda mi vida"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuviera la necesidad de independizarse, no habría entrado al mercado a comprar. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "me acercaba incluso más hacia La Molina, como me ahorraba un par de semáforos feos",
+                    "el mantenimiento es más barato que pagar un gimnasio",
+                    "nada de mi vida del día a día se mueve fuera de Surco, La Molina"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no optimizara su logística, habría comprado otro para independizarse. La compra de 'algo' sí ocurriría, pero no de este producto."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La cliente entra al mercado para resolver una necesidad estructural: su primera independencia (J01). Esta es la causa raíz de la transacción. Sin embargo, la elección final del proyecto MUV está completamente gobernada por criterios de optimización funcional y de estilo de vida (J03), como la reducción del tiempo de traslado y el acceso a amenidades. Por lo tanto, J01 es el Job Dominante que explica el 'porqué' de la compra, y J03 es el Job Secundario que explica el 'cuál'."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de manera clara y coherente la historia causal de la compra. Se establece con precisión el Job Dominante (J01 - Independencia) como el motor de entrada al mercado y se diferencia nítidamente de los criterios de selección (J03 - Optimización), que explican la elección del producto específico. La narrativa es rica en detalles sobre alternativas descartadas, trade-offs y fricciones post-compra, lo que valida la profundidad del análisis."
+}

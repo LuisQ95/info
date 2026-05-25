@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Familia que vive de alquiler decide comprar una propiedad para resolver una serie de necesidades funcionales y logísticas del grupo: la proximidad a la universidad para los hijos mayores, la accesibilidad en primer piso para el padre y un entorno seguro con áreas de esparcimiento para los hijos menores.",
+    "historia_causal": {
+        "contexto_previo": "La familia, compuesta por los padres, la hija mayor (Dayana) y hermanos menores, vivía en una casa alquilada en Ate. Tenían capital ahorrado y disponible para invertir en una propiedad.",
+        "tension_acumulada": "Existía un deseo latente de dejar de alquilar para tener 'algo propio', buscando principalmente mayor seguridad y estabilidad. Además, la dinámica familiar estaba cambiando con los hijos mayores iniciando la universidad, lo que generaba una necesidad de optimizar la ubicación.",
+        "bloqueadores": "El principal bloqueador era la inercia de su situación de alquiler. No había una urgencia extrema que los forzara a moverse hasta que se combinaron varios factores.",
+        "eventos_habilitadores": "La decisión fue habilitada por la confluencia de tres factores clave: la disponibilidad de capital ahorrado, el inicio de la etapa universitaria de los hermanos que requería una mejor ubicación, y el acceso de Dayana a una tasa de interés preferencial a través de su trabajo.",
+        "switching_trigger": "La visita a una feria inmobiliaria (Expourbania/Nexo) fue el detonante que transformó la intención latente en una búsqueda activa y concreta de proyectos.",
+        "momento_de_decision": "El proceso fue rápido. Visitaron la feria, compararon pocas opciones y se decidieron por WOW tras una visita al showroom. La elección fue reforzada por las buenas referencias de la constructora y las condiciones comerciales favorables (precio de preventa, desembolso postergado)."
+    },
+    "contexto_activador": {
+        "marco_general": "El contexto es el de un sistema familiar en transición. La estructura de vida actual se ve desafiada por el crecimiento de los hijos (etapa universitaria) y las necesidades de salud de los padres (movilidad reducida del padre). La compra se activa cuando el capital está disponible para resolver esta desalineación estructural."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una base habitacional propia, segura y estable que funcione como un sistema de soporte para todos los miembros de la familia, facilitando sus rutinas diarias, garantizando su comodidad y bienestar a largo plazo.",
+        "job_statement": "Cuando nuestra vivienda actual ya no se ajusta a las necesidades de todos, quiero encontrar un departamento propio en un condominio seguro y bien ubicado, para facilitar la vida universitaria de mis hermanos y garantizar la comodidad y accesibilidad de mis padres.",
+        "job_dominante_narrativo": "La familia está intentando reconfigurar su hogar para que se adapte a las nuevas etapas de vida de sus miembros. La compra no es para un individuo, sino para el 'sistema familiar', buscando resolver problemas de logística (universidad), accesibilidad (salud del padre) y esparcimiento (hermanos menores).",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J01 - Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Los criterios decisivos fueron: la ubicación cercana a universidades, la disponibilidad de un departamento en primer piso, áreas comunes atractivas y poco concurridas, la seguridad del condominio y un paquete financiero ventajoso (precio, desembolso postergado, tasa de interés especial).",
+        "firing_criteria": "Descartaron automáticamente opciones con malas referencias sobre la calidad de construcción y servicios (proyecto 'Look'). También descartaron proyectos que, aunque buenos, eran significativamente más caros (proyecto 'Magna').",
+        "trade_offs_reales": "Aceptaron un departamento con un metraje ligeramente menor al que idealmente buscaban. También asumieron un tiempo de espera prolongado (un año) para la entrega de la propiedad.",
+        "factores_de_confianza": "La confianza se construyó sobre las buenas referencias de amigos que ya vivían en proyectos de la misma inmobiliaria y la percepción de experiencia y seriedad de la constructora, en contraste con la competencia.",
+        "reduccion_de_riesgo": "Minimizaron el riesgo al elegir una inmobiliaria con reputación comprobada y al descartar activamente otra con referencias negativas. La visita al showroom y la claridad en las condiciones comerciales también aportaron seguridad a la decisión."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación estratégica (cerca de universidades), la tipología adecuada (primer piso), las áreas comunes (piscina temperada, gimnasio, parrillas) y el entorno familiar y seguro del condominio conectaron directamente con las necesidades del sistema familiar.",
+        "atributos_secundarios": "El tamaño exacto del departamento fue un atributo secundario; estuvieron dispuestos a ceder en el metraje a cambio de obtener los beneficios más importantes.",
+        "alternativas_descartadas": "Descartaron el proyecto 'Look' por malas referencias sobre su construcción (sótano, cortes de luz). El proyecto 'Magna' fue descartado por ser más caro. La opción de seguir alquilando fue descartada al iniciar la búsqueda activa."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "La satisfacción con la decisión de compra es alta, pero está matizada por la ansiedad de la espera.",
+        "reservas": "La principal reserva es el largo tiempo de espera para la entrega (un año), que además fue postergada. Esto genera impaciencia, especialmente en los hermanos menores.",
+        "fricciones_pendientes": "La fricción principal es la gestión de la espera y la incertidumbre asociada a la fecha de entrega final. Aunque la comunicación de la empresa es constante, la postergación genera ansiedad en la familia."
+    },
+    "proyecto": "WOW"
+}

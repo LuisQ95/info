@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una pareja que ya alquilaba junta decide comprar para formalizar su proyecto de vida, eligiendo un departamento principalmente por su completo clubhouse, a pesar de enfrentar una pésima gestión de postventa.",
+    "historia_causal": {
+        "contexto_previo": "La pareja convivía en un departamento alquilado en Surco, manteniendo un estilo de vida estable y un radio de acción definido en esa zona.",
+        "tension_acumulada": "Deseo de progresar en su relación, sintiendo que el alquiler era una etapa transitoria y que una propiedad propia representaría una consolidación y una base para el futuro.",
+        "bloqueadores": "Las altas tasas de interés de los créditos hipotecarios en el mercado les impedían cerrar la compra, a pesar de ya haber encontrado y separado el departamento.",
+        "eventos_habilitadores": "Una baja general en las tasas de interés y la consecuente obtención de una mejor oferta crediticia por parte de un banco, lo que hizo la compra financieramente viable.",
+        "switching_trigger": "La mejora en las condiciones financieras fue el detonante que les permitió ejecutar la compra que ya tenían decidida pero pausada.",
+        "momento_de_decision": "La búsqueda fue activa pero informal en sus zonas de interés. Encontraron el proyecto de casualidad, lo separaron y esperaron varios meses hasta que el contexto financiero fue favorable para cerrar la operación."
+    },
+    "contexto_activador": {
+        "marco_general": "Pareja joven profesional, ya conviviendo en Surco, que busca formalizar su relación y proyectar una familia a través de la compra de su primera vivienda juntos. Su estilo de vida valora la conveniencia, el deporte y las comodidades, lo que hace que las áreas comunes de un proyecto sean altamente relevantes en su decisión."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Establecer un hogar propio y estable para consolidar la relación de pareja, sentando las bases para una futura familia en un entorno que ofrezca comodidad y un estilo de vida superior.",
+        "job_statement": "Cuando sentimos que es momento de dar el siguiente paso en nuestra relación, queremos comprar una vivienda propia para dejar de alquilar y construir un patrimonio y un futuro juntos.",
+        "job_dominante_narrativo": "El cliente está intentando consolidar su relación de pareja y establecer una base de vida permanente, pasando de la inestabilidad de un alquiler a la seguridad de una propiedad propia.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El factor principal fue el clubhouse (gimnasio, piscina, cancha de tenis). También la ubicación en una zona conocida (Surco) y la percepción de un buen precio para el espacio y las amenities. La entrega inmediata fue un plus.",
+        "firing_criteria": "El tráfico excesivo fue un criterio de descarte explícito. Un proyecto en San Isidro fue rechazado por esta razón, calificando la movilidad en la zona como 'inviable'.",
+        "trade_offs_reales": "Sacrificaron la potencial mayor valorización y cercanía al trabajo de una opción en San Isidro a cambio de una mejor calidad de vida diaria (menos tráfico) y acceso a las amenities deseadas. Aceptaron una muy mala experiencia de postventa.",
+        "factores_de_confianza": "El hecho de que el proyecto fuera de entrega inmediata les permitió ver el producto terminado, reduciendo la incertidumbre de comprar en planos.",
+        "reduccion_de_riesgo": "Esperaron activamente a que las tasas de interés bajaran para no asumir un crédito hipotecario con condiciones desfavorables, mitigando el riesgo financiero."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El clubhouse fue el atributo central y decisivo. La distribución del departamento de 2 dormitorios con proyección a tener hijos y la terraza flexible también encajaron con sus necesidades.",
+        "atributos_secundarios": "La terraza del primer piso fue una característica valorada que descubrieron en el camino, pero no un requisito inicial de búsqueda.",
+        "alternativas_descartadas": "Un proyecto en San Isidro, a precio y espacio similar, fue descartado categóricamente por el problema del tráfico en la zona."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Dual: Califica el proyecto y la experiencia de vivir allí con un 8/10, pero a la inmobiliaria y su servicio postventa con un 2/10.",
+        "reservas": "Preocupación por el futuro aforo y mantenimiento del clubhouse cuando se entreguen las siguientes etapas. El estado actual de las áreas comunes no es el óptimo que tuvo en su inauguración.",
+        "fricciones_pendientes": "Graves y numerosas. Problemas de acabados (marmolería, pintura) reportados hace un año y sin solución. El servicio de postventa es inexistente, no responde y los canales formales de reclamo son ineficaces."
+    },
+    "proyecto": "MUV"
+}

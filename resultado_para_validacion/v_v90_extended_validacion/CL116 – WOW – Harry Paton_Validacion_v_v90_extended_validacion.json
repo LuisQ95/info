@@ -1,0 +1,38 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de eliminar la fricción diaria causada por vivir en una casa 'totalmente descentrada' de su círculo de vida (trabajo, club, familia). Esta es una clara motivación de J03. El filtro de selección (Selection Driver) fue la fuerte preferencia de su hija por las áreas sociales del proyecto WOW, lo que aceleró la decisión final sobre esta opción frente a otras. La hija no originó la búsqueda, pero sí definió la elección.",
+        "debate_deal_breaker": "El factor innegociable era la ubicación. La compra no habría ocurrido si el proyecto no resolvía el problema central de la movilidad y la cercanía a su ecosistema de vida. Proyectos que estaban 'un poquito descentrados' fueron descartados. La optimización logística era la condición sine qua non.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "Actualmente vivo en Magdalena... me queda totalmente descentrado de todo el círculo en el que me muevo.",
+                    "Entonces, sí, hay que mudarse ya, ¿no?",
+                    "Un tema de, como digo, de movilidad, ¿no? De movernos para distintos lugares.",
+                    "El tema de zona, fluidez, de movilidad, de ubicación, ver todo el entorno, para mí es lo importante."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la fricción de vivir lejos no existiera, no habría iniciado una búsqueda de un año. La compra no ocurriría. Pasa el test."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Mi hija, porque... Estamos con ella buscando departamentos.",
+                    "Y a ella le encantó [la zona social].",
+                    "Mi hija me dice, no, papá, yo creo que este es el sitio.",
+                    "Donde también incluso la movilidad de mi hija no se complica."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuviera a su hija, ¿compraría igual para resolver su problema de movilidad? Sí, la necesidad de optimizar su propia vida ya existía. No pasa el test como Job dominante."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El cliente entra al mercado para resolver una fricción logística personal severa (J03). La búsqueda de un año se centra en encontrar una solución a este problema. Dentro de las opciones que resolvían la logística, la decisión final es fuertemente influenciada por las necesidades y deseos de su hija (J04), que actúa como un poderoso criterio de selección. Por lo tanto, J03 es el Job Dominante que explica el origen de la compra, y J04 es el Job Secundario que explica la elección específica del producto."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Se puede identificar con precisión el contexto previo, la tensión acumulada, el gatillo de la búsqueda y los criterios de decisión. La distinción entre el 'Entry Driver' (J03) y el 'Selection Driver' (influencia de la hija, J04) es evidente y permite un análisis robusto del Job to be Done dominante."
+}

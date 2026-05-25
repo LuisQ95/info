@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia con vivienda propia en Chorrillos decide reorganizar su base habitacional para dar soporte a la etapa universitaria del hijo, mudándose a Surco. La elección del proyecto se define por la cercanía a la universidad y criterios de comodidad y seguridad para la madre.",
+    "historia_causal": {
+        "contexto_previo": "La familia (madre, hija, hijo) reside en una casa de su propiedad en Chorrillos, con un sistema de vida estable pero con una creciente percepción de inseguridad en el entorno.",
+        "tension_acumulada": "La tensión principal es la necesidad de facilitar la logística diaria del hermano, que estudia en la UPC en Surco. A esto se suma un deseo latente de mudarse a una zona percibida como más segura y tranquila.",
+        "bloqueadores": "El principal bloqueador era la inercia, ya que poseían una vivienda propia y no existía una urgencia económica o habitacional que forzara un cambio inmediato.",
+        "eventos_habilitadores": "La decisión se habilita por la disponibilidad de capital para una compra al contado y la proactividad de la hija para liderar la búsqueda de opciones. La necesidad del hermano se vuelve una prioridad familiar.",
+        "switching_trigger": "La toma de conciencia de que la mudanza era la solución más efectiva para apoyar la educación del hermano y, de paso, resolver la insatisfacción con el entorno actual.",
+        "momento_de_decision": "El proceso fue deliberado y familiar. La hija encontró dos opciones viables en un portal web. La decisión final se tomó después de tres visitas, involucrando a ambos padres, y fue liderada por la madre, quien financió la compra."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida es el de una unidad familiar consolidada que opera de forma interdependiente. La activación del Job ocurre cuando un miembro (el hermano) entra en una nueva etapa de vida (universidad) que desajusta la logística del sistema actual, obligando al grupo a reorganizarse geográficamente para mantener el soporte."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reconfigurar la base de operaciones de la familia para facilitar el éxito académico de un miembro y, al mismo tiempo, elevar el estándar de seguridad y tranquilidad para todos.",
+        "job_statement": "Cuando la etapa de vida de un miembro de la familia (universidad) crea una desalineación con nuestra vivienda actual, quiero encontrar un nuevo hogar que resuelva esa necesidad logística, para que podamos seguir funcionando como un sistema de apoyo cohesionado y mejorar nuestra calidad de vida.",
+        "job_dominante_narrativo": "La familia está intentando reestructurar su vida para funcionar como un sistema de soporte efectivo para el hijo universitario, asegurando que su única preocupación sea estudiar, mientras el resto de la familia gana en tranquilidad y seguridad.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Los criterios decisivos fueron: 1. Cercanía a la universidad UPC. 2. Tipología de 3 dormitorios para privacidad individual. 3. La preferencia de la madre por un edificio de baja altura (8 pisos), que le generaba más comodidad y seguridad. 4. Un condominio con más áreas comunes.",
+        "firing_criteria": "Se descartó el proyecto competidor principalmente por ser un edificio muy alto (17 pisos), lo cual generaba un rechazo directo por parte de la madre, quien era la decisora final.",
+        "trade_offs_reales": "Renunciaron a un cuarto de servicio que ofrecía la competencia, priorizando la altura del edificio y la amplitud de las áreas comunes. Aceptaron un sistema de acceso que perciben como inseguro.",
+        "factores_de_confianza": "La confianza se construyó a través de la validación física del producto en múltiples visitas y el consenso familiar. La decisión fue tomada en conjunto, lo que le dio solidez.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al comprar un proyecto con entrega inmediata, lo que eliminó la incertidumbre de la construcción. Además, la compra al contado simplificó el proceso financiero."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca de la UPC, la estructura de 8 pisos que encajaba con la preferencia de la madre, y la oferta de un condominio grande con más áreas comunes fueron los atributos que conectaron directamente con los criterios de contratación.",
+        "atributos_secundarios": "Las áreas comunes, aunque fueron un factor de elección, no son utilizadas frecuentemente por la familia, lo que las convierte en un atributo valorado pero no crítico en el día a día.",
+        "alternativas_descartadas": "El proyecto 'Lukanfield' de la empresa TIC fue la principal alternativa. Fue descartado porque su edificio de 17 pisos no agradó a la madre, a pesar de ofrecer un cuarto de servicio adicional."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (califica con 9/10) y recomienda activamente el proyecto a sus familiares.",
+        "reservas": "La principal reserva es la seguridad en los accesos, ya que los visitantes pueden llegar directamente a la puerta del departamento sin un filtro previo. También, la información engañosa sobre la disponibilidad de entrenadores en áreas comunes.",
+        "fricciones_pendientes": "Persisten problemas con olores desagradables de las tuberías y una gestión de áreas comunes que depende de la autoorganización de los vecinos por WhatsApp, en lugar de un sistema provisto por la administración."
+    },
+    "proyecto": "MUV"
+}

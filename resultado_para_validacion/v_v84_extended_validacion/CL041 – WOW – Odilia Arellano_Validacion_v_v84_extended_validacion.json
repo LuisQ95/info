@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es una combinación de la necesidad de reconfigurar el espacio familiar (J04) y el deseo de invertir capital disponible (J02). El filtro de selección final fue un conjunto de atributos específicos del producto: un precio más bajo y áreas comunes superiores (piscina, cancha de tenis, juegos para niños) que se ajustaban perfectamente a las necesidades y hobbies de la familia.",
+        "debate_deal_breaker": "El deal-breaker fue la combinación de precio y amenidades familiares. El proyecto competidor (MUV) fue descartado por ser más caro. Si WOW no hubiera tenido las áreas comunes (cancha de tenis para los hijos, juegos para los nietos), es muy probable que no hubieran tomado la decisión de compra impulsiva, ya que estas características fueron las que generaron el encaje emocional y funcional para la familia.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Para el departamento, pensamos un principio para mi hijo.",
+                    "nosotros ahí hemos pensado con mis hijos que vamos a ir a vivir porque queremos... Ya está en venta la casa.",
+                    "tengo nietos que tengo dos nietecitos que sea pensando en ellos que quizás en algún momento, un fin de semana, viene y me visitan y bueno, pueden pasar ratos de de quizás de de distracción pensando en ellos, ¿no? Se se adquirió esa propiedad"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no existiera la necesidad de reubicar al hijo o de planificar el futuro de la familia, no habrían entrado al mercado a buscar un departamento de 3 dormitorios. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J02 - Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "quisimos comprar como para, para inversión.",
+                    "Si yo no vendo el de mi casa porque está en venta, yo lo podría alquilar y no, yo no lo veo ahí este mal inversión.",
+                    "compramos un, este, una tienda comercial."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la propiedad no tuviera potencial de inversión pero sí resolviera la necesidad familiar, la comprarían igual. El uso familiar primó sobre la inversión, que se convirtió en un plan B. Por lo tanto, no es el Job dominante."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra se origina por una necesidad estructural de adaptar la vivienda a la nueva etapa de la familia: un hijo adulto que necesita su espacio y la futura reconfiguración del hogar de los padres. Todos los criterios de selección (3 dormitorios, áreas comunes para hijos y nietos) responden a esta lógica familiar. Aunque la inversión (J02) fue un motivador inicial y un factor de seguridad, el driver que gobierna la decisión y la elección del producto es inequívocamente el J04."
+    },
+    "dictamen_final": "Entrevista válida que confirma un Job Dominante J04 (Acompañar el crecimiento familiar) y un Job Secundario J02 (Proteger y flexibilizar el patrimonio).",
+    "justificacion": "La evidencia es contundente: la compra se origina para resolver la situación habitacional de un hijo adulto y evoluciona a un plan para toda la familia. Los criterios de selección (amenities como cancha de tenis para los hijos, juegos para nietos, y 3 dormitorios) están directamente subordinados a las necesidades del sistema familiar. El componente de inversión (J02), aunque presente como gatillo y plan de contingencia, no es el que define las características del producto elegido; la familia es el cliente final y el verdadero motor de la decisión."
+}

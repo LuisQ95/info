@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El debate se centra en si la compra es una inversión (J02), una decisión familiar (J04) o la habilitación de una nueva etapa de vida (J05). La jubilación y el retorno a Perú (J05) es el gatillo de entrada al mercado; sin este cambio de vida, la compra no ocurriría. La cercanía a la familia (J04) actúa como un filtro de selección de ubicación, no como el origen de la necesidad. El alquiler temporal (J02) es una optimización, no la causa estructural.",
+        "debate_deal_breaker": "El factor innegociable es la necesidad de materializar el plan de jubilación y retorno a Perú. La propiedad es el habilitador indispensable para cerrar la etapa de vida en el extranjero y comenzar la nueva en su país de origen. Sin este propósito de transición vital, la inversión no se realizaría.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J05: Cerrar una etapa y avanzar",
+                "citas_textuales_evidencia": [
+                    "La idea es ir a vivir a al Perú, este, de aquí más o menos a unos dos o tres años.",
+                    "Yo me jubilo en dos años.",
+                    "esa era la meta desde el principio, ¿no? Yo no... yo no me quiero quedar toda la vida hasta viejita acá."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, la compra no ocurriría. Todo el plan está construido alrededor de su jubilación y regreso a Perú."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "La ubicación para mí es perfecta porque está entre la casa de mi mami... y el departamento de mi hermana.",
+                    "quiero estar cerca de la familia."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, compraría igual para su retiro, pero buscaría una propiedad en la ciudad donde estuviera su familia. La familia define el 'dónde', no el 'porqué'."
+            }
+        ],
+        "job_dominante_final": "J05: Cerrar una etapa y avanzar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es estructuralmente causada por la transición de vida de la jubilación y el plan de retorno a Perú, lo que define al J05 como dominante. La necesidad de estar cerca de la familia es un poderoso criterio de selección que define la ubicación, mientras que la lógica de inversión (alquiler) es una táctica temporal para el período intermedio, posicionando al J02 como secundario."
+    },
+    "dictamen_final": "Entrevista Válida. Proporciona una clara historia causal y permite identificar un Job Dominante inequívoco.",
+    "justificacion": "La narrativa es coherente y rica en detalles sobre el contexto (jubilación, vida en el extranjero), las tensiones (volver a Perú), los bloqueadores (proceso de compra a distancia) y los criterios de decisión. El Job J05 emerge claramente como el motor estructural de la compra, diferenciándose de los criterios de selección como la ubicación (familia) y la optimización temporal (alquiler)."
+}

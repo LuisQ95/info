@@ -1,0 +1,34 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de reorganizar la vida familiar para facilitar la logística universitaria del hermano y mudarse a una zona más segura. El filtro de selección (Selection Driver) fue la preferencia de la madre por un edificio de pocos pisos (8 vs 17) y la percepción de tener mejores áreas comunes. El gatillo define el Job, el filtro define la elección del producto.",
+        "debate_deal_breaker": "El factor innegociable es la ubicación cercana a la universidad del hermano. La cliente afirma que 'Era más importante que esté cerca de su universidad'. Si el proyecto estuviera en otra zona, aunque tuviera un edificio bajo y buenas áreas comunes, no lo habrían comprado. Por el contrario, si hubieran encontrado otro proyecto cerca de la universidad con un edificio bajo, lo habrían considerado. La necesidad familiar es el verdadero deal-breaker, no las características del edificio.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "queríamos hacer un cambio a a una zona más bonita, más tranquila para nosotros y también para que mi hermano estudie, porque estudia cerca, en la UPC.",
+                    "Era más importante que esté cerca de su universidad."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el hermano no estudiara en la UPC, la familia no se habría mudado de su casa propia en Chorrillos. La compra no ocurriría. Este es el Job Dominante."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "anteriormente vivía en Chorrillos y queríamos hacer un cambio a a una zona más bonita, más tranquila para nosotros",
+                    "Eh, mayor seguridad, más que todo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la zona fuera tranquila y segura pero lejos de la universidad, no habrían comprado, ya que la cercanía a la UPC era el factor 'más importante'. Por lo tanto, es un motivador secundario, no el Job dominante."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La decisión de compra es una acción del sistema familiar completo, no de un individuo. Se mudan de una propiedad que ya poseen para reorganizarse en función de la necesidad de un miembro: el hermano y su universidad. Este es un caso canónico de J04 (Soporte Familiar), donde la familia actúa como una unidad operativa para facilitar la etapa de vida de uno de sus integrantes. La búsqueda de seguridad y tranquilidad (J03) es un beneficio deseado, pero subordinado al requisito logístico principal."
+    },
+    "dictamen_final": "Entrevista válida que confirma un Job Dominante claro: J04 - Acompañar el crecimiento familiar, en su subtipo de 'Soporte Familiar'.",
+    "justificacion": "La evidencia es contundente: la familia ya tenía una vivienda estable y propia, por lo que no entró al mercado por una necesidad de estabilidad (J01). La compra fue una decisión estratégica para reorganizar todo el 'sistema operativo familiar' en función de un evento en la vida de uno de sus miembros: la etapa universitaria del hermano. La frase 'Era más importante que esté cerca de su universidad' supera el test canónico y establece la jerarquía de la decisión, relegando la búsqueda de 'un lugar más bonito y tranquilo' (J03) a un rol secundario."
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "La compra es una respuesta directa al crecimiento de su familia (matrimonio e hijos), que vuelve obsoleto su departamento de soltero. La elección de MUV se da por conveniencia de ubicación y descarte de un competidor riesgoso.",
+    "historia_causal": {
+        "contexto_previo": "Vivía en un departamento propio de una sola habitación, perfectamente adecuado para su vida de soltero. Tenía una situación estable y no sentía ninguna urgencia por mudarse.",
+        "tension_acumulada": "Tras casarse y tener su primer hijo, el departamento de una habitación se volvió inadecuado. La tensión se intensificó drásticamente cuando su esposa quedó embarazada por segunda vez, haciendo imperativa la necesidad de un espacio con al menos tres habitaciones.",
+        "bloqueadores": "Inicialmente, la pandemia y la incertidumbre general lo detuvieron de comprar, a pesar de haber visto el proyecto y tener el dinero. Durante ese período, se fue a vivir a EEUU temporalmente, pausando cualquier decisión inmobiliaria.",
+        "eventos_habilitadores": "El regreso al país y la consolidación de su nueva realidad familiar (segundo hijo en camino) reactivaron la necesidad de forma urgente. Ya contaba con el capital ahorrado para ejecutar la compra.",
+        "switching_trigger": "El embarazo de su esposa y la consecuente necesidad de pasar de un requerimiento de dos a tres habitaciones. Esto hizo insostenible su vivienda actual y lo forzó a buscar activamente una solución.",
+        "momento_de_decision": "El proceso fue una comparación directa entre MUV y un proyecto de Paz Centenario. Descartó a Paz Centenario al recibir información de que tenían problemas con la licencia de construcción. Al confirmar que MUV sí tenía licencia, y sumado a que le gustaba la ubicación y los pilotos, tomó la decisión de compra."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional y catedrático que transita de una etapa de vida individual a una familiar. Este cambio estructural (matrimonio, hijos) vuelve su activo actual (departamento de soltero) obsoleto. Su problema no es de acceso a la vivienda, sino de adecuación del espacio a las nuevas dinámicas y tamaño de su familia."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr que su espacio vital se alinee con la nueva estructura y tamaño de su familia, asegurando la comodidad, funcionalidad y el bienestar de su esposa e hijos en su hogar.",
+        "job_statement": "Cuando mi familia crece y mi departamento actual se vuelve demasiado pequeño, quiero encontrar una nueva vivienda con más habitaciones para poder acomodar a todos cómodamente y adaptarme a esta nueva etapa de vida.",
+        "job_dominante_narrativo": "El cliente está tratando de resolver la inadecuación estructural de su vivienda actual para que pueda acompañar el crecimiento de su familia, pasando de un espacio diseñado para un individuo a un hogar familiar funcional.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "Ninguno"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio principal fue el número de habitaciones para acomodar a su familia en crecimiento. La ubicación conveniente y la buena impresión de los departamentos piloto fueron factores secundarios importantes. La certeza de que el proyecto tenía licencia de construcción fue el factor decisivo final.",
+        "firing_criteria": "Descartó categóricamente el proyecto competidor (Paz Centenario) por el alto riesgo de que fuera paralizado debido a la falta de licencia de construcción. Cualquier opción que no ofreciera el número de habitaciones necesarias era automáticamente descartada.",
+        "trade_offs_reales": "Aceptó un proyecto que, si bien cumplía con el espacio y la ubicación, resultó tener una calidad de construcción y un servicio post-venta desastrosos. Sacrificó la tranquilidad y la calidad a largo plazo por la seguridad de la compra inicial y la adecuación del espacio.",
+        "factores_de_confianza": "La posesión de la licencia de construcción por parte de MUV fue el principal factor de confianza, en agudo contraste con la incertidumbre que le generaba el competidor. La buena impresión inicial de los departamentos piloto también contribuyó.",
+        "reduccion_de_riesgo": "Su principal estrategia para minimizar el riesgo fue elegir el proyecto que ya tenía la licencia de construcción aprobada, evitando así la posibilidad de una paralización de obra indefinida y la pérdida de su inversión."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La disponibilidad de un departamento con el número de habitaciones que necesitaba. La ubicación, que ya conocía y le parecía atractiva. El diseño y la distribución de los departamentos piloto.",
+        "atributos_secundarios": "La 'temática' del proyecto, mencionada brevemente pero sin ser un factor determinante en la decisión.",
+        "alternativas_descartadas": "Un proyecto de Paz Centenario ubicado frente a El Polo, que fue descartado por no tener licencia de construcción y el consecuente riesgo de paralización de la obra."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Extremadamente bajo, lo califica como 'negativo', por debajo de cero. Describe la experiencia post-venta como una 'pesadilla', un 'desastre' y una 'burla'.",
+        "reservas": "Siente que fue víctima de un 'marketing transaccional', donde la inmobiliaria se desentendió completamente de él y del resto de propietarios tras la venta. Ha perdido toda la credibilidad y confianza en la empresa.",
+        "fricciones_pendientes": "Múltiples y graves: problemas de diseño estructural en los desagües que causan inundaciones, fallas constantes en los sistemas contra incendios, defectos en acabados (melamine, mármol, mayólica), y la falta de entrega del título de propiedad después de casi dos años, lo que le impide refinanciar su crédito a una mejor tasa."
+    },
+    "proyecto": "MUV"
+}

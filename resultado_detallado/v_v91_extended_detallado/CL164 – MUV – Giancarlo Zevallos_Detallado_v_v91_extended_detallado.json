@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra aspiracional de un profesional joven, activada por una oferta de preventa que le permitió concretar un deseo de vivir en un condominio específico que admiraba desde su juventud. La proyección familiar futura influyó en la elección de la tipología, pero no fue el motor original de la compra.",
+    "historia_causal": {
+        "contexto_previo": "Tras regresar de una maestría en el extranjero, vivía alquilado sin apuro por mudarse. Tenía una conexión emocional con el proyecto desde sus años universitarios (2005), cuando lo vio y aspiró a vivir en un lugar así.",
+        "tension_acumulada": "El deseo latente de vivir en ese condominio específico, que representaba un estilo de vida superior, seguro y novedoso. Mantenía una búsqueda pasiva, habiendo asistido a una feria inmobiliaria y dejado sus datos.",
+        "bloqueadores": "No tenía una necesidad funcional o urgencia que lo empujara a comprar. Estaba esperando el momento adecuado o la fase del proyecto que le interesara, ya que no quería las unidades remanentes de la segunda etapa.",
+        "eventos_habilitadores": "La inmobiliaria lo contactó proactivamente en plena pandemia (mayo 2020) para informarle sobre la preventa de la tercera etapa. La posibilidad de hacer un tour virtual le permitió re-conectar con el proyecto.",
+        "switching_trigger": "La comunicación de la inmobiliaria sobre la preventa de la tercera etapa, con descuentos asociados, fue el estímulo que convirtió su interés pasivo en una acción de compra concreta.",
+        "momento_de_decision": "La decisión fue rápida y emocional, tomada inicialmente en solitario en 2020. Describe un 'segundo momento de aceptación' más tarde con su novia, donde reafirman la decisión de esperar a pesar de las demoras, consolidando la compra."
+    },
+    "contexto_activador": {
+        "marco_general": "Un profesional joven, estable económicamente tras regresar de estudiar en el extranjero, sin una necesidad habitacional urgente pero con una aspiración de estilo de vida clara y vinculada a un proyecto inmobiliario específico que conoce desde hace más de una década."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Concretar una aspiración personal de largo plazo y acceder a un estilo de vida percibido como superior en términos de seguridad, comunidad y estatus.",
+        "job_statement": "Cuando se presenta la oportunidad de comprar en el proyecto que siempre he admirado, quiero asegurar mi lugar allí para finalmente vivir el estilo de vida que aspiro y sentir que he alcanzado un hito personal importante.",
+        "job_dominante_narrativo": "El cliente está tratando de materializar una aspiración de vida que nació en su juventud, comprando en un condominio que para él simboliza éxito y un estilo de vida ideal, para sentirse realizado y coherente con la imagen que tiene de sí mismo.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La propuesta de valor del condominio: cerrado, con seguridad, parques internos y un clubhouse. La fuerte conexión emocional y aspiracional con el proyecto.",
+        "firing_criteria": "Proyectos 'puerta de calle' que no ofrecían la sensación de comunidad protegida y el estilo de vida de un gran condominio.",
+        "trade_offs_reales": "Aceptó demoras de dos años en la entrega, un aumento significativo en la tasa de interés hipotecaria (mitigado por un descuento), y una calidad de acabados inferior a la esperada y a la de etapas previas.",
+        "factores_de_confianza": "La fuerza de su propia convicción y conexión emocional con el proyecto. El acuerdo de descuento con la inmobiliaria para compensar el alza de la tasa le dio viabilidad financiera para continuar.",
+        "reduccion_de_riesgo": "La compra en preventa le dio acceso a descuentos. El descuento posterior de S/50,000 fue crucial para mitigar el riesgo financiero del aumento de la tasa y evitar que la venta se cayera."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de condominio cerrado, la seguridad, los parques internos, el clubhouse y la escala del proyecto. La ubicación en Monterrico, que conocía bien.",
+        "atributos_secundarios": "La tipología de 2 dormitorios fue una adaptación a sus planes futuros, pero no el driver original. Las amenities específicas (zona de canes, lavandería) resultaron ser promesas incumplidas y no fueron críticas para la decisión.",
+        "alternativas_descartadas": "Proyectos en Surquillo, Miraflores o San Isidro, descartados por ser 'puerta de calle' y no tener la propuesta de valor integral del condominio elegido."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Satisfecho con el concepto de vida en el condominio, pero muy crítico con la gestión post-venta, la calidad de los acabados y las promesas incumplidas. Recomendaría 'con advertencia'.",
+        "reservas": "La inmobiliaria tiene problemas reputacionales, de liquidez percibida y prioriza costos sobre calidad. La calidad de la tercera etapa es inferior a las anteriores.",
+        "fricciones_pendientes": "Múltiples problemas de post-venta (acabados, moho en balcones, sistema de desagüe, amenities no habilitadas), mala comunicación de la inmobiliaria y la necesidad de invertir mucho tiempo personal como delegado para resolver problemas."
+    },
+    "proyecto": "MUV"
+}

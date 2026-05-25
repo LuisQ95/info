@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente con un departamento propio sobredimensionado por la partida de sus hijos, decide usar sus ahorros para reconfigurar el 'sistema operativo familiar', comprando un departamento para ella y planeando otro para su hijo, buscando mantener la cercanía y el apoyo mutuo en esta nueva etapa de vida.",
+    "historia_causal": {
+        "contexto_previo": "Vive en un departamento propio de 154m² en Jesús María. Su hija mayor vive en el extranjero y su hijo de 22 años está en proceso de independencia, alquilando cerca de su universidad.",
+        "tension_acumulada": "El departamento actual se ha vuelto demasiado grande y costoso de mantener para ella sola. Siente la necesidad de adaptarse a la nueva estructura familiar, facilitando la independencia de su hijo pero sin perder la conexión y el sistema de ayuda mutua que tienen (compartir vehículo, comida, etc.).",
+        "bloqueadores": "La principal barrera fue la desconfianza generada por el proceso de venta de la inmobiliaria: falta de formalidad, presión para firmar documentos incorrectos ('inmueble futuro') y una comunicación post-venta deficiente, lo que le impidió concretar su plan original de comprar dos departamentos en el mismo proyecto.",
+        "eventos_habilitadores": "La disponibilidad de un capital ahorrado significativo que le permitía comprar al contado. La independencia ya iniciada por su hijo (alquilaba por su cuenta) formalizó la necesidad de un cambio estructural.",
+        "switching_trigger": "La consolidación del plan de independencia del hijo, que hizo insostenible y poco práctico mantener la vivienda familiar actual, activando la búsqueda activa de una nueva configuración habitacional para ambos.",
+        "momento_de_decision": "Tras una búsqueda activa en plataformas online durante un mes, visitó varios proyectos. La decisión por MUV fue rápida al encontrar un producto que encajaba en ubicación (cerca de la UPC) y características, a pesar de las serias dudas sobre el proceso, que la llevaron a comprar solo una unidad en lugar de las dos planeadas."
+    },
+    "contexto_activador": {
+        "marco_general": "Su sistema de vida actual se basa en una interdependencia funcional con su hijo, a pesar de vivir separados. Está restringida por la ineficiencia de su vivienda actual (grande y costosa) y la necesidad de gestionar su capital. El Job se activa cuando la independencia del hijo se vuelve un hecho estructural, obligándola a buscar una nueva configuración de vivienda que mantenga el soporte familiar y optimice sus activos."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una nueva configuración de vida que se adapte a la estructura familiar reducida, manteniendo un vínculo funcional y cercano con su hijo independiente, mientras optimiza sus costos y activos inmobiliarios.",
+        "job_statement": "Cuando la estructura de mi familia cambia y mi hogar actual ya no se ajusta, quiero reorganizar nuestros espacios de vida para que podamos seguir apoyándonos mutuamente de manera eficiente en nuestra nueva etapa de independencia.",
+        "job_dominante_narrativo": "La clienta está intentando reconfigurar su 'sistema operativo familiar' que ha quedado obsoleto, creando nuevos nodos habitacionales (uno para ella, uno para su hijo) que sean coordinados y eficientes para mantener el apoyo mutuo.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación cercana a la universidad del hijo (UPC) fue un factor clave. También buscaba tranquilidad (poca bulla) y costos de mantenimiento razonables que no se asemejaran a un alquiler.",
+        "firing_criteria": "Proyectos con costos de mantenimiento excesivamente altos. Ubicaciones que rompieran la cercanía funcional con su hijo. Proyectos no iniciados (como WOW) generaban dudas por el tiempo de espera.",
+        "trade_offs_reales": "El principal sacrificio fue comprar solo un departamento en lugar de los dos planeados, debido a la desconfianza generada por la inmobiliaria. Aceptó un proceso de compra muy informal y estresante, con alta incertidumbre.",
+        "factores_de_confianza": "Prácticamente nulos. La experiencia fue de alta desconfianza. La decisión de avanzar se basó en el encaje del producto y en un compromiso verbal previo, a pesar de las múltiples señales de alerta durante el proceso.",
+        "reduccion_de_riesgo": "No hubo una reducción de riesgo efectiva por parte de la vendedora; al contrario, el riesgo percibido fue muy alto (entrega de cheque sin formalidad notarial, firma de contrato incorrecto). La clienta intentó mitigar el riesgo insistiendo en un cheque de gerencia en lugar de transferencia."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca de la UPC. La percepción de ser una zona tranquila. El hecho de que el proyecto ya estuviera terminado (MUV vs WOW), lo que reducía la incertidumbre del tiempo de entrega, aunque esto se vio desmentido en la práctica.",
+        "atributos_secundarios": "Las áreas comunes y el diseño general del proyecto fueron valorados pero no fueron el driver principal de la decisión.",
+        "alternativas_descartadas": "Un proyecto en La Molina (que finalmente compró después, como plan B). El proyecto WOW de la misma inmobiliaria (descartado por ser una compra a futuro). Otros proyectos en Surco, Miraflores y Barranco que no cumplieron con la combinación de ubicación, tranquilidad y costo."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy bajo. La experiencia post-venta ha sido descrita como 'devastadora' y 'adrenalítica', llena de estrés, falta de comunicación e incumplimientos.",
+        "reservas": "Tiene serias dudas sobre la capacidad de resolución de la administración y la calidad de algunos elementos (ruido del motor de la piscina). La falta de documentos formales le genera una gran inseguridad sobre su propiedad.",
+        "fricciones_pendientes": "La minuta de compraventa no ha sido corregida (sigue figurando como 'inmueble futuro'). El departamento no está en condiciones de ser habitado debido a reparaciones pendientes (jardín, pintura). La inscripción en Registros Públicos está pendiente, lo que le impide disponer del inmueble (venderlo si lo deseara)."
+    },
+    "proyecto": "MUV"
+}

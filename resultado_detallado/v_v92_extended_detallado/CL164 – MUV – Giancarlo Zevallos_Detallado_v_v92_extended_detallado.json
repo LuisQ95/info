@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra impulsada por una aspiración de larga data hacia un proyecto específico, activada por una oportunidad de preventa. La decisión se racionaliza a través de la proyección de una futura vida familiar segura.",
+    "historia_causal": {
+        "contexto_previo": "Profesional que regresa a Perú tras estudiar en el extranjero. No tiene una necesidad habitacional urgente. Desde sus años universitarios, desarrolló una fuerte admiración y deseo por vivir en el condominio WOW, viéndolo como un ideal de estilo de vida.",
+        "tension_acumulada": "Un deseo latente y aspiracional de vivir en ese condominio específico, mantenido por más de una década. La idea de 'algún día viviré ahí' se mantuvo como una meta personal.",
+        "bloqueadores": "No había una necesidad funcional o urgencia que lo empujara a comprar. Además, estaba esperando el lanzamiento de una nueva etapa del proyecto que le interesaba, ya que las unidades disponibles no le atraían.",
+        "eventos_habilitadores": "Recibió un correo de la inmobiliaria anunciando la preventa de la tercera etapa del proyecto. Esto ocurrió en plena pandemia, lo que habilitó un proceso de venta virtual.",
+        "switching_trigger": "La notificación por correo electrónico sobre la preventa de la tercera etapa del proyecto WOW, que transformó un deseo pasivo en una acción de compra inmediata.",
+        "momento_de_decision": "La decisión fue rápida y se tomó de forma individual, basada en la fuerte carga emocional y aspiracional. Se realizó un tour virtual y se separó la unidad, consolidando la compra sin una comparación exhaustiva con otras alternativas funcionales."
+    },
+    "contexto_activador": {
+        "marco_general": "Un profesional joven, soltero en el momento de la compra, en una fase de consolidación de su vida tras regresar al país. Su sistema de vida no presentaba fricciones, pero estaba abierto a una mejora aspiracional. La decisión está condicionada por una conexión emocional preexistente con el producto, activada por una oferta comercial específica (preventa)."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Materializar una visión de vida ideal que ha tenido durante años, sintiendo que ha alcanzado un estatus y un estilo de vida superior al vivir en el lugar que siempre admiró.",
+        "job_statement": "Cuando se presenta la oportunidad de comprar en el condominio que siempre he admirado, quiero asegurar un lugar allí para finalmente vivir el estilo de vida aspiracional y seguro que he proyectado para mí y mi futuro.",
+        "job_dominante_narrativo": "El cliente está tratando de cumplir una aspiración personal de larga data, materializando el deseo de vivir en un lugar que representa un ideal de éxito y seguridad para él desde su juventud.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J01: Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La conexión emocional y aspiracional con el proyecto. El concepto de 'condominio cerrado' con seguridad y parques privados, que se alinea con su visión de un hogar ideal para el futuro.",
+        "firing_criteria": "Proyectos que fueran 'puerta de calle'. Cualquier opción que no ofreciera la sensación de comunidad cerrada, seguridad y estatus que el proyecto WOW representaba para él.",
+        "trade_offs_reales": "Aceptó retrasos de dos años en la entrega, un aumento significativo en la tasa hipotecaria, acabados de menor calidad a la esperada y el incumplimiento de promesas sobre amenities.",
+        "factores_de_confianza": "La marca del proyecto (a pesar de los problemas del desarrollador anterior) y la visión a largo plazo que tenía del lugar. El acuerdo de descuento por los retrasos le dio la viabilidad para continuar.",
+        "reduccion_de_riesgo": "El descuento de S/50,000 ofrecido por la inmobiliaria mitigó el riesgo financiero del aumento de la tasa de interés, lo que fue clave para no cancelar la venta."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de condominio cerrado, la seguridad, los parques internos y el clubhouse. La historia y la escala del proyecto que conocía desde joven.",
+        "atributos_secundarios": "La tipología exacta del departamento (2 dormitorios) fue una elección funcional dentro del proyecto ya decidido, no un driver principal.",
+        "alternativas_descartadas": "Proyectos en Surquillo, Miraflores o San Isidro fueron descartados porque eran 'puerta de calle' y no cumplían con el criterio aspiracional y de seguridad del condominio cerrado que él buscaba."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Satisfecho con el concepto de vida en el condominio, pero muy insatisfecho con la gestión post-venta, la calidad de los acabados y los incumplimientos de la inmobiliaria. Lo recomendaría 'con advertencia'.",
+        "reservas": "Gran desconfianza hacia la gestión de la inmobiliaria (Arquimia), su falta de liquidez percibida y su tendencia a priorizar costos sobre calidad.",
+        "fricciones_pendientes": "Múltiples problemas de construcción (humedad en balcones), acabados deficientes, amenities prometidas y no entregadas (zona de canes, lavandería), y una comunicación deficiente que le consume mucho tiempo como delegado."
+    },
+    "proyecto": "MUV"
+}

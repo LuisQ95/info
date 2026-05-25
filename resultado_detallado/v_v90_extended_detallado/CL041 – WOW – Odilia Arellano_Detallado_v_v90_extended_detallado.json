@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia con capital disponible inicia una búsqueda de inversión que se transforma en la compra de un nuevo hogar familiar, priorizando la adaptación a las necesidades de sus hijos (universidad, hobbies) y futuros nietos, aceptando la incertidumbre de un proyecto en planos a cambio de un mejor precio y amenities superiores.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive en una casa propia y consolidada. Tienen capital disponible y una mentalidad de inversión activa, habiendo comprado recientemente un local comercial para alquilar. Dos de sus tres hijos adultos aún viven con ellos.",
+        "tension_acumulada": "Existía la necesidad latente de encontrar un espacio para el hijo de 32 años y, a la vez, un plan a futuro para vender la casa grande y mudarse a un lugar más pequeño y funcional. El capital disponible generaba la tensión de encontrar una buena oportunidad de inversión.",
+        "bloqueadores": "El principal bloqueador era el costo. Proyectos de entrega inmediata como 'Move' tenían precios más elevados, lo que no se alineaba con su búsqueda de una buena oportunidad de inversión.",
+        "eventos_habilitadores": "La disponibilidad de capital para una inicial considerable (40%) y la decisión ya tomada de vender su casa actual les daba la flexibilidad para comprometerse con un nuevo proyecto. La experiencia previa de compra de un local les dio confianza para seguir invirtiendo en inmuebles.",
+        "switching_trigger": "Ver una publicidad online del proyecto WOW, que presentaba un precio más competitivo y un paquete de áreas comunes superior, fue el estímulo que los hizo pasar de una búsqueda general a una acción de compra inmediata.",
+        "momento_de_decision": "La decisión fue extremadamente rápida y emocional. Visitaron el proyecto y lo compraron el mismo día 'sin dudar y sin pensarlo', apostando 'a ciegas' por la oportunidad percibida sin una investigación profunda, motivados por el encaje con sus necesidades familiares y el precio."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida es el de una familia en transición, con hijos adultos que están en el umbral de la independencia pero aún integrados en el hogar. La decisión está condicionada por la necesidad de gestionar el patrimonio (vender la casa, invertir capital) y al mismo tiempo reorganizar el espacio habitacional para adaptarse a esta nueva etapa familiar."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario flexible que funcione como una inversión rentable a corto plazo y, principalmente, como un hogar familiar reconfigurado y adaptado a las necesidades de la siguiente generación (hijos y nietos).",
+        "job_statement": "Cuando mi estructura familiar está cambiando y necesito planificar nuestro futuro habitacional, quiero encontrar una propiedad que se adapte a las actividades y necesidades de mis hijos y futuros nietos, para poder facilitar su estilo de vida y mantener la cohesión familiar en un espacio más adecuado.",
+        "job_dominante_narrativo": "La familia está intentando reorganizar su sistema de vida, pasando de una casa grande a un departamento, para adaptarse a la etapa de vida de sus hijos (universidad, hobbies) y prepararse para la llegada de nietos, asegurando que el nuevo hogar apoye estas dinámicas.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La elección se basó en la combinación de una ubicación estratégica (cerca de universidades para los hijos, futuro mall), áreas comunes que satisfacían hobbies específicos (cancha de tenis) y necesidades futuras (juegos para nietos), y una tipología flexible (2+flex) que permitía adaptarla a 3 dormitorios para toda la familia.",
+        "firing_criteria": "Descartaron proyectos de entrega inmediata por su precio más elevado. Cualquier opción que no ofreciera las áreas comunes específicas o la ubicación conveniente para sus hijos habría sido descartada.",
+        "trade_offs_reales": "Aceptaron el riesgo y la incertidumbre de un proyecto en planos (sin fecha de inicio clara) a cambio de un precio más bajo y un mejor paquete de amenities. Sacrificaron la certeza y la inmediatez por un mayor valor percibido a futuro.",
+        "factores_de_confianza": "La confianza inicial fue baja y basada en una apuesta impulsiva ('apostamos a ciegas'). La percepción de una buena zona y el potencial de valorización del proyecto (futuro mall) actuaron como validadores racionales de una decisión emocional.",
+        "reduccion_de_riesgo": "No hubo una reducción de riesgo activa; al contrario, asumieron un riesgo considerable al comprar impulsivamente. La lógica de que 'no hay pérdida' si lo alquilan funcionó como un colchón mental para mitigar el riesgo de la decisión de mudarse."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La cancha de tenis, la piscina, los juegos para niños, la ubicación cerca de universidades y la tipología 2+flex que se podía convertir en 3 dormitorios fueron los atributos que conectaron directamente con las necesidades del sistema familiar.",
+        "atributos_secundarios": "La distribución general o los acabados no fueron mencionados como críticos. La compra fue tan rápida que no hubo tiempo para evaluar detalles secundarios.",
+        "alternativas_descartadas": "El proyecto 'Move' de la misma inmobiliaria fue descartado explícitamente por tener un precio más elevado, a pesar de su ventaja de entrega inmediata."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo (calificado con 4-5/10). La satisfacción con el producto potencial es alta, pero la experiencia post-venta es muy negativa.",
+        "reservas": "Tienen un temor creciente de que el proyecto no se culmine debido a la falta de comunicación y al retraso en el inicio de obras, basado en malas experiencias pasadas.",
+        "fricciones_pendientes": "La principal fricción es la total incertidumbre sobre el avance del proyecto, la comunicación nula y contradictoria de la inmobiliaria, y la ansiedad de tener que realizar un pago final significativo sin ver ningún progreso en la construcción."
+    },
+    "proyecto": "WOW"
+}

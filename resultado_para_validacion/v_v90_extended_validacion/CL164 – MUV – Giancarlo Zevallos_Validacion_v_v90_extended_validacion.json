@@ -1,0 +1,38 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El debate se centra en si el gatillo de compra (Entry Driver) fue la necesidad de establecer una base habitacional (J01) o la proyección de una familia (J04). Aunque la narrativa está llena de planes familiares, la decisión de compra se toma en 2020 cuando él está soltero, tras regresar de vivir en el extranjero. Esto indica que el motor principal fue la necesidad de 'sentar cabeza' y asegurar una base estable (J01). La familia futura actúa como un poderoso Criterio de Selección (Selection Driver), definiendo las características que debía tener esa base (condominio cerrado, seguridad, 2 dormitorios), pero no es el origen de la necesidad de comprar vs. no comprar.",
+        "debate_deal_breaker": "El 'deal-breaker' o factor innegociable fue el formato de 'condominio cerrado'. Descartó explícitamente otras opciones por ser 'puerta de calle'. La seguridad y los espacios privados eran la condición indispensable para avanzar, lo cual refuerza la idea de una base segura y protegida, tanto para él en su nueva etapa como para su futura familia. Sin este atributo, la compra no habría ocurrido en este proyecto.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "Yo en el 2019, más o menos en agosto de 2019, regresé a Perú y estuve viviendo un año en el extranjero",
+                    "comencé a explorar opciones de compra",
+                    "no tenía ningún apuro de mudarme",
+                    "En ese entonces yo tomé la decisión solo, yo todavía no estaba de novio."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no necesitara establecer una base propia tras regresar a Perú, no habría entrado al mercado inmobiliario en ese momento. La compra habría sido pospuesta indefinidamente. Pasa el test."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "proyectamos tener hijos en el 2026, 2027",
+                    "Uno porque pensaba por lo menos en un hijo",
+                    "es un poco más ideal para para tener una familia con con hijos pequeños",
+                    "en el caso de tener dos hijos tendríamos que pensar en en una de tres"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuviera planes de familia, ¿habría comprado igual? Sí, probablemente habría comprado para establecerse, aunque quizás un departamento con otras características. El plan familiar no fue el gatillo, sino el filtro para elegir QUÉ comprar. No pasa el test como Job Dominante."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El Job Dominante es J01. La compra es un acto de establecimiento de una base de vida tras un periodo de transitoriedad (vivir en el extranjero). La decisión se toma en solitario, antes de consolidar su relación. El J04 es un poderoso Job Secundario que dicta todos los criterios de selección del producto (seguridad, condominio, tamaño), pero no origina la entrada al mercado."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista es rica en detalles causales y proporciona una cronología clara de los eventos, desde el contexto previo hasta el estado post-compra. El entrevistado articula con claridad las fuerzas de progreso, los bloqueadores, los criterios de elección y los trade-offs, permitiendo una reconstrucción fiable de la historia de compra y una identificación precisa del Job to be Done."
+}

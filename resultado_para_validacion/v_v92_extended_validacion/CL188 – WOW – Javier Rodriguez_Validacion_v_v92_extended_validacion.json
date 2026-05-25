@@ -1,0 +1,37 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de invertir un capital disponible para generar rentabilidad (J02), basado en un conocimiento previo del mercado de alquiler para estudiantes. El filtro de selección (Selection Driver) es la propuesta de valor del proyecto (J06), que con sus amenities tipo club, baja densidad y tranquilidad, lo diferencia de otras opciones de inversión puramente funcionales.",
+        "debate_deal_breaker": "El factor innegociable es el potencial de inversión del inmueble. Sin la ubicación estratégica cerca de universidades que garantiza una alta demanda de alquiler, la compra no se habría realizado, independientemente de la calidad de las áreas comunes. La rentabilidad es la condición necesaria; el estilo de vida es el diferenciador que cierra la venta.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Lo compré como inversión, con inicio.",
+                    "conocía muy bien el negocio, el lugar, la perspectiva de ese sitio",
+                    "siempre se va a requerir, pues, el alquiler a estudiantes de este inmueble",
+                    "decidí por wow, que estaba más que nada por el precio"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin la lógica de rentabilidad por la cercanía a universidades, la compra no se habría realizado en este momento, ya que no existe una necesidad de vivienda."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Pesa bastante cuando tú ingresas a las áreas comunes. Entonces es formidable lo que han hecho ahí",
+                    "Es como un mini condominio, un mini club dentro. Y pues... Eso también marcó mucho en la decisión.",
+                    "La vista era preciosa, ¿no? O sea, estaba muy bonita."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habría comprado una propiedad para invertir aunque no tuviera estas áreas comunes, pero estas fueron las que hicieron que eligiera WOW sobre otras opciones."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra es gobernada por J02. El cliente entra al mercado para desplegar capital en una propiedad de alquiler, apalancando su conocimiento del mercado estudiantil. J06 actúa como un poderoso filtro de selección; la propuesta de valor aspiracional del proyecto (amenities, baja densidad, vista) lo convierte en la opción ganadora frente a otras alternativas de inversión competidoras."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Se puede identificar con precisión el Entry Driver (inversión, J02) y los Selection Drivers (amenities y tranquilidad, J06), permitiendo un análisis robusto de la decisión de compra. El cliente articula claramente las fuerzas de empuje, atracción y las alternativas consideradas."
+}

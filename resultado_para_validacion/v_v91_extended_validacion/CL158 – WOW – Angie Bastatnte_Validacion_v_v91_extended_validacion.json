@@ -1,0 +1,34 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada fue una necesidad latente de mejorar el entorno familiar (J04). Sin embargo, el filtro de selección decisivo fue la propuesta de valor única del producto (amenities tipo club), que activó una demanda aspiracional (J06). El producto creó la urgencia, no el problema.",
+        "debate_deal_breaker": "El deal-breaker absoluto fue la financiación. La condición de poder pagar sin banco para proteger su línea de crédito empresarial era innegociable. Si no se ofrecía esta facilidad, no compraban. Esto revela un fuerte componente patrimonial (J02) subordinado a la atracción del producto (J06).",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nuestro hijo es pequeño, la ciudad está muy peligrosa, que no estén saliendo tanto",
+                    "mi otro hijo el próximo año termina y está buscando una beca deportiva en la UPC"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el proyecto no tuviera las áreas comunes únicas pero sí la ubicación, ¿compraría? No. La familia era el contexto que justificaba la compra, pero no el motor que la forzaba."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "unas áreas comunes que me parece extraño que existan acá en Lima, porque es como un club",
+                    "acá lo que nos jaló fue las áreas comunes. Ese fue el plus."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera estas áreas comunes, ¿compraría? No. La propuesta de valor del producto fue el factor que activó la decisión y la diferenció de todas las demás alternativas."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J04: Acompañar crecimiento familiar",
+        "resolucion_del_tribunal": "La compra es gobernada por el J06. No existía una necesidad funcional urgente que forzara la mudanza. La decisión fue activada por el deseo generado por un producto con una propuesta de valor (amenities) percibida como excepcional y única en el mercado. Las necesidades familiares (J04) funcionaron como un poderoso conjunto de criterios de contratación que validaron y dieron sentido práctico a una compra fundamentalmente aspiracional."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista proporciona una narrativa causal detallada, evidencia clara de las tensiones, bloqueadores y el trigger. Permite un análisis profundo de la lógica de demanda y elección, con citas textuales que sustentan la identificación de un Job Dominante claro y la interacción con Jobs secundarios."
+}

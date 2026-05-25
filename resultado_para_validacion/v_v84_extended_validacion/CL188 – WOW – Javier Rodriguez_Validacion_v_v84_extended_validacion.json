@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El cliente entra al mercado con un claro objetivo de inversión (Gatillo - J02), motivado por un capital disponible y su conocimiento del mercado de alquiler para estudiantes. Las características aspiracionales del proyecto, como el 'mini club', la baja densidad y la tranquilidad, funcionan como un poderoso Filtro de Selección (J06) que lo lleva a elegir WOW sobre otras alternativas de inversión, pero no son el origen de la necesidad de compra.",
+        "debate_deal_breaker": "El deal-breaker fue la alta densidad de los proyectos competidores ('una edificación, pues, de 25 pisos de altura'). El cliente buscaba activamente un entorno de baja densidad y tranquilidad, similar a su experiencia en condominios. La propuesta de WOW como un condominio cerrado con edificios de pocos pisos fue el factor innegociable que aseguró la elección.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Lo compré como inversión, con inicio.",
+                    "la OPC siempre va a tener estudiantes, la ESAN siempre va a tener estudiantes... y siempre se va a requerir, pues, el alquiler a estudiantes de este inmueble, ¿no?",
+                    "Así que sí decidí por wow, que estaba más que nada por el precio."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin la necesidad de rentabilizar su capital, la compra no se habría realizado en este momento, ya que su situación laboral le impide establecerse en un lugar fijo."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "si yo quisiera tener un hijo... Yo quisiera que viva acá, que tenga toda esta experiencia que quizás yo no la tuve. Es como un mini condominio, un mini club dentro.",
+                    "la tranquilidad y este cero contacto con el exterior, por así decirlo, te da una tranquilidad y paz estar dentro de un condominio.",
+                    "si yo llego cansado, a las siete, ocho de la noche, quiero sentarme y lo que quiero ver es esto."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, probablemente habría comprado otra propiedad como inversión si esta no hubiera estado disponible, aunque las características de WOW lo convirtieron en la opción preferida."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra está gobernada por J02. El cliente ingresa al mercado para rentabilizar un capital, una decisión racional basada en su conocimiento del mercado de alquiler. Los potentes atributos aspiracionales del proyecto (J06) no son el origen de la transacción, sino los criterios de selección decisivos que justifican la elección de WOW sobre otras opciones de inversión. El J06 define el 'qué', pero el J02 define el 'porqué' de la compra en este momento."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J02: Proteger y flexibilizar el patrimonio, con un fuerte componente de J06: Expresar identidad y coherencia personal como criterio de selección.",
+    "justificacion": "El cliente entra al mercado explícitamente para invertir un capital ('Lo compré como inversión'). Su análisis se centra en la rentabilidad y el potencial de alquiler a estudiantes. Si bien los atributos aspiracionales del proyecto (club, vista, tranquilidad) son determinantes para la *elección* de WOW, no constituyen el *origen* de la necesidad de compra. El test canónico lo confirma: sin la necesidad de invertir, la compra no habría ocurrido en este momento, dado su estilo de vida laboral itinerante."
+}

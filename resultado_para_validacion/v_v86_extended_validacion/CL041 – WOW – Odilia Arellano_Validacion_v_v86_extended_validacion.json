@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es una lógica de inversión (J02), buscando colocar un capital disponible. Sin embargo, el filtro de selección del producto específico está completamente dominado por la necesidad de reconfigurar la vivienda familiar a futuro (J04), que dicta la ubicación, tipología y amenidades.",
+        "debate_deal_breaker": "La dualidad de la propiedad como inversión segura y futuro hogar familiar es el verdadero innegociable. Si fallaba como activo patrimonial a largo plazo (J02), el riesgo para la mudanza familiar (J04) sería inaceptable. Inversamente, si no cumplía los requisitos funcionales de la familia (J04), no sería la inversión elegida.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "quisimos comprar como para, para inversión",
+                    "a futuro, mudarnos para allá",
+                    "si yo no vendo mi casa... yo lo podría alquilar y no, yo no lo veo ahí este mal inversión"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin la lógica de ser una buena inversión y un resguardo de capital, no habrían comprometido un monto tan significativo ni iniciado un cambio de vida tan grande."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "vamos a ir a vivir porque... Ya está en venta la casa",
+                    "pensando en ellos [nietos] que quizás en algún momento... se adquirió esa propiedad",
+                    "mis dos hijos... necesitaban tres dormitorios"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habrían comprado una propiedad como inversión de todas formas, pero probablemente hubiese sido otra tipología o en otro proyecto si no tuviera el objetivo de mudanza familiar."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La compra se origina por una decisión de alocación de capital (J02). La necesidad de reconfiguración familiar (J04) no es el gatillo, sino el conjunto de criterios de selección que definen qué producto específico se contrata. J02 explica el 'porqué comprar ahora', mientras que J04 explica el 'porqué comprar este'. Por tanto, J02 es el driver dominante de entrada."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista reconstruye de manera clara la secuencia causal, desde la intención inicial de inversión (J02) hasta la evolución hacia una solución de vivienda familiar (J04). Proporciona evidencia sólida sobre los criterios de selección, los trade-offs y el estado emocional post-compra, permitiendo un análisis robusto."
+}

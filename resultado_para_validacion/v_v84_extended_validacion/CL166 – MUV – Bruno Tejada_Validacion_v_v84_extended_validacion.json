@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada es una búsqueda latente de vivienda que se activa en el contexto de incertidumbre post-pandemia. Sin embargo, el filtro de selección y verdadero motor de la decisión son las áreas comunes del proyecto, que el cliente (arquitecto) identifica como la mejor propuesta de valor del mercado. La compra es 'No Problem-Driven', activada 100% por la atracción hacia el producto.",
+        "debate_deal_breaker": "El innegociable absoluto son las áreas comunes. Si el proyecto no tuviera esta oferta superior, el cliente no habría comprado. Esto se confirma cuando descarta a la competencia ('Hometown') basándose únicamente en la comparativa de amenities en los brochures, sin necesidad de una visita física.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "para mí, de hecho, el principal fuerte de este proyecto son las áreas comunes que tienen",
+                    "la decisión de compra no nace de la visita, sino no nace del material de brochures y del material de marketing",
+                    "solo comparé las áreas comunes, solo con los brochures y con eso ya tenía la decisión tomada"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. La superioridad de las áreas comunes fue el factor decisivo y el origen del interés. Sin este atributo, el proyecto no tendría un diferenciador para él."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "de que iba a ser mi departamento de soltero, me casé y luego tuve mi hijito",
+                    "entonces ese departamento de dos, de dos dormitorios ya me quedaba chico y tuve que tuve que más bien pasar a comprar uno de tres"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Compraría igual. El matrimonio y el hijo ocurrieron 4 años DESPUÉS de la decisión de compra inicial. La familia no fue el driver de origen, sino una circunstancia posterior que forzó una modificación del producto ya comprado."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "La decisión de compra se origina en 2020, cuando el cliente era soltero. El motor de la compra es puramente aspiracional (J06), activado por la propuesta de valor superior de las áreas comunes del proyecto. El cambio a una dinámica familiar ocurre 4 años después debido a retrasos en la entrega, forzando un cambio de tipología, pero no altera el Job de origen. La compra es un claro caso de J06 Racional Aspiracional, donde el producto crea la demanda."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J06: Expresar identidad y coherencia personal (Racional Aspiracional).",
+    "justificacion": "La compra se origina cuando el cliente es soltero y sin ninguna necesidad funcional o de estabilidad que resolver. El único y repetido motivo de la elección es la superioridad de las áreas comunes del proyecto, que él, como arquitecto, identifica como la mejor propuesta de valor del mercado. El cambio a una dinámica familiar (J04) es una circunstancia que ocurre 4 años después de la decisión de compra, lo que lo obliga a adaptar el producto, pero no cambia el Job de origen, de acuerdo con el Principio de Temporalidad."
+}

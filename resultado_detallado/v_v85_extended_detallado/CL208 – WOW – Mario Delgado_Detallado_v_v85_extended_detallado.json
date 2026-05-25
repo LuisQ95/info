@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Un cliente a punto de jubilarse decide invertir su capital en un activo inmobiliario para asegurar su futuro financiero, eligiendo un proyecto que lo cautivó por su propuesta de estilo de vida y áreas comunes.",
+    "historia_causal": {
+        "contexto_previo": "Cliente de 65 años, viviendo cómodamente con su esposa en una propiedad propia en Surco. No tenía ninguna necesidad ni plan activo de mudarse o comprar otro inmueble.",
+        "tension_acumulada": "La conciencia de que pronto recibiría una suma importante de dinero por su jubilación y la necesidad latente de invertirlo de manera segura y rentable para asegurar su vejez.",
+        "bloqueadores": "Inexistencia de una búsqueda activa. El estado por defecto era 'no hacer nada' hasta que se presentó una oportunidad concreta.",
+        "eventos_habilitadores": "La recepción inminente de sus fondos de jubilación (AFP). El hecho de que su hija trabajara como agente inmobiliaria y tuviera acceso a proyectos.",
+        "switching_trigger": "Su hija le presentó el proyecto WOW. La visita al proyecto y el enamoramiento del concepto y sus áreas comunes convirtieron la idea abstracta de 'invertir' en una decisión de compra concreta.",
+        "momento_de_decision": "La decisión fue extremadamente rápida y emocional, descrita como 'amor a primera vista'. No hubo un proceso de comparación con otros proyectos inmobiliarios; la elección se basó en el atractivo inmediato del producto presentado."
+    },
+    "contexto_activador": {
+        "marco_general": "Hombre de 66 años en transición a la jubilación, con capital disponible para invertir. Vive con su esposa en una zona consolidada (Surco) y valora tanto la seguridad financiera como un estilo de vida de calidad. Sus decisiones están influenciadas por el bienestar y la conveniencia de su familia (hijos universitarios, posible uso futuro del inmueble por su hija)."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar y hacer crecer su patrimonio de jubilación a través de un activo tangible que ofrezca flexibilidad: generar ingresos pasivos, revalorizarse con el tiempo o servir como una opción de vivienda para su familia en el futuro.",
+        "job_statement": "Cuando recibo el dinero de mi jubilación, quiero invertirlo en una propiedad atractiva para proteger mi capital y generar una renta segura para mi vejez.",
+        "job_dominante_narrativo": "El cliente está intentando transformar su capital de jubilación en un activo inmobiliario seguro y flexible para garantizar su tranquilidad financiera futura y mantener opcionalidad para su familia.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El concepto general del condominio, un 'clubhouse' completo (piscina temperada, gimnasio, cancha de tenis), la flexibilidad de la tipología (2 dormitorios + flex) y un plan de pagos conveniente por ser de los primeros compradores.",
+        "firing_criteria": "Proyectos con precios más elevados por estar ya terminados. Proyectos en ubicaciones que complicaran la logística diaria (como se vio en la compra de su segunda propiedad).",
+        "trade_offs_reales": "Aceptó una ubicación que, aunque conocida, era distante. Toleró una incertidumbre y demoras de más de dos años en la construcción. Renunció a un piso más alto que deseaba inicialmente.",
+        "factores_de_confianza": "La recomendación inicial de su hija, que trabajaba en el sector. A pesar de los problemas, renovó la confianza en la empresa al firmar una adenda en lugar de exigir la devolución de su dinero.",
+        "reduccion_de_riesgo": "Inicialmente, el plan de pagos semestrales y directos ofrecía flexibilidad. Sin embargo, el riesgo aumentó significativamente con los retrasos, lo que lo llevó a negociar aplazamientos de pago para mitigar la falta de avance en la construcción."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes fueron el factor principal y decisivo. La cancha de tenis, la piscina y el gimnasio crearon una visión de estilo de vida que lo 'enamoró' del proyecto como inversión.",
+        "atributos_secundarios": "La distribución interna del departamento fue considerada estándar y no un diferenciador clave. La ubicación fue aceptada, pero no fue el principal atractivo.",
+        "alternativas_descartadas": "No se consideraron activamente otros proyectos inmobiliarios para esta inversión. La alternativa principal era una inversión no inmobiliaria, como la bolsa. Descartó comprar unidades terminadas de la misma inmobiliaria por ser más caras."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy bajo con el proceso post-venta. Describe los dos años de espera como de 'incertidumbre' y 'constante malestar', lo que le impediría recomendar un proyecto en planos de la empresa.",
+        "reservas": "Profunda desconfianza en la capacidad de la empresa para cumplir con los plazos y comunicarse de manera transparente y proactiva.",
+        "fricciones_pendientes": "La construcción del proyecto aún no ha comenzado o está en una fase muy inicial. Existe una tensión continua sobre los plazos de entrega y los pagos finales, gestionada a través de adendas y presión por parte del cliente."
+    },
+    "proyecto": "WOW"
+}

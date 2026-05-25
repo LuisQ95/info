@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente inversionista adquiere una propiedad como negocio para generar renta, activado por una oferta de su banco. La posibilidad de habitarla en el futuro es un beneficio secundario que añade flexibilidad al activo, pero no el motor de la compra.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vive cómodamente en una casa propia de tres pisos en Chorrillos con su madre. Posee experiencia previa en inversiones inmobiliarias junto a su familia y estaba en la búsqueda activa de un préstamo de capital significativo ($200k-$300k) para realizar una nueva inversión.",
+        "tension_acumulada": "La tensión principal era el costo de oportunidad de tener capital disponible o acceso a crédito sin que este estuviera generando una rentabilidad activa. Buscaba una forma de hacer que el dinero 'vaya circulando'.",
+        "bloqueadores": "El principal bloqueador fue la negativa del banco (BanBif) a desembolsarle un préstamo en efectivo del monto que solicitaba, lo que le impedía invertir de forma autónoma en el activo que él eligiera.",
+        "eventos_habilitadores": "El banco, en lugar del préstamo en efectivo, le ofreció acceso a su cartera de proyectos inmobiliarios con financiamiento hipotecario. Esto le abrió una vía concreta y viable para canalizar su intención de inversión.",
+        "switching_trigger": "La presentación por parte del sectorista del banco de una lista de proyectos, entre los cuales 'WOW' destacó inmediatamente por su ubicación estratégica (potencial de alquiler a estudiantes de la UPC) y un precio competitivo, convirtiendo una búsqueda genérica de inversión en la evaluación de un activo específico.",
+        "momento_de_decision": "El proceso fue rápido y racional. Visitó el proyecto con su hermano (ingeniero civil) para validar su potencial. A pesar de detectar detalles de mantenimiento en las áreas comunes, el atractivo de la inversión (precio, ubicación, tipología) fue suficiente para proceder a la compra, separando la unidad tras la visita."
+    },
+    "contexto_activador": {
+        "marco_general": "Un inversionista con experiencia, que opera dentro de un núcleo familiar con conocimientos técnicos en construcción (hermano ingeniero, hermana arquitecta), busca activamente desplegar capital para generar ingresos pasivos. Su decisión se activa cuando su entidad financiera le presenta una oportunidad de inversión inmobiliaria concreta y financiable, que se alinea con sus criterios de rentabilidad y ubicación estratégica."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo patrimonial que genere un flujo de ingresos pasivos y constantes a través del alquiler, y que al mismo tiempo ofrezca la flexibilidad de convertirse en una opción de vivienda a futuro si las circunstancias cambian.",
+        "job_statement": "Cuando busco invertir mi capital, quiero adquirir un departamento en una ubicación estratégica con alta demanda de alquiler, para poder generar una renta mensual estable y proteger mi patrimonio a largo plazo.",
+        "job_dominante_narrativo": "El cliente está intentando colocar su capital en un activo inmobiliario para generar un negocio de renta. Su objetivo es que la propiedad se pague a sí misma y genere un excedente, asegurando una inversión sólida y flexible.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación estratégica cerca a la UPC, ideal para el negocio de alquiler. El precio competitivo del metro cuadrado. La tipología de 2 dormitorios, que es estándar para el mercado de renta. Las áreas comunes tipo club, que añaden valor al alquiler y a un potencial uso personal.",
+        "firing_criteria": "Proyectos con precios más elevados (San Isidro, Jesús María). Constructoras con prácticas contractuales que no le generaban confianza. Propiedades que no tuvieran un claro potencial de negocio.",
+        "trade_offs_reales": "Aceptó un contrato de adhesión rígido y sin posibilidad de negociación, a pesar de su experiencia y desacuerdo. Toleró una comunicación post-venta deficiente y una actitud que percibió como 'angurrienta' por parte de la constructora, a cambio de asegurar un activo que consideraba una buena inversión.",
+        "factores_de_confianza": "La preselección del proyecto por parte de su banco (BanBif) actuó como un primer filtro. Su propia experiencia y el conocimiento técnico de su familia (hermano ingeniero) le dieron seguridad para evaluar la viabilidad y calidad de la inversión.",
+        "reduccion_de_riesgo": "La percepción de que el precio estaba alineado con el mercado actual. Su conocimiento previo de la zona y su potencial de crecimiento. La validación de la propiedad en una visita física junto a su hermano."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación del proyecto, que él conocía y valoraba por su crecimiento. El concepto de 'club' con piscina y cine. El precio, que consideró bueno y dentro de lo que el banco podía financiar. La distribución del departamento de 2 dormitorios.",
+        "atributos_secundarios": "La promesa de una futura conexión vial hacia El Polo. El piso específico en el que se ubicaba el departamento disponible (Piso C).",
+        "alternativas_descartadas": "Un proyecto en Jesús María y otro en San Isidro ofrecidos por el mismo banco, que eran más caros. Proyectos de otras constructoras cuyas formas de trabajo y contratos no le gustaron en experiencias pasadas."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo con el proceso, alto con el activo. Manifiesta una gran frustración con la inflexibilidad del contrato y la falta de seguimiento post-venta, describiendo a la constructora como 'angurrienta' y con prácticas 'arbitrarias'.",
+        "reservas": "Una profunda desconfianza hacia la constructora por la rigidez del contrato, la falta de penalidades por retraso y la sensación de que todo está a favor de ellos. Le preocupa el mantenimiento futuro de las áreas comunes y su capacidad para atender a todos los residentes.",
+        "fricciones_pendientes": "La obra aún no ha comenzado y ya fue postergada de julio a noviembre. La falta de comunicación proactiva sobre el estado del proyecto. La relación con la constructora es tensa desde el inicio, lo que anticipa posibles conflictos en la etapa de entrega y post-venta."
+    },
+    "proyecto": "WOW"
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la necesidad estructural de más espacio debido al crecimiento familiar (matrimonio y dos hijos), que vuelve obsoleto su departamento de soltero. El filtro de selección fue la ubicación conveniente y, de manera decisiva, la certeza de la licencia de construcción del proyecto, que lo posicionó como una opción de menor riesgo frente a un competidor directo que estaba paralizado.",
+        "debate_deal_breaker": "El factor innegociable era el número de habitaciones. La compra no habría ocurrido si el cliente no hubiera formado una familia. Si el proyecto no hubiera ofrecido el espacio necesario, habría buscado otra alternativa que sí lo hiciera. La ubicación y la temática eran deseables, pero la adecuación del espacio a la familia era la condición sine qua non.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "era mi departamento de soltero y ya me casé y tuve que comprar un departamento con dos habitaciones.",
+                    "en el transcurso mi esposa sale embarazada y entonces ya tenía que pensar en comprar un departamento con tres habitaciones.",
+                    "Como como te dije, que era mi departamento de una habitación. Una habitación. [...] Entonces, yo me casé y tuve un hijo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No compraría. La transición de un departamento de soltero a uno familiar fue la única causa de la compra. Sin el crecimiento familiar, se habría quedado en su propiedad anterior."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "Yo vivía muy cerca.",
+                    "como vivía cerca, vi el proyecto, me gustó la temática",
+                    "pasaba siempre y veía la ubicación. La ubicación me parecía bonita"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Compraría igual en otra ubicación. Aunque la cercanía era un atributo valorado para la selección, la necesidad fundamental era el espacio. Habría buscado otro proyecto con 3 habitaciones si este no hubiera estado disponible."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "El cliente ya era propietario, lo que descarta J01. La compra es una respuesta directa a una desalineación estructural entre su vivienda (departamento de soltero) y su nueva realidad familiar (matrimonio e hijos). La necesidad de más habitaciones es el único motor que activa la búsqueda y la decisión. Por lo tanto, se clasifica inequívocamente como J04, donde el sistema familiar subordina completamente la transacción."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J04: Acompañar el crecimiento familiar.",
+    "justificacion": "La evidencia es contundente. El cliente ya era propietario, lo que anula J01. La compra se activa exclusivamente por la inadecuación de su 'departamento de soltero' ante la llegada de su esposa e hijos. La narrativa se centra por completo en la necesidad de más habitaciones para adaptarse a la nueva dinámica familiar. Este es un caso canónico de J04, donde el producto es 'contratado' para resolver una desalineación estructural entre la vivienda y el sistema familiar."
+}

@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la atracción por la propuesta de valor superior del proyecto, específicamente sus áreas comunes, que el cliente, como arquitecto, identifica como las mejores del mercado. La necesidad de más espacio por crecimiento familiar surge 4 años después de la compra inicial, funcionando como un filtro de selección para cambiar la tipología, pero no como el motivador original de la compra.",
+        "debate_deal_breaker": "El deal breaker es la calidad y amplitud de las áreas comunes. El cliente afirma que su interés nació de ahí y que fue el factor decisivo al comparar con otros proyectos. Sin esta propuesta de valor diferencial, no habría comprado. El crecimiento familiar posterior no fue un deal breaker para la compra original; de no haber ocurrido, se habría quedado con el departamento de soltero.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Para mí, de hecho, el principal fuerte de este proyecto son las áreas comunes que tienen.",
+                    "La decisión de compra no nace de la visita, sino nace del material de brochures y del material de marketing.",
+                    "Era para mí mucho más fácil... comprender mucho más rápido pues el valor o no de ese proyecto."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. El cliente es explícito en que la superioridad de las áreas comunes fue lo que originó su interés y decisión."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "En el transcurso de eso, de que iba a ser mi departamento de soltero, me casé y luego tuve mi hijito.",
+                    "Ese departamento de dos, de dos dormitorios ya me quedaba chico y tuve que más bien pasar a comprar uno de tres."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí, compraría igual. La compra original se realizó cuando era soltero. El cambio familiar ocurrió años después, forzando una adaptación, no originando la compra."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "El Job Dominante es J06. La compra es 'No Problem-Driven', activada por el deseo de poseer un producto con una propuesta de valor superior, validada por su criterio profesional como arquitecto. El cambio a un departamento más grande por crecimiento familiar (J04) es una adaptación forzada por circunstancias posteriores a la decisión de compra original y no el motor de la misma, según el Principio de Temporalidad."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la historia causal de la compra. Se logra aislar el 'Entry Driver' original (J06, aspiracional) de los eventos de vida posteriores (matrimonio, hijo) que forzaron una adaptación del producto. La narrativa del cliente es coherente y rica en detalles sobre sus criterios de decisión y su experiencia post-compra, lo que permite un análisis robusto."
+}

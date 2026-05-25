@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es el plan de jubilación y retorno a Perú en 2-3 años. Este es un cambio de vida estructural. El filtro de selección (Selection Driver) es la proximidad a su red familiar, que define la ubicación geográfica de la búsqueda, pero no origina la necesidad de compra.",
+        "debate_deal_breaker": "El verdadero deal-breaker es el plan de jubilación. Sin el plan de regresar a Perú, la compra no se realizaría. La cercanía a la familia es un 'deal-breaker' a nivel de proyecto/ubicación: si un proyecto no cumplía con estar en ese radio familiar, era descartado, pero la búsqueda de otro proyecto en la zona habría continuado.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J05 - Cerrar una etapa y avanzar",
+                "citas_textuales_evidencia": [
+                    "Eh, la idea es ir a vivir a al Perú, este, de aquí más o menos a unos dos o tres años.",
+                    "Eh, yo me... yo me jubilo en dos años.",
+                    "Entonces se me hace mucho más factible, o sea, y en verdad mucho más barato vivir allá con mi pensión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuviera el plan de jubilarse y regresar a Perú, ¿compraría la propiedad? No, la compra no tendría sentido."
+            },
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "La ubicación para mí es perfecta porque está entre la casa de mi mami, el departamento de mi mamá y el departamento de mi hermana.",
+                    "Sí, sí, porque quiero estar cerca de la familia.",
+                    "Y está la familia. Acá es lindo y todo, pero estamos... o sea, yo soy la única que emigró."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si se jubilara y regresara a Perú pero su familia viviera en otra ciudad, ¿compraría una propiedad? Sí, pero en esa otra ciudad. La familia dicta el 'dónde', no el 'porqué'."
+            }
+        ],
+        "job_dominante_final": "J05 - Cerrar una etapa y avanzar",
+        "job_secundario_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es un habilitador directo para una transición de vida mayor: la jubilación y el retorno al país. Este evento estructural (J05) es el origen de la necesidad. La proximidad familiar, aunque es un criterio de selección crítico, no es el motor de la decisión, sino el principal filtro para elegir la ubicación. El alquiler temporal del inmueble es una optimización patrimonial (J02) hasta que se concrete la mudanza."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J05 - Cerrar una etapa y avanzar.",
+    "justificacion": "La decisión de compra es una consecuencia directa y un habilitador clave de un cambio de vida estructural: la jubilación y el regreso a su país de origen. Sin este evento transformador, la compra no ocurriría. La fuerte necesidad de estar cerca de la familia funciona como el principal criterio de selección que define la ubicación, pero no es el origen de la demanda. Por lo tanto, la familia es el 'dónde' (filtro), mientras que la jubilación es el 'porqué' (Job Dominante)."
+}

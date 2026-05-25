@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra de soporte familiar, donde los padres adquieren una propiedad para resolver la necesidad de vivienda segura y conveniente de su hija que se mudó a Lima para estudiar en la universidad, utilizando un capital disponible para transformar un gasto (alquiler) en un activo patrimonial.",
+    "historia_causal": {
+        "contexto_previo": "La familia reside en Tacna. Su hija se muda a Lima para iniciar sus estudios universitarios de medicina en la UPC, lo que genera una nueva dinámica familiar a distancia.",
+        "tension_acumulada": "Surge la necesidad inmediata de encontrar una vivienda para la hija en Lima. Los padres sienten la tensión de asegurar un lugar que no solo sea funcional, sino principalmente seguro y que facilite su vida académica, minimizando las fricciones de una ciudad grande y desconocida.",
+        "bloqueadores": "Inicialmente, el enfoque estaba en alquilar, no en comprar. La falta de una opción que generara confianza total y la logística de buscar a distancia eran los principales frenos para tomar una decisión definitiva.",
+        "eventos_habilitadores": "La disponibilidad de capital proveniente de la venta de unos terrenos por parte de la esposa fue el habilitador económico clave. A esto se sumó la experiencia directa y positiva al alquilar un departamento en el complejo Magna House, que les permitió validar la seguridad, el mantenimiento y la conveniencia de la ubicación.",
+        "switching_trigger": "La combinación de la necesidad de vivienda de la hija con la disponibilidad de capital y la experiencia positiva en el complejo Magna House activó la decisión de pasar de buscar un alquiler a considerar seriamente la compra en el proyecto WOW, ubicado en el mismo lugar.",
+        "momento_de_decision": "La decisión fue casi inmediata. Al estar ya convencidos por la calidad del complejo donde alquilaban, la visita al proyecto WOW fue una confirmación. La compra se decidió rápidamente, motivada por la oportunidad de asegurar un lugar para su hija y dejar de gastar en alquiler."
+    },
+    "contexto_activador": {
+        "marco_general": "El cliente opera dentro de un sistema familiar con un fuerte sentido de responsabilidad y soporte, donde los padres, residiendo en provincia (Tacna), toman decisiones para facilitar la transición y el bienestar de su hija que inicia una etapa de vida independiente en la capital por motivos de estudio. La decisión está condicionada por la necesidad de control y seguridad a distancia."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la tranquilidad de saber que su hija vive en un entorno seguro, estable y conveniente mientras está lejos de casa, transformando un gasto recurrente en una inversión patrimonial que beneficia a la familia a largo plazo.",
+        "job_statement": "Cuando mi hija se muda a otra ciudad para estudiar en la universidad, quiero comprarle un departamento propio en un lugar seguro y cercano a su centro de estudios, para poder darle el soporte necesario para su desarrollo y tener la tranquilidad de que está bien.",
+        "job_dominante_narrativo": "Los padres están intentando configurar un sistema de soporte a distancia para su hija, asegurando que su entorno habitacional no sea una fuente de estrés o riesgo, sino una base sólida que le permita enfocarse en sus estudios y su nueva vida en Lima.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La seguridad del condominio cerrado fue el factor principal. La proximidad a la universidad (UPC) era innegociable para facilitar la logística diaria de su hija. La calidad del mantenimiento, la limpieza y la amabilidad del personal del complejo existente (Magna House) validaron la decisión. La tipología de 2 dormitorios + flex ofrecía la funcionalidad necesaria para la hija y para las visitas de los padres.",
+        "firing_criteria": "Descartaron automáticamente opciones en pisos muy altos por preferencia personal. También descartaron unidades ruidosas, como las que daban directamente a la cancha de tenis, tras haber experimentado la molestia en un alquiler temporal. Proyectos en otras zonas, aunque céntricas como Miraflores, fueron descartados por no ofrecer el mismo nivel de seguridad percibida.",
+        "trade_offs_reales": "Aceptaron el riesgo y la incertidumbre de comprar en planos, con las consiguientes demoras en la entrega, a cambio de poder elegir la ubicación exacta del departamento (piso bajo, orientación específica). Sacrificaron la inmediatez de una propiedad lista por la personalización de la elección.",
+        "factores_de_confianza": "La experiencia positiva y tangible como inquilinos en el complejo adyacente (Magna House) fue el mayor factor de confianza. La buena relación y persuasión del vendedor inicial (Jorge) también contribuyó a animarlos a tomar la decisión.",
+        "reduccion_de_riesgo": "El riesgo se redujo al conocer de primera mano el estándar de calidad, seguridad y mantenimiento del condominio. Comprar en un proyecto de la misma inmobiliaria y en el mismo lugar donde ya tenían una experiencia positiva les dio seguridad sobre la calidad del producto final."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La seguridad (condominio cerrado, control de acceso), la ubicación estratégica (a 5 minutos de la UPC), la calidad del mantenimiento y el personal, y la tipología funcional (2 dormitorios + flex) que se adaptaba a sus necesidades familiares.",
+        "atributos_secundarios": "La cochera y el depósito, que finalmente compraron, eran valorados pero no el motivo principal de la compra. Las áreas comunes como la piscina eran un plus, pero no decisivas.",
+        "alternativas_descartadas": "Descartaron departamentos listos para entrega en MUV (el mismo complejo) por estar en pisos muy altos o tener una distribución no adecuada (1 dormitorio o cerca de la cancha de tenis). Otros proyectos en zonas como El Derby o Miraflores fueron descartados por no cumplir con el criterio de seguridad y tranquilidad que buscaban."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Muy alta con el concepto del proyecto y la decisión de compra (calificada con un 7/10, que sería 10/10 sin las demoras), pero muy baja con la experiencia post-venta debido a los retrasos, la mala comunicación y el mal trato recibido por parte de un asesor.",
+        "reservas": "La principal reserva es la incertidumbre sobre la fecha final de entrega y la desconfianza generada por la mala gestión de la comunicación por parte de la inmobiliaria.",
+        "fricciones_pendientes": "La necesidad de extender el contrato de alquiler de su hija, incurriendo en gastos no planificados. La angustia y molestia por la falta de avances visibles en la construcción y la comunicación deficiente. El pago final del departamento está pendiente y condicionado a los avances de la obra."
+    },
+    "proyecto": "WOW"
+}

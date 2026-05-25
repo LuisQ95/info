@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) fue una aspiración de larga data por vivir en un condominio específico que el cliente admiraba desde su juventud (J06). Esta compra no fue impulsada por una necesidad funcional inmediata. La proyección de una futura familia (J04) actuó como un filtro de selección (Selection Driver), determinando la elección de una tipología de 2 dormitorios, pero no originó la decisión de compra.",
+        "debate_deal_breaker": "El factor innegociable fue la propuesta de valor del proyecto: un condominio cerrado, grande, con seguridad y parques internos, que materializaba su aspiración. Descartó explícitamente otras opciones por ser 'puerta de calle'. La compra se habría realizado incluso sin los planes familiares futuros, aunque probablemente en otra tipología. Por lo tanto, el proyecto en sí era el deal-breaker, no la configuración familiar.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Para mí, personalmente, este proyecto, como te digo, ya tenía un tema emocional.",
+                    "qué bacán, qué bonito sería vivir en algún momento en un condominio grande como este",
+                    "me terminé decidiendo por este. En ese entonces yo tomé la decisión solo, yo todavía no estaba de novio."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. El cliente descartó otras opciones precisamente porque no ofrecían la propuesta de valor aspiracional y de estilo de vida de este condominio en particular."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Yo lo hice proyectándome.",
+                    "proyectamos tener hijos en el 2026, 2027.",
+                    "Uno, porque pensaba por lo menos en un hijo."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, compraría igual. La decisión original se tomó en solitario, antes de tener novia. La aspiración por el proyecto precede a los planes familiares. Habría comprado una unidad diferente, pero la compra en este proyecto se habría concretado."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La compra fue originada por un deseo aspiracional (J06) de larga data, activado por una oportunidad de preventa. El cliente tomó la decisión inicial de compra estando soltero. La posterior planificación familiar (J04) no fue el motor de la compra, sino un criterio de selección que definió la configuración del producto (2 dormitorios). La aplicación del Principio de Temporalidad es crucial para identificar correctamente el Job Dominante en el momento de la decisión."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista proporciona una narrativa causal rica y detallada, que permite aplicar el Principio de Temporalidad para distinguir claramente entre el Entry Driver (J06, aspiracional) y los Selection Criteria (J04, proyección familiar). El cliente articula con claridad la historia, los trade-offs y las fricciones, validando el análisis."
+}

@@ -1,0 +1,35 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de dejar de alquilar y tener una propiedad familiar segura y propia (J01). Los filtros de selección (Selection Drivers) son las necesidades específicas de la familia: cercanía a la universidad para los hijos mayores, áreas comunes para los hermanos menores y un primer piso por la salud del padre. La familia no compra *porque* los hijos van a la universidad; *ya que* han decidido comprar para tener algo propio, eligen una opción que resuelva esas necesidades logísticas.",
+        "debate_deal_breaker": "El verdadero innegociable es la transición de alquiler a propiedad. Si se les ofreciera un alquiler perfecto con las mismas características, no lo aceptarían porque el objetivo fundamental es 'tener algo propio'. La ubicación y las áreas comunes son criterios de selección críticos, pero no el origen de la demanda. Sin la necesidad de ser propietarios, la compra no se habría iniciado.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "queríamos un lugar más seguro, ya tener algo propio.",
+                    "mis papás también quieren, están viendo una casa alquilada conmigo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuvieran la necesidad de dejar de alquilar y asegurar un patrimonio, no habrían entrado al mercado. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "cuando nos iniciamos la universidad, y por acá hay un montón de universidades",
+                    "mi papá hace un poco mal de la rodilla, entonces, pues, podemos tener el primer piso",
+                    "Como son pequeños, más o menos, van a poder disfrutar más [las áreas comunes]."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Aunque los requerimientos familiares son cruciales para la elección final, la familia habría comprado una propiedad de todas formas para salir del alquiler. Simplemente habrían elegido otro proyecto que se adaptara a otras circunstancias si estas fueran diferentes."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J04: Acompañar crecimiento familiar",
+        "resolucion_del_tribunal": "La decisión de entrar al mercado se origina en la necesidad fundamental de dejar de alquilar y consolidar un patrimonio familiar (J01). Las necesidades específicas de los miembros de la familia (educación, salud, ocio) actúan como un poderoso conjunto de criterios de selección que definen el *qué* y el *dónde* comprar, pero no el *porqué* de la compra. Por lo tanto, J01 es el Job Dominante y J04 es el contexto que modula la elección."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J01: Establecer estabilidad habitacional, con una fuerte influencia de J04: Acompañar crecimiento familiar como el principal conjunto de criterios de selección.",
+    "justificacion": "La familia entra al mercado inmobiliario con el objetivo explícito de dejar de alquilar y adquirir 'algo propio', lo cual es la definición canónica de J01. Las múltiples necesidades familiares (universidad, accesibilidad del padre, ocio de los hermanos) no son el gatillo de la compra, sino los filtros decisivos que determinan la elección del proyecto WOW sobre otras alternativas. Si se elimina la necesidad de propiedad (J01), la compra no ocurre. Si se eliminan los criterios familiares (J04), la compra para salir de alquiler igual ocurriría, pero probablemente en otro proyecto."
+}

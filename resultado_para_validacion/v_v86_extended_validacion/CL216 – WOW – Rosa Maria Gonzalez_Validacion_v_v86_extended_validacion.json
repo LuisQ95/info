@@ -1,0 +1,35 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado fue la necesidad de vivienda para la hija que se mudó a Lima por estudios (origen de la demanda). El filtro de selección fue la combinación de seguridad, orden, calidad del personal y proximidad a la universidad, características que el proyecto cumplía de manera sobresaliente.",
+        "debate_deal_breaker": "El factor innegociable era encontrar una solución habitacional segura y funcional para la hija. Sin esta necesidad familiar específica, la compra no se habría realizado, independientemente de la disponibilidad de capital. El dinero fue un habilitador, pero la necesidad familiar fue el verdadero motor.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Mi hija, el año pasado, se fue a Lima para estudiar la carrera de medicina en la UPC.",
+                    "decidió que era una buena oportunidad para comprar, para ya no alquilar, y que mi hija viva en el departamento que se está comprando.",
+                    "Es cerquísima a la universidad. Esa es una gran ventaja, ¿no? Para toda la gente."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin la necesidad de alojar a su hija para la universidad, no hubieran comprado esta propiedad en este momento y lugar."
+            },
+            {
+                "codigo_y_nombre_job": "J02 - Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "al tener un dinero mi esposa, de la venta de unos terrenos, decidió que era una buena oportunidad para comprar.",
+                    "teníamos el dinero como le dijo mi esposo, yo había vendido unos terrenos acá en Tagna y teníamos la disposición del dinero."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí, si hubieran tenido el dinero de otra fuente (ahorros, etc.), la compra para la hija habría ocurrido igual. El origen del dinero no es el driver."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra está completamente subordinada a la necesidad del sistema familiar de dar soporte a un miembro (la hija) en una etapa específica (universidad). La decisión no es autónoma, sino una respuesta a esta necesidad. El capital disponible actúa como un habilitador clave, pero no como el origen de la demanda. Por lo tanto, es un caso claro de J04 (Soporte Familiar)."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista reconstruye de forma clara y detallada la historia causal completa. El origen de la demanda (hija se muda a estudiar), los habilitadores (capital disponible), el proceso de descubrimiento (alquilando en el lugar) y los criterios de decisión (seguridad, proximidad) están explícitos y son coherentes, permitiendo una clasificación robusta del Job to be Done."
+}

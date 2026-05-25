@@ -1,0 +1,37 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es el deseo de independencia (J01), que se origina en la pandemia. Sin embargo, este deseo estaba bloqueado. La compra solo se ejecuta cuando un cambio de circunstancias (mejora laboral y cochera) habilita una solución que optimiza su vida (J03). La optimización (cercanía, amenities, logística) funciona como el filtro de selección decisivo que permite que el deseo de independencia se materialice. El J03 gobierna la elección final.",
+        "debate_deal_breaker": "El deal breaker no es la falta de independencia en sí (podía seguir viviendo con su familia), sino la incapacidad de independizarse SIN optimizar su vida. La compra anterior en San Isidro se cayó, y la actual solo procede porque el nuevo trabajo con cochera le da libertad para elegir una ubicación que reduce fricción (cerca de familia, amenities). Sin la optimización de su rutina diaria, la compra no hubiera ocurrido.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "Yo compré para vivir.",
+                    "me estoy mudando por independizarme.",
+                    "Eso empieza en pandemia. Este, por por temas pandemia, en algún momento sí decidí querer irme."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si le ofrecieran un departamento para independizarse que complicara su logística diaria (lejos de su familia, sin amenities, con mucho tráfico), no lo compraría. Su intento anterior en San Isidro estaba ligado a la logística del trabajo de ese momento. Por lo tanto, la independencia por sí sola no es suficiente para cerrar la compra."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "está como a cinco minutos de la casa actual a la casa nueva. O sea, voy a estar súper cerca.",
+                    "hay tiempos que me va a ayudar.",
+                    "el tema de no tener cochera en este trabajo te condicionaba a estar cerca en la compra. Correcto. Pero como el nuevo trabajo tiene cochera, te abre un grado de libertad y ahí más bien ves con mejores ojos quedarte en Surco.",
+                    "A mí me encantan los deportes y me parece súper chévere cómo es el clubhouse que se tiene."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no estuviera cerca de su familia, no tuviera las áreas comunes que le ahorran tiempo o implicara una complicación logística, no lo habría comprado, aunque le permitiera independizarse. La compra se decide en una sola visita porque la propuesta de valor optimiza su vida actual de forma evidente."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J01: Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "La clienta entra al mercado motivada por un deseo de independencia (J01), pero este es un motor latente. La decisión de compra se activa y se define exclusivamente por criterios de optimización (J03). El cambio laboral habilita la compra no solo económicamente, sino logísticamente, permitiéndole elegir una opción que mejora su rutina diaria sin romper su sistema de vida actual. Por tanto, J03 es el Job Dominante que explica la transacción."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la historia causal de la compra. Expone con precisión el contexto, la tensión acumulada, los bloqueadores y los eventos habilitadores. La evidencia permite diferenciar claramente el gatillo de entrada (J01) del filtro de selección (J03), demostrando que la optimización de la vida cotidiana fue el factor dominante en la decisión final."
+}

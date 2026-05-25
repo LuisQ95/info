@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Pareja que ya convive en alquiler decide comprar para consolidar su relación y establecer una base patrimonial. La elección del proyecto se define por la superioridad de sus áreas comunes (clubhouse), que prometen un estilo de vida autocontenido y conveniente, a pesar de una pésima experiencia postventa.",
+    "historia_causal": {
+        "contexto_previo": "La pareja ya convivía en un departamento alquilado en Surco. Tenían una relación estable y estaban en una etapa de vida donde buscaban dar el siguiente paso para afianzar su futuro juntos.",
+        "tension_acumulada": "Existía el deseo latente de dejar de alquilar para tener un lugar propio, viendo la compra como un paso natural para consolidar su relación y empezar a construir un patrimonio juntos, en lugar de seguir gastando en renta.",
+        "bloqueadores": "El principal bloqueador fue una coyuntura de mercado con tasas de interés bancarias muy altas. Esto hacía que las ofertas de crédito hipotecario no fueran favorables y los llevó a retrasar la decisión de compra, aunque la intención ya existía.",
+        "eventos_habilitadores": "El cambio clave fue la bajada de las tasas de interés en el mercado. Este movimiento les permitió recibir una mejor oferta de un banco, lo que viabilizó financieramente la compra que ya tenían decidida y estaban esperando ejecutar.",
+        "switching_trigger": "La obtención de una oferta de crédito hipotecario con una tasa favorable fue el estímulo final que convirtió la intención latente de compra en una acción concreta e inmediata.",
+        "momento_de_decision": "La búsqueda fue activa pero no estructurada; encontraron el proyecto por casualidad mientras recorrían zonas de interés. La decisión se tomó al confirmar que el producto (especialmente el clubhouse) y el precio encajaban, y se ejecutó en el momento en que las condiciones financieras fueron óptimas."
+    },
+    "contexto_activador": {
+        "marco_general": "Pareja de profesionales jóvenes que ya comparten una vida y rutina en un departamento alquilado. Tienen un estilo de vida activo, valoran la conveniencia y las actividades recreativas (tenis, gimnasio), y se proyectan a futuro con hijos, lo que influye en su necesidad de espacio y estabilidad."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la consolidación de su relación y establecer una base de vida estable y propia, dejando atrás la etapa de alquiler para empezar a construir un patrimonio familiar a largo plazo.",
+        "job_statement": "Cuando llevamos tiempo como pareja y queremos dar el siguiente paso, quiero comprar un departamento propio para dejar de alquilar y consolidar nuestra relación en un espacio nuestro.",
+        "job_dominante_narrativo": "La misión principal es pasar de la transitoriedad del alquiler a la permanencia de la propiedad. Se trata de una decisión estructural para cimentar la vida en pareja, creando una base sólida y un hogar propio antes de la eventual llegada de los hijos.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El factor decisivo fue el clubhouse y su completa oferta de amenities (gimnasio, piscina, cancha de tenis), que prometían un estilo de vida autocontenido y conveniente, una 'burbuja'. La proyección de espacio para futuros hijos y un buen precio también fueron clave.",
+        "firing_criteria": "Descartaron un proyecto competidor en San Isidro, a pesar de su buen precio y cercanía al trabajo, debido al tráfico 'inviable' de la zona, lo que representaba una fricción diaria que no estaban dispuestos a aceptar.",
+        "trade_offs_reales": "Sacrificaron la cercanía al trabajo y un potencial de inversión teóricamente mayor (en San Isidro) a cambio de una mejor calidad de vida y menos estrés por el tráfico. Inconscientemente, aceptaron una pésima experiencia de postventa como el costo a pagar por disfrutar del proyecto.",
+        "factores_de_confianza": "La compra fue de un proyecto en entrega inmediata, lo que les permitió ver el producto terminado y reducir la incertidumbre. La percepción de un 'muy buen precio para el espacio' también generó seguridad en la decisión financiera.",
+        "reduccion_de_riesgo": "Esperar pacientemente a que las tasas de interés bajaran y obtener una buena oferta bancaria fue la principal estrategia para minimizar el riesgo financiero de la compra y asegurar la viabilidad a largo plazo."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El clubhouse fue el atributo central y dominante, representando el '70% del atractivo'. La distribución del departamento con proyección a futuro (2 dormitorios) y la versatilidad de la terraza también conectaron fuertemente con sus necesidades y aspiraciones.",
+        "atributos_secundarios": "La ubicación en Surco era importante por mantener su sistema de vida, pero no fue el driver principal. La terraza/jardín fue un plus valorado que 'salió en el camino', no un requisito de búsqueda inicial.",
+        "alternativas_descartadas": "Un proyecto en San Isidro fue descartado explícitamente por el tráfico. Una visita a esa zona en hora punta (18:00h) les demostró de forma práctica que la fricción logística sería insostenible en su día a día."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy alta con el proyecto y la experiencia de vida (8/10), pero extremadamente baja con la inmobiliaria y su servicio (2/10). La vida en la 'burbuja' es muy positiva, pero el soporte es nulo.",
+        "reservas": "Existe una preocupación real por la futura sobrepoblación del clubhouse cuando se entreguen las siguientes etapas, y por el deterioro progresivo de las áreas comunes debido a una aparente falta de presupuesto para mantenimiento adecuado.",
+        "fricciones_pendientes": "Un servicio de postventa pésimo e inoperante, con reclamos por averías (marmolería manchada, pintura exterior incompleta) sin resolver después de un año. Además, la inmobiliaria mantiene una deuda significativa con la administración, afectando directamente el presupuesto de mantenimiento del condominio."
+    },
+    "proyecto": "MUV"
+}

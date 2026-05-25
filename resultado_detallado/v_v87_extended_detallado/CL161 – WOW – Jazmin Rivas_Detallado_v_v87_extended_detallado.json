@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Clienta que vivía de alquiler en el mismo complejo y era reacia a comprar, es activada por una toma de conciencia financiera. Elige rápidamente el proyecto conocido por su potencial como inversión flexible y por optimizar su estilo de vida.",
+    "historia_causal": {
+        "contexto_previo": "La clienta vivía alquilada durante 4 años en Magna House 2, el mismo complejo donde se desarrolla el proyecto WOW. Por ello, conocía perfectamente la zona, el funcionamiento, la administración y la alta demanda de alquileres. Su estilo de vida incluía viajes frecuentes, lo que generaba una resistencia a la idea de adquirir una propiedad.",
+        "tension_acumulada": "La tensión principal era la disonancia entre su renuencia a comprar y la creciente conciencia del costo de oportunidad del alquiler. Tras una conversación con su hermana, calculó lo que había gastado en años de renta y se dio cuenta de que equivalía a más de una cuota inicial, generando una sensación de 'dinero perdido'.",
+        "bloqueadores": "El principal bloqueador era una creencia personal: no quería comprar porque sus planes de viaje y la posibilidad de no vivir permanentemente en Perú la hacían ver la propiedad como una atadura en lugar de un activo. No había una barrera económica, sino una barrera mental.",
+        "eventos_habilitadores": "La conversación con su hermana fue el catalizador clave, que la llevó a racionalizar financieramente la decisión. Además, la posibilidad de mudarse temporalmente al departamento de su hermana le proporcionó un ahorro significativo, haciendo viable y cómoda la espera de un proyecto en construcción.",
+        "switching_trigger": "El detonante final fue el momento de 'insight' al hacer los cálculos y verbalizar: 'he pagado más que una cuota inicial'. Esta cuantificación del 'gasto perdido' transformó la compra de una opción indeseable a una necesidad financiera urgente.",
+        "momento_de_decision": "El proceso fue extremadamente rápido. Tras ser convencida por su hermana, visitaron el proyecto un lunes y el martes ya estaba pagando la cuota inicial. Su profundo conocimiento previo del producto, la zona y su potencial de alquiler eliminaron la necesidad de una evaluación prolongada."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional con un estilo de vida dinámico y móvil, que valora la flexibilidad. Su sistema de vida actual es transicional, apoyándose en su red familiar (hermana) para optimizar sus finanzas mientras espera la entrega de su propiedad. La decisión se activa en un contexto de alta familiaridad con el producto y la zona, lo que reduce la incertidumbre."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Transformar un gasto recurrente y sin retorno (alquiler) en un activo patrimonial flexible, que genere ingresos pasivos y se aprecie en el tiempo, sin tener que renunciar a un estilo de vida conveniente y de alta calidad.",
+        "job_statement": "Cuando me doy cuenta de que estoy perdiendo dinero en alquiler, quiero comprar una propiedad que funcione como una inversión flexible, para poder construir patrimonio y tener la opción de alquilarla fácilmente si viajo.",
+        "job_dominante_narrativo": "La clienta busca resolver el problema de la 'fuga de capital' que representa el alquiler. Su misión es adquirir un activo inteligente que trabaje para ella, le dé seguridad financiera y opcionalidad, permitiéndole mantener su estilo de vida viajero al poder monetizar la propiedad fácilmente.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Los criterios de contratación fueron: 1) Potencial de inversión (alta demanda de alquiler por cercanía a universidad y oficinas). 2) Ubicación (cercanía a su trabajo). 3) Calidad de amenities (gimnasio grande, piscina semiolímpica). 4) Baja densidad del edificio (menos pisos, menos saturación). 5) Familiaridad y confianza en el producto.",
+        "firing_criteria": "Descartó automáticamente proyectos en edificios muy altos (20+ pisos) por la percepción de saturación. También descartó unidades con mala iluminación ('aquí no te va a entrar luz') y proyectos con amenities inferiores. El precio de proyectos ya terminados (MUV) también fue un factor de descarte.",
+        "trade_offs_reales": "Aceptó esperar un año por la entrega de un proyecto en construcción a cambio de un mejor precio. Sacrificó una unidad más económica pero con mala iluminación por una más cara pero con mejores características. El trade-off más grande fue superar su propia convicción de no comprar.",
+        "factores_de_confianza": "La confianza se basó en su experiencia previa de 4 años viviendo en el mismo complejo. Conocía la calidad, la administración y la demanda. La validación de su hermana reforzó la decisión. La atención amable durante el proceso de compra también sumó.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al elegir un 'terreno conocido'. Sabía que el departamento se alquilaría 'casi inmediato' si decidía viajar, lo que eliminaba el riesgo financiero de tener un activo inmovilizado. La compra se sintió como una apuesta segura y probada."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación estratégica (cerca de su trabajo y de una universidad), las amenities de calidad superior (gimnasio y piscina), y la estructura del edificio (baja densidad) encajaron perfectamente tanto con sus necesidades de estilo de vida como con los requisitos para una buena inversión.",
+        "atributos_secundarios": "La distribución específica del departamento (dos dormitorios) fue una elección, pero no el driver principal. La marca de la inmobiliaria era conocida para ella por la experiencia previa, pero no fue un factor mencionado como decisivo en sí mismo.",
+        "alternativas_descartadas": "Descartó explícitamente proyectos vistos en ferias inmobiliarias por ser edificios muy altos y ofrecer unidades con poca luz. También consideró y descartó el proyecto MUV (del mismo desarrollador y complejo) porque, al estar terminado, su precio era significativamente más alto."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto. Menciona que 'todo bien hasta el momento' y que el trato ha sido muy amable.",
+        "reservas": "No se mencionan reservas o dudas sobre la decisión de compra.",
+        "fricciones_pendientes": "La principal fricción es la espera, ya que el proyecto se entrega el próximo año. El proceso de desembolso y la futura mudanza e implementación del espacio son los siguientes pasos."
+    },
+    "proyecto": "WOW"
+}

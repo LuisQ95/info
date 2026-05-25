@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente que inicialmente no quería comprar por su estilo de vida viajero, es impulsada por un análisis financiero a convertir el gasto de alquiler en una inversión patrimonial, seleccionando un proyecto que conoce y que además le ofrece una optimización funcional de su vida diaria.",
+    "historia_causal": {
+        "contexto_previo": "Vivía en un departamento alquilado en el mismo complejo (Magna House) durante 4 años, con un estilo de vida que incluía viajes frecuentes y una fuerte reticencia a comprometerse con la compra de una propiedad.",
+        "tension_acumulada": "La tensión principal era financiera y latente. Al analizar los costos acumulados de alquiler, se dio cuenta de que representaban una suma significativa, equivalente a más de una cuota inicial, lo que generó una sensación de 'gasto perdido' y oportunidad financiera no aprovechada.",
+        "bloqueadores": "El principal bloqueador era su propia mentalidad: su plan de no residir permanentemente en Perú y sus viajes constantes la hacían reacia a la idea de comprar un inmueble, viéndolo como un ancla en lugar de una oportunidad.",
+        "eventos_habilitadores": "La persuasión de su hermana fue clave para reevaluar su postura. El análisis financiero concreto del dinero gastado en alquiler y la posibilidad de vivir temporalmente con su hermana (ahorrando dinero) habilitaron la capacidad y la voluntad de compra.",
+        "switching_trigger": "El momento exacto en que se da cuenta de que la suma de sus alquileres pagados a lo largo de los años superaba el costo de una cuota inicial. Esta toma de conciencia financiera fue el catalizador que la movió de la inacción a la búsqueda activa.",
+        "momento_de_decision": "El proceso fue extremadamente rápido. Impulsada por su hermana, visitó el proyecto un lunes y el martes ya estaba pagando la cuota inicial. Su conocimiento previo del lugar, la administración y la alta demanda de alquiler eliminaron la necesidad de una evaluación prolongada."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional con un trabajo estable y cercano a la zona, que vive una transición temporal en casa de su hermana, lo que le otorga una ventaja financiera (ahorro) y la flexibilidad para esperar la entrega de un proyecto en construcción. Su sistema de vida está condicionado por la posibilidad de viajar, lo que hace que cualquier inversión deba tener una opción de rentabilidad pasiva."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo patrimonial que genere rentabilidad y ofrezca flexibilidad, transformando un gasto operativo (alquiler) en una inversión a largo plazo, sin que esto limite sus planes de vida futuros.",
+        "job_statement": "Cuando me doy cuenta de que mi gasto en alquiler es un capital perdido, quiero invertir en una propiedad que pueda alquilar fácilmente, para construir patrimonio y mantener mi flexibilidad de vida, especialmente si decido viajar o vivir fuera del país.",
+        "job_dominante_narrativo": "La clienta está intentando dejar de 'quemar' dinero en alquiler para empezar a construir un patrimonio sólido y flexible. La compra es una herramienta para asegurar su futuro financiero, dándole la opción de generar ingresos pasivos si no lo habita.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La decisión se basó en la alta demanda de alquiler en la zona (validada por su propia experiencia), la calidad superior de las áreas comunes (gimnasio, piscina) que aumentan su valor, y la baja densidad del edificio, lo que lo hace más atractivo que la competencia. La cercanía al trabajo fue un plus funcional importante.",
+        "firing_criteria": "Descartó proyectos en edificios muy altos (20+ pisos) por la saturación, y opciones con mala iluminación o vista interior. También descartó proyectos terminados (Move) por ser más caros, lo que afectaba la lógica de inversión.",
+        "trade_offs_reales": "Aceptó esperar un año por la entrega del proyecto a cambio de un mejor precio de compra. Sacrificó una opción inicial más barata pero con mala iluminación por una unidad más cara pero con mayor valor percibido y potencial de alquiler.",
+        "factores_de_confianza": "Su experiencia previa viviendo 4 años en el mismo complejo fue el mayor factor de confianza. Conocía la administración, el funcionamiento y la demanda. La validación y el impulso de su hermana también fueron cruciales.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al invertir en un lugar conocido y de alta rotación de alquiler. La decisión fue casi inmediata porque no había incertidumbre sobre la calidad del 'producto' o la zona."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Potencial de inversión (alta demanda de alquiler), calidad de amenities (gimnasio, piscina), baja densidad del edificio, y cercanía al trabajo. La combinación de rentabilidad y calidad de vida.",
+        "atributos_secundarios": "La atención amable del personal de ventas y la visita a los departamentos modelo, que si bien fue positiva, no fue el driver de la decisión, ya que ella ya conocía el producto.",
+        "alternativas_descartadas": "Proyectos vistos en ferias inmobiliarias, que eran edificios muy altos y saturados. Una unidad inicial más barata dentro del mismo proyecto WOW, pero con mala iluminación. El proyecto Move, por tener un precio más elevado al estar ya terminado."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto en cuanto a la decisión de compra, pero la experiencia post-venta aún está en curso. La atención inicial fue buena ('todo bien hasta el momento').",
+        "reservas": "No se expresan reservas sobre la compra en sí, la cual parece muy sólida y bien fundamentada.",
+        "fricciones_pendientes": "La principal fricción es la espera hasta la entrega del departamento el próximo año y el proceso de desembolso final y mudanza."
+    },
+    "proyecto": "WOW"
+}

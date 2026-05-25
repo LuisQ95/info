@@ -1,0 +1,38 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de proveer vivienda al hijo que se muda a Lima para estudiar. Sin este evento, la familia, que reside en Cusco, no tendría ninguna razón para comprar una propiedad en Lima. La preferencia por un lugar propio sobre el alquiler y la cercanía a la universidad son criterios de selección (Selection Drivers) que definen qué solución elegir, pero no por qué se empezó a buscar.",
+        "debate_deal_breaker": "El test canónico para J04 es decisivo: ¿Sin el hijo yendo a la universidad en Lima, la familia compraría un departamento allí? La respuesta es un rotundo NO. La compra está completamente subordinada a la necesidad de soporte familiar. El deseo de propiedad (J01) es secundario; si el hijo no se mudara, la tensión del alquiler no existiría y la compra no se realizaría.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nuestro hijo mayor terminó el colegio y se estaba yendo a estudiar a Lima",
+                    "lo más conveniente era que era un departamento que estuviese cerca de la universidad",
+                    "lo que nos interesó siempre era la seguridad de nuestro hijo",
+                    "para evitar el hecho de que se tenga que movilizar mucho y exponerse",
+                    "lo más probable es de que yo al final siempre utilice el departamento para mis hijos"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "La compra no ocurriría si el hijo no se mudara a Lima para estudiar. La necesidad es 100% dependiente de la etapa de vida del hijo."
+            },
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "en lo que no es tuyo ni un clavo",
+                    "si quieres poner un cuadro lo piensas 20 veces",
+                    "por eso buscamos algo propio"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Aunque deseaban 'algo propio', esta necesidad surge como consecuencia de tener que alojar al hijo. Sin esa circunstancia inicial, no habría necesidad de alquilar ni de comprar."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J01: Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "Se determina que el Job Dominante es J04 (Soporte Familiar). La compra es una acción no autónoma, ejecutada por los padres para resolver una desalineación estructural en el sistema familiar: un miembro clave (el hijo) se traslada a otra ciudad para estudiar. La seguridad y la logística para el hijo son los drivers primarios. La preferencia por propiedad sobre alquiler (J01) es un criterio de selección de la solución, no el origen de la demanda."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y coherente. Se identifica sin ambigüedad el evento gatillo (hijo se muda a estudiar), la tensión a resolver (seguridad y logística a distancia) y los criterios de decisión. El Job Dominante J04 es inequívoco y pasa el test canónico, explicando la razón fundamental de la compra. La información post-compra, aunque negativa, refuerza la validez del Job al demostrar que los problemas operativos no invalidaron el acierto en la solución al problema de fondo."
+}

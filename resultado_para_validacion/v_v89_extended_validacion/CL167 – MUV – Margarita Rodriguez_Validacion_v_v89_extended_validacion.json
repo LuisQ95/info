@@ -1,0 +1,37 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la decisión del yerno de mudarse a MUV, lo que obliga a la hija y a la madre a reconfigurar su sistema de vida. La condición innegociable de la hija ('si no hay departamentos juntos, no compramos') confirma que la dinámica familiar es el origen de la compra. Los filtros de selección (Selection Drivers) son los atributos del proyecto que hicieron la decisión más agradable para la madre (amenities, seguridad, cercanía a clínicas), pero no la originaron.",
+        "debate_deal_breaker": "El 'deal breaker' absoluto era la imposibilidad de conseguir dos departamentos contiguos. La hija declara explícitamente que si no existía esa opción, la compra no se realizaba. Esto demuestra que el objetivo no era una nueva vivienda per se, sino mantener la estructura de soporte familiar. La compra de la madre estaba 100% subordinada a esta condición.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Yo compré este departamento porque mi hija, bueno, mi yerno compraron con mi hija su departamento.",
+                    "Si no había la opción de un departamento al costado del otro, no era opción para mí.",
+                    "Las dos decidimos porque siempre hemos vivido juntas. Es mi única hija y bueno, yo acá en Lima no tengo a nadie más.",
+                    "Las dos nos necesitamos para cualquier emergencia."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la hija y el yerno no se mudaban, la clienta (madre) no habría comprado. La compra es una consecuencia directa y dependiente de la decisión del núcleo familiar principal. Pasa el test."
+            },
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "A mí sí me gustó porque, bueno, tiene todo lo que a mí me gusta, que es el gimnasio, la piscina, el spa.",
+                    "Es más tranquilo. Allá es más bullicio, es más peligroso.",
+                    "Me favorece porque de acá voy a la clínica caminando."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera estas comodidades pero sí ofreciera departamentos contiguos, la compra igual se habría realizado. La optimización es un beneficio añadido, no la causa raíz. No pasa el test."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_final": "J03 - Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La decisión de compra de la madre es completamente 'No Autónoma'. Se origina y se subordina a la decisión de su hija y yerno de mudarse. El motor de la transacción es la necesidad de mantener la interdependencia funcional y el soporte mutuo del sistema familiar. Por lo tanto, el Job Dominante es J04, en su subtipo de 'Dependencia Funcional Estructural'."
+    },
+    "dictamen_final": "Entrevista Válida. Proporciona un caso de estudio claro y contundente de un Job J04.",
+    "justificacion": "La causalidad es explícita y robusta. La compra de la clienta no tiene autonomía; es una reacción directa y condicionada a la mudanza de su hija. El test canónico ('¿compraría si su hija no se mudara?') tiene una respuesta negativa e inequívoca. La evidencia demuestra que el propósito de la transacción no es adquirir una vivienda, sino mantener la cohesión y funcionalidad del sistema familiar."
+}

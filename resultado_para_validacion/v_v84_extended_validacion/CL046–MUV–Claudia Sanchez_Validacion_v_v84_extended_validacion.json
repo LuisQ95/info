@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada es el deseo de independencia, habilitado por una mejora laboral que proporciona los medios económicos y la libertad logística (cochera en el trabajo). Los filtros de selección son los atributos específicos del proyecto que resuelven la optimización de su vida: la cercanía a su familia en Surco, el clubhouse que se alinea con su estilo de vida activo y la entrega inmediata.",
+        "debate_deal_breaker": "Si el proyecto no tuviera el clubhouse y las áreas deportivas, probablemente no lo habría comprado, ya que estos elementos son clave para la optimización de su rutina. Sin embargo, este es un criterio de selección. El verdadero 'deal breaker' que impedía la compra era la falta de libertad logística y capacidad económica, resuelta por su nuevo trabajo. Sin esa mejora, no habría entrado al mercado activamente.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "Yo compré para vivir.",
+                    "me estoy mudando por independizarme.",
+                    "eso empieza en pandemia... en algún momento sí decidí querer irme"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la independencia implicara una peor calidad de vida o romper sus lazos familiares (mudarse lejos), es muy probable que no hubiera comprado. La independencia por sí sola no era suficiente; debía venir con una mejora."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "está como a cinco minutos de la casa actual a la casa nueva. O sea, voy a estar súper cerca.",
+                    "hay tiempos que me va a ayudar [el clubhouse].",
+                    "como el nuevo trabajo tiene cochera, te abre un grado de libertad y ahí más bien ves con mejores ojos quedarte en Surco."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no optimizara su vida (sin clubhouse, mala ubicación, lejos de la familia), no lo habría comprado. La compra está supeditada a la mejora funcional de su día a día."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J01: Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "La clienta parte de una situación habitacional estable. La compra no es una respuesta a la inestabilidad, sino un movimiento para 'vivir mejor'. La mejora laboral es el habilitador que le permite optimizar su vida en múltiples frentes: lograr independencia (J01) pero sin sacrificar la cercanía familiar y añadiendo eficiencia a su rutina (clubhouse). La decisión final está gobernada por la optimización, haciendo de J03 el driver dominante."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J03: Optimizar la vida cotidiana, con un Job Secundario de J01: Establecer estabilidad habitacional.",
+    "justificacion": "La clienta ya cuenta con una base habitacional estable y no compra por una necesidad de refugio, sino para mejorar su calidad de vida. El evento habilitador (mejora laboral) le permite optimizar su logística diaria (independencia cerca de la familia, amenities que ahorran tiempo). La elección del proyecto se basa enteramente en criterios de eficiencia y mejora del estilo de vida, lo cual es la definición canónica de J03. La independencia (J01) es el contexto y parte del resultado, pero no el motor estructural de la decisión."
+}

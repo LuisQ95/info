@@ -1,0 +1,38 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de resolver una fricción logística severa: su casa en Magdalena está 'totalmente descentrada' de su círculo de vida (trabajo, club, familia). Esto lo introduce al mercado para buscar una solución. El filtro de selección (Selection Driver) es la preferencia de su hija por las áreas sociales de WOW y las características específicas del producto (piscina cerrada, residencial puro). La hija no origina la búsqueda, pero sí decide la compra final entre las opciones evaluadas.",
+        "debate_deal_breaker": "El deal breaker fundamental es la ubicación. Si el proyecto no resolviera la fricción de estar 'descentrado', no sería considerado. El test canónico lo confirma: sin el problema de movilidad, no habría iniciado la búsqueda de un año. En cambio, si su hija no hubiese elegido WOW, él habría comprado otra opción que sí resolviera el problema logístico. Por tanto, la optimización de la vida cotidiana es el factor innegociable.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "Actualmente vivo en Magdalena... me queda totalmente descentrado de todo el círculo en el que me muevo.",
+                    "Entonces, sí, hay que mudarse ya, ¿no?",
+                    "Un tema de, como digo, de movilidad, ¿no? De movernos para distintos lugares.",
+                    "El tema de zona, fluidez, movilidad, ubicación, ver todo el entorno, para mí es lo importante."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si su casa actual estuviera bien ubicada, ¿habría iniciado una búsqueda de un año para mudarse? No. La compra no habría ocurrido."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "¿Qué es lo que detona la compra? ¿Qué es lo que dices, tengo que comprar? Mi hija.",
+                    "Y a ella le encantó [la zona social].",
+                    "Mi hija me dice, no, papá, yo creo que este es el sitio.",
+                    "La movilidad de mi hija no se complica, por ejemplo, para llevarla a otra de las del colegio."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si su hija no hubiese estado involucrada, ¿habría buscado mudarse de Magdalena de todas formas para resolver su problema de movilidad? Sí. Habría comprado otra propiedad."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El Job Dominante es J03. La evidencia es concluyente en que la razón para entrar al mercado fue la ineficiencia logística de su vivienda actual. La familia (J04) y las características del producto (J06) actúan como criterios de selección potentes que determinan la elección final de WOW, pero no originan la necesidad de compra. La compra es para optimizar su vida; la elección es para satisfacer a su hija."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y rica en detalles. Permite diferenciar con precisión el 'Entry Driver' (problema de movilidad, J03) de los 'Selection Drivers' (preferencia de la hija y características del producto, J04/J06). El cliente articula claramente el problema que busca resolver y los criterios que usó para contratar y despedir soluciones, validando el análisis."
+}

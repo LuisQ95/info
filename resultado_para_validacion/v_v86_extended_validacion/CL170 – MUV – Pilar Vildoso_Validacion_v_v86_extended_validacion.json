@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de eliminar fricciones diarias: la distancia al trabajo y la humedad que afecta la salud (J03). La necesidad de acomodar a sus hijos adultos (J04) funciona como un filtro de selección (Selection Driver) que determina la tipología del producto (3 dormitorios), pero no origina la compra.",
+        "debate_deal_breaker": "La compra no hubiera ocurrido sin las fricciones de la distancia y la humedad; habrían permanecido en su propiedad de Chorrillos. En cambio, la compra sí hubiera ocurrido si sus hijos ya no vivieran con ellos, aunque probablemente habrían elegido un departamento más pequeño. Esto confirma que J03 es el deal-breaker.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "teníamos que buscar una oportunidad para salir de Chorrillos, para acercarme al trabajo, número uno.",
+                    "Número dos, la excesiva humedad de de Chorrillos, cerca de la playa y todo eso, a mí me afectaba en invierno mucho.",
+                    "Entonces, fueron los dos detonantes, ¿no?"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin la fricción del largo trayecto al trabajo y el problema de salud por la humedad, no habrían iniciado la búsqueda de una nueva propiedad."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "o un departamento de tres dormitorios. Tenemos dos hijos varones.",
+                    "la otra era dos dormitorios y ellos ya hubieran tenido que salir de casa",
+                    "decidimos por el departamento de tres dormitorios y así es que estamos juntos los cuatro."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habrían comprado de todas formas para resolver los problemas de distancia y humedad, pero probablemente habrían optado por un departamento de dos dormitorios."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La decisión de compra se origina inequívocamente en la búsqueda de una mejora funcional para eliminar fricciones diarias (distancia y salud), lo cual define a J03 como el Job Dominante. La configuración familiar actúa como un poderoso criterio de selección que moldea la solución final (3 dormitorios), pero no es la causa raíz de la transacción."
+    },
+    "dictamen_final": "Entrevista Válida",
+    "justificacion": "La entrevista proporciona una narrativa causal completa y coherente. Permite distinguir claramente entre el 'Entry Driver' (J03: optimización de vida) y el 'Selection Driver' (J04: configuración familiar), ofreciendo evidencia robusta para la clasificación del Job Dominante y un análisis detallado de la experiencia del cliente."
+}

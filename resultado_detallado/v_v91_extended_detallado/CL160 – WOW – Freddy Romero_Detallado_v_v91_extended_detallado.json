@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Un padre de familia, activado por una oportunidad financiera (crédito pre-aprobado), decide comprar impulsivamente un departamento al ver que las áreas comunes del proyecto resuelven su anhelo de darle un mejor estilo de vida a sus hijos, subordinando la decisión a las necesidades de la familia.",
+    "historia_causal": {
+        "contexto_previo": "Familia de origen colombiano con dos hijos, viviendo de alquiler en Lima. Están acostumbrados por su experiencia en Colombia a la vida en condominios con amplias áreas sociales y recreativas, un estándar que no encontraban fácilmente en su búsqueda inicial.",
+        "tension_acumulada": "Existía una doble tensión: la financiera, de sentir que el dinero del alquiler era 'plata botada a la basura' en lugar de construir patrimonio; y la emocional, el deseo de proveer a sus hijos de un mejor entorno, con espacios para jugar y socializar, similar al que tendrían en su país.",
+        "bloqueadores": "La principal barrera era la incertidumbre sobre su permanencia a largo plazo en Perú debido a la naturaleza del trabajo del cliente. Esto, sumado a su desconocimiento de los procesos de compra inmobiliaria en el país ('pecamos de novato'), frenaba la toma de una decisión tan importante.",
+        "eventos_habilitadores": "La recepción de una oferta de crédito pre-aprobado por parte de un banco fue el habilitador clave. Esto convirtió una idea abstracta de 'invertir' en una posibilidad concreta y tangible, al mostrarle que la cuota mensual sería muy similar a lo que ya pagaban de alquiler.",
+        "switching_trigger": "El momento de quiebre fue la visita al proyecto WOW. La visión de las áreas comunes y la reacción positiva de sus hijos ('vi a mis hijos contentos') activó una compra impulsiva ese mismo fin de semana, al materializar la solución a su tensión emocional y familiar.",
+        "momento_de_decision": "La decisión fue rápida y emocional. Tras una búsqueda superficial previa, la visita a WOW fue contundente. El 'enganche' con las áreas comunes fue tan fuerte que representó el 50% de la decisión, llevándolos a firmar sin haber validado a fondo los detalles del departamento, lo que luego requirió un cambio de unidad."
+    },
+    "contexto_activador": {
+        "marco_general": "El cliente opera dentro de un sistema familiar donde el bienestar de sus hijos es prioritario. Su decisión está condicionada por la restricción de ser extranjero, con desconocimiento de las normas locales de financiamiento, y se activa cuando una oportunidad financiera (crédito) hace viable la adquisición de un producto que resuelve su anhelo de mejorar el estilo de vida familiar."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr un doble progreso: por un lado, asegurar el patrimonio familiar convirtiendo un gasto (alquiler) en una inversión; y por otro, y más importante, elevar la calidad de vida de sus hijos dándoles un entorno con espacios recreativos y sociales de alta calidad.",
+        "job_statement": "Cuando se presenta una oportunidad financiera viable, quiero comprar una propiedad con excelentes áreas comunes para que mis hijos tengan un espacio de calidad para crecer y disfrutar, asegurando al mismo tiempo nuestro patrimonio familiar.",
+        "job_dominante_narrativo": "La misión principal es orquestar una mejora en el entorno de sus hijos. La compra es un vehículo para darles un 'club en casa' que fomente su felicidad y bienestar. La satisfacción del padre está directamente ligada a la alegría percibida en sus hijos, lo que convierte la decisión en un acto de cuidado familiar.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Contrató el proyecto principalmente por sus áreas comunes ('espacios sociales'), que representaron el 50% de la decisión. Secundariamente, la distribución del departamento debía ser funcional para la dinámica familiar, un criterio tan fuerte que forzó un cambio de unidad post-compra.",
+        "firing_criteria": "Descartó proyectos 'muy normalitos' que no ofrecían un valor agregado en amenities. También descartó departamentos antiguos que requerían remodelación y opciones que superaban su umbral de precio psicológico (ej. proyecto 'Move'). La falta de funcionalidad para sus hijos fue un criterio de descarte retroactivo.",
+        "trade_offs_reales": "Aceptó un proceso de compra con fricciones y costos inesperados (pagar cuota antes de la entrega) y tuvo que realizar un esfuerzo adicional para cambiar de unidad. Sacrificó la certeza y tranquilidad del proceso a cambio de asegurar el producto que cumplía con su visión de vida familiar.",
+        "factores_de_confianza": "La confianza se generó de forma emocional y visual: ver a sus hijos contentos en el entorno del proyecto fue la señal más poderosa. La percepción de que el producto era superior a otras opciones del mercado también aportó seguridad en la elección.",
+        "reduccion_de_riesgo": "El riesgo financiero se mitigó al saber que la cuota era similar al alquiler. El riesgo de permanencia se redujo al percibir el mercado inmobiliario peruano como dinámico, lo que ofrecía la posibilidad de vender o alquilar la propiedad si necesitaban mudarse de país."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes tipo club (piscina, gimnasio, zonas verdes, juegos) fueron el principal activador. La distribución del segundo departamento elegido, que sí permitía acomodar las dos camas de los niños, demostró el fit funcional que era indispensable.",
+        "atributos_secundarios": "La presencia de balcón, estacionamiento techado y la ubicación en un piso alto eran parte de su lista de deseos, pero no fueron los factores determinantes de la decisión final.",
+        "alternativas_descartadas": "Descartó proyectos en San Borja por ser antiguos o básicos en su oferta. El proyecto 'Move' fue descartado por precio, sin una evaluación profunda. La alternativa principal, 'no hacer nada' y seguir alquilando, fue descartada por la oportunidad financiera del crédito."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Satisfecho con el producto elegido, pero insatisfecho con el proceso post-venta. La experiencia ha sido agridulce, con una alta valoración de la propuesta de valor del proyecto pero una baja calificación del acompañamiento y la claridad de la información.",
+        "reservas": "La principal reserva es la falta de transparencia y la comunicación deficiente durante el proceso post-venta. Hay una sensación de haber sido tratado como 'novato' y de que hubo imprecisiones en la información clave (dimensiones reales, cronograma de pagos).",
+        "fricciones_pendientes": "La principal fricción fue tener que gestionar un cambio de unidad por una discrepancia entre lo esperado y los planos acotados. Además, la sorpresa de tener que empezar a pagar el financiamiento mucho antes de la entrega del inmueble generó un esfuerzo financiero no previsto."
+    },
+    "proyecto": "WOW"
+}

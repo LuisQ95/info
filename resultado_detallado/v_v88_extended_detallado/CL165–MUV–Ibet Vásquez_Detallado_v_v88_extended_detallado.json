@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Familia propietaria de una casa en Chorrillos decide comprar un departamento en Surco. La compra es una decisión de grupo, no autónoma, impulsada fundamentalmente por la necesidad de facilitar la logística universitaria del hijo, considerándolo el factor más importante.",
+    "historia_causal": {
+        "contexto_previo": "La familia, compuesta por la madre y sus dos hijos (la entrevistada y su hermano), vivía en una casa de su propiedad en Chorrillos. Tenían un sistema de vida estable y sin apuros económicos o habitacionales.",
+        "tension_acumulada": "Existía una insatisfacción latente con su ubicación en Chorrillos, percibida como una zona poco tranquila y segura. A esto se sumó una fricción funcional clave: la distancia entre su casa y la universidad del hermano (UPC), lo que complicaba su logística diaria.",
+        "bloqueadores": "Al ser propietarios y no tener una necesidad habitacional urgente, no existía una presión inmediata para mudarse. La inercia de su situación actual era el principal bloqueador; no estaban buscando activamente hasta que la necesidad del hermano se volvió prioritaria.",
+        "eventos_habilitadores": "La familia contaba con la capacidad económica para realizar la compra al contado, eliminando barreras financieras. La decisión colectiva de priorizar y apoyar la etapa universitaria del hermano fue el habilitador clave que transformó una idea latente en una acción concreta.",
+        "switching_trigger": "La necesidad de resolver la logística del hermano que estudiaba en la UPC fue el detonante. La clienta menciona explícitamente que esto era 'lo más importante', lo que activó una búsqueda deliberada de una nueva vivienda en una zona específica.",
+        "momento_de_decision": "La hija lideró la búsqueda a través del portal online Nexo, donde identificó dos proyectos viables. El proceso de decisión fue metódico y familiar, involucrando tres visitas. La decisión final fue tomada por la madre, con el consenso de los hijos, tras comparar las opciones y se ejecutó rápidamente con un pago al contado."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida es una unidad familiar consolidada (madre e hijos) que opera de forma interdependiente. La decisión de compra no es individual, sino una respuesta del sistema familiar a un cambio en la etapa de vida de uno de sus miembros. Están condicionados por la necesidad de soporte logístico (universidad) y la disponibilidad de capital, activándose la compra cuando el apoyo al miembro familiar se convierte en la máxima prioridad."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reorganizar la estructura de vida de la familia para proporcionar un soporte logístico eficiente a la educación del hijo, y al mismo tiempo, mejorar la calidad de vida general del grupo en un entorno más seguro y tranquilo.",
+        "job_statement": "Cuando mi hermano necesita una logística más simple para sus estudios, quiero que nos mudemos a un departamento cercano a su universidad para que él pueda enfocarse en estudiar y todos podamos vivir en un lugar más seguro y tranquilo.",
+        "job_dominante_narrativo": "La familia está contratando una nueva vivienda para funcionar como un 'sistema de soporte' para el hijo universitario. La misión es eliminar la fricción de la distancia y el transporte, permitiendo que el sistema familiar se adapte y facilite el progreso de uno de sus integrantes. La compra es una herramienta de gestión familiar.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J03 - Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Los criterios decisivos fueron: 1) Proximidad a la universidad UPC. 2) Tipología de 3 dormitorios para privacidad de cada miembro. 3) La preferencia de la madre por un edificio de baja altura (8 pisos), que fue el factor clave para elegir MUV sobre la competencia. 4) La percepción de un condominio más grande con más áreas comunes.",
+        "firing_criteria": "El proyecto competidor fue descartado principalmente por ser un edificio muy alto (17 pisos), lo cual generaba una sensación de incomodidad y rechazo en la madre, quien tomó la decisión final.",
+        "trade_offs_reales": "Renunciaron a un cuarto de servicio que ofrecía el proyecto competidor, priorizando la sensación de comodidad y la escala del edificio (menos pisos).",
+        "factores_de_confianza": "La decisión fue un proceso familiar colectivo. Realizaron múltiples visitas, incluyendo al padre en una de ellas, lo que generó consenso y validación grupal antes de proceder con la compra.",
+        "reduccion_de_riesgo": "La compra se realizó sobre un proyecto ya terminado, lo que permitió ver el producto final. Además, el pago al 100% al contado eliminó la incertidumbre y los procesos de financiamiento bancario."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca de la UPC, la distribución de 3 dormitorios, y de forma crítica, la baja altura del edificio (8 pisos) que conectó directamente con la preferencia emocional de la madre. Las áreas comunes amplias también sumaron valor.",
+        "atributos_secundarios": "El cuarto de servicio, ofrecido por la competencia, fue un atributo valorado pero no decisivo, y finalmente fue sacrificado.",
+        "alternativas_descartadas": "Se descartó explícitamente un proyecto de la empresa TIC (probablemente Lukanfield) porque su edificio de 17 pisos no agradó a la madre, a pesar de tener precios y características similares."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (califica con un 9 sobre 10), al punto de recomendarlo activamente a otros familiares.",
+        "reservas": "Existen fricciones importantes post-venta. La principal es una percepción de baja seguridad en los accesos, ya que las visitas pueden llegar directamente a la puerta sin un filtro adecuado. También reportan malos olores recurrentes provenientes de las tuberías.",
+        "fricciones_pendientes": "Hay una brecha entre las expectativas y la realidad en cuanto a los servicios de las áreas comunes. Les ofrecieron la idea de tener entrenadores disponibles, pero en la práctica no existen contactos ni un sistema para gestionarlos, dependiendo de la auto-organización de los vecinos por WhatsApp."
+    },
+    "proyecto": "MUV"
+}

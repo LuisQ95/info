@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Inversionista con experiencia y capital disponible busca un activo para generar renta. La oportunidad surge a través de su banco, eligiendo un proyecto por su ubicación estratégica para alquiler, buen precio y la flexibilidad de un posible uso personal futuro.",
+    "historia_causal": {
+        "contexto_previo": "Cliente vive en una casa propia de tres pisos en Chorrillos con su madre. Tiene experiencia previa en la compra de departamentos para inversión junto a su familia (hermano ingeniero civil, hermana arquitecta), lo que le da un conocimiento técnico del negocio.",
+        "tension_acumulada": "Tenía la intención de invertir un capital significativo, buscando activamente un préstamo de $200-300k. La tensión principal era tener capital o acceso a él sin que estuviera generando una rentabilidad activa.",
+        "bloqueadores": "El banco (BanBif) no le aprobó el desembolso del préstamo personal que buscaba inicialmente. Además, su experiencia previa con otras constructoras le generó desconfianza por sus prácticas comerciales.",
+        "eventos_habilitadores": "El mismo banco que le negó el préstamo personal le ofreció una alternativa: una cartera de proyectos inmobiliarios financiables. Esto canalizó su intención de inversión hacia una opción concreta y viable.",
+        "switching_trigger": "La presentación de la cartera de proyectos por parte de BanBif, donde uno de ellos (WOW) destacó inmediatamente por su ubicación y precio, activando la evaluación activa.",
+        "momento_de_decision": "Tras la recomendación del banco, visitó el proyecto con su hermano. Evaluaron la ubicación como estratégica para el negocio de alquiler (cercanía a UPC, zona en crecimiento), el precio como adecuado y las áreas comunes como un plus. La decisión fue rápida, enfocada en la oportunidad de inversión."
+    },
+    "contexto_activador": {
+        "marco_general": "Es un inversionista con un sistema de vida estable y sin urgencia habitacional. Su decisión se activa por la disponibilidad de capital y el acceso a productos financieros. Opera con una mentalidad de negocio, evaluando costo-oportunidad, rentabilidad y detalles contractuales, apoyándose en su círculo familiar experto."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo que genere un flujo de ingresos pasivos y constantes a través del alquiler, protegiendo y haciendo crecer su patrimonio, manteniendo la opcionalidad de un uso personal futuro si las circunstancias cambian.",
+        "job_statement": "Cuando busco una oportunidad para invertir mi capital, quiero comprar un departamento en una ubicación estratégica para generar una renta mensual segura y tener un activo patrimonial flexible.",
+        "job_dominante_narrativo": "El cliente busca emplear su capital en una inversión inmobiliaria para generar rentabilidad. La meta es adquirir un activo que 'pague solo' y cuyo valor se aprecie, funcionando como un vehículo financiero más que como una solución habitacional.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "Ninguno"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación estratégica para el negocio de alquiler (cerca a la UPC, zona en crecimiento), el precio competitivo, y las áreas comunes tipo club que, aunque descuidadas, representaban un valor agregado tanto para el alquiler como para un posible uso personal.",
+        "firing_criteria": "Proyectos más caros (como los de San Isidro) fueron descartados. También, constructoras con prácticas contractuales abusivas o poco transparentes, que no permiten la revisión por abogados o no incluyen cláusulas de penalidad por demoras.",
+        "trade_offs_reales": "Aceptó un contrato rígido y sin posibilidad de negociación, a pesar de su descontento y experiencia previa. Toleró la falta de seguimiento post-venta y la presión comercial, priorizando la oportunidad de inversión sobre la calidad del proceso de compra.",
+        "factores_de_confianza": "La recomendación y el respaldo del banco (BanBif) actuaron como un filtro inicial de confianza. La visita al proyecto con su hermano (experto en construcción) le permitió validar técnicamente la oportunidad.",
+        "reduccion_de_riesgo": "El riesgo se redujo al evaluar el proyecto como una buena inversión financiera con una rentabilidad esperada clara ($800-900/mes). La flexibilidad de poder usarlo él mismo en el futuro también minimizó el riesgo de tener un activo 'vacío'."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La tipología de 2 dormitorios (60-70m²), la ubicación con alto potencial de alquiler, el precio dentro de su rango de inversión y las áreas comunes (club).",
+        "atributos_secundarios": "La posibilidad de vivir allí con su madre en el futuro. Fue un atributo valorado que añadió flexibilidad, pero no fue el driver de la compra.",
+        "alternativas_descartadas": "Proyectos en Jesús María y San Isidro ofrecidos por el mismo banco, descartados por ser más caros. Otras constructoras no especificadas fueron descartadas por sus malas prácticas contractuales."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo. Aunque la inversión parece sólida, la experiencia del proceso de compra ha sido muy negativa, especialmente por el contrato inflexible y la falta de seguimiento post-venta.",
+        "reservas": "Mucha desconfianza hacia la constructora. Preocupación por la falta de penalidades en el contrato ante posibles demoras en la entrega y la actitud 'angurrienta' de la empresa.",
+        "fricciones_pendientes": "Incertidumbre sobre las fechas reales de inicio y entrega de la obra. Una relación tensa con la constructora que anticipa posibles problemas futuros. El estado de mantenimiento de las áreas comunes del club."
+    },
+    "proyecto": "WOW"
+}

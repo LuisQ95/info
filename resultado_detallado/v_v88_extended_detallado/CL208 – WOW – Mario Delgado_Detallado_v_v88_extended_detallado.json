@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente en etapa de jubilación invierte sus fondos de AFP en un departamento, motivado por la necesidad de proteger su patrimonio y generar una renta futura. La elección del proyecto fue impulsiva, gatillada por la recomendación de su hija y el fuerte atractivo de las áreas comunes.",
+    "historia_causal": {
+        "contexto_previo": "Vivía cómodamente en su departamento propio en Surco con su esposa, sin ninguna necesidad de mudanza. Estaba a punto de cumplir 65 años y recibir los fondos de su jubilación.",
+        "tension_acumulada": "La conciencia de que recibiría una suma importante de dinero (su jubilación) que necesitaba ser invertida para protegerla de la inflación y generar una renta para su vejez.",
+        "bloqueadores": "No existía una búsqueda activa ni una urgencia. El estado por defecto era 'no hacer nada' hasta que se presentara una oportunidad clara y atractiva.",
+        "eventos_habilitadores": "La recepción inminente de los fondos de su AFP. Su hija, que trabajaba como agente inmobiliaria, conoció el proyecto WOW y se lo presentó, actuando como un canal de confianza.",
+        "switching_trigger": "La visita al proyecto WOW, impulsada por su hija. El 'enamoramiento' con el concepto del condominio y sus áreas comunes fue el catalizador que convirtió la idea latente de invertir en una acción de compra concreta.",
+        "momento_de_decision": "La decisión fue extremadamente rápida y emocional ('amor a primera vista'). No comparó activamente con otros proyectos inmobiliarios. Vio el proyecto, le gustó el concepto y decidió comprar, aprovechando las condiciones de pago para los primeros compradores."
+    },
+    "contexto_activador": {
+        "marco_general": "Un hombre de 65 años, en la transición a la jubilación, con capital disponible y una mentalidad de inversor conservador. Su sistema de vida es estable y no tiene presiones habitacionales. La decisión se activa en un contexto de oportunidad presentada por un familiar de confianza, no por una búsqueda planificada."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar su capital de jubilación en un activo tangible que se revalorice y/o genere una renta pasiva, dándole tranquilidad financiera para su vejez y flexibilidad para un posible uso familiar futuro.",
+        "job_statement": "Cuando recibo el dinero de mi jubilación, quiero invertirlo en una propiedad segura y atractiva para proteger mi patrimonio y generar ingresos para mi vejez.",
+        "job_dominante_narrativo": "El cliente busca transformar un capital líquido (fondos de jubilación) en un activo sólido y productivo. La misión es asegurar su futuro financiero, ya sea mediante la revalorización del inmueble para una venta futura o a través de la generación de una renta por alquiler.",
+        "job_dominante_canonico": "J02 - Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J06 - Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El principal criterio fue el concepto del proyecto y sus áreas comunes (clubhouse, piscina, cancha de tenis), que generaron un deseo aspiracional. La flexibilidad de la tipología (2 dorm + flex) y la ubicación conocida también sumaron.",
+        "firing_criteria": "El precio fue un factor clave. Descartó otros proyectos de la misma empresa que ya estaban terminados por ser más caros. La idea era comprar en planos para obtener un mejor valor.",
+        "trade_offs_reales": "Aceptó la incertidumbre y los largos plazos de una compra en planos, incluyendo múltiples retrasos. Toleró una ubicación que, aunque conocida, era distante y con una logística de transporte más tediosa.",
+        "factores_de_confianza": "La principal fuente de confianza fue su hija, quien le presentó el proyecto. A pesar de los problemas posteriores, la decisión inicial se basó en esta recomendación familiar.",
+        "reduccion_de_riesgo": "El plan de pagos semestrales, al ser uno de los primeros compradores, le dio flexibilidad y redujo la presión financiera inicial. Sin embargo, el riesgo percibido aumentó drásticamente post-compra por los retrasos."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes (clubhouse, piscina temperada, cancha de tenis) fueron el gancho principal. El concepto general del condominio y la promesa de un estilo de vida superior.",
+        "atributos_secundarios": "La distribución del departamento (2 dorm + flex) era adecuada pero no el driver principal ('los departamentos son muy parecidos'). La ubicación en Surco era aceptable.",
+        "alternativas_descartadas": "Descartó explícitamente otros proyectos terminados de Arquimia (como MOVE) por ser más caros. También consideró y descartó otras formas de inversión no inmobiliarias como la bolsa."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo debido a la experiencia post-venta. Aunque recomienda el proyecto terminado con un 9, su experiencia personal con la compra en planos es de 'incertidumbre' y 'malestar'.",
+        "reservas": "La principal reserva es la falta de confianza en la empresa debido a los constantes retrasos y la mala comunicación. Duda de la capacidad de la empresa para cumplir los plazos.",
+        "fricciones_pendientes": "La construcción no ha comenzado a tiempo, la fecha de entrega es incierta, y siente que su inversión está en el aire. La comunicación con la empresa es reactiva y solo funciona bajo 'amenaza'."
+    },
+    "proyecto": "WOW"
+}

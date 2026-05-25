@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una pareja de novios, buscando establecer su primer hogar, abandona un proceso de compra por falta de transparencia y, por recomendación familiar, elige rápidamente un proyecto que ofrece un estilo de vida superior gracias a sus amenidades únicas.",
+    "historia_causal": {
+        "contexto_previo": "Pareja de novios viviendo por separado en casa de sus padres en Los Olivos. Ambos son profesionales y planean casarse y formar una vida juntos.",
+        "tension_acumulada": "El deseo natural de independizarse y consolidar su vida en pareja en un espacio propio. Cansancio acumulado por largos tiempos de viaje y la necesidad de una base logística más eficiente para sus vidas.",
+        "bloqueadores": "Presupuesto limitado que inicialmente enfocó su búsqueda en otros distritos. Una mala experiencia con la inmobiliaria Sancharbel, que no fue transparente en la minuta, generando desconfianza y deteniendo el proceso.",
+        "eventos_habilitadores": "Haber ahorrado el dinero para la cuota inicial. La recomendación de un tío que vivía en un proyecto de la misma inmobiliaria (MUV), lo que generó confianza.",
+        "switching_trigger": "La frustración y ruptura con la inmobiliaria Sancharbel por falta de transparencia en el contrato, lo que los obligó a reiniciar activamente su búsqueda y a estar más receptivos a nuevas opciones.",
+        "momento_de_decision": "La decisión fue muy rápida. Tras la recomendación del tío, visitaron la sala de ventas, quedaron impresionados con el concepto del club y la piscina, y separaron la unidad el mismo día, validando que el proyecto encajaba en su presupuesto."
+    },
+    "contexto_activador": {
+        "marco_general": "Pareja de profesionales jóvenes en transición hacia el matrimonio, buscando establecer su primera base habitacional. Su sistema de vida actual implica dependencia familiar y largos traslados. La decisión de compra se activa al tener la capacidad económica para la inicial y encontrar una opción que no solo resuelve la necesidad de vivienda, sino que también ofrece un estilo de vida aspiracional y la confianza de una referencia cercana."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una base habitacional estable y propia que sirva como cimiento para nuestra vida de pareja, en un entorno que mejore nuestra calidad de vida diaria.",
+        "job_statement": "Cuando estamos listos para empezar nuestra vida juntos, quiero comprar nuestro primer hogar para poder establecer una base sólida y segura para nuestro futuro.",
+        "job_dominante_narrativo": "La pareja está intentando pasar de vivir separados con sus padres a tener un hogar propio, para poder consolidar su relación, planificar su futuro y mejorar su logística diaria.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La existencia de un club con piscina semiolímpica. Una ubicación tranquila y apartada del ruido y tráfico de avenidas principales. Amplio estacionamiento para visitas. La confianza generada por la recomendación de un familiar. Un precio sorprendentemente asequible para la zona de Surco.",
+        "firing_criteria": "Falta de transparencia en los documentos contractuales (caso Sancharbel). Proyectos ubicados en zonas ruidosas y con mucho tráfico. Departamentos en primer piso por ser pequeños y vulnerables a la suciedad de pisos superiores.",
+        "trade_offs_reales": "Aceptaron un departamento de menor tamaño (79m²) del que hubieran deseado (100m²). Renunciaron a tener un balcón funcional (el que tienen es de 80cm). Toleraron una fuerte presión de venta y una comunicación post-venta prácticamente inexistente.",
+        "factores_de_confianza": "El testimonio directo y la experiencia positiva de su tío, que ya vivía en un proyecto de la misma inmobiliaria, fue el factor decisivo para confiar y avanzar.",
+        "reduccion_de_riesgo": "La validación de un familiar cercano minimizó el riesgo percibido de tratar con una nueva inmobiliaria, especialmente después de una mala experiencia previa."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de 'club dentro del condominio', materializado en la piscina semiolímpica. La ubicación 'metida' que garantiza tranquilidad. La disponibilidad de estacionamiento para visitas.",
+        "atributos_secundarios": "La distribución 2+flex fue aceptada como una solución viable, aunque hubieran preferido un departamento de 3 dormitorios. El balcón fue considerado un atributo negativo por su tamaño.",
+        "alternativas_descartadas": "Proyecto de Sancharbel (descartado por falta de transparencia). Otros proyectos en Jesús María y Pueblo Libre (descartados por ubicación ruidosa y amenidades inferiores)."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Califican el proyecto con un 8/10 por sus atributos, pero a la inmobiliaria con un 3/10 por el pésimo servicio post-venta y la nula comunicación.",
+        "reservas": "Preocupación por el tamaño del departamento y la inutilidad del balcón. Incertidumbre sobre la fecha real de entrega.",
+        "fricciones_pendientes": "La comunicación con la inmobiliaria es inexistente, generando alta ansiedad. El proceso de desembolso del crédito hipotecario se ha retrasado por falta de coordinación entre el banco y la inmobiliaria. Hay una sensación de abandono y desprotección como clientes."
+    },
+    "proyecto": "WOW"
+}

@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la inadecuación de su departamento de soltero (1 habitación) ante el crecimiento de su familia (matrimonio, un hijo y un segundo en camino). Esto es un claro J04. Los filtros de selección (Selection Drivers) fueron la ubicación conveniente, el atractivo de los pilotos y, crucialmente, la certeza de que MUV tenía licencia de construcción, a diferencia de su competidor directo.",
+        "debate_deal_breaker": "El innegociable era el espacio. Necesitaba un departamento con más habitaciones para acomodar a su familia. Una opción que no cumpliera con este requisito de tamaño era inviable. Adicionalmente, el riesgo de que un proyecto no tuviera licencia de construcción (caso Paz Centenario) se convirtió en un deal-breaker para esa alternativa específica.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "era mi departamento de soltero y ya me casé y tuve que comprar un departamento con dos habitaciones.",
+                    "mi esposa sale embarazada y entonces ya tenía que pensar en comprar un departamento con tres habitaciones.",
+                    "Como como te dije, que era mi departamento de una habitación. Una habitación. [...] Entonces, yo me casé y tuve un hijo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin el crecimiento de su familia, no habría tenido ninguna razón para abandonar su departamento de soltero. La compra no hubiera ocurrido."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "como vivía cerca, vi el proyecto, me gustó la temática",
+                    "La ubicación me parecía bonita y y el y el y la, ¿cómo te digo?, estas maquetas, estas habitaciones piloto, los pilotos me gustaron."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, aunque la ubicación era un plus, si no hubiera necesitado el espacio extra para su familia, no habría comprado. La conveniencia por sí sola no era un motor de compra."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "La decisión de compra es gobernada de forma inequívoca por el J04. El cliente ya poseía una vivienda, pero esta se volvió estructuralmente inadecuada debido a un cambio en la composición familiar (matrimonio e hijos). Este desajuste es el único y verdadero origen de la necesidad. Otros factores como la ubicación o el riesgo del competidor son criterios de selección que ayudaron a elegir MUV, pero no explican por qué se inició la búsqueda."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. El cliente articula con precisión el contexto previo (departamento de soltero), la tensión acumulada (crecimiento familiar) y el momento de decisión, permitiendo una identificación inequívoca del Job to be Done (J04). La extensa y negativa descripción de la post-compra, si bien relevante, no invalida la claridad de los drivers originales de la compra."
+}

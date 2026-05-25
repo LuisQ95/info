@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra de inversión activada por un profundo conocimiento del mercado de alquileres para estudiantes, eligiendo un producto que no solo cumple con los criterios de rentabilidad, sino que también satisface una aspiración de calidad de vida futura.",
+    "historia_causal": {
+        "contexto_previo": "Cliente es un ingeniero civil con un estilo de vida nómada debido a su trabajo, moviéndose entre ciudades como Huaraz y Huancayo. No tiene una necesidad inmediata de vivienda estable en Lima. Proviene de Chosica y, durante su etapa universitaria en la UPC, vivió alquilado en Monterrico, lo que le dio un conocimiento profundo de la dinámica y precios de alquiler en la zona.",
+        "tension_acumulada": "Tenía un capital ahorrado que no estaba generando rendimiento. Su experiencia personal y familiar en inversiones inmobiliarias cerca de universidades le generaba la tensión de estar perdiendo una oportunidad de rentabilizar su dinero en un mercado que conocía bien: el de alquileres para estudiantes en Surco.",
+        "bloqueadores": "La principal barrera no era económica, sino la indecisión sobre cuál era la mejor opción de inversión. Había evaluado zonas como San Isidro, pero la alta densidad de los proyectos (edificios de 25 pisos) y la masificación de las áreas comunes no le convencían, generando una parálisis en la búsqueda activa.",
+        "eventos_habilitadores": "La disponibilidad de sus propios ahorros para la cuota inicial y una línea de crédito suficiente en su tarjeta fueron habilitadores clave. El reencuentro con el proyecto en una feria inmobiliaria, donde se presentó una oferta con un descuento por tiempo limitado, eliminó la indecisión y activó la compra.",
+        "switching_trigger": "El momento exacto del cambio de pasivo a activo fue el encuentro con el stand de WOW en una feria inmobiliaria. La combinación de un producto ya conocido y valorado, junto con una promoción de descuento por tiempo limitado, creó la urgencia necesaria para tomar la decisión de compra de forma inmediata.",
+        "momento_de_decision": "El proceso fue rápido y decisivo. Tras haber visitado el proyecto previamente, la decisión se tomó en la misma feria. La vendedora generó urgencia con la promoción, y el cliente, al confirmar que podía pagar la cuota inicial con tarjeta de crédito en ese momento, cerró la operación sin más deliberación."
+    },
+    "contexto_activador": {
+        "marco_general": "El cliente opera en un sistema de vida profesionalmente nómada, sin ataduras a una ubicación fija y sin una necesidad habitacional presente. Su decisión se activa por la disponibilidad de capital y un conocimiento específico del mercado de alquileres, condicionado por su búsqueda de una inversión que sea a la vez rentable a corto plazo y una opción de vida aspiracional a largo plazo."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Hacer que su capital trabaje para él, generando ingresos pasivos a través de una inversión inmobiliaria segura y flexible, que además le brinde la tranquilidad de tener un futuro hogar de alta calidad en una zona que valora.",
+        "job_statement": "Cuando tengo capital disponible y conocimiento de un mercado rentable, quiero comprar una propiedad que funcione como inversión a corto plazo y como hogar a largo plazo, para asegurar mi patrimonio y mi futura calidad de vida.",
+        "job_dominante_narrativo": "El cliente está intentando convertir su capital ocioso en un activo productivo y flexible. La misión es asegurar una fuente de ingresos pasivos mediante el alquiler a estudiantes, y al mismo tiempo, adquirir un lugar que en el futuro pueda convertirse en su hogar, cumpliendo con sus aspiraciones de tranquilidad y comodidad.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La elección se basó en: 1) Potencial de inversión (cercanía a 3 universidades). 2) Baja densidad (edificios de 7-8 pisos). 3) Concepto de condominio cerrado (tranquilidad y seguridad). 4) Amenities tipo 'mini-club' (piscina, gimnasio, cine). 5) Precio competitivo frente a otras opciones. 6) La vista desde el piso 6.",
+        "firing_criteria": "Descartó automáticamente proyectos con: 1) Alta densidad (25-30 pisos), por problemas de convivencia y masificación. 2) Ubicación en zonas de alto tráfico y ruido. 3) Áreas comunes que no se sentirían exclusivas (ej. una piscina para 300 propietarios). 4) Precio más elevado sin un beneficio inmediato que lo justificara (caso MUV).",
+        "trade_offs_reales": "Aceptó una tipología de 1 dormitorio más estudio en lugar de 2 dormitorios definidos, confiando en la flexibilidad para convertir el espacio. También cedió ante la presión de la vendedora para cerrar la compra rápidamente con tarjeta de crédito para no perder un descuento.",
+        "factores_de_confianza": "La confianza se basó en su propio conocimiento y análisis de la zona. La experiencia positiva en la visita al piloto, donde le mostraron el proyecto en un carrito de golf, y la calidad percibida de las áreas comunes, reforzaron su decisión.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al elegir una zona con demanda de alquiler comprobada por él mismo. La baja densidad del proyecto reducía el riesgo percibido de problemas de convivencia y devaluación por masificación. El precio, apalancado por un descuento, le dio la sensación de una buena oportunidad financiera."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación estratégica para inversión y un concepto de producto que ofrecía tranquilidad y un estilo de vida aspiracional. Específicamente: el condominio cerrado, los edificios de baja altura, las completas áreas comunes (piscina semiolímpica, cine) y la vista panorámica desde el departamento elegido.",
+        "atributos_secundarios": "La flexibilidad de la distribución (estudio convertible en cuarto) fue un atributo valorado pero solucionable, no un driver principal. La marca de la inmobiliaria no fue un factor mencionado como decisivo.",
+        "alternativas_descartadas": "Descartó proyectos en San Isidro y otros en Monterrico por ser edificios muy altos y densos. Descartó MUV, el otro proyecto de la misma empresa, por ser más caro y no necesitar la entrega inmediata, priorizando el precio de WOW para su objetivo de inversión."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (califica con 8/10), condicionado a la entrega final del producto. La satisfacción se basa en la certeza de haber hecho una buena compra.",
+        "reservas": "La principal reserva es la comunicación postventa. Siente que la empresa no es proactiva en informar sobre los avances, lo que le genera 'cierta zozobra' e incertidumbre sobre su inversión.",
+        "fricciones_pendientes": "La falta de comunicación proactiva por parte de la inmobiliaria. El incumplimiento de la entrega de un premio (gift card de S/1000). La incertidumbre sobre los siguientes pasos del proceso hasta la entrega final del departamento."
+    },
+    "proyecto": "WOW"
+}

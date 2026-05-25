@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la decisión del yerno de mudarse, lo que activa la condición innegociable de la hija de tener a su madre al lado. Esto fuerza la compra de la madre. Los filtros de selección, como las amenidades (gimnasio, piscina) y la tranquilidad de la zona, son beneficios secundarios que validan la elección del proyecto, pero no originan la necesidad de comprar.",
+        "debate_deal_breaker": "El 'deal breaker' absoluto era la disponibilidad de dos departamentos contiguos. La hija fue explícita: 'Si no había la opción de un departamento al costado del otro, no era opción para mí'. La compra entera dependía de esta configuración física para mantener la estructura de apoyo familiar, no de las características del producto o la ubicación.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Si no había la opción de un departamento al costado del otro, no era opción para mí.",
+                    "Bueno, las dos decidimos porque siempre hemos vivido juntas. Es mi única hija y bueno, yo acá en Lima no tengo a nadie más.",
+                    "ya soy una persona mayor y bueno, las dos nos necesitamos para cualquier emergencia."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría en absoluto. La clienta no tenía intención de mudarse y solo entró al mercado forzada por la necesidad de mantenerse físicamente junto a su hija. Sin esa condición, la compra no existía."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "A mí sí me gustó porque, bueno, tiene todo lo que a mí me gusta, que es el gimnasio, la piscina, el spa.",
+                    "Es más tranquilo. Allá es más bullicio, es más peligroso.",
+                    "me favorece porque de acá voy a la clínica caminando, no tengo que luchar con con el tráfico."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, compraría igual. Aunque valora las comodidades, su decisión estaba supeditada a estar junto a su hija. Hubiera comprado en cualquier otro proyecto que cumpliera esa condición, incluso sin estas optimizaciones."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La compra es un caso claro de J04 en su subtipo 'Dependencia Funcional Estructural'. La decisión de la clienta no es autónoma; está completamente subordinada a la reorganización del sistema familiar. El 'Job' no es de la madre, sino del sistema familiar que necesita mantenerse cohesionado. La transacción es la herramienta para asegurar la continuidad del apoyo mutuo y la proximidad física, que es el verdadero progreso buscado."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista revela con claridad una historia causal robusta y un Job Dominante inequívoco. La compra es un caso de libro de J04 (Dependencia Funcional Estructural), donde la decisión individual está completamente subordinada a las necesidades del sistema familiar. La evidencia del 'deal breaker' (departamentos contiguos) es explícita y repetida, validando el análisis sin ambigüedad."
+}

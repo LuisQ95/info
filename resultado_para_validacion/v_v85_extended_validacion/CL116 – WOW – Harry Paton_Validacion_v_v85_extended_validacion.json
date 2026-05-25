@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo de Entrada (Entry Driver) es la fricción logística severa causada por su vivienda actual en Magdalena, que está \"totalmente descentrado\" de su círculo de vida y el de su hija. Este problema de optimización de la vida diaria (J03) es lo que lo impulsa a buscar un nuevo hogar. El Filtro de Selección (Selection Driver) son los atributos específicos que lo hacen elegir WOW: las áreas sociales que encantaron a su hija, la ubicación perfecta dentro de su zona de movimiento, y el carácter puramente residencial del edificio. Estos son criterios de elección, no la causa original de la búsqueda.",
+        "debate_deal_breaker": "El 'deal-breaker' fue la aprobación de su hija. Él explícitamente narra cómo, después de ver varias opciones, su hija fue categórica: \"papá, yo creo que este es el sitio\". Esto indica que si ella no hubiera conectado con el proyecto, la compra no se habría realizado. Adicionalmente, un edificio de uso mixto (con comercio en el primer piso) fue un criterio de descarte claro, lo que convierte el carácter 'puramente residencial' en un innegociable.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "Actualmente vivo en Magdalena... me queda totalmente descentrado de todo el círculo en el que me muevo.",
+                    "Entonces, sí, hay que mudarse ya, ¿no? Hay que mudarse.",
+                    "Un tema de, como digo, de movilidad, ¿no? De movilidad, de movernos para distintos lugares."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si su casa en Magdalena no estuviera 'descentrada', no habría iniciado la búsqueda. La compra no ocurriría. Pasa el test."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Mi hija, porque... Estamos con ella buscando departamentos, ¿no?",
+                    "Y a ella le encantó, ¿no? Porque también ella está en esta dinámica ya de las amigas...",
+                    "Mi hija me dice, no, papá, yo creo que este es el sitio."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuviera a su hija, ¿se mudaría igual de su casa 'descentrada'? Probablemente sí, para optimizar su propia vida (trabajo, amigos). La compra ocurriría, aunque la elección del producto sería diferente. No pasa el test como driver de entrada."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El cliente entra al mercado para resolver una fricción funcional y logística severa (J03), originada por una vivienda que ya no se ajusta a su rutina diaria. La necesidad de su hija (J04) no es el gatillo que inicia la búsqueda, sino el filtro más importante que define la solución final. La compra se origina en la necesidad de 'vivir mejor' en términos de eficiencia, y se concreta en un producto que satisface las necesidades operativas y emocionales de la unidad familiar."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J03: Optimizar la vida cotidiana, con una fuerte influencia secundaria de J04: Acompañar el crecimiento familiar.",
+    "justificacion": "La decisión de entrar al mercado inmobiliario se origina inequívocamente en la necesidad de resolver una fricción logística diaria (J03), como lo evidencia su repetida mención a que su casa actual está \"descentrada\". Las necesidades de su hija (J04) no son el gatillo de la compra, sino el principal criterio de selección que define la solución ideal. El problema de raíz es la ineficiencia, y la solución debe ser familiar."
+}

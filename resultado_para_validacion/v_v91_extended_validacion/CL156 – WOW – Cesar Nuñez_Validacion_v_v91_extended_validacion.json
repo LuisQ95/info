@@ -1,0 +1,38 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es puramente financiero: la necesidad de invertir un capital excedente para generar rentabilidad (J02). Sin embargo, el filtro de selección (Selection Driver) está completamente dominado por la conveniencia familiar: la proximidad a la universidad de los hijos, la cancha de tenis para ellos y la flexibilidad del departamento para un uso familiar futuro (J04).",
+        "debate_deal_breaker": "El deal-breaker fundamental es la lógica de inversión; sin el capital excedente, la compra no se habría considerado. No obstante, en la fase de selección, la capacidad del inmueble para servir a las necesidades familiares (actuales y futuras) se convirtió en un requisito innegociable para elegir esta propiedad específica sobre otras.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "la intención es comercial",
+                    "lo compró como inversión",
+                    "esto es más inversión que que necesidad de comprar para vivir",
+                    "tienen un excedente de dinero y mientras sepan que van a alquilar ya ya están ganando"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin el capital excedente para invertir, no habrían entrado al mercado en primer lugar."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Pensamos en la ubicación. Por la universidad. Nuestros hijos están en la Universidad de Lima.",
+                    "La cancha de tenis, más que todo. Ellos juegan tenis.",
+                    "Precisamente por la posibilidad de que quizás nosotros mismos...",
+                    "Con tres [dormitorios]."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habrían realizado una compra de inversión de todas formas, pero probablemente en otro proyecto si este no cumpliera con los requisitos de conveniencia familiar."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar crecimiento familiar",
+        "resolucion_del_tribunal": "La compra se origina por un driver financiero (J02): invertir un capital. La necesidad familiar (J04) no genera la compra, pero sí define de manera absoluta los criterios de selección del producto. Por lo tanto, J02 es el Job Dominante que explica el 'porqué' de la transacción, y J04 es el Job Secundario que explica el 'cuál' y el 'dónde'."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista revela una clara historia causal. El 'entry driver' es financiero (J02), mientras que los criterios de selección están fuertemente influenciados por la conveniencia familiar (J04). La narrativa es coherente y permite diferenciar claramente el origen de la compra de los factores de elección del producto."
+}

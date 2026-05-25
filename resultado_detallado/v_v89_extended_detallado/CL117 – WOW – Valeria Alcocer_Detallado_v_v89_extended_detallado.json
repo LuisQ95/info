@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "La compra se origina como una decisión racional de inversión familiar para capitalizar una tasa de interés preferencial, pero es emocionalmente capturada por un proyecto aspiracional descubierto a través de amigos, lo que modifica el plan de uso inicial de alquiler a vivienda temporal.",
+    "historia_causal": {
+        "contexto_previo": "La clienta vive cómodamente en un departamento de su madre, pagando un alquiler preferencial. No tiene una necesidad o deseo activo de mudarse ni de comprar una propiedad para sí misma. Su situación habitacional es estable y satisfactoria.",
+        "tension_acumulada": "La tensión no es personal, sino familiar y financiera. La madre de la clienta tiene la intención de realizar una nueva inversión inmobiliaria, y existe un capital disponible y una oportunidad financiera latente a través de la tasa hipotecaria preferencial que la hija puede obtener por su trabajo.",
+        "bloqueadores": "El principal bloqueador era la inercia. La clienta no tenía planes personales de asumir una deuda hipotecaria, ya que su necesidad de vivienda estaba resuelta. La compra no era una prioridad para ella.",
+        "eventos_habilitadores": "El plan de inversión de la madre actúa como catalizador. La hija ofrece su beneficio de tasa de interés para ayudar, lo que abre la puerta a la transacción. Simultáneamente, el descubrimiento casual del proyecto WOW a través de dos grupos de amigos diferentes genera una validación social y un interés concreto.",
+        "switching_trigger": "El momento en que la madre decide activamente buscar un nuevo inmueble para invertir y la hija propone 'yo lo saco a mi nombre y tú me lo pagas y tienes mi tasa'. Esto convierte una idea abstracta en una búsqueda activa.",
+        "momento_de_decision": "La decisión es extremadamente rápida. Tras conocer el proyecto por amigos, lo visita con su madre. El impacto de las áreas comunes, especialmente la piscina, es tan fuerte que la madre decide comprar una segunda unidad. Una promoción de venta de fin de semana crea una urgencia artificial que acelera el cierre el mismo día de la visita."
+    },
+    "contexto_activador": {
+        "marco_general": "Joven profesional con una situación de vivienda estable y sin urgencia de cambio, pero inmersa en un sistema familiar con capacidad y mentalidad de inversión. Su acceso a una ventaja financiera (tasa de interés muy baja) y la influencia de su círculo social (amigos que ya viven en el proyecto) crean las condiciones perfectas para que una oportunidad de inversión se convierta en una compra aspiracional."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario flexible que funcione como una inversión rentable a largo plazo, protegiendo y haciendo crecer el patrimonio familiar, mientras ofrece la opcionalidad de ser disfrutado personalmente por su alta calidad de vida.",
+        "job_statement": "Cuando surge una oportunidad financiera familiar, quiero invertir en un inmueble con alta deseabilidad y potencial de revalorización, para generar ingresos pasivos futuros y asegurar mi patrimonio, aprovechando al máximo mis ventajas financieras personales.",
+        "job_dominante_narrativo": "La clienta está tratando de materializar una oportunidad de inversión familiar de la manera más inteligente posible, utilizando su beneficio de tasa para maximizar el retorno y asegurar un activo que se pague solo a futuro.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La elección fue gobernada por la propuesta de valor aspiracional: una piscina 'gigantesca', un cine funcional, y la percepción de estar en una 'zona bonita'. La ubicación céntrica para sus actividades (deporte) y cercanía a su madre, junto con un precio percibido como una 'ganga' con cochera incluida, fueron factores clave.",
+        "firing_criteria": "Descartó automáticamente opciones con mala ubicación (Surquillo, por ruidoso y con tráfico), que no incluyeran cochera, o con una distribución poco funcional (baño único dentro del dormitorio). Proyectos que fueran 'solo terreno' sin construcción avanzada también habrían sido descartados por el riesgo.",
+        "trade_offs_reales": "Aceptó una fuerte presión de venta con plazos de pago extremadamente cortos (un día y medio), lo que le generó estrés y la obligó a perder tiempo laboral para gestionar trámites. También aceptó la incertidumbre de pagar la inicial sin tener la aprobación formal del crédito hipotecario.",
+        "factores_de_confianza": "La confianza fue generada casi en su totalidad por la prueba social: tener dos grupos de amigos diferentes viviendo felizmente en el proyecto. La experiencia positiva de ellos ('me dijeron maravillas') y el hecho de que la construcción ya estaba avanzada y habitada fueron determinantes.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al ver el proyecto parcialmente construido y habitado, y al tener testimonios directos de residentes satisfechos. Esto compensó el hecho de no conocer a la inmobiliaria previamente."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes, principalmente la piscina y el cine, fueron los activadores emocionales. La distribución del departamento (baño de visitas separado), el tamaño adecuado (62m²), la ubicación conveniente y el precio competitivo con cochera incluida cerraron el encaje funcional y racional.",
+        "atributos_secundarios": "El gimnasio no fue un factor relevante, ya que tiene uno en su trabajo. El depósito tampoco fue necesario. La marca de la inmobiliaria era desconocida y no influyó en la decisión.",
+        "alternativas_descartadas": "Se descartó activamente un proyecto en Surquillo (High Life) por ser más caro por metro cuadrado, no incluir cochera, tener áreas comunes menos atractivas y estar en una zona percibida como de menor calidad (ruido, tráfico)."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (califica con 9/10). La satisfacción con el producto y la decisión es muy alta.",
+        "reservas": "La única reserva importante es la mala experiencia con el proceso de cierre, específicamente la presión por los tiempos de pago tan cortos, lo que generó un estrés innecesario.",
+        "fricciones_pendientes": "La principal fricción es la incertidumbre sobre los plazos de entrega, aunque está contractualmente cubierta. El proceso de desembolso y la espera hasta la entrega del inmueble son los siguientes pasos."
+    },
+    "proyecto": "WOW"
+}

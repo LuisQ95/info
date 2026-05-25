@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Familia residente en Cusco adquiere un departamento en Lima como una solución de soporte directo para su hijo mayor, quien se muda para comenzar sus estudios universitarios. La decisión se centra en la seguridad y la conveniencia logística, siendo la cercanía a la universidad el factor determinante.",
+    "historia_causal": {
+        "contexto_previo": "La familia reside permanentemente en Cusco. Su hijo mayor se mudó a Lima para estudiar en la UPC y vivía en un departamento alquilado. Los padres viajaban ocasionalmente a Lima.",
+        "tension_acumulada": "Existía una preocupación constante por la seguridad del hijo al tener que movilizarse en una ciudad grande. Además, la condición de inquilinos les generaba frustración por no poder personalizar el espacio ('en lo que no es tuyo ni un clavo') y la percepción de que el alquiler era un gasto sin retorno.",
+        "bloqueadores": "No había bloqueadores financieros o de decisión significativos. La familia estaba en una actitud pasiva hasta que la situación del hijo en Lima se convirtió en una prioridad a resolver de forma permanente.",
+        "eventos_habilitadores": "El hito que habilita la compra es el inicio de la vida universitaria del hijo en Lima. Esto crea la necesidad concreta de una solución habitacional a largo plazo en esa ciudad.",
+        "switching_trigger": "El detonante fue el descubrimiento casual del proyecto por parte del hijo. Al pasar diariamente por la zona, vio la publicidad, entró con un amigo, le hicieron un recorrido y quedó 'encantado' con las instalaciones. Su entusiasmo fue el catalizador que movilizó al padre a considerar la compra.",
+        "momento_de_decision": "La decisión fue rápida y liderada por el hijo y el esposo. Tras la visita, ambos quedaron convencidos y presentaron la decisión a la madre, quien aceptó sin haber visitado las instalaciones ('fueron dos convencidos contra una'). La compra se ejecutó durante una de las estadías de la familia en Lima."
+    },
+    "contexto_activador": {
+        "marco_general": "El cliente es un sistema familiar que opera desde provincia (Cusco) y debe gestionar la logística y seguridad de sus hijos que entran a la etapa universitaria en Lima. Su marco de decisión está dominado por la protección y el soporte a los hijos, priorizando la tranquilidad de los padres por encima de consideraciones puramente económicas o de optimización personal."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la tranquilidad de saber que su hijo vive en un entorno seguro, propio y conveniente durante su formación universitaria, minimizando las preocupaciones de los padres que están a distancia y estableciendo una base para los hermanos que seguirán el mismo camino.",
+        "job_statement": "Cuando mi hijo se va a estudiar a otra ciudad, quiero comprar un departamento propio cerca de su universidad para asegurar su bienestar y mi tranquilidad como madre.",
+        "job_dominante_narrativo": "La familia está contratando el departamento para externalizar el cuidado y la seguridad de su hijo. Buscan un 'sistema de soporte habitacional' que les permita cumplir su rol de padres protectores a pesar de la distancia física, garantizando que el entorno del hijo facilite su éxito académico y minimice su exposición a riesgos.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "Ninguno"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio principal y absoluto fue la cercanía a la universidad (UPC) para garantizar la seguridad y reducir los tiempos de traslado del hijo. Secundariamente, las áreas comunes (piscina, gimnasio) que le gustaron al hijo y la percepción de un condominio cerrado y seguro.",
+        "firing_criteria": "Descartaron cualquier ubicación que implicara movilizarse mucho o exponerse a riesgos. Un lugar alejado de la universidad, aunque fuera más económico, no era una opción viable para ellos.",
+        "trade_offs_reales": "Aceptaron una mala experiencia de post-venta, incluyendo un retraso de un año en la entrega, problemas con la asignación del estacionamiento y acabados defectuosos, a cambio de asegurar la ubicación y seguridad que consideraban críticas.",
+        "factores_de_confianza": "La confianza fue generada principalmente por el entusiasmo y la convicción del hijo y el esposo tras visitar el proyecto. La decisión se basó en la validación de ellos, no en una evaluación directa de la madre.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al elegir un condominio cerrado que proyectaba una imagen de seguridad y control, lo cual era fundamental para la tranquilidad de los padres que viven en otra ciudad."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica a minutos de la UPC. El concepto de condominio cerrado que garantizaba seguridad. Las áreas comunes que atrajeron al hijo y validaron la elección.",
+        "atributos_secundarios": "La tipología de dos dormitorios fue una elección funcional para recibir visitas, pero no fue un driver crítico. La posibilidad de alquilarlo a futuro es una consideración posterior, no un motivo de la compra.",
+        "alternativas_descartadas": "La alternativa principal era continuar alquilando, la cual fue descartada por las limitaciones de personalización y la falta de construcción de patrimonio. No exploraron activamente otros proyectos de compra porque el hijo encontró MUV y la decisión se centró rápidamente en esa opción."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (8/10), porque el producto cumple el objetivo principal: a los hijos les gusta, es seguro y está cerca de la universidad. La satisfacción con el producto supera la insatisfacción con el proceso.",
+        "reservas": "La principal reserva es la mala gestión de la inmobiliaria en la post-venta, específicamente el retraso en la entrega, el incumplimiento de promesas (cobertura de alquiler) y los problemas administrativos con el estacionamiento.",
+        "fricciones_pendientes": "El departamento está actualmente vacío y deben gestionar su alquiler para que no genere solo gastos. Además, están a la espera de la finalización de los trámites de independización y titulación."
+    },
+    "proyecto": "MUV"
+}

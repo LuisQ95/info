@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia que vive alquilada aprovecha sus ahorros y una oportunidad financiera para comprar su primera propiedad, seleccionando un proyecto que satisface tanto su necesidad de estabilidad como las demandas logísticas de sus hijos en diferentes etapas de vida.",
+    "historia_causal": {
+        "contexto_previo": "La familia, compuesta por padres, hija mayor y hermanos menores, vive en una casa alquilada en el distrito de Ate.",
+        "tension_acumulada": "Existía un deseo latente de tener una propiedad familiar, buscando mayor seguridad, estabilidad y una ubicación más conveniente para los hijos mayores que comenzaban su etapa universitaria.",
+        "bloqueadores": "No se menciona un bloqueador financiero explícito, sino más bien la falta de un catalizador que activara la búsqueda activa de una propiedad.",
+        "eventos_habilitadores": "La acumulación de ahorros y capital disponible, junto con el acceso de la hija a una tasa de interés preferencial a través de su trabajo.",
+        "switching_trigger": "La asistencia a una feria inmobiliaria (Expourbania/Nexo) que los expuso a proyectos concretos y transformó la intención latente en una búsqueda activa y decidida.",
+        "momento_de_decision": "La decisión fue rápida y se tomó tras visitar el proyecto WOW, que cumplía con todos sus criterios clave (ubicación, seguridad, áreas comunes, piso bajo para el padre, precio y reputación), y después de descartar a la competencia por malas referencias."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia multigeneracional con hijos en distintas etapas (universitarios y escolares) cuyo sistema de vida está condicionado por la necesidad de apoyar la educación de los mayores y el bienestar de los menores. La decisión de compra se activa cuando su capacidad económica se alinea con una oferta inmobiliaria que resuelve simultáneamente su necesidad de estabilidad patrimonial y las complejas demandas logísticas familiares."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un hogar propio, estable y seguro que sirva como base para toda la familia, facilitando la logística educativa de los hijos y mejorando la calidad de vida de todos sus miembros.",
+        "job_statement": "Cuando tenemos el capital para dejar de alquilar, quiero comprar un departamento en un condominio seguro para establecer una base familiar propia y estable, que además facilite la vida universitaria de mis hijos y ofrezca esparcimiento a los más pequeños.",
+        "job_dominante_narrativo": "La familia está intentando establecer una base habitacional propia y segura para dejar atrás la inestabilidad y la transitoriedad del alquiler.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J04: Acompañar crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Cercanía a universidades, seguridad del condominio, áreas comunes atractivas y poco concurridas (gimnasio, piscina temperada, parrillas), disponibilidad de un departamento en primer piso, buena distribución, precio de preventa y tasa de interés preferencial.",
+        "firing_criteria": "Malas referencias sobre la calidad de construcción y servicios de otros proyectos (sótano, cortes de luz) y un precio significativamente más alto.",
+        "trade_offs_reales": "Aceptar un departamento con un metraje ligeramente menor al deseado y un tiempo de espera de un año para la entrega del inmueble.",
+        "factores_de_confianza": "Buenas referencias de amigos sobre la inmobiliaria (Alquimia), la experiencia positiva durante la visita al showroom y la comunicación percibida como transparente sobre el avance del proyecto.",
+        "reduccion_de_riesgo": "Investigación activa de la reputación de las inmobiliarias, descartando opciones con malas referencias. Aprovechar una oferta de preventa y una tasa de interés especial que redujeron el riesgo financiero percibido."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación estratégica cerca de universidades, un paquete completo de áreas comunes, la disponibilidad de un primer piso para el padre y condiciones comerciales muy favorables (precio, desembolso, tasa).",
+        "atributos_secundarios": "El tamaño exacto del departamento, que aunque no era el ideal, fue aceptado por el resto de los beneficios.",
+        "alternativas_descartadas": "Proyecto 'Look' descartado por malas referencias sobre su calidad y servicios. Proyecto 'Magna' descartado por ser más caro."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto, la familia y especialmente los hermanos menores están emocionados y ansiosos por la mudanza.",
+        "reservas": "La principal reserva es la larga espera de un año para la entrega del departamento.",
+        "fricciones_pendientes": "La entrega del inmueble ha sido postergada, aunque la comunicación de la empresa ha mantenido la confianza. El desembolso final y la mudanza están pendientes."
+    },
+    "proyecto": "WOW"
+}

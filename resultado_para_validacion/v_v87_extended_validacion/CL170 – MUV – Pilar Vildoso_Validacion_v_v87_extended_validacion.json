@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es puramente funcional y de bienestar: la necesidad de acortar el tiempo de traslado al trabajo y escapar de un ambiente con excesiva humedad que afectaba la salud. Estos son criterios clásicos de J03. La configuración familiar (hijos adultos) y las amenidades del proyecto (el club) funcionaron como potentes filtros de selección (Selection Drivers) que determinaron la elección de WOW y de una tipología de 3 dormitorios, pero no iniciaron la búsqueda.",
+        "debate_deal_breaker": "El verdadero 'deal breaker' era la resolución de las fricciones diarias. Si un proyecto no ofrecía cercanía al trabajo y un ambiente más saludable, era descartado. La necesidad de 3 dormitorios, aunque importante, fue un criterio de configuración; de hecho, consideraron la alternativa de 2 dormitorios, lo que demuestra que no era el factor innegociable que sí eran la ubicación y el entorno.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "teníamos que buscar una oportunidad para salir de Chorrillos, para acercarme al trabajo, número uno.",
+                    "Número dos, la excesiva humedad de de Chorrillos, cerca de la playa y todo eso, a mí me afectaba en invierno mucho.",
+                    "Entonces, fueron los dos detonantes, ¿no?"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la distancia al trabajo y la humedad no fueran un problema, no habrían iniciado la búsqueda para mudarse de su departamento propio. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "o un departamento de tres dormitorios. Tenemos dos hijos varones.",
+                    "la otra era dos dormitorios y ellos ya hubieran tenido que que que salir de casa",
+                    "decidimos por el departamento de tres dormitorios y así es que estamos juntos los cuatro."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuvieran los problemas de distancia y humedad, no se hubieran mudado solo por la situación de sus hijos adultos. La compra no ocurriría; la familia es contexto, no el driver."
+            }
+        ],
+        "job_dominante_final": "J03 - Optimizar la vida cotidiana",
+        "job_secundario_final": "J04 - Acompañar crecimiento familiar",
+        "resolucion_del_tribunal": "La clienta ya posee una base habitacional estable, descartando J01. La compra es explícitamente detonada por dos fricciones diarias severas: logística (distancia al trabajo) y bienestar (salud afectada por la humedad). Este es un caso puro de J03. La necesidad de espacio para los hijos adultos (J04) y el atractivo de las áreas comunes (J06) son contextos que definen la selección del producto, pero no el origen de la demanda."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la cadena causal de la decisión. Los detonantes (fricciones diarias) están explícitamente declarados, el proceso de búsqueda y elección es coherente, y se obtiene información valiosa sobre la experiencia post-compra, validando la lógica de la demanda y la elección."
+}

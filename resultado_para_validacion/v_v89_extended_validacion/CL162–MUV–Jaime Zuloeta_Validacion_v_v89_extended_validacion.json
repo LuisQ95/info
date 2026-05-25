@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es el desajuste estructural entre su vivienda de soltero y el crecimiento de su familia (matrimonio e hijos). El filtro de selección (Selection Driver) fue la ubicación conveniente y el atractivo del proyecto, que ya conocía por pasar por la zona.",
+        "debate_deal_breaker": "El factor innegociable era conseguir más espacio; pasar de una a dos, y luego a tres habitaciones. Sin esta necesidad de espacio, la compra no habría ocurrido. La ubicación era un criterio de selección importante, pero no el origen de la demanda.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "era mi departamento de soltero y ya me casé y tuve que comprar un departamento con dos habitaciones.",
+                    "en el transcurso mi esposa sale embarazada y entonces ya tenía que pensar en comprar un departamento con tres habitaciones.",
+                    "Como como te dije, que era mi departamento de una habitación. Una habitación. OK. Entonces, yo me casé y tuve un hijo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin el crecimiento de su familia, la compra no se habría realizado. Se habría quedado en su departamento de soltero."
+            },
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "como vivía cerca, vi el proyecto, me gustó la temática",
+                    "La ubicación me parecía bonita y y el y el y la, ¿cómo te digo?, estas maquetas, estas habitaciones piloto, los pilotos me gustaron."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habría comprado de todas formas un departamento más grande en otro lugar para su familia, aunque este no estuviera en esa ubicación exacta."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03 - Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La decisión de compra es originada inequívocamente por la inadecuación de la vivienda actual del cliente ante el crecimiento de su familia (matrimonio y dos hijos). Este es un caso canónico de J04 tipo 'Growth-driven'. La conveniencia de la ubicación y el atractivo del proyecto (elementos de J03) funcionaron como criterios de selección clave, pero no como el motor que activó la necesidad de entrar al mercado."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista, a pesar de estar dominada por una extensa y detallada queja sobre la desastrosa experiencia post-venta, contiene información causal suficiente y clara para identificar el Job to be Done. El cliente articula con precisión el cambio de contexto (de soltero a padre de familia) y cómo esto hizo que su vivienda anterior fuera estructuralmente inadecuada, activando la necesidad de compra (J04)."
+}

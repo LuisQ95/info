@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de invertir un capital excedente para generar rentabilidad. El cliente ya posee una vivienda cómoda y no busca resolver una necesidad habitacional. Los filtros de selección (Selection Drivers) son los factores familiares: la cercanía a la universidad de los hijos, la cancha de tenis y la tipología flexible. Estos criterios no activan la compra, pero sí definen qué propiedad específica se elige.",
+        "debate_deal_breaker": "El verdadero 'deal breaker' es el componente de inversión. Si la propiedad no fuera una inversión viable (ej. mal precio, baja rentabilidad esperada), no la habrían comprado, independientemente de los beneficios para sus hijos. Por otro lado, si no tuviera los atributos familiares, habrían comprado otra propiedad como inversión en otro lugar. La inversión es la condición necesaria; los atributos familiares son la condición de selección.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "la intención es comercial",
+                    "lo compró como inversión para empezar",
+                    "esto es más inversión que que necesidad de comprar para vivir"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la propiedad no representara una buena inversión, no la comprarían. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Pensamos en la ubicación. Por la universidad. Nuestros hijos están en la Universidad de Lima.",
+                    "La cancha de tenis, más que todo. Ellos juegan tenis.",
+                    "precisamente por la posibilidad de que quizás nosotros mismos... Con tres (dormitorios)."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la propiedad no estuviera cerca de la universidad o no tuviera cancha de tenis, no comprarían ESTA propiedad, pero sí buscarían otra para invertir. La compra ocurriría igual, pero en otro proyecto."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La decisión de entrar al mercado es puramente financiera (J02), activada por un capital disponible que busca rentabilidad. La familia (J04) no es el motor de la compra, sino el sistema de coordenadas que define los criterios de selección para la inversión perfecta. El J02 explica el 'porqué' de la compra, mientras que el J04 explica el 'cuál'."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista es de alta calidad porque permite diferenciar con claridad el 'Entry Driver' (J02: Inversión por capital excedente) de los 'Selection Drivers' (J04: Conveniencia familiar). La narrativa es coherente y expone una cadena causal clara desde la intención latente hasta la decisión de compra y las fricciones post-venta, proporcionando evidencia robusta para ambos Jobs."
+}

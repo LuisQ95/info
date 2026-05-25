@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una pareja de novios compra un departamento no por una necesidad urgente de vivienda, sino atraídos por la propuesta de valor única de un proyecto (club con piscina semiolímpica) recomendada por un familiar, después de abandonar una compra anterior por falta de transparencia.",
+    "historia_causal": {
+        "contexto_previo": "Una pareja de novios profesionales viven separados en casa de sus padres. Su rutina diaria está marcada por largos y agotadores traslados a sus centros de trabajo y estudio, generando un cansancio acumulado.",
+        "tension_acumulada": "Tenían un deseo latente de independizarse y formar un hogar, junto con la frustración de tener un capital ahorrado sin invertir. Una experiencia de compra previa fallida con otra inmobiliaria por falta de transparencia los había dejado desconfiados y en pausa.",
+        "bloqueadores": "La principal barrera era la desconfianza generada por la mala experiencia anterior, donde las condiciones contractuales no reflejaban lo prometido verbalmente. Esto los mantenía cautelosos y sin una búsqueda activa.",
+        "eventos_habilitadores": "La recomendación de un tío, que ya vivía en un proyecto de la misma inmobiliaria, fue el catalizador. Les habló de las 'bondades' y el concepto de 'club', algo que ellos desconocían y que despertó su curiosidad.",
+        "switching_trigger": "El momento decisivo fue descubrir que el proyecto incluía una piscina semiolímpica. Siendo aficionados a la natación, este atributo único y superior a toda la competencia se convirtió en el principal foco de atracción y activó inmediatamente su interés en comprar.",
+        "momento_de_decision": "Visitaron la sala de ventas y el recorrido por las instalaciones confirmó el gran atractivo de las áreas comunes. La decisión fue casi instantánea; al ver que el producto cumplía con sus aspiraciones de estilo de vida y se ajustaba a su presupuesto, separaron la unidad ese mismo día."
+    },
+    "contexto_activador": {
+        "marco_general": "Una pareja de profesionales jóvenes con un proyecto de vida en común y capacidad de ahorro. Su estilo de vida activo y su afición por la natación los hace particularmente sensibles a proyectos con amenidades deportivas superiores. La decisión de compra se activa no por necesidad, sino por la oportunidad de acceder a una calidad de vida que consideran excepcional y coherente con su identidad."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un hogar que no solo funcione como vivienda, sino que eleve su calidad de vida a través de instalaciones recreativas únicas, permitiéndoles integrar sus pasiones en su día a día y sintiendo que han hecho una inversión inteligente y aspiracional.",
+        "job_statement": "Cuando pienso en mi futuro hogar, quiero encontrar un proyecto con una propuesta de valor y estilo de vida superior, para poder disfrutar de amenidades exclusivas que se alineen con mis pasiones y me hagan sentir que vivo en un lugar único.",
+        "job_dominante_narrativo": "La clienta está tratando de acceder a un estilo de vida superior y diferenciado, materializado en un producto inmobiliario con amenidades (club y piscina semiolímpica) que ningún otro competidor ofrece y que conecta directamente con sus hobbies e identidad.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio principal y decisivo fue el club con piscina semiolímpica. Otros factores importantes fueron la ubicación tranquila y apartada del ruido, el amplio estacionamiento para visitas y la sorpresa de encontrar un proyecto en Surco dentro de su presupuesto.",
+        "firing_criteria": "Descartaron categóricamente la inmobiliaria anterior por falta de transparencia en la minuta. También descartaron otros proyectos por estar ubicados en avenidas ruidosas y con mucho tráfico, y por tener áreas comunes genéricas y poco atractivas (piscinas pequeñas en azoteas).",
+        "trade_offs_reales": "Aceptaron un departamento de menor tamaño al que aspiraban (2+flex en lugar de 3 dormitorios) y un balcón no funcional de solo 80cm. Soportaron presión de venta y, sobre todo, han tolerado una comunicación post-venta pésima.",
+        "factores_de_confianza": "El testimonio de un familiar que ya vivía en un proyecto de la inmobiliaria fue el pilar de la confianza. Aunque la experiencia de su tío con los plazos fue mala, el hecho de que finalmente le entregaron el inmueble sirvió como prueba de que la empresa cumple.",
+        "reduccion_de_riesgo": "El riesgo se mitigó al tener una referencia interna (el tío) que podía validar la existencia y calidad del proyecto, y confirmar que, a pesar de las demoras y la mala comunicación, la empresa finalmente entregaba el producto."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El club, la piscina semiolímpica, la tranquilidad de la ubicación, y el amplio estacionamiento para visitas. Estos elementos conectaron directamente con su deseo de un estilo de vida superior y práctico.",
+        "atributos_secundarios": "La tipología 2+flex fue una solución aceptable, no ideal. La conveniencia de la ubicación para sus trabajos fue un beneficio valorado pero no el motor de la decisión.",
+        "alternativas_descartadas": "El proyecto de Sancharbel fue descartado por deshonestidad contractual. Otros proyectos en Jesús María y Pueblo Libre fueron descartados por su entorno ruidoso y la falta de una propuesta de valor diferenciada en sus áreas comunes."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy bajo con la inmobiliaria (3/10), pero alto con el concepto del proyecto (8/10). La experiencia post-venta ha erosionado gravemente la satisfacción general.",
+        "reservas": "La principal reserva es la total falta de comunicación y seguimiento por parte de la inmobiliaria. Hay una gran incertidumbre y ansiedad sobre el avance del proyecto y los plazos de entrega.",
+        "fricciones_pendientes": "La fricción crítica es la comunicación post-venta inexistente. No reciben respuestas a correos o llamadas, el personal rota constantemente y se sienten abandonados tras haber pagado la inicial, lo que genera una enorme desconfianza y frustración."
+    },
+    "proyecto": "WOW"
+}

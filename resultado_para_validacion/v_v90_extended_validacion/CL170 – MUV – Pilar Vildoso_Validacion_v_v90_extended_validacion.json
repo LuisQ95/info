@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de eliminar fricciones diarias severas: la distancia al trabajo y la humedad que afectaba la salud. Esto define el Job como J03. La necesidad de espacio para los hijos adultos (J04) y las amenidades del proyecto (J06) funcionaron como potentes filtros de selección (Selection Drivers), pero no originaron la búsqueda.",
+        "debate_deal_breaker": "La compra no habría ocurrido sin las fricciones de la vida cotidiana (distancia y humedad). Si se eliminaran esos problemas, no se habrían mudado. En cambio, si sus hijos ya se hubieran independizado, es muy probable que igual hubieran comprado para resolver el problema principal, aunque quizás una unidad más pequeña. Esto confirma la dominancia de J03 sobre J04.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "teníamos que buscar una oportunidad para salir de Chorrillos, para acercarme al trabajo, número uno.",
+                    "Número dos, la excesiva humedad de de Chorrillos, cerca de la playa y todo eso, a mí me afectaba en invierno mucho.",
+                    "Entonces, fueron los dos detonantes, ¿no?"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sin la fricción del traslado y la humedad, no habrían entrado al mercado a buscar una nueva propiedad, ya que poseían una vivienda estable."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Teníamos dos alternativas, ¿no? o un departamento de tres dormitorios. Tenemos dos hijos varones.",
+                    "Pero a la final dijimos, no, bueno, que estén hasta cuando ellos deseen, ¿no?",
+                    "Y decidimos por el departamento de tres dormitorios y así es que estamos juntos los cuatro."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sin los hijos viviendo en casa, la motivación para mudarse por cercanía al trabajo y salud persistiría. Habrían comprado igualmente, pero probablemente un departamento de menor tamaño."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La decisión de compra se origina inequívocamente en la necesidad de resolver problemas funcionales y de bienestar del día a día (J03). La estructura familiar actúa como un criterio de selección crítico que define la configuración del producto a comprar (3 dormitorios), consolidando a J04 como un job secundario influyente pero no originador."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Se identifican con precisión el contexto previo, las tensiones acumuladas (drivers de compra), el proceso de decisión y la experiencia post-compra. La distinción entre el Job Dominante (J03) y el Secundario (J04) es evidente y está respaldada por citas textuales."
+}

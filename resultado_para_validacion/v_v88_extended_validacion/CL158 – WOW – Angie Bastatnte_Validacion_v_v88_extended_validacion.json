@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la necesidad de adaptar el entorno de vida a las nuevas etapas de los hijos (seguridad, cercanía a la universidad), lo que define el Job. El filtro de selección fue la propuesta de valor del proyecto: amenities superiores a un precio de oportunidad con financiamiento directo, lo que determinó la elección de WOW sobre otras alternativas.",
+        "debate_deal_breaker": "El innegociable absoluto fue la condición de no usar financiamiento bancario. La cliente afirma que si no le daban facilidades de pago directo, simplemente esperaba a juntar todo el capital y buscaba otro proyecto. Esto demuestra que la autonomía financiera era más importante que la oportunidad específica.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nuestro hijo es pequeño, la ciudad está muy peligrosa, que no estén saliendo tanto",
+                    "mi otro hijo, el próximo año termina, y está buscando una beca deportiva en la UPC",
+                    "buscando mejoría del sector sociocultural"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No. Sin la necesidad de un entorno que apoye la etapa universitaria y la seguridad de sus hijos, la urgencia de la compra se disuelve y habrían seguido en su situación actual."
+            },
+            {
+                "codigo_y_nombre_job": "J06 - Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "unas áreas comunes que me parece extraño que existan acá en Lima, porque es como un club",
+                    "acá lo que nos jaló fue las áreas comunes. Ese fue el plus",
+                    "ninguna inmobiliaria te invierte cuatro mil metros cuadrados de áreas comunes, pues, nadie"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, probablemente habrían comprado otro proyecto que resolviera la necesidad familiar (J04), aunque con menos entusiasmo. Las áreas comunes no crearon la necesidad, la resolvieron de una manera superior."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J06 - Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra es originada por una desalineación entre la vivienda actual y las necesidades del sistema familiar (J04). La seguridad del hijo menor y el soporte logístico para la etapa universitaria del mayor son los drivers que activan la búsqueda. La elección de WOW se produce porque su propuesta de valor (amenities tipo club - J06) resuelve de forma excepcional estas necesidades familiares, convirtiéndose en el criterio de selección decisivo."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Se puede identificar con precisión el contexto previo, las tensiones, los bloqueadores y el trigger. El cliente articula claramente los criterios de decisión y los trade-offs, permitiendo una distinción nítida entre el Job Dominante (J04) y los potentes criterios de selección (J06, J02-like)."
+}

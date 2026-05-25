@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo de Entrada (Entry Driver) es la necesidad estructural de establecer una base habitacional al regresar a Perú después de vivir en el extranjero. El Filtro de Selección (Selection Driver) es el conjunto de atributos del proyecto que cumplían con su visión de futuro: un condominio cerrado con alta seguridad, parques privados y una conexión emocional preexistente, todo pensado para una futura familia.",
+        "debate_deal_breaker": "El factor innegociable fue el formato de condominio cerrado. El cliente descartó explícitamente otras opciones por ser 'departamentos con puerta de calle'. La seguridad y el entorno controlado para su futura familia eran el criterio decisivo que ninguna otra alternativa ofrecía a ese nivel.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "No, para vivir.",
+                    "Yo en el 2019, más o menos en agosto de 2019, regresé a Perú y estuve viviendo un año en el extranjero, estudiando una maestría. Y bueno, cuando regresé, comencé a explorar.",
+                    "mi intención tampoco era, no tenía ningún apuro de mudarme."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el cliente ya hubiera tenido una propiedad en Perú al regresar, no habría entrado al mercado para comprar. La compra no habría ocurrido. Pasa el test."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "proyectamos tener hijos en el 2026, 2027.",
+                    "Uno porque pensaba por lo menos en un hijo.",
+                    "estar en un lugar que es cerrado donde prima la seguridad y y que es un poco más ideal para para tener una familia con con hijos pequeños"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el cliente no tuviera planes de formar una familia, ¿habría comprado una propiedad al regresar a Perú? Sí, la necesidad de una vivienda base seguiría existiendo. Habría comprado de todas formas, quizás una tipología diferente. No pasa el test para ser Job Dominante."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "El cliente entra al mercado por una necesidad fundamental de J01: al regresar a Perú, necesita establecer un hogar. La decisión de QUÉ comprar está fuertemente influenciada por un deseo aspiracional (J06), ya que conocía y anhelaba el proyecto desde su juventud, y por el contexto de una familia futura (J04). Sin embargo, estos son criterios de selección. El motor de arranque de la compra es la ausencia de una vivienda propia, lo que confirma a J01 como el Job Dominante."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J01: Establecer estabilidad habitacional, con un fuerte Job Secundario de J06: Expresar identidad y coherencia personal.",
+    "justificacion": "La entrada al mercado del cliente fue causada por su regreso a Perú y la necesidad de una vivienda propia (Entry Driver = J01). La elección del proyecto WOW no fue casual, sino el resultado de una aspiración de larga data (Selection Driver = J06). La futura familia es el contexto que define los atributos deseados (seguridad, 2 dormitorios), pero no es el gatillo de la compra. El test canónico confirma que sin la necesidad de una vivienda, la compra no se habría realizado, validando J01 como el motor fundamental de la decisión."
+}

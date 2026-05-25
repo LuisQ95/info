@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la decisión del yerno de la clienta de mudarse a MUV. Esto activa una necesidad de reconfiguración familiar, no una necesidad de vivienda propia (que ya tenía). El filtro de selección es absoluto: la existencia de un departamento contiguo al de su hija. Sin ese filtro, la compra no se realiza. El Job (J04) y el filtro son la misma cosa en este caso.",
+        "debate_deal_breaker": "El deal-breaker es explícito y no negociable: la imposibilidad de comprar un departamento exactamente al lado del de su hija. La hija declara: 'Si no había la opción de un departamento al costado del otro, no era opción para mí'. La compra dependió de que se liberara una unidad específica.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Yo compré este departamento porque mi hija, bueno, mi yerno compraron con mi hija su departamento.",
+                    "Si no había la opción de un departamento al costado del otro, no era opción para mí.",
+                    "Ya soy una persona mayor y bueno, las dos nos necesitamos para cualquier emergencia."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, la compra no habría ocurrido. La clienta estaba cómoda en su casa y no tenía intención de mudarse. La compra fue una reacción directa a la mudanza de su hija."
+            },
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "Sí me me favorece porque de acá voy a la clínica caminando, no tengo que luchar con con el tráfico.",
+                    "Es más tranquilo. Allá es más bullicio, es más peligroso."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí, habría comprado igual. La optimización (seguridad, cercanía a clínicas) es un beneficio secundario y una consecuencia positiva de la mudanza, pero no la causa original de la misma."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03 - Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La compra es un caso de 'Dependencia Funcional Estructural' (J04). La clienta (compradora) no inicia la búsqueda; su decisión es una reacción obligada a la mudanza de su hija para mantener el sistema de apoyo mutuo. El individuo se subordina completamente a la necesidad del sistema familiar, haciendo de esta una 'compra no autónoma' donde el driver es la preservación de la unidad familiar."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista revela una clara y profunda historia causal. El Job Dominante (J04 - Dependencia Funcional) es inequívoco y está respaldado por múltiples testimonios de la clienta y su hija, que describen una 'compra no autónoma' donde la decisión está completamente subordinada a la necesidad de mantener la cohesión y el apoyo del sistema familiar. Los criterios de elección y los trade-offs son coherentes con este driver principal."
+}

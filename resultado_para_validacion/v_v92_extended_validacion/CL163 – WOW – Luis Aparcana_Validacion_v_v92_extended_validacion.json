@@ -1,0 +1,37 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la disponibilidad de capital del retiro de la AFP y la necesidad de invertirlo para generar rentabilidad. La necesidad familiar (hija universitaria cerca) no origina la búsqueda, sino que actúa como el filtro de selección (Selection Driver) que define la ubicación y el tipo de producto ideal para la inversión, haciendo que la decisión sea rápida y sin competencia.",
+        "debate_deal_breaker": "El carácter de 'inversión' es el innegociable. Si el proyecto no tuviera potencial de alquiler o rentabilidad, no lo habría comprado, incluso estando al lado de la universidad. Por otro lado, si no tuviera a su hija en la universidad, igual habría buscado una inversión inmobiliaria con su capital, aunque probablemente en otra ubicación. La inversión es la causa; la conveniencia familiar es la circunstancia que valida y acelera la elección.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Yo lo he comprado como una inversión.",
+                    "retiré mi fondo de la AFP y, bueno, con eso estoy haciendo esta inversión.",
+                    "en vez de tener, como justo había retirado el tema del fondo del AFP, dije, vamos a invertir aquí.",
+                    "si es una inversión donde el dinero yo lo he tenido en un lugar donde, bueno, tengo unos intereses y acá se están demorando... ya es algo que me está preocupando."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuviera el capital de la AFP para invertir, ¿habría comprado? La respuesta es no. La compra no habría ocurrido. El Job es el motor de la transacción."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "La zona, bueno, mi hija que estudia en la UPC, y tiene compañeros... optan por alquilar un espacio cerca a la universidad.",
+                    "pensando más adelante, yo mudarme a ese departamento que es más pequeño que el que realmente, el que habito ahora, como es tan grande, mis hijas ya se van a ir.",
+                    "no busqué más otro sitio porque el lugar era, justo para lo que había pensado, estaba cerca de estas universidades."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si su hija no estudiara en la UPC, ¿habría invertido su dinero? La respuesta es sí, probablemente en otro proyecto. La necesidad familiar define el 'dónde' y el 'qué', pero no el 'porqué' de la compra."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La decisión de compra es originada por una lógica de inversión (J02), activada por la disponibilidad de un capital que necesita ser rentabilizado. La estructura familiar (J04) no es el motor de la compra, sino el principal criterio de selección que define la ubicación y las características del activo, proveyendo un caso de negocio claro (alquiler a estudiantes) y una opción de uso futuro."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la historia causal de la compra, desde el gatillo financiero (disponibilidad de fondos AFP) hasta la lógica de selección (ubicación para inversión) y las fricciones post-compra. El relato permite diferenciar con claridad el Job Dominante (J02) del Job Secundario (J04), y expone un conflicto central muy rico entre la racionalidad de la inversión y la ansiedad generada por la gestión del proyecto."
+}

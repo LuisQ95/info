@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Un arquitecto soltero, atraído por la superioridad de las áreas comunes del proyecto, realiza una compra aspiracional. Un retraso de 4 años en la entrega coincide con su matrimonio y el nacimiento de su hijo, forzándolo a cambiar a una unidad más grande para adaptarse a su nueva realidad familiar.",
+    "historia_causal": {
+        "contexto_previo": "Bruno, un arquitecto, vivía en Surco y evaluaba pasivamente la compra de un departamento desde 2016. No tenía una necesidad habitacional urgente, su situación era estable.",
+        "tension_acumulada": "El deseo latente de comprar se combinaba con una evaluación profesional del mercado. Buscaba un proyecto que destacara por su propuesta de valor, no simplemente para resolver un problema.",
+        "bloqueadores": "La falta de un proyecto en el mercado que cumpliera con sus altos estándares aspiracionales, particularmente en cuanto a la calidad y amplitud de las áreas comunes.",
+        "eventos_habilitadores": "El descubrimiento del proyecto MUV a través de redes sociales y su material de marketing. Su profesión le permitió reconocer rápidamente el valor superior de la propuesta sin necesidad de una visita física inicial.",
+        "switching_trigger": "El contexto de incertidumbre post-pandemia lo impulsó a concretar la compra, buscando asegurar un activo que, según su análisis, era el mejor del mercado.",
+        "momento_de_decision": "La decisión fue tomada racionalmente tras analizar los brochures. La visita posterior con su familia fue para validar una elección ya hecha. Inicialmente, como soltero, se inclinó por un departamento de 2 dormitorios por insistencia familiar, aunque su idea original era uno más pequeño."
+    },
+    "contexto_activador": {
+        "marco_general": "Un profesional joven, soltero al momento de la decisión, con un profundo conocimiento del mercado inmobiliario. Su vida no presentaba fricciones que necesitaran solución; la compra fue puramente aspiracional, buscando la mejor propuesta de valor disponible en Lima."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Habitar en un espacio que refleje un estándar de vida superior, con acceso a las mejores amenidades del mercado, asegurando tanto bienestar personal como una inversión inteligente.",
+        "job_statement": "Cuando decido comprar mi primer departamento, quiero elegir el proyecto con la propuesta de valor más completa y aspiracional, para sentir que estoy accediendo al mejor estilo de vida posible y asegurando mi patrimonio en un producto superior.",
+        "job_dominante_narrativo": "El cliente está tratando de adquirir el departamento con las mejores áreas comunes de Lima para satisfacer su visión de un estilo de vida superior y validar su capacidad profesional para reconocer una buena inversión.",
+        "job_dominante_canonico": "J06 - Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J04 - Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La superioridad y amplitud de las áreas comunes, que consideraba las mejores de Lima. La propuesta de valor integral del proyecto, que pudo analizar profesionalmente a través de brochures.",
+        "firing_criteria": "Proyectos con áreas comunes inferiores o más pequeñas (como el competidor Hometown). Propuestas que no transmitieran un valor diferencial claro desde el material de marketing.",
+        "trade_offs_reales": "Aceptar un retraso de 4 años en la entrega. Soportar una pésima gestión de post-venta. Pagar un sobreprecio significativo por el cambio forzado a un departamento más grande. Aceptar una reducción en la calidad de acabados en la unidad de 3 dormitorios en comparación con la de 2.",
+        "factores_de_confianza": "Su propio juicio profesional como arquitecto fue el principal factor. La validación de su familia durante la visita a los pilotos le dio seguridad en la decisión social.",
+        "reduccion_de_riesgo": "La decisión se basó en un análisis técnico del producto (planos, brochures), lo que redujo el riesgo percibido en la elección del proyecto. Sin embargo, no mitigó los enormes riesgos de ejecución y post-venta que enfrentó después."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes (el principal y casi único factor decisivo). El diseño general del conjunto residencial. La percepción de ser un proyecto de un segmento superior.",
+        "atributos_secundarios": "La ubicación en Surco era conveniente, pero no fue el driver principal de la decisión.",
+        "alternativas_descartadas": "Descartó el proyecto Hometown solo comparando brochures, al percibir que sus áreas comunes y tamaño de terreno eran inferiores. No llegó a visitar otras opciones, ya que MUV cumplía con su criterio principal."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Califica el proyecto con un 8/10, pero su satisfacción con la gestión de la inmobiliaria es extremadamente baja.",
+        "reservas": "Preocupación por el mantenimiento futuro de las áreas comunes y el posible déficit de las mismas cuando se completen todas las etapas y aumente la densidad de residentes.",
+        "fricciones_pendientes": "Múltiples y graves problemas con la post-venta: áreas comunes entregadas incompletas o sin equipamiento, acabados deficientes (tarrajeo frágil, mal aislamiento acústico en ventanas), nula comunicación proactiva y alta rotación de personal de la inmobiliaria."
+    },
+    "proyecto": "MUV"
+}

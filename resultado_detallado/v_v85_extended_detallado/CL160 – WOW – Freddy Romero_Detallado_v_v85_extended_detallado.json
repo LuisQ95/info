@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente extranjero convierte una búsqueda pasiva de inversión en una compra impulsiva al encontrar un proyecto cuyas amenidades resuelven la necesidad de bienestar para sus hijos, a pesar de enfrentar fricciones post-venta por desajustes en el producto y el proceso.",
+    "historia_causal": {
+        "contexto_previo": "Familia extranjera (colombiana) con dos hijos, viviendo de alquiler en Lima. Tienen experiencia previa con la compra de inmuebles sobre planos en Colombia, lo que genera ciertas asunciones sobre el proceso en Perú.",
+        "tension_acumulada": "La sensación de estar 'botando el dinero a la basura' con el pago del alquiler, sumado a la falta de espacios y amenidades (piscina, áreas verdes) para el disfrute de sus hijos en su vivienda actual.",
+        "bloqueadores": "La incertidumbre sobre su permanencia a largo plazo en Perú debido a la movilidad laboral del padre, lo que frenaba la decisión de realizar una inversión inmobiliaria. No existía un estímulo concreto para iniciar una búsqueda activa.",
+        "eventos_habilitadores": "La recepción de una oferta de crédito pre-aprobado por parte del banco, que hizo tangible y viable la posibilidad de comprar. El cálculo de que la cuota del crédito sería muy similar a su alquiler actual eliminó la barrera financiera percibida.",
+        "switching_trigger": "La visita al proyecto WOW, donde la calidad de las áreas comunes y la reacción positiva y de felicidad de sus hijos generaron una conexión emocional inmediata que transformó la búsqueda pasiva en una decisión de compra impulsiva ese mismo fin de semana.",
+        "momento_de_decision": "La decisión fue extremadamente rápida e impulsiva, tomada durante la primera visita y motivada por el bienestar familiar. Sin embargo, esta decisión inicial tuvo que ser ajustada posteriormente al descubrir, a través de los planos acotados, que la unidad elegida no era funcionalmente adecuada para sus hijos, lo que forzó un cambio de departamento."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia extranjera con dos hijos, acostumbrada a un estilo de vida en condominios con abundantes amenidades. El padre trabaja desde casa y valora tanto los espacios funcionales internos como las áreas recreativas para la familia. Su situación laboral implica una posible movilidad a otro país, lo que añade una capa de incertidumbre y condiciona la compra a que sea una inversión flexible y líquida."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo patrimonial que deje de drenar recursos en alquiler y, simultáneamente, proveer a su familia, especialmente a sus hijos, un entorno con alta calidad de vida, espacios recreativos y seguridad.",
+        "job_statement": "Cuando tengo la oportunidad financiera de dejar de alquilar, quiero comprar una propiedad que no solo sea una buena inversión flexible, sino que también ofrezca un entorno superior con amenidades para que mis hijos puedan crecer y disfrutar, sintiéndonos como en un club.",
+        "job_dominante_narrativo": "El cliente busca capitalizar una oportunidad financiera para convertir un gasto recurrente (alquiler) en un activo flexible, protegiendo así su patrimonio ante la incertidumbre de su permanencia en el país.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J04: Acompañar crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Calidad y variedad de áreas comunes (piscina, gimnasio, áreas verdes) que funcionen como un 'club' para la familia. Una distribución interna que sea funcional para las necesidades de los hijos (ej. que quepan dos camas en su cuarto). Ubicación en zonas deseadas (Surco/San Borja).",
+        "firing_criteria": "Proyectos 'normalitos' sin una propuesta de valor diferencial en amenidades. Departamentos antiguos que requieran una remodelación significativa. Unidades con distribuciones que no se ajustan a la dinámica familiar (espacio insuficiente).",
+        "trade_offs_reales": "Aceptar un proceso de pago inesperado y estresante (pagar cuota del crédito y alquiler simultáneamente). Tener que realizar un 'retrabajo' para cambiar de unidad tras la compra inicial. Aceptar un balcón más pequeño de lo esperado.",
+        "factores_de_confianza": "La calidad percibida del proyecto y sus áreas comunes. La reacción emocional positiva de sus hijos durante la visita, que validó la elección. La sensación de que el proyecto 'daba en el clavo' con sus expectativas de estilo de vida.",
+        "reduccion_de_riesgo": "La percepción de que el mercado inmobiliario en Perú es líquido, permitiéndole vender o alquilar la propiedad si se muda de país. La cuota del crédito similar al alquiler redujo el riesgo financiero percibido inicialmente."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes fueron el principal activador ('el 50% de la decisión'). La distribución del segundo departamento elegido, que sí permitía acomodar a sus hijos adecuadamente. El cumplimiento de su checklist básico (balcón, estacionamiento techado, ascensor).",
+        "atributos_secundarios": "La negociación en soles en lugar de dólares fue un punto de análisis y fricción, pero no un bloqueador. La opción de vivir en pisos altos.",
+        "alternativas_descartadas": "Proyectos en San Borja (descartados por ser antiguos o 'muy normalitos'). El proyecto MUV (descartado inicialmente por un precio percibido como muy alto, sin una exploración profunda). La primera unidad comprada en WOW (descartada por distribución inadecuada)."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Alta satisfacción con el producto y las amenidades, pero baja satisfacción con el proceso post-venta, la comunicación y las sorpresas financieras.",
+        "reservas": "Desconfianza generada por las discrepancias entre los planos, la información inicial y la realidad (tamaño del balcón, distribución). Sensación de haber sido 'novatos' y no haber sido bien asesorados sobre el proceso de compra en Perú.",
+        "fricciones_pendientes": "Estrés financiero por tener que pagar simultáneamente el alquiler y la cuota del crédito antes de la entrega. Incertidumbre sobre futuros detalles del proceso y la entrega final del inmueble."
+    },
+    "proyecto": "WOW"
+}

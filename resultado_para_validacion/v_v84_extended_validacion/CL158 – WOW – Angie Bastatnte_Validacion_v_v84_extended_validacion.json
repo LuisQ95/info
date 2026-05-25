@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo de Entrada (Entry Driver) es la necesidad de encontrar un entorno más adecuado y seguro para el desarrollo de los hijos, incluyendo la proximidad a la futura universidad de uno de ellos. El Filtro de Selección (Selection Driver) fue la propuesta de valor del proyecto: áreas comunes tipo club, un precio muy competitivo y, crucialmente, el financiamiento directo sin banco.",
+        "debate_deal_breaker": "El financiamiento directo sin banco fue un deal-breaker absoluto. El cliente afirma explícitamente que si no se lo ofrecían, 'juntaba el dinero... y buscaba otro proyecto'. Las áreas comunes también fueron un factor decisivo en la elección, pero la condición financiera era el habilitador innegociable de la transacción.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Y eso es lo que buscamos, porque, bueno, nuestro hijo es pequeño, la ciudad está muy peligrosa, que no estén saliendo tanto.",
+                    "Y mi otro hijo, el próximo año termina, y está buscando una beca deportiva en la UPC.",
+                    "buscando mejoría del sector sociocultural."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Positivo. Si se elimina la necesidad de un mejor entorno y la logística universitaria para los hijos, la familia no se habría movido de su vivienda propia actual. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J06 - Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "vamos a uno que tiene unas áreas comunes que me parece extraño que existan acá en Lima, porque es como un club.",
+                    "ninguna inmobiliaria te invierte cuatro mil metros cuadrados de áreas comunes, pues, nadie.",
+                    "acá lo que nos jaló fue las áreas comunes."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Negativo. Aunque las áreas comunes fueron el principal atractivo y criterio de selección, no fueron el origen de la necesidad. La familia ya estaba buscando activamente una solución a su problema (J04) antes de enamorarse de este atributo específico."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03 - Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "El Job Dominante es J04. La familia ya posee una vivienda estable, por lo que no es J01. La decisión de mudarse se origina por una desalineación entre su hogar actual y las necesidades de la siguiente etapa de sus hijos: seguridad, entorno social y logística universitaria. Esto se clasifica como 'Soporte Familiar' (subtipo de J04). Las espectaculares áreas comunes y la oferta financiera actuaron como poderosos criterios de selección que definieron el 'qué' y el 'cómo', pero no el 'porqué' fundamental de la compra."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es inequívocamente J04 - Acompañar el crecimiento familiar, con un fuerte componente del subtipo 'Soporte Familiar'.",
+    "justificacion": "La familia ya poseía una vivienda, descartando J01. La compra no fue aspiracional (descartando J06), sino una respuesta a problemas concretos. El origen de la decisión fue la necesidad de adecuar su vivienda al crecimiento y necesidades de los hijos (seguridad, entorno social, proximidad a la universidad). Este es el 'Entry Driver' que los puso en el mercado. Las áreas comunes y la oferta financiera fueron los 'Selection Drivers' que determinaron la elección de WOW sobre otras alternativas. La compra no habría ocurrido sin la necesidad familiar, cumpliendo el test canónico para J04."
+}

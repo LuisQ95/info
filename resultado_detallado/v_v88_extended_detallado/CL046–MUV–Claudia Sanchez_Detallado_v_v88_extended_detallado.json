@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente compra para independizarse, pero la lógica dominante es la optimización de su vida actual. Habilitada por una mejora económica, elige un proyecto que le permite mantener la cercanía a su red familiar y social, mientras integra facilidades (clubhouse) que reducen la fricción de su rutina diaria.",
+    "historia_causal": {
+        "contexto_previo": "Vive en un departamento en Surco con su madre y hermano, en un sistema de vida estable, consolidado y con una fuerte red de apoyo familiar en la misma zona.",
+        "tension_acumulada": "Desde la pandemia, sentía un deseo creciente de independizarse para tener mayor comodidad y autonomía. Experimentaba fricciones en su día a día relacionadas con los tiempos de traslado a su anterior trabajo.",
+        "bloqueadores": "Su búsqueda fue frenada inicialmente por temas económicos y de salud. Posteriormente, una experiencia de compra fallida con otra inmobiliaria, que resultó en un conflicto por la devolución de su cuota inicial, le generó un desánimo que la hizo pausar sus planes.",
+        "eventos_habilitadores": "Una mejora laboral significativa (mejor puesto y sueldo) le devolvió la capacidad económica. Crucialmente, su nuevo trabajo incluía una cochera, eliminando un gasto y una restricción logística que antes la obligaba a buscar vivienda cerca de su oficina.",
+        "switching_trigger": "La nueva estabilidad económica y la libertad logística que le dio la cochera en su trabajo reactivaron de forma inmediata su búsqueda de independencia, pasando de un estado pasivo a uno activo.",
+        "momento_de_decision": "El proceso fue extremadamente rápido. MUV fue el primer y único proyecto que visitó formalmente. Al reconocer que cumplía con todos sus criterios de optimización (cercanía, amenities) y al encontrarse con una asesora de confianza, tomó la decisión y separó el departamento el mismo día de la visita."
+    },
+    "contexto_activador": {
+        "marco_general": "Joven profesional en proceso de transición hacia la independencia, pero con un fuerte arraigo a su sistema de vida actual en Surco, donde reside su red familiar. Su rutina es dinámica y valora las actividades deportivas. La decisión de compra se activa solo cuando su situación económica mejora y se elimina una restricción logística clave (cochera), permitiéndole optimizar su vida sin tener que romper con su entorno."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una independencia funcional que mejore su calidad de vida diaria, reduciendo fricciones logísticas y de tiempo, sin tener que sacrificar la cercanía y conexión con su entorno familiar y social actual.",
+        "job_statement": "Cuando mi situación laboral mejora y me da más libertad, quiero mudarme a un lugar propio que esté cerca de mi red de apoyo y tenga facilidades integradas, para poder optimizar mi rutina diaria y tener más tiempo para mis actividades.",
+        "job_dominante_narrativo": "La cliente está tratando de independizarse de una manera que haga su vida más fácil y eficiente, no más complicada. Busca un espacio que le permita mantener sus lazos familiares y sociales, al tiempo que integra su estilo de vida (deporte) en su hogar para ahorrar tiempo y esfuerzo.",
+        "job_dominante_canonico": "J03: Optimizar la vida cotidiana",
+        "job_secundario_canonico": "J01: Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La cercanía a su familia (5 minutos), el clubhouse con instalaciones deportivas para optimizar su tiempo, la entrega inmediata, la distribución del departamento de 1 dormitorio y la accesibilidad vial del proyecto.",
+        "firing_criteria": "Proyectos lejanos que la desconectaran de su sistema de vida en Surco, espacios pequeños o poco funcionales, y proyectos que no ofrecieran una mejora tangible en su calidad de vida o logística diaria.",
+        "trade_offs_reales": "Aceptó un departamento sin balcón, que era un deseo inicial. Renunció a su 'sueño' de tener un dúplex. Eligió un departamento de 1 dormitorio en lugar de 2 por precio. Aceptó que su mascota no vivirá con ella de forma permanente.",
+        "factores_de_confianza": "El reencuentro casual con la asesora de ventas, Ingrid, a quien ya conocía de su compra anterior. Interpretó esta coincidencia como una señal positiva que le dio seguridad para avanzar rápidamente.",
+        "reduccion_de_riesgo": "El proyecto ya estaba terminado y era de entrega inmediata, lo que le permitió ver el producto final y eliminar la incertidumbre de los proyectos en planos, especialmente relevante dada su mala experiencia previa."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica a 5 minutos de su casa actual. El clubhouse con piscina y canchas deportivas fue un factor decisivo. La distribución del departamento de 1 dormitorio le pareció más cómoda que la del de 2. Las dos salidas del condominio que facilitan la movilidad y evitan el tráfico.",
+        "atributos_secundarios": "El depósito fue ofrecido pero lo consideró innecesario. Las tipologías de 2 dormitorios o dúplex fueron descartadas por precio o falta de disponibilidad inmediata. La posibilidad de que sea pet-friendly es valorada, pero no fue un factor crítico de decisión.",
+        "alternativas_descartadas": "Una compra previa en San Isidro que fue cancelada por problemas con la inmobiliaria y porque su contexto laboral cambió. Otros proyectos en Surco fueron vistos solo superficialmente por internet pero 'no la llenaban al 100%'."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (calificó con un 8/10), principalmente por el encaje del producto con sus necesidades.",
+        "reservas": "La principal reserva es sobre la ubicación, que percibe como algo 'escondida' o no ideal para todos los perfiles, lo que limita su recomendación a un círculo específico de personas.",
+        "fricciones_pendientes": "Está en la fase de espera, con incertidumbre sobre las fechas exactas del desembolso del crédito y la entrega final del departamento. Aún no ha ejecutado la mudanza ni el amoblamiento."
+    },
+    "proyecto": "MUV"
+}

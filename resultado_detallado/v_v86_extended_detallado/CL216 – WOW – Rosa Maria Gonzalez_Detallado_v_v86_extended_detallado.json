@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Familia de Tacna invierte el capital de una venta de terrenos en un departamento para su hija, quien se mudó a Lima para estudiar en la UPC. La decisión fue impulsada por la necesidad de darle una vivienda segura y cercana a la universidad, eliminando el gasto de alquiler.",
+    "historia_causal": {
+        "contexto_previo": "La familia reside en Tacna. Su hija se muda a Lima para iniciar sus estudios de medicina en la UPC, lo que genera una necesidad inmediata de vivienda. Paralelamente, la familia dispone de capital líquido producto de la venta de unos terrenos.",
+        "tension_acumulada": "La tensión principal era la preocupación por la seguridad y el bienestar de la hija viviendo sola en Lima, sumado al gasto continuo que representaba un alquiler y el costo de oportunidad de tener un capital sin invertir.",
+        "bloqueadores": "Inicialmente, el plan no era comprar, sino alquilar. La búsqueda activa de compra no existía; estaban enfocados en resolver la necesidad de alquiler a corto plazo.",
+        "eventos_habilitadores": "La hija comienza a alquilar en el complejo Magna House. La experiencia positiva con la seguridad, el orden y el personal del condominio, junto con la disponibilidad del capital, habilitó la consideración de una compra como una solución superior al alquiler.",
+        "switching_trigger": "El darse cuenta, mientras alquilaban en el mismo lugar, de que el proyecto WOW ofrecía la solución perfecta para su hija y una excelente oportunidad de inversión, los hizo pasar de 'buscadores de alquiler' a 'compradores'.",
+        "momento_de_decision": "La decisión fue muy rápida. Tras experimentar la vida en el complejo y ver la propuesta de WOW, no necesitaron una búsqueda extensa. La compra se decidió en paralelo al proceso de alquiler, motivados por la seguridad, la ubicación y la persuasión del vendedor."
+    },
+    "contexto_activador": {
+        "marco_general": "Son padres que viven en provincia y deben proveer soporte a distancia a una hija que inicia su vida universitaria en la capital. Su marco de decisión está dominado por la necesidad de garantizar la seguridad y facilitar la logística de su hija, utilizando recursos familiares para resolverlo de forma estructural."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un entorno de vida seguro, estable y logísticamente conveniente para su hija durante su etapa universitaria, mientras transforman un capital líquido en un activo patrimonial que elimine gastos recurrentes.",
+        "job_statement": "Cuando mi hija se muda a otra ciudad para estudiar, quiero comprarle un departamento propio cerca de la universidad para tener la tranquilidad de que está segura y eliminar el gasto de alquiler.",
+        "job_dominante_narrativo": "La familia está tratando de resolver la logística y seguridad de la nueva etapa de vida de su hija (universidad en Lima), proveyéndole una base de operaciones estable y segura que, a su vez, funcione como una inversión patrimonial.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02 - Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La seguridad del condominio cerrado fue el factor principal. La proximidad extrema a la universidad (UPC) era crucial para la conveniencia de la hija. La calidad del mantenimiento, la limpieza y la amabilidad del personal validaron la decisión.",
+        "firing_criteria": "Descartaron opciones en pisos muy altos por preferencia personal. También descartaron unidades con ruido excesivo, como las que daban a la cancha de tenis. Proyectos en otras zonas como Miraflores o Jesús María fueron descartados por lejanía a la universidad.",
+        "trade_offs_reales": "Aceptaron comprar en planos y enfrentar la incertidumbre y demoras en la entrega, a cambio de poder elegir la ubicación exacta del departamento (piso bajo, buena orientación). Soportaron una mala experiencia en post-venta.",
+        "factores_de_confianza": "La experiencia positiva viviendo de alquiler en el mismo complejo (Magna House) fue el mayor factor de confianza. La amabilidad y seriedad percibida en el personal de mantenimiento y seguridad les dio tranquilidad. El vendedor inicial también generó un vínculo de confianza.",
+        "reduccion_de_riesgo": "El riesgo se redujo al conocer de primera mano la calidad de vida del condominio. Comprar en planos les permitió asegurar una unidad que se ajustaba perfectamente a sus criterios, mitigando el riesgo de tener que aceptar 'lo que quedaba'."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Seguridad (complejo cerrado, control de acceso), ubicación estratégica (cercanía a la UPC), calidad del mantenimiento y limpieza, amabilidad del personal, y una tipología (2 dorm + flex) que se ajustaba a sus necesidades (espacio para la hija y para visitas).",
+        "atributos_secundarios": "El balcón era un 'nice to have' pero no decisivo. Las áreas comunes como la piscina eran valoradas pero no el driver principal.",
+        "alternativas_descartadas": "Departamentos listos en MUV fueron descartados por estar en pisos muy altos o tener mala ubicación (ruido de la cancha de tenis). Proyectos en otros distritos fueron descartados por la distancia a la universidad."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "7/10. Alta satisfacción con el proyecto y la ubicación, pero muy baja satisfacción con el proceso post-venta debido a las demoras y mala comunicación.",
+        "reservas": "La principal reserva es la desconfianza generada por los múltiples retrasos en la entrega y la mala comunicación de la inmobiliaria.",
+        "fricciones_pendientes": "La incertidumbre sobre la fecha final de entrega, lo que les obliga a extender el contrato de alquiler y genera gastos no planificados. La mala experiencia con el personal de post-venta ha dañado la relación."
+    },
+    "proyecto": "WOW"
+}

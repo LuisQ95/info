@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Joven profesional que vivía con sus padres decide independizarse al alcanzar la solvencia económica, eligiendo un departamento que optimiza su rutina diaria y le da acceso a un estilo de vida superior al que podría costear en otro lugar.",
+    "historia_causal": {
+        "contexto_previo": "Vivía con sus padres en Surco, en un sistema de vida estable y con su red familiar y laboral consolidada en la misma zona.",
+        "tension_acumulada": "Deseo latente de independizarse y tener un espacio propio, sin una urgencia o fricción específica que la empujara activamente.",
+        "bloqueadores": "Principalmente la falta de un detonante que la hiciera evaluar activamente su capacidad financiera para dar el paso.",
+        "eventos_habilitadores": "Alcanzar la solvencia económica necesaria para considerar la compra de una propiedad, con el posible apoyo de su familia.",
+        "switching_trigger": "Ver por casualidad un proyecto inmobiliario (Lucio) que despertó su curiosidad y la impulsó a analizar formalmente su presupuesto y capacidad de compra, pasando de un deseo pasivo a una búsqueda activa.",
+        "momento_de_decision": "La decisión fue rápida. Visitó una reventa en el condominio, le gustó el concepto, luego evaluó las unidades nuevas de la inmobiliaria, y una mejor distribución junto a una 'rebaja importante' la llevaron a cerrar el trato."
+    },
+    "contexto_activador": {
+        "marco_general": "Joven profesional con un sistema de vida funcional y geográficamente concentrado en el eje Surco-La Molina (familia y trabajo). La decisión de compra se activa cuando alcanza la solvencia económica necesaria para financiar su independencia, buscando una solución que no rompa su red logística actual y, a la vez, mejore su estilo de vida."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la independencia habitacional en un espacio propio, funcional y bien ubicado que se adapte a su estilo de vida actual y futuro previsible.",
+        "job_statement": "Cuando alcanzo la capacidad financiera para vivir sola, quiero comprar mi primer departamento en una zona conveniente para independizarme de mis padres sin sacrificar mi logística diaria.",
+        "job_dominante_narrativo": "La clienta está intentando establecer su primera base habitacional independiente para cumplir el hito de 'vivir sola', marcando una transición hacia la autonomía personal en un espacio que, aunque no definitivo, es funcional para su etapa de vida actual.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Ubicación estratégica que acortara el viaje al trabajo en La Molina y la mantuviera cerca de su familia en Surco; acceso a áreas comunes como el clubhouse (piscina, tenis) que ofrecieran un estilo de vida superior a un costo de mantenimiento bajo; seguridad; y que fuera 'pet-friendly' (no negociable).",
+        "firing_criteria": "Inseguridad (un primer piso con reja simple), mala ubicación (en un cerro, zona 'fea', o con mucho ruido de tráfico como Av. Primavera), y estar fuera de su presupuesto.",
+        "trade_offs_reales": "Aceptó un departamento pequeño y transitorio ('no es el departamento en el que quiero vivir toda mi vida'), renunció a la posibilidad de instalar aire acondicionado y toleró una pésima gestión post-venta por parte de la inmobiliaria.",
+        "factores_de_confianza": "Una rebaja importante en el precio le dio seguridad financiera. El hecho de que su padre conociera a alguien del proyecto pudo haber facilitado el acceso, aunque no fue el motivo de la elección.",
+        "reduccion_de_riesgo": "Comprar un departamento ya construido eliminó la incertidumbre del proceso de construcción y le permitió validar físicamente la distribución y el entorno antes de decidir."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación que le 'ahorraba un par de semáforos feos'; el clubhouse que le permitía un estilo de vida con piscina y canchas de tenis a un costo de mantenimiento menor que un gimnasio; la distribución del departamento nuevo y la seguridad del condominio.",
+        "atributos_secundarios": "El gimnasio del condominio (no lo usa) y las canchas de squash (percibidas como espacio desperdiciado).",
+        "alternativas_descartadas": "Un departamento en primer piso por inseguridad, otro en una zona poco atractiva ('subiendo un cerro'), y una opción en Chacarilla por estar fuera de presupuesto y tener mucho ruido de tráfico."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Califica el condominio con un 7/10, considerándolo un 'buen deal' para su edad y presupuesto. Sin embargo, califica a la inmobiliaria con un 4/10 debido a una gestión post-venta 'desastrosa'.",
+        "reservas": "El ruido constante de las fiestas del Club Árabe Palestino, la escasez de estacionamientos de visita y ciertas reglas del condominio que considera inadecuadas o ilegales.",
+        "fricciones_pendientes": "La principal fricción es el retraso y la nula comunicación sobre el proceso de independización del departamento, lo que le impidió votar en la junta de propietarios. La mala gestión y falta de respuesta de la inmobiliaria es un problema continuo."
+    },
+    "proyecto": "MUV"
+}

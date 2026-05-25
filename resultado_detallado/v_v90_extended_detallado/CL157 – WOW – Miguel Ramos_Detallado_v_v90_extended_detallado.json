@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente con vivienda propia busca activamente una inversión inmobiliaria para generar renta, activado por una oferta de su banco. Elige un proyecto por su potencial de alquiler, precio y ubicación, considerando secundariamente la posibilidad de habitarlo en el futuro.",
+    "historia_causal": {
+        "contexto_previo": "Cliente reside en una casa propia de tres pisos en Chorrillos. Tiene experiencia previa en la compra de inmuebles con su familia y estaba buscando activamente un préstamo de $200-300k para invertir.",
+        "tension_acumulada": "La necesidad de hacer que su capital trabaje y genere ingresos pasivos. La búsqueda de una inversión segura y rentable en el sector inmobiliario, motivada por la oportunidad de un préstamo.",
+        "bloqueadores": "El banco no le desembolsó el préstamo personal que buscaba inicialmente, lo que limitó sus opciones de inversión líquida y lo orientó hacia productos financiados por el mismo banco.",
+        "eventos_habilitadores": "El sectorista de BanBif le presenta una cartera de proyectos inmobiliarios como alternativa de inversión financiada, abriendo una nueva vía para colocar su capital.",
+        "switching_trigger": "La presentación de la cartera de proyectos por parte del banco, donde uno de ellos (WoW) destaca por su ubicación y precio, activando la evaluación concreta de la compra.",
+        "momento_de_decision": "Tras analizar las opciones, visita el proyecto con su hermano (ingeniero civil). Evalúan el potencial de la zona, el precio por metro cuadrado y las características del departamento, decidiendo separar la unidad al considerarla una buena oportunidad de negocio."
+    },
+    "contexto_activador": {
+        "marco_general": "Inversionista con experiencia y capital, que opera dentro de un sistema familiar con conocimiento técnico (hermano ingeniero, hermana arquitecta). Su decisión se activa cuando una entidad financiera de confianza (su banco) le presenta una oportunidad de inversión inmobiliaria concreta que se alinea con sus criterios de rentabilidad y ubicación estratégica para alquiler."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo que genere un flujo de caja constante a través del alquiler, protegiendo y haciendo crecer su patrimonio, manteniendo la flexibilidad para un posible uso personal futuro.",
+        "job_statement": "Cuando busco una oportunidad de inversión, quiero comprar un departamento en una zona de alta demanda de alquiler para generar ingresos pasivos y asegurar mi capital, con la opción de poder usarlo personalmente en el futuro.",
+        "job_dominante_narrativo": "El cliente está intentando colocar un capital en un activo inmobiliario para generar una rentabilidad recurrente y diversificar su patrimonio.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Ubicación estratégica con potencial de alquiler (cerca a UPC), precio competitivo, y áreas comunes atractivas (club) que añaden valor tanto para el inquilino como para un posible uso personal futuro.",
+        "firing_criteria": "Proyectos con precios más elevados (San Isidro), y constructoras con procesos de venta y contratos inflexibles que no permiten revisión legal, generando desconfianza.",
+        "trade_offs_reales": "Aceptó un contrato rígido y sin cláusulas de penalidad para la constructora, a pesar de su experiencia y descontento, porque ya había realizado un pago y la oportunidad de inversión le parecía buena.",
+        "factores_de_confianza": "La oportunidad fue presentada por su banco (BanBif), lo que le dio un marco de confianza inicial. La evaluación técnica junto a su hermano también validó la decisión.",
+        "reduccion_de_riesgo": "El riesgo principal que percibe es contractual y de post-venta. Intenta reducirlo mediante la insistencia en cambios, aunque sin éxito. La inversión en sí la considera de bajo riesgo por la ubicación y el tipo de producto."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación cerca a la UPC, el formato de 2 dormitorios (60-70m2) ideal para alquiler, el precio por m2, y el concepto de club con amenities.",
+        "atributos_secundarios": "La posibilidad de vivir allí con su madre en el futuro, la conexión vial proyectada hacia El Polo.",
+        "alternativas_descartadas": "Proyectos en Jesús María y San Isidro ofrecidos por el mismo banco por ser más caros. Otras constructoras por sus malas prácticas contractuales."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo. Muy insatisfecho con el proceso contractual y la post-venta, a pesar de estar conforme con la inversión en sí.",
+        "reservas": "Gran desconfianza hacia la constructora por la inflexibilidad del contrato, la falta de penalidades por retraso y la percepción de que buscan engañar al cliente.",
+        "fricciones_pendientes": "Falta de seguimiento proactivo post-venta, incertidumbre sobre la fecha real de inicio y entrega de la obra, y la sensación de desprotección como consumidor."
+    },
+    "proyecto": "WOW"
+}

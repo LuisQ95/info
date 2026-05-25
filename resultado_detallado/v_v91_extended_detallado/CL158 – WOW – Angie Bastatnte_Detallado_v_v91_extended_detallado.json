@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra aspiracional de un cliente sofisticado, activada por una propuesta de valor de producto (amenities tipo club) percibida como única en el mercado, y justificada funcionalmente por las necesidades de seguridad y logística de su familia.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive en un departamento propio en La Calera, un entorno funcional pero con un 'sector sociocultural' mixto y preocupaciones de seguridad. La idea de mudarse o invertir era latente, pero sin urgencia.",
+        "tension_acumulada": "Una insatisfacción creciente con el entorno social para sus hijos y la falta de espacios seguros para el esparcimiento. A esto se suma la conciencia de tener capital disponible que no estaba generando retornos.",
+        "bloqueadores": "Los proyectos inmobiliarios visitados previamente no ofrecían una propuesta de valor convincente; eran caros, pequeños y con áreas comunes básicas, lo que no justificaba el cambio.",
+        "eventos_habilitadores": "La disponibilidad de capital propio para la compra sin necesidad de financiamiento bancario. Su experiencia en el sector construcción les permitía evaluar y reconocer una buena oportunidad rápidamente.",
+        "switching_trigger": "Ver una publicidad en Facebook del proyecto WOW, que presentaba una propuesta de valor (4000m2 de áreas comunes tipo club) completamente anómala y superior para el mercado de Lima.",
+        "momento_de_decision": "La decisión fue casi inmediata durante la primera y única visita. Se consolidó al recibir una oferta de precio 'Cyber' y, crucialmente, al negociar un plan de pagos directo con la inmobiliaria hasta diciembre, evitando el financiamiento bancario."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia con un sistema de vida estable y capital disponible, donde el padre tiene un alto conocimiento del sector inmobiliario. La decisión se activa no por una necesidad urgente, sino por la aparición de una oportunidad de inversión y estilo de vida que supera ampliamente el estándar del mercado, coincidiendo con la etapa de transición de sus hijos (uno pequeño, otro a punto de ir a la universidad)."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario que represente un estilo de vida superior y una inversión inteligente, proporcionando un entorno seguro y estimulante para el desarrollo de los hijos.",
+        "job_statement": "Cuando me encuentro con una propuesta de valor inmobiliaria que parece demasiado buena para ser verdad, quiero adquirirla para asegurar un estilo de vida aspiracional para mi familia y, al mismo tiempo, realizar una inversión patrimonial astuta.",
+        "job_dominante_narrativo": "El cliente busca capitalizar su conocimiento del mercado para adquirir un producto con características excepcionales (amenities tipo club) que no solo eleve su calidad de vida y la de su familia, sino que también se sienta como una victoria financiera y una decisión inteligente.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J04: Acompañar crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Las áreas comunes tipo club (4000m2) fueron el factor decisivo. La ubicación estratégica (cerca de la UPC, trabajo, familia) y el precio competitivo con facilidades de pago directo fueron claves para cerrar.",
+        "firing_criteria": "Proyectos con áreas comunes básicas o inexistentes. Ubicaciones que no encajaban con su red de vida. Precios que no se correspondían con el valor ofrecido. Y, fundamentalmente, la obligación de tomar un crédito hipotecario.",
+        "trade_offs_reales": "Aceptaron la presión de venta y una comunicación post-venta deficiente a cambio de asegurar lo que consideraban una oportunidad de compra única.",
+        "factores_de_confianza": "La jefa de ventas les generó confianza al ofrecerles un descuento y facilidades de pago. Su propio conocimiento del sector les permitió validar que la inversión era sólida a pesar de lo inusual de la oferta.",
+        "reduccion_de_riesgo": "La capacidad de pagar sin banco eliminó el riesgo financiero a largo plazo y protegió su línea de crédito empresarial. Investigaron la solidez de la empresa constructora para validar la inversión."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las 4000m2 de áreas comunes (piscina, gimnasio, etc.). El precio con descuento 'Cyber'. La flexibilidad de financiamiento directo. La tipología de 3 dormitorios y 80m2.",
+        "atributos_secundarios": "La marca de la inmobiliaria o el diseño específico de los acabados estándar (ya que planean personalizarlos).",
+        "alternativas_descartadas": "El proyecto MUV (descartado por distribución y disponibilidad), proyectos en La Calera (caros para lo que ofrecían), y otros vistos superficialmente que no tenían la propuesta de valor de WOW."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto con la compra, pero bajo con el servicio post-venta. Racionalmente satisfechos, emocionalmente frustrados.",
+        "reservas": "La principal reserva es la capacidad de la inmobiliaria para gestionar la personalización del departamento y mantener una comunicación fluida y técnica.",
+        "fricciones_pendientes": "Falta de respuestas técnicas para la personalización del diseño interior. Incertidumbre sobre fechas de inicio de obra. Ausencia de un canal de comunicación post-venta efectivo."
+    },
+    "proyecto": "WOW"
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de la pareja de consolidar su relación pasando de un alquiler a una propiedad propia. Es una decisión estructural de vida. El filtro de selección (Selection Driver) es el clubhouse, que el cliente valora como 'el 70% del atractivo'. Sin el deseo de consolidación, no habrían entrado al mercado. Sin el clubhouse, no habrían elegido este proyecto, pero sí habrían comprado otro.",
+        "debate_deal_breaker": "El deal-breaker es la transición de alquiler a propiedad. Si se elimina la necesidad de tener un lugar propio para consolidar su vida en pareja, la compra no ocurre. La proyección de tener hijos es un contexto para dimensionar el espacio, no el driver. Las áreas comunes son un poderoso imán para la elección, pero no el origen de la necesidad.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "veíamos conveniente convivir ya no en un lugar alquilado, sino en un lugar propio",
+                    "el detonante entonces es que ya querían consolidar un poco su relación con una propiedad",
+                    "Es un tema de proyección, teniendo en cuenta que vamos a vivir acá por lo menos por un tiempo. Obviamente uno quiere tener hijos"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no sintieran la necesidad de consolidar su relación dejando de alquilar, no habrían iniciado la búsqueda. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Lo que suma bastante acá es el clubhouse",
+                    "si le quitas el clubhouse al proyecto, como que le quitas el 70% del atractivo",
+                    "la experiencia de vivir acá está perfecto, porque como te digo, es como, literal, es una burbuja"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera el clubhouse, no lo habrían elegido, pero su necesidad de comprar una propiedad para consolidarse como pareja persistiría y habrían comprado en otro lugar."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "El Job Dominante es J01 (Consolidación de Pareja). La pareja entra al mercado para dejar de alquilar y establecer una base propia, un hito en su relación. La proyección de hijos es contexto, no driver. El J06 (Clubhouse) actúa como un potentísimo criterio de selección que define la elección final del producto, pero no origina la demanda."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista revela una clara historia causal. El detonante (Entry Driver) es la necesidad de consolidar la relación de pareja pasando de alquilar a propiedad (J01). La elección del proyecto (Selection Driver) está fuertemente determinada por las áreas comunes y el estilo de vida que ofrece (J06), diferenciándolo de otras alternativas que fueron descartadas por fricciones logísticas (J03). La narrativa es coherente y los trade-offs son explícitos."
+}

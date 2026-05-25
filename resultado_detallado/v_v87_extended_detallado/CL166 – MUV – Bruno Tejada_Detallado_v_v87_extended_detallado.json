@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente arquitecto toma una decisión de compra racional-aspiracional basada en la superioridad de las áreas comunes del proyecto, que considera las mejores de Lima. Un retraso de 4 años en la entrega coincide con un cambio radical en su vida (matrimonio e hijo), lo que lo obliga a cambiar su compra original de soltero por una unidad familiar más grande.",
+    "historia_causal": {
+        "contexto_previo": "El cliente es un arquitecto que vivía en Surco. Desde 2016 tenía una idea latente de comprar un departamento, pero sin una urgencia o problema concreto que lo empujara a la acción. Su búsqueda era pasiva y exploratoria.",
+        "tension_acumulada": "No existía una tensión por fricción, sino un deseo latente de realizar una compra inteligente que reflejara su conocimiento profesional y le diera acceso a un estilo de vida superior. La tensión era aspiracional: encontrar la mejor propuesta de valor del mercado.",
+        "bloqueadores": "El principal bloqueador era la ausencia de un proyecto que destacara lo suficiente para activar su interés. No tenía una necesidad funcional (como dejar de alquilar o falta de espacio) que lo forzara a decidir.",
+        "eventos_habilitadores": "La pandemia y el posterior desconfinamiento crearon un contexto de reflexión sobre el futuro. El descubrimiento del proyecto MUV a través de redes sociales y su capacidad como arquitecto para analizar y valorar la propuesta a partir de brochures, sin necesidad de visitas, habilitaron una decisión rápida.",
+        "switching_trigger": "El momento en que analiza el material de marketing de MUV y concluye que sus áreas comunes son superiores a cualquier otra oferta en Lima. Esta constatación de valor diferencial es lo que lo mueve de una búsqueda pasiva a una acción de compra concreta.",
+        "momento_de_decision": "La decisión fue rápida y se basó en un análisis técnico de los brochures. Inicialmente, en 2020, compró un departamento de dos dormitorios pensando en su vida de soltero con una oficina. Sin embargo, la entrega se retrasó 4 años, tiempo en el cual se casó y tuvo un hijo. Este cambio de vida lo forzó a negociar un cambio a un departamento de tres dormitorios, ya que el original se volvió inadecuado."
+    },
+    "contexto_activador": {
+        "marco_general": "El cliente opera en un marco de vida de profesional joven, sin una necesidad habitacional inmediata, pero con la capacidad económica y el conocimiento técnico para identificar y actuar sobre una oportunidad de mercado que se alinea con sus aspiraciones de estilo de vida. Su decisión no está condicionada por problemas, sino por la atracción a una propuesta de valor superior."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr un estilo de vida superior en un entorno que se perciba como la mejor elección posible en el mercado, validando así su criterio profesional y personal.",
+        "job_statement": "Cuando decido comprar mi primer departamento, quiero elegir el proyecto con las mejores áreas comunes para sentir que estoy accediendo a un estilo de vida superior y he tomado la mejor decisión del mercado.",
+        "job_dominante_narrativo": "El cliente está tratando de habitar un espacio que no solo resuelva una necesidad de vivienda, sino que principalmente exprese su identidad y aspiraciones a través de una propuesta de valor (amenities, comunidad) que él, como experto, considera la mejor. Es una compra para sentirse inteligente y exitoso.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "Ninguno"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio de contratación fue, de forma abrumadora y casi exclusiva, la superioridad, amplitud y calidad de las áreas comunes, consideradas las mejores de Lima. Secundariamente, la flexibilidad de la tipología para tener una oficina.",
+        "firing_criteria": "Descartó otros proyectos, como Hometown, por tener áreas comunes inferiores y ser más pequeños. Cualquier proyecto que no ofreciera una propuesta de valor aspiracional y diferenciada en amenities quedaba fuera de consideración.",
+        "trade_offs_reales": "Aceptó un retraso de 4 años en la entrega. Tuvo que pagar un sobreprecio significativo al cambiar al departamento de 3 dormitorios a precio de lista (y no de planos). Toleró una pésima gestión de postventa, acabados de menor calidad a los esperados y promesas incumplidas sobre el equipamiento de áreas comunes.",
+        "factores_de_confianza": "Su propio juicio profesional como arquitecto fue el principal factor de confianza. La decisión se basó en su análisis técnico del valor del proyecto, no en la confianza hacia la inmobiliaria.",
+        "reduccion_de_riesgo": "Inicialmente, el riesgo se redujo por su propia capacidad de evaluación. Sin embargo, post-compra, el riesgo se materializó en forma de retrasos y mala gestión, sin que la inmobiliaria ofreciera mecanismos para mitigarlo (como penalidades en el contrato o compensaciones)."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes (parques interiores, lobby, coworking, etc.) fueron el ancla de la decisión. La promesa de un estilo de vida tipo club fue el encaje perfecto con su demanda aspiracional.",
+        "atributos_secundarios": "La ubicación en Surco era conveniente, pero no el driver principal. La distribución interna del departamento era aceptable, pero secundaria frente a la propuesta general del condominio.",
+        "alternativas_descartadas": "Descartó el proyecto Hometown y otros explorados superficialmente en base a un análisis comparativo de brochures, concluyendo que sus áreas comunes no competían con las de MUV."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Satisfecho con el concepto del proyecto (calificación de 8/10), pero profundamente insatisfecho con la gestión de la inmobiliaria.",
+        "reservas": "Preocupación por el mantenimiento futuro de las áreas comunes, el déficit de las mismas cuando el proyecto esté completo y la calidad de los acabados (tarrajeo frágil, mal aislamiento acústico).",
+        "fricciones_pendientes": "El cliente enfrenta numerosas fricciones: áreas comunes entregadas sin el equipamiento prometido, problemas de diseño no resueltos (zona pet-friendly inútil), y una relación desgastada con la inmobiliaria por la falta de comunicación y seguimiento."
+    },
+    "proyecto": "MUV"
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Pareja propietaria de una vivienda en Chorrillos se muda para resolver dos fricciones diarias críticas: la larga distancia al trabajo y la excesiva humedad que afectaba la salud de la clienta. La decisión se acelera al encontrar en una feria un proyecto que no solo resuelve estos problemas, sino que también ofrece las amenidades y la tipología (3 dormitorios) adecuadas para su familia.",
+    "historia_causal": {
+        "contexto_previo": "La pareja vivía en un departamento propio, grande y bien distribuido en Chorrillos. Tenían una situación habitacional estable y resuelta, pero con dos grandes inconvenientes que generaban una tensión latente y un deseo de cambio.",
+        "tension_acumulada": "La clienta trabajaba a solo siete minutos del nuevo proyecto, lo que convertía el trayecto diario desde Chorrillos en una fricción significativa. Adicionalmente, la excesiva humedad de la zona de Chorrillos le afectaba directamente la salud, sobre todo en invierno. Ambos factores fueron explícitamente mencionados como 'los dos detonantes' de la búsqueda.",
+        "bloqueadores": "No se identifican bloqueadores económicos o circunstanciales significativos. El principal bloqueador era la inercia de su situación actual y una búsqueda que se mantenía en un estado pasivo hasta que encontraron un catalizador.",
+        "eventos_habilitadores": "La transición de una búsqueda pasiva a una activa se dio al empezar a explorar opciones por internet, donde identificaron dos proyectos de interés en la zona objetivo. La asistencia a una feria 'Expo Vivienda' fue el evento clave que les permitió un contacto directo y decisivo con la inmobiliaria.",
+        "switching_trigger": "El estímulo final fue la visita al stand del proyecto en la feria inmobiliaria. La presentación de las ventajas del condominio, el concepto de club y la distribución del departamento los convenció de forma inmediata, haciendo que detuvieran su búsqueda.",
+        "momento_de_decision": "La decisión fue notablemente rápida y con alta convicción. Tras identificar el proyecto en la web, fueron a la feria, se sentaron en el stand de MUV y no exploraron más alternativas. La visita a los departamentos piloto y al club consolidó su interés, llevándolos a separar la unidad en la misma feria con un pago simbólico de 1000 soles."
+    },
+    "contexto_activador": {
+        "marco_general": "Se trata de una pareja con una situación habitacional ya resuelta (son propietarios), lo que descarta una necesidad de vivienda básica. La decisión de compra se activa en un contexto de optimización funcional, donde la logística diaria (ubicación del trabajo) y el bienestar personal (salud) se vuelven prioritarios sobre la simple tenencia de una propiedad."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una mejora sustancial en la calidad de vida diaria, eliminando un viaje largo y tedioso al trabajo y mudándose a un entorno físico más saludable, todo esto mientras se mantiene el espacio adecuado para su núcleo familiar.",
+        "job_statement": "Cuando mi lugar de residencia actual genera fricciones significativas en mi logística diaria y afecta mi bienestar, quiero mudarme a una ubicación más conveniente para optimizar mi rutina y mejorar mi salud.",
+        "job_dominante_narrativo": "La misión principal era desmantelar las ineficiencias y malestares de su vida en Chorrillos para adoptar un estilo de vida más práctico, eficiente y saludable. La compra del departamento es una herramienta para 'vivir mejor' en el día a día, no para resolver una carencia de vivienda.",
+        "job_dominante_canonico": "J03: Optimizar la vida cotidiana",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Los criterios clave fueron la proximidad al trabajo, un ambiente con menos humedad, un departamento de 3 dormitorios para sus hijos adultos, y las áreas comunes, donde el 'club' fue un factor de gran peso. La distribución del departamento también fue un elemento decisivo.",
+        "firing_criteria": "Descartaron implícitamente cualquier ubicación que no resolviera el problema de la distancia al trabajo y la humedad. También tenían una preferencia por proyectos que no fueran torres excesivamente altas ni con demasiados departamentos.",
+        "trade_offs_reales": "Aceptaron numerosos defectos de construcción (puntos de luz descentrados, acero de baja calidad en balcones) que requirieron reclamos y arreglos post-entrega. Sacrificaron la posibilidad de personalizar el departamento (no pudieron quitar una tina) y actualmente toleran el ruido de clubes cercanos y problemas de convivencia.",
+        "factores_de_confianza": "La visita física a los departamentos piloto y al club del proyecto fue fundamental para generar confianza y acelerar la decisión. La solidez financiera que les daba tener una propiedad anterior para respaldar el crédito también aportó seguridad.",
+        "reduccion_de_riesgo": "El proceso de decisión se sintió de bajo riesgo al poder separar la unidad con un monto mínimo en la feria. Además, ver que el edificio ya estaba en construcción avanzada (quinto piso) les dio certeza de que el proyecto era una realidad tangible."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica, el concepto de 'club' con una oferta completa de amenities (piscina, gimnasio, sala de cine), y la tipología de 3 dormitorios con una distribución que les agradó. Estos tres elementos juntos crearon una propuesta de valor contundente.",
+        "atributos_secundarios": "La orientación del departamento, que fue analizada para aprovechar la salida del sol, y la percepción de que el condominio no se siente saturado de gente, a pesar de su tamaño.",
+        "alternativas_descartadas": "Habían identificado un segundo proyecto por internet, pero fue descartado sin siquiera ser evaluado en la feria, ya que la propuesta de MUV los capturó por completo. Su vivienda anterior en Chorrillos fue descartada por las fricciones que generaba."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "A pesar de múltiples problemas post-venta, el hecho de haber recomendado el proyecto a tres personas que concretaron la compra indica un alto nivel de satisfacción con la decisión de fondo (ubicación, producto). No se proporciona un número, pero la recomendación es un fuerte indicador positivo.",
+        "reservas": "Están decepcionados con la calidad de los acabados y la construcción (defectos de luz, materiales del balcón), la inflexibilidad de la inmobiliaria para hacer cambios, y la gestión de las áreas comunes (ruido, limpieza de mascotas, uso por externos).",
+        "fricciones_pendientes": "Existen promesas incumplidas por parte de la inmobiliaria (sol y sombra en zona de parrillas, solución para la pintura del balcón). El retraso en el inicio de la siguiente fase del proyecto genera incertidumbre y afecta la confianza de sus referidos."
+    },
+    "proyecto": "MUV"
+}

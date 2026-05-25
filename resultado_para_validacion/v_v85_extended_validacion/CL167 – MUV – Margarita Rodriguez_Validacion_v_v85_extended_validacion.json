@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado no es una necesidad propia de la clienta, sino una reacción a la decisión de su yerno e hija de mudarse. La compra es una consecuencia directa de esta decisión externa. El filtro de selección es absoluto y no negociable: encontrar un departamento contiguo al de su hija. Las amenidades del proyecto (gimnasio, piscina) y la mejora de la zona son criterios de selección secundarios que hicieron la decisión más agradable, pero no la originaron.",
+        "debate_deal_breaker": "El 'deal-breaker' es la co-ubicación familiar. La hija de la clienta lo establece explícitamente: 'Si no había la opción de un departamento al costado del otro, no era opción para mí'. La compra de la madre estaba 100% supeditada a esta condición. Si el proyecto no hubiera tenido esta opción, la compra no se habría realizado, independientemente de cualquier otra característica o beneficio.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Yo compré este departamento porque mi hija, bueno, mi yerno compraron con mi hija su departamento.",
+                    "Si no había la opción de un departamento al costado del otro, no era opción para mí.",
+                    "Ya soy una persona mayor y bueno, las dos nos necesitamos para cualquier emergencia."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría en absoluto. La compra es una reacción directa y dependiente de la mudanza de su hija para mantener el sistema de apoyo mutuo."
+            },
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "A mí sí me gustó porque, bueno, tiene todo lo que a mí me gusta, que es el gimnasio, la piscina, el spa.",
+                    "Es más tranquilo. Allá es más bullicio, es más peligroso.",
+                    "Me favorece porque de acá voy a la clínica caminando, no tengo que luchar con el tráfico."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí compraría, siempre y cuando se cumpliera la condición principal de estar al lado de su hija. Los beneficios de optimización (amenities, seguridad, cercanía a clínica) son un plus valorado, pero no el origen de la necesidad de compra."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03 - Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La compra es un caso canónico de 'compra no autónoma' (J04 - Tipo 4: Dependencia Funcional Estructural). La clienta (Margarita) no es quien origina el Job; su decisión es completamente subordinada y reactiva a la del sistema familiar (la mudanza de su hija y yerno). El motor de la compra es la necesidad de mantener la estructura de soporte y dependencia mutua. Los beneficios de optimización (J03) son criterios de selección que validan y hacen más atractiva una decisión ya forzada por la circunstancia familiar, pero no constituyen el driver de entrada al mercado."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J04 - Acompañar el crecimiento familiar, en su subtipo de Dependencia Funcional Estructural.",
+    "justificacion": "La evidencia es concluyente. La clienta no entra al mercado por iniciativa o necesidad propia; su compra es una reacción obligada a la decisión de su hija de mudarse. El Test Canónico es claro: sin la mudanza de la hija, la compra no ocurre. La condición innegociable de adquirir departamentos contiguos demuestra que el objetivo no es 'una nueva casa', sino 'mantener el sistema familiar intacto'. Este es un caso paradigmático de una compra no autónoma donde el individuo se subordina a las necesidades del sistema familiar."
+}

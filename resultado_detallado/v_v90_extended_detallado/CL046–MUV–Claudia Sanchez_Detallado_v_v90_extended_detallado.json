@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente busca independizarse optimizando su vida actual, no rompiéndola. Compra habilitada por mejora laboral que elimina una restricción logística, permitiéndole elegir un proyecto que reduce fricciones diarias (tráfico, deportes) y la mantiene cerca de su red familiar.",
+    "historia_causal": {
+        "contexto_previo": "La cliente vive en un departamento en Surco con su madre y hermano, en un sistema de vida estable y con una fuerte red familiar en la zona. Su rutina diaria incluye trabajo y actividades deportivas.",
+        "tension_acumulada": "Desde la pandemia, sentía un creciente deseo de independizarse para tener mayor comodidad y autonomía. Esta tensión se veía agravada por fricciones cotidianas, principalmente los largos tiempos de traslado al trabajo, que afectaban su calidad de vida.",
+        "bloqueadores": "Varios factores impidieron la compra anteriormente: restricciones económicas y temas de salud familiares. El bloqueador más significativo fue una experiencia de compra fallida en otro proyecto, que resultó en un conflicto con la inmobiliaria por la devolución de su dinero, generándole desconfianza y un 'bajoneo' que detuvo su búsqueda.",
+        "eventos_habilitadores": "Un cambio laboral fue clave: obtuvo un mejor puesto con un mayor sueldo, lo que le dio la capacidad económica. Crucialmente, el nuevo trabajo incluía una cochera, eliminando un gasto y, más importante, una restricción logística que antes la obligaba a buscar vivienda cerca del trabajo. Esto le dio 'un grado de libertad' para reevaluar sus prioridades de ubicación.",
+        "switching_trigger": "La combinación de la mejora económica y la nueva libertad logística reactivó su búsqueda de forma decidida. Pasó de una exploración pasiva a una acción concreta, motivada también por el apoyo de su madre.",
+        "momento_de_decision": "El proceso fue notablemente rápido. Visitó MUV, un proyecto que ya conocía por fuera, como primera y única opción seria. El encaje fue inmediato al ver cómo las amenities (clubhouse) y la ubicación resolvían sus necesidades logísticas. El reencuentro con una vendedora de confianza reforzó la decisión, y separó el departamento el mismo día de la visita."
+    },
+    "contexto_activador": {
+        "marco_general": "La cliente se encuentra en una etapa de transición hacia la independencia individual, pero sin un deseo de ruptura con su sistema de vida actual. Su vida opera con un fuerte anclaje en Surco, donde reside su red familiar. La decisión de compra está condicionada por la necesidad de optimizar su rutina diaria (trabajo, deporte) y se activa únicamente cuando una mejora laboral elimina una restricción logística clave (la falta de cochera en el trabajo), permitiéndole priorizar la cercanía a su entorno sobre la cercanía al trabajo."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una independencia funcional que mejore la eficiencia de su vida cotidiana, integrando sus actividades y manteniendo la proximidad y conexión con su entorno familiar y social actual.",
+        "job_statement": "Cuando mi situación laboral me da más flexibilidad, quiero encontrar un lugar propio que esté cerca de mi familia y tenga facilidades integradas, para poder optimizar mis tiempos y reducir las fricciones de mi rutina diaria sin tener que sacrificar mi red de apoyo.",
+        "job_dominante_narrativo": "La cliente está tratando de establecer su independencia de una manera que haga su vida más fácil y eficiente, no más complicada. Busca un espacio que funcione como una plataforma de operaciones para su estilo de vida activo, minimizando el tiempo perdido en traslados y maximizando el acceso a sus actividades y a su familia.",
+        "job_dominante_canonico": "J03: Optimizar la vida cotidiana",
+        "job_secundario_canonico": "J01: Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La elección se basó en la optimización logística: la cercanía a su familia (5 minutos), el clubhouse que integra sus actividades deportivas ahorrándole traslados, y las múltiples salidas del condominio para gestionar mejor el tráfico. La entrega inmediata también fue un criterio clave.",
+        "firing_criteria": "Descartó automáticamente opciones que no ofrecieran una mejora funcional o que estuvieran desconectadas de su sistema de vida en Surco. La compra anterior en San Isidro se 'despidió' cuando su situación laboral cambió y ya no necesitaba optimizar para esa ubicación.",
+        "trade_offs_reales": "Aceptó sacrificar su deseo inicial de un dúplex y la presencia de un balcón. El trade-off más significativo fue la decisión de que su perro no se mude con ella, priorizando la funcionalidad del nuevo espacio sobre la convivencia con su mascota.",
+        "factores_de_confianza": "El factor principal fue reencontrarse con Ingrid, la asesora que le había vendido el departamento anterior. Esta coincidencia fue interpretada como una señal positiva y generó una confianza inmediata en el proceso.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al tratarse de un proyecto terminado con entrega inmediata, lo que le permitió ver el producto final y evitar las incertidumbres y retrasos que sufrió en su experiencia de compra anterior."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El clubhouse con sus instalaciones deportivas fue el atributo central, ya que se alinea perfectamente con su estilo de vida y le ahorra tiempo. La ubicación en Surco, cerca de su familia, y la distribución del departamento de 1 dormitorio, que percibió como cómoda y funcional, fueron los otros activadores clave.",
+        "atributos_secundarios": "El depósito fue ofrecido pero descartado por no ser necesario. Las tipologías de 2 dormitorios o flex no fueron consideradas seriamente debido al precio y la falta de disponibilidad para entrega inmediata.",
+        "alternativas_descartadas": "La principal alternativa descartada fue la compra fallida en San Isidro, abandonada por problemas con la inmobiliaria y porque el cambio laboral eliminó la necesidad de vivir allí. Otros proyectos fueron vistos solo superficialmente por internet y descartados por no generar un encaje inmediato."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (8/10). La satisfacción con el producto y la decisión es clara.",
+        "reservas": "Su única reserva es sobre la ubicación, reconociendo que por estar algo 'escondida' o en una zona limítrofe, podría no ser ideal para todo el mundo, lo que matiza su recomendación.",
+        "fricciones_pendientes": "La principal fricción es la incertidumbre en el proceso post-venta, específicamente la falta de fechas concretas para el desembolso del crédito y la entrega final del departamento, lo que le genera ansiedad."
+    },
+    "proyecto": "MUV"
+}

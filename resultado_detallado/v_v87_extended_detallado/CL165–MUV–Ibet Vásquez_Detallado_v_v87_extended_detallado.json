@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra no autónoma donde el sistema familiar se reorganiza para resolver una necesidad logística de uno de sus miembros (cercanía a la universidad del hermano), aprovechando la mudanza para mejorar la calidad de vida general (seguridad y tranquilidad).",
+    "historia_causal": {
+        "contexto_previo": "La familia, compuesta por madre, hija e hijo, residía en una casa de su propiedad en Chorrillos. Su vida era estable, pero se enfrentaban a un nuevo escenario con el ingreso del hermano a la universidad UPC en Surco.",
+        "tension_acumulada": "Existía una insatisfacción latente con la seguridad y la tranquilidad de su barrio en Chorrillos. Esta tensión se vio agudizada por la nueva fricción logística que implicaba el desplazamiento diario del hermano a la universidad, haciendo evidente la necesidad de un cambio.",
+        "bloqueadores": "Al ser propietarios, no tenían una presión o urgencia habitacional para mudarse. La decisión dependía de un consenso familiar y de movilizar una inversión económica importante, lo que generaba inercia.",
+        "eventos_habilitadores": "La familia disponía del capital necesario para realizar la compra al contado, eliminando barreras financieras. La hija tomó un rol proactivo en la búsqueda de propiedades y la madre tomó la decisión final de financiar la operación, lo que viabilizó el proyecto.",
+        "switching_trigger": "La necesidad concreta de resolver la logística universitaria del hermano fue el estímulo final que transformó el deseo latente de mudanza en una búsqueda activa y dirigida hacia una zona específica.",
+        "momento_de_decision": "Tras una búsqueda en el portal Nexo, la hija identificó dos proyectos finalistas. La familia los visitó en tres ocasiones, involucrando a todos los miembros en la evaluación. La decisión fue reflexiva y se basó en un consenso, culminando en la compra al contado de la propiedad en MUV."
+    },
+    "contexto_activador": {
+        "marco_general": "Se trata de un sistema familiar consolidado y propietario de su vivienda, cuya dinámica operativa se subordina a las necesidades de sus miembros. La compra no es una decisión individual, sino un proyecto sistémico donde la madre actúa como inversora, la hija como gestora y el objetivo principal es dar soporte a la etapa universitaria del hijo."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reorganizar la estructura de vida familiar para facilitar la educación del hijo, y simultáneamente, transicionar a un entorno que ofrezca mayor seguridad, tranquilidad y bienestar para todo el núcleo familiar.",
+        "job_statement": "Cuando mi hermano empieza la universidad y nuestra ubicación actual es inconveniente, quiero que nos mudemos a un lugar cercano y seguro para facilitar su educación y mejorar nuestra calidad de vida familiar.",
+        "job_dominante_narrativo": "La familia está tratando de reconfigurar su sistema operativo habitacional para dar soporte a la nueva etapa de vida de uno de sus miembros, asegurando que el nuevo hogar no solo resuelva una necesidad logística, sino que también eleve el estándar de vida de todo el grupo.",
+        "job_dominante_canonico": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_canonico": "J03 - Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio principal e innegociable fue la cercanía a la universidad UPC. El factor decisivo para elegir MUV fue la preferencia de la madre por un edificio de baja altura (8 pisos), que le transmitía mayor seguridad y comodidad en comparación con la alternativa de 17 pisos. Además, valoraron que el condominio fuera más grande y con más áreas comunes.",
+        "firing_criteria": "Descartaron el proyecto competidor principalmente por su altura. Un edificio de 17 pisos generó una fuerte resistencia en la madre, quien tomó la decisión final, convirtiendo este atributo en un factor de descarte automático.",
+        "trade_offs_reales": "Aceptaron renunciar a un cuarto de servicio, una característica que ofrecía el proyecto descartado. Priorizaron la sensación de comodidad y seguridad asociada a un edificio más bajo y la amplitud de las áreas comunes.",
+        "factores_de_confianza": "La confianza se construyó a través de un proceso de decisión familiar y consensuado. Realizaron tres visitas al proyecto, involucrando a diferentes miembros de la familia, lo que les permitió validar la elección de manera colectiva y reducir la incertidumbre.",
+        "reduccion_de_riesgo": "La compra al 100% al contado eliminó cualquier riesgo o estrés asociado al financiamiento bancario. El proceso de decisión fue pausado y metódico, no impulsivo, lo que les dio seguridad en su elección final."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca de la UPC. El diseño del proyecto con un edificio de solo 8 pisos, que conectó directamente con la preferencia de la madre. La tipología de 3 dormitorios que aseguraba la privacidad de cada miembro. La oferta de un condominio grande con múltiples áreas comunes.",
+        "atributos_secundarios": "El precio, al ser similar al de la competencia, no fue un diferenciador. La marca de la inmobiliaria tampoco fue mencionada como un factor relevante en la decisión.",
+        "alternativas_descartadas": "Descartaron un proyecto de la empresa TIC (posiblemente Lukanfield) ubicado en la Av. Angamos. Aunque ofrecía un cuarto de servicio, su edificio de 17 pisos fue un factor decisivo de rechazo para la madre."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto, calificado con un 9 sobre 10. Están satisfechos porque el proyecto cumplió con el objetivo principal de tranquilidad y conveniencia logística.",
+        "reservas": "Tienen preocupaciones sobre la seguridad en los accesos, ya que los visitantes pueden llegar hasta la puerta del departamento sin un filtro previo. También sienten que la información sobre los servicios en áreas comunes (disponibilidad de entrenadores) fue engañosa.",
+        "fricciones_pendientes": "Experimentan problemas recurrentes con malos olores provenientes de las tuberías. Además, la gestión de los servicios en áreas comunes es ineficiente y depende de la coordinación informal de los vecinos a través de un grupo de WhatsApp."
+    },
+    "proyecto": "MUV"
+}

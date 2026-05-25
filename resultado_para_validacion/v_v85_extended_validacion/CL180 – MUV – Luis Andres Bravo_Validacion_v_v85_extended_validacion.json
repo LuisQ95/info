@@ -1,0 +1,34 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de la pareja de consolidar su relación pasando de un alquiler a una propiedad propia (J01). El filtro de selección (Selection Driver) es la propuesta de valor del proyecto, centrada en el clubhouse y sus amenities, que ofrece un estilo de vida aspiracional y conveniente (J06).",
+        "debate_deal_breaker": "El deal-breaker para la elección de ESTE proyecto fue el clubhouse; el cliente afirma que sin él, el proyecto pierde el 70% de su atractivo. Sin embargo, el deal-breaker fundamental que los mantenía en el mercado era la falta de una vivienda propia. Si este proyecto no existía, habrían comprado otro que satisficiera su necesidad de estabilidad (J01).",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "veíamos conveniente convivir ya no en un lugar alquilado, sino en un lugar propio",
+                    "el detonante entonces es que ya querían consolidar un poco su relación con una propiedad"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuvieran la necesidad de dejar de alquilar para consolidar su relación, no habrían iniciado la búsqueda de compra."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Lo que suma bastante acá es el clubhouse, ¿no? O sea, yo creo que si le quitas el clubhouse al proyecto, como que le quitas el 70% del atractivo",
+                    "la experiencia de vivir acá está perfecto, porque como te digo, es como, literal, es una burbuja"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera el clubhouse, no lo habrían comprado, pero sí habrían seguido buscando otra propiedad para satisfacer su necesidad de estabilidad."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La entrada al mercado está inequívocamente impulsada por el J01, la necesidad de consolidar la vida en pareja a través de una propiedad. La elección del proyecto específico, sin embargo, está dominada por el J06, donde la propuesta de valor aspiracional del clubhouse se convierte en el criterio de contratación decisivo. J01 es el origen estructural, J06 es el filtro de selección."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J01: Establecer estabilidad habitacional, con un fuerte Job Secundario J06: Expresar identidad y coherencia personal, que funciona como el principal criterio de selección.",
+    "justificacion": "La razón por la que el cliente entra al mercado es para dejar de alquilar y consolidar su relación de pareja, una motivación central de J01. Sin esta necesidad, la compra no se habría iniciado. La elección del proyecto WOW se debe a su propuesta de valor aspiracional (clubhouse), un claro indicador de J06. Este factor no originó la búsqueda, pero fue decisivo para cerrarla en este proyecto específico."
+}

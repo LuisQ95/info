@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente invierte su capital de AFP en un departamento con una doble estrategia: generar renta a corto plazo alquilando a estudiantes y, potencialmente, usarlo como vivienda personal en el futuro lejano.",
+    "historia_causal": {
+        "contexto_previo": "Vive cómodamente en un departamento propio en Surco con su familia. No tiene ninguna necesidad o urgencia habitacional.",
+        "tension_acumulada": "La conciencia de tener un capital ocioso (fondos de AFP) que no genera rentabilidad y podría perder valor por la inflación. Deseo latente de replicar una experiencia de inversión inmobiliaria pasada.",
+        "bloqueadores": "No se mencionan bloqueadores activos, más bien una actitud pasiva esperando la oportunidad de inversión correcta.",
+        "eventos_habilitadores": "El retiro de sus fondos de la AFP le proporciona el capital líquido necesario para ejecutar la inversión.",
+        "switching_trigger": "La combinación de tener el capital disponible y conocer, a través de su hija, una oportunidad de inversión con una ubicación ideal para alquiler a estudiantes, lo que activa la búsqueda y decisión.",
+        "momento_de_decision": "La decisión fue inmediata y sin comparación. Al identificar que la ubicación del proyecto WOW se alineaba perfectamente con su tesis de inversión, no buscó otras alternativas y procedió con la compra."
+    },
+    "contexto_activador": {
+        "marco_general": "Padre de familia con situación habitacional resuelta, con experiencia previa en inversión inmobiliaria y con hijas universitarias. Actúa como un inversor racional que busca optimizar su patrimonio, utilizando el contexto de sus hijas como una fuente de inteligencia de mercado para validar la ubicación de su inversión."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Hacer que su capital trabaje para él, generando un flujo de ingresos pasivos y asegurando un activo tangible que proteja su patrimonio y ofrezca flexibilidad a futuro.",
+        "job_statement": "Cuando dispongo de un capital importante, quiero invertirlo en un inmueble estratégicamente ubicado para generar una renta segura y proteger mi patrimonio a largo plazo.",
+        "job_dominante_narrativo": "El cliente está intentando convertir un capital ocioso en un activo productivo para asegurar ingresos pasivos y resguardar su patrimonio.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Ubicación estratégica cerca de al menos dos universidades (UPC, U. de Piura), tipología flexible (2+flex) adaptable para 3 estudiantes, y la visión de un proyecto con buenas áreas comunes para su valorización a largo plazo.",
+        "firing_criteria": "Cualquier ubicación que no tuviera una demanda de alquiler clara y demostrable por parte de estudiantes. No consideró otras opciones porque ninguna otra ubicación era tan 'justa para lo que había pensado'.",
+        "trade_offs_reales": "Aceptó el riesgo de una compra en planos con incertidumbre en los plazos de construcción. Sacrificó la liquidez de su capital a cambio de un activo ilíquido. Está asumiendo una alta carga de estrés post-venta debido a la mala gestión del proyecto.",
+        "factores_de_confianza": "La validación social a través de los amigos de su hija que ya alquilaban en la zona, la percepción de calidad del proyecto (acabados, áreas comunes) y la buena atención inicial del equipo de ventas.",
+        "reduccion_de_riesgo": "Inicialmente, el riesgo se sentía bajo por la ubicación probada. Post-compra, ha tenido que reducir su riesgo activamente exigiendo adendas al contrato para incluir penalidades a favor del cliente en caso de retrasos."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación del proyecto fue el único y más importante atributo. La tipología 2+flex se adaptaba perfectamente a su plan de alquiler para 3 estudiantes.",
+        "atributos_secundarios": "Las áreas comunes, los buenos acabados y el diseño del estacionamiento fueron valorados positivamente, pero como un plus para la valorización futura, no como el motivo de la compra.",
+        "alternativas_descartadas": "Ninguna. El cliente fue directo al proyecto WOW porque la ubicación era perfecta para su plan de inversión. 'No busqué más otro sitio'."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Califica la experiencia con un 7/10, pero la puntuación está fuertemente penalizada por la incertidumbre actual.",
+        "reservas": "Gran preocupación y desconfianza por los retrasos en el inicio de la obra y la falta de presentación del expediente en la municipalidad.",
+        "fricciones_pendientes": "Incertidumbre total sobre la fecha de inicio de construcción, renegociación constante de su cronograma de pagos y una comunicación deficiente con el área de post-venta."
+    },
+    "proyecto": "WOW"
+}

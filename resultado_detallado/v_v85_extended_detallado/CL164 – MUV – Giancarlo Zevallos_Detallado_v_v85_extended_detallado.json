@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Un profesional que regresa a Perú decide establecer su hogar en un condominio al que aspiraba desde sus años universitarios, priorizando la seguridad y el entorno para su futura familia por encima de todo.",
+    "historia_causal": {
+        "contexto_previo": "Vivía en el extranjero cursando una maestría. Regresó a Perú en 2019 sin tener una propiedad, viviendo en una situación no permanente.",
+        "tension_acumulada": "Deseo latente de independizarse y tener una propiedad en un condominio específico que conocía y admiraba desde hacía más de 14 años. Necesidad de pasar de una situación habitacional temporal a una base estable y permanente.",
+        "bloqueadores": "Inicialmente no tenía urgencia por mudarse, lo que le permitió esperar la etapa de preventa del proyecto que le interesaba en lugar de comprar una unidad de reventa.",
+        "eventos_habilitadores": "Su regreso definitivo a Perú. El contacto proactivo de la inmobiliaria en mayo de 2020 informándole sobre la preventa de la tercera etapa del proyecto.",
+        "switching_trigger": "La llamada de la inmobiliaria sobre la preventa de la tercera etapa, que convirtió su interés pasivo en una búsqueda activa y un proceso de compra concreto.",
+        "momento_de_decision": "La decisión inicial fue rápida, tomada en solitario tras un tour virtual durante la pandemia. Hubo un segundo momento de decisión con su novia para continuar a pesar de los retrasos. La compra se concretó finalmente gracias a un descuento de S/50,000 que la inmobiliaria le ofreció para compensar un alza en la tasa de interés hipotecario causada por las demoras."
+    },
+    "contexto_activador": {
+        "marco_general": "Hombre de 38 años, profesional, que tras una etapa de formación en el extranjero, regresa a Perú para establecerse. Está en una relación estable (se casó durante el proceso de espera) y tiene planes concretos de formar una familia a mediano plazo. Su sistema de vida valora la planificación, la seguridad y tiene una fuerte conexión emocional con la zona de Monterrico por sus años universitarios."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar una base habitacional permanente en un entorno que no solo sea seguro y estable, sino que también esté alineado con sus aspiraciones de vida y sus planes de formar una familia.",
+        "job_statement": "Cuando regreso a Perú para establecerme, quiero comprar un departamento en un condominio cerrado que siempre he admirado, para asegurar mi estabilidad habitacional y tener el entorno ideal para la familia que planeo formar.",
+        "job_dominante_narrativo": "El cliente está intentando establecer su primer hogar propio tras regresar al país, buscando un espacio que no solo resuelva su necesidad de vivienda, sino que también materialice una aspiración de largo plazo y le brinde la seguridad que considera indispensable para su futura vida familiar.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Formato de condominio cerrado, alta seguridad, parques internos, conexión emocional y aspiracional con el proyecto, y la proyección de ser un buen lugar para criar hijos.",
+        "firing_criteria": "Proyectos con 'puerta de calle', que no ofrecían la sensación de comunidad protegida y seguridad de un condominio.",
+        "trade_offs_reales": "Aceptó un retraso de dos años en la entrega, un aumento en la tasa hipotecaria (aunque mitigado por un descuento), acabados de menor calidad a la esperada y la no entrega de varias amenidades prometidas (zona de canes, lavandería).",
+        "factores_de_confianza": "La conexión emocional y conocimiento previo del proyecto. La disposición de la inmobiliaria a negociar un descuento significativo para viabilizar la compra ante problemas externos.",
+        "reduccion_de_riesgo": "El descuento de S/50,000 que compensó el aumento de la tasa de interés, lo que evitó que la venta se cayera y le dio seguridad financiera para proceder."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de condominio cerrado, la seguridad, los parques privados, el clubhouse y la ubicación en Monterrico. La conexión aspiracional preexistente con el proyecto.",
+        "atributos_secundarios": "Los acabados internos (que resultaron decepcionantes), la tina (básica en lugar de con hidromasaje), y amenidades específicas como la zona de parrillas, zona de canes o lavandería, que o no se entregaron o tuvieron problemas.",
+        "alternativas_descartadas": "Proyectos en Surquillo, Miraflores o San Isidro que fueron descartados por no ser condominios cerrados y no ofrecer el mismo nivel de seguridad y áreas comunes privadas."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Mixto. Recomendaría el proyecto, pero advirtiendo sobre la necesidad de invertir mucho tiempo y esfuerzo en reclamaciones post-venta para obtener lo que se pagó. La satisfacción con el producto central (vivir en el condominio) es alta, pero la experiencia con la inmobiliaria es baja.",
+        "reservas": "Percepción de que la inmobiliaria prioriza el ahorro sobre la calidad, falta de liquidez, y una comunicación deficiente y poco transparente. Desconfianza sobre la calidad de las futuras etapas.",
+        "fricciones_pendientes": "Problemas de construcción no resueltos (humedad en balcones), amenidades prometidas y no entregadas o clausuradas (zona de canes, lavandería), y la necesidad de una gestión activa como delegado de su torre para resolver problemas que la inmobiliaria debería solucionar."
+    },
+    "proyecto": "MUV"
+}

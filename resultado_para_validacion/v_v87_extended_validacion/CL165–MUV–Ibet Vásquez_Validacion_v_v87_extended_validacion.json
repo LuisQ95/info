@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de reorganizar la logística familiar para facilitar los estudios universitarios del hermano (J04). La búsqueda de una zona más segura y tranquila, junto con la preferencia por un edificio de baja altura, funcionaron como filtros de selección (Selection Drivers) para elegir el proyecto específico.",
+        "debate_deal_breaker": "La proximidad a la universidad UPC era la condición innegociable. Sin esta necesidad logística familiar, la familia no se habría mudado de su casa propia en Chorrillos. La compra es estructuralmente dependiente de este factor, lo que confirma que el soporte familiar es el verdadero deal breaker.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "también para que mi hermano estudie, porque estudia cerca, en la UPC.",
+                    "Era más importante que esté cerca de su universidad.",
+                    "Fue un proyecto familiar."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Negativo. Sin la necesidad de estar cerca de la universidad del hermano, la compra no se habría realizado; habrían permanecido en su casa de Chorrillos."
+            },
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "queríamos hacer un cambio a a una zona más bonita, más tranquila para nosotros",
+                    "Eh, mayor seguridad, más que todo.",
+                    "mi mamá le tiene un poco miedo cuando son edificios grandes"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Positivo. Aunque deseaban mayor seguridad y tranquilidad, estos factores por sí solos no habrían provocado la mudanza desde una casa propia sin el impulso del J04."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_final": "J03 - Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La decisión de compra es gobernada por el J04 (Soporte Familiar). Es una 'compra no autónoma' donde el sistema familiar se reorganiza para facilitar la etapa de un miembro (el hermano). La optimización de la calidad de vida (J03) es un criterio de selección clave y un beneficio secundario, pero no el motor estructural de la transacción."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Permite identificar sin ambigüedad el Job Dominante (J04 - Soporte Familiar) como el motor de la compra, diferenciándolo de los criterios de selección. La evidencia es consistente y suficiente para un análisis de comportamiento robusto."
+}

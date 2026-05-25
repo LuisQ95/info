@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la necesidad de proveer vivienda segura al hijo que se muda a Lima para estudiar (J04). El filtro de selección fue la cercanía a la universidad y la seguridad del proyecto. El Job lo define el gatillo, no el filtro.",
+        "debate_deal_breaker": "El factor innegociable era asegurar un entorno propio, seguro y cercano a la universidad para el hijo. La alternativa de alquilar se descartó por sus limitaciones, pero la compra no hubiera ocurrido sin la necesidad de soporte familiar a distancia.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nuestro hijo mayor terminó el colegio y se estaba yendo a estudiar a Lima",
+                    "lo más conveniente era que era un departamento que estuviese cerca de la universidad",
+                    "lo que nos interesó siempre era la seguridad de nuestro hijo"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin la necesidad de alojar al hijo universitario en Lima, la compra no se hubiera realizado."
+            },
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "en lo que no es tuyo ni un clavo",
+                    "si quieres poner un cuadro, lo piensas veinte veces",
+                    "por eso buscamos algo propio"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí, aunque el alquiler fuera más flexible, la necesidad de darle un hogar seguro al hijo para sus estudios seguiría impulsando la compra de algo propio."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J01: Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "La compra está completamente subordinada a las necesidades del sistema familiar. El detonante es el traslado del hijo a Lima por estudios, un caso canónico de J04 (Soporte Familiar). El deseo de propiedad (J01) es secundario y describe el 'cómo' querían resolver el problema, no el 'porqué' entraron al mercado."
+    },
+    "dictamen_final": "Entrevista Válida. Proporciona una clara y robusta historia causal.",
+    "justificacion": "La narrativa expone de manera explícita el contexto previo (hijo alquilando), la tensión (preocupación por seguridad), el gatillo (descubrimiento del proyecto por el hijo) y los criterios de decisión (cercanía a la universidad). El Job Dominante J04 es inequívoco y está soportado por múltiples evidencias directas."
+}

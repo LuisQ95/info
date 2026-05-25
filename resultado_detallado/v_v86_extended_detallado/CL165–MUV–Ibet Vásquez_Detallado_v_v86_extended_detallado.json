@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Familia (madre, hija, hijo) que ya posee una casa, decide comprar un departamento nuevo como una operación de soporte familiar. El principal motor es acercar al hijo a su universidad (UPC), aprovechando el cambio para mudarse a una zona percibida como más segura y tranquila.",
+    "historia_causal": {
+        "contexto_previo": "La familia, compuesta por la madre y sus dos hijos, vivía en una casa de su propiedad en Chorrillos. Tenían una situación habitacional estable y sin urgencia de mudanza.",
+        "tension_acumulada": "Existía una doble tensión: por un lado, una insatisfacción latente con la zona de Chorrillos, percibida como poco tranquila y segura. Por otro lado, y de forma más crítica, la necesidad de resolver la logística diaria del hijo, que estudiaba en la universidad UPC, ubicada en Surco.",
+        "bloqueadores": "No existían bloqueadores económicos o de decisión significativos. La familia tenía la capacidad de comprar al contado y la voluntad de realizar el cambio. El único 'bloqueador' era la inercia de su situación estable.",
+        "eventos_habilitadores": "La decisión familiar de priorizar y facilitar la educación del hijo fue el principal habilitador. A esto se sumó la disponibilidad del capital para la compra al contado y la proactividad de la hija para liderar la búsqueda de propiedades.",
+        "switching_trigger": "La necesidad concreta de estar cerca de la UPC se convirtió en el estímulo que transformó una idea latente de 'mudarse a un lugar mejor' en una búsqueda activa y enfocada en una zona geográfica específica.",
+        "momento_de_decision": "La hija encontró dos opciones viables a través del portal Nexo. La familia visitó los proyectos en conjunto en tres ocasiones. La decisión final fue tomada por la madre, con el consenso de los hijos, después de un proceso deliberado y comparativo, culminando en una compra al contado."
+    },
+    "contexto_activador": {
+        "marco_general": "El contexto es el de un 'sistema operativo familiar' donde las decisiones individuales se subordinan al bienestar del grupo. La madre actúa como la proveedora económica, la hija como la gestora del proyecto de compra, y el hijo como el beneficiario cuya etapa de vida (universitaria) redefine las prioridades y la logística de toda la familia. Operan desde una base de estabilidad (ya son propietarios), lo que les permite tomar una decisión estratégica y no reactiva."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reorganizar el sistema de vida familiar para facilitar la etapa educativa de un miembro, y al mismo tiempo, elevar la calidad de vida de todo el núcleo familiar en términos de seguridad y tranquilidad.",
+        "job_statement": "Cuando mi hermano necesita estar cerca de la universidad para sus estudios, quiero que nos mudemos a un departamento en una zona segura y tranquila, para poder apoyarlo logísticamente y mejorar el bienestar de toda la familia.",
+        "job_dominante_narrativo": "La familia está contratando un nuevo hogar para que funcione como una plataforma de soporte para la carrera universitaria del hijo. La misión es eliminar la fricción del transporte y el tiempo, permitiéndole enfocarse en sus estudios, mientras se asegura un entorno más protegido y agradable para todos.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J03 - Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Los criterios decisivos fueron: 1. Proximidad a la universidad UPC. 2. Tipología de 3 dormitorios para privacidad individual. 3. Percepción de seguridad y tranquilidad de la zona (Surco). 4. Un criterio clave y personal de la madre: un edificio de pocos pisos (8), que le generaba más comodidad y seguridad que uno alto.",
+        "firing_criteria": "El principal criterio de descarte fue la altura del edificio competidor. Aunque ofrecía un cuarto de servicio, sus 17 pisos generaron rechazo en la madre, quien tomó la decisión final. Esto lo convirtió en un 'deal-breaker'.",
+        "trade_offs_reales": "Aceptaron sacrificar el cuarto de servicio que ofrecía el otro proyecto a cambio de obtener un edificio de menor altura y, según su percepción, un condominio con mejores y más amplias áreas comunes.",
+        "factores_de_confianza": "La confianza se construyó a través de un proceso de decisión familiar y colectivo. Las múltiples visitas, incluyendo una con el padre, y el acuerdo unánime de que el proyecto les gustaba a todos, solidificó la elección.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al elegir un proyecto ya terminado y poder visitar el producto real. Además, la compra al contado eliminó cualquier incertidumbre o riesgo asociado al financiamiento bancario."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación estratégica (cerca de la UPC), la tipología adecuada (3 dormitorios), el diseño del proyecto (edificio bajo de 8 pisos) y la oferta de áreas comunes conectaron directamente con los criterios de contratación de la familia.",
+        "atributos_secundarios": "El cuarto de servicio, ofrecido por la competencia, fue un atributo valorado pero finalmente secundario, ya que fue sacrificado en el trade-off final. Las áreas comunes fueron un plus, aunque en la práctica la cliente no las utiliza mucho por su trabajo.",
+        "alternativas_descartadas": "Se descartó explícitamente el proyecto de la empresa TIC (posiblemente Lukanfield) en Angamos. La razón principal fue la altura del edificio (17 pisos), que no agradó a la madre, a pesar de que los precios eran similares y ofrecía un cuarto de servicio."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (calificación de 9 sobre 10). La cliente está satisfecha con la decisión y recomienda activamente el proyecto a sus familiares.",
+        "reservas": "Existen reservas importantes sobre la gestión post-venta. La principal es la percepción de una seguridad deficiente en los accesos, donde los visitantes pueden llegar a la puerta del departamento sin un filtro adecuado. También se mencionan olores recurrentes de las tuberías.",
+        "fricciones_pendientes": "Hay una fricción clara con las expectativas no cumplidas sobre los servicios en áreas comunes. Se les vendió con la idea de que habría entrenadores disponibles o contactos, pero en la realidad no existen y la gestión depende de la auto-organización de los vecinos por WhatsApp."
+    },
+    "proyecto": "MUV"
+}

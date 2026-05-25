@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es una clara oportunidad de inversión patrimonial (J02). La clienta no buscaba casa, sino que su madre planeaba invertir y ella ofrece su tasa de interés preferencial para viabilizar la compra, con la intención inicial de alquilar. Los filtros de selección (Selection Drivers) son la ubicación, que optimiza su vida (J03), y las espectaculares áreas comunes, que generan un deseo aspiracional (J06). El origen es patrimonial, no la resolución de un problema de vivienda.",
+        "debate_deal_breaker": "El factor innegociable fue la oportunidad financiera. Sin el plan de inversión de su madre, su tasa preferencial y el apoyo para la inicial, la compra no habría ocurrido, ya que su situación de vivienda era cómoda y estable. Las características del proyecto (piscina, ubicación) fueron 'deal makers' para ESE proyecto, pero no el 'deal breaker' que la hizo entrar al mercado.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "en realidad yo no tenía planificado un hipotecario, pero mi mamá sí tenía planificado sacar un hipotecario adicional.",
+                    "yo quería sacar este inmueble para yo ese inmueble alquilarlo.",
+                    "a futuro, cuando yo ya tenga una familia y todo eso, al final ese se va a volver también para alquilar."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin la lógica de inversión y la oportunidad financiera, no habría comprado. Su necesidad de vivienda estaba resuelta."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "que no esté tan lejos de mi mamá.",
+                    "yo hago un deporte, ahí me extraño cerca por el golf. Entonces, me queda todo bien cerca.",
+                    "por la zona está súper bien, está cerca todo."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, si el proyecto no optimizara su vida, habría comprado otro con fines de inversión, pero no habría dejado de comprar."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La compra se origina inequívocamente en una lógica de inversión y optimización patrimonial (J02), activada por una oportunidad familiar y un beneficio financiero personal. La elección del proyecto específico se define por criterios de optimización de vida (J03) y aspiracionales (J06), que fueron tan potentes que modificaron el plan de uso inmediato, pero no el origen de la demanda. El Job Dominante es J02."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la cadena causal de la decisión. Se identifica un inequívoco Entry Driver (J02 - oportunidad de inversión) que es distinto de los potentes Selection Drivers (J03/J06 - ubicación y amenities). La narrativa es coherente y rica en detalles sobre el proceso de consideración, elección y las fricciones post-compra."
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia establecida en su casa propia de Chorrillos decide mudarse a Surco para apoyar la vida universitaria del hijo, eligiendo un proyecto que satisface la necesidad de cercanía y la preferencia de la madre por edificios bajos.",
+    "historia_causal": {
+        "contexto_previo": "La familia (madre, hija y hijo) vivía en una casa de su propiedad en Chorrillos, con un sistema de vida estable y sin urgencias habitacionales.",
+        "tension_acumulada": "Insatisfacción con la seguridad y tranquilidad del barrio en Chorrillos, sumado a la inconveniencia logística que representaba la distancia entre su casa y la universidad del hermano en Surco (UPC).",
+        "bloqueadores": "No se mencionan bloqueadores económicos o de decisión. La búsqueda fue pausada y deliberada, indicando falta de urgencia.",
+        "eventos_habilitadores": "Disponibilidad de capital para comprar al 100% al contado. La hija asumió el rol proactivo de buscar opciones en portales inmobiliarios, lo que concretó la intención de mudanza.",
+        "switching_trigger": "La búsqueda activa de la hija en el portal inmobiliario Nexo, que transformó un deseo latente en una evaluación concreta de proyectos específicos.",
+        "momento_de_decision": "Fue un proceso reflexivo que incluyó tres visitas al proyecto. La decisión final fue tomada por la madre, con el consenso del resto de la familia, después de comparar con otra opción y sopesar las características de cada uno."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia que opera como una unidad sistémica, donde las decisiones de vivienda se toman para optimizar el bienestar y las necesidades del grupo, no de un individuo. En este caso, el sistema se reorganiza para apoyar la etapa educativa de uno de sus miembros (el hijo), con la madre actuando como la principal proveedora financiera y decisora."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reubicar a la familia en un entorno más seguro y funcional que facilite la vida universitaria del hijo, mejorando la calidad de vida de todos.",
+        "job_statement": "Cuando mi hermano necesita una mejor logística para sus estudios universitarios, quiero que nos mudemos a un departamento cercano a su universidad y en una zona más segura, para apoyar su desarrollo y vivir todos más tranquilos.",
+        "job_dominante_narrativo": "La familia está intentando reconfigurar su base de operaciones para adaptarse a la nueva etapa de vida de uno de sus miembros, priorizando la funcionalidad educativa y la seguridad del entorno.",
+        "job_dominante_canonico": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_canonico": "J03 - Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Cercanía a la universidad UPC, zona percibida como segura y tranquila, departamento de 3 dormitorios, edificio de baja altura (preferencia de la madre) y un condominio con más áreas comunes.",
+        "firing_criteria": "Edificios muy altos (17 pisos), ya que generaban incomodidad y miedo en la madre, quien era la decisora final.",
+        "trade_offs_reales": "Renunciaron a un cuarto de servicio que ofrecía el proyecto competidor, a cambio de un edificio más bajo y con mejores áreas comunes.",
+        "factores_de_confianza": "La decisión fue tomada en familia y tras un proceso de varias visitas, lo que generó consenso. La compra al contado también eliminó la incertidumbre del financiamiento.",
+        "reduccion_de_riesgo": "El proceso de decisión pausado y con múltiples visitas permitió una evaluación completa. La compra al contado simplificó la transacción y eliminó el riesgo financiero asociado a créditos."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca de la UPC. El diseño del proyecto como un condominio de solo 8 pisos, que encajó perfectamente con la aversión de la madre a los edificios altos. La oferta de 3 dormitorios y una mayor cantidad de áreas comunes.",
+        "atributos_secundarios": "Las áreas comunes, aunque fueron un factor de decisión importante, no son utilizadas frecuentemente por la cliente debido a su trabajo.",
+        "alternativas_descartadas": "Un proyecto de la empresa TIC (posiblemente Lukanfield) fue descartado principalmente por tener 17 pisos, lo cual no le gustó a la madre."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (califica con un 9 sobre 10).",
+        "reservas": "Preocupación por la seguridad en los accesos (visitantes llegan directamente a la puerta del departamento) y la sensación de haber recibido información engañosa sobre la disponibilidad de entrenadores en las áreas comunes.",
+        "fricciones_pendientes": "Problemas recurrentes con malos olores provenientes de las tuberías y la falta de una gestión formal de los servicios de las áreas comunes, que actualmente se coordina a través de un grupo de WhatsApp de vecinos."
+    },
+    "proyecto": "MUV"
+}

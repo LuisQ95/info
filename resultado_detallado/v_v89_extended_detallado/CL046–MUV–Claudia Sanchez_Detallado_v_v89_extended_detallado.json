@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra habilitada por una mejora económica tras un intento fallido previo, orientada a independizarse (J01) sin romper su sistema de vida actual, eligiendo un proyecto que reduce la fricción cotidiana (J03).",
+    "historia_causal": {
+        "contexto_previo": "Vive con su madre y hermano en un departamento en Surco, dentro de un sistema de vida estable y con una red familiar muy cercana en la misma zona.",
+        "tension_acumulada": "Desde la pandemia, arrastra un deseo latente de independizarse para ganar autonomía y comodidad. Experimenta fricciones en su rutina diaria por los tiempos de traslado y la logística para realizar sus actividades.",
+        "bloqueadores": "Una capacidad económica limitada en el pasado, problemas de salud en su entorno y, crucialmente, una experiencia de compra anterior fallida que resultó en un conflicto legal por la devolución de su inicial, lo que le generó desconfianza y un 'bajoneo' emocional.",
+        "eventos_habilitadores": "Una mejora laboral sustancial (mejor puesto y sueldo) que le devolvió la capacidad de compra. Adicionalmente, su nuevo trabajo incluye una cochera, eliminando una restricción logística y un gasto que antes condicionaba fuertemente la ubicación de su vivienda.",
+        "switching_trigger": "La mejora económica concreta y la nueva libertad logística actúan como el estímulo final que reactiva la búsqueda de forma decidida, superando la inercia y el desánimo de la mala experiencia previa.",
+        "momento_de_decision": "La decisión fue impulsiva y rápida. MUV fue el primer y único proyecto que visitó en esta nueva etapa. El encaje fue inmediato debido a la ubicación, las amenities y el reencuentro con una vendedora de confianza, llevándola a separar el departamento el mismo día de la visita."
+    },
+    "contexto_activador": {
+        "marco_general": "Joven profesional en una etapa de transición hacia la independencia, pero con un fuerte arraigo a su sistema de vida actual en Surco, donde reside su familia. Su decisión está condicionada por la logística de su trabajo (traslados, estacionamiento) y un estilo de vida activo que valora la eficiencia y el deporte."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una independencia funcional que le permita tener su propio espacio y autonomía, pero mejorando su calidad de vida diaria sin sacrificar la cercanía y conexión con su entorno familiar y social actual.",
+        "job_statement": "Cuando mi situación laboral mejora y me da la capacidad de independizarme, quiero encontrar un lugar propio que esté cerca de mi entorno familiar para poder optimizar mi rutina diaria y tener todo lo que necesito en un solo lugar.",
+        "job_dominante_narrativo": "La clienta está intentando establecer su primera base habitacional propia para marcar su independencia, un hito personal y de vida que venía postergando por diversas circunstancias.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La cercanía extrema a su familia (5 minutos), la reducción de tiempos de traslado gracias a las amenities integradas (clubhouse para deportes), y la familiaridad y crecimiento de la zona de Surco.",
+        "firing_criteria": "Proyectos lejanos que implicaran un desarraigo de su entorno actual en Surco. Inmobiliarias que no generaran confianza, debido a su mala experiencia previa. Espacios pequeños o que no se sintieran cómodos.",
+        "trade_offs_reales": "Renunció a su aspiración inicial de tener un dúplex y a la característica de tener un balcón. Aceptó que su mascota no vivirá permanentemente con ella debido al espacio.",
+        "factores_de_confianza": "El reencuentro casual con la vendedora Ingrid, a quien ya conocía de la compra anterior. Interpretó esta coincidencia como una 'señal' positiva que le dio seguridad para avanzar rápidamente.",
+        "reduccion_de_riesgo": "El proyecto era de entrega inmediata, lo que le permitió validar físicamente el producto final y evitar la incertidumbre y los retrasos que sufrió en su experiencia fallida anterior."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación a 5 minutos de su casa familiar, el clubhouse con piscina y canchas deportivas, la distribución del departamento de 1 dormitorio (que le gustó más que el de 2), y las dos salidas del condominio que ayudan a mitigar el tráfico.",
+        "atributos_secundarios": "El depósito fue ofrecido pero no lo consideró necesario en ese momento.",
+        "alternativas_descartadas": "La compra fallida en un proyecto en San Isidro (descartada por problemas con la inmobiliaria y cambio de circunstancias laborales) y otros proyectos vistos superficialmente por internet que 'no la llenaban al 100%'."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (calificado con un 8 sobre 10), principalmente por la satisfacción con el producto, las áreas comunes y la ubicación.",
+        "reservas": "Reconoce que la ubicación, al estar algo 'escondida', podría no ser ideal para todos los perfiles, especialmente para quienes buscan estar en zonas más céntricas y conectadas.",
+        "fricciones_pendientes": "Incertidumbre y falta de comunicación proactiva por parte de la inmobiliaria sobre las fechas exactas del desembolso final y la entrega del departamento."
+    },
+    "proyecto": "MUV"
+}

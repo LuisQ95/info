@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Familia con vivienda propia se reorganiza y muda para apoyar la logística universitaria de un hijo, priorizando la cercanía a su centro de estudios y una mayor seguridad.",
+    "historia_causal": {
+        "contexto_previo": "La familia (madre, hija y hermano) vivía en una casa propia en Chorrillos. Tenían un sistema de vida estable y sin apuros económicos, ya que poseían su vivienda.",
+        "tension_acumulada": "Existía una insatisfacción latente con la ubicación actual, percibida como menos segura y tranquila. Esta tensión se cristalizó con la necesidad logística del hermano, quien estudiaba en la UPC, haciendo que la distancia fuera un problema funcional.",
+        "bloqueadores": "El principal bloqueador era la inercia; al tener una casa propia y una vida establecida, no había una urgencia inmediata para el cambio. La decisión requería un esfuerzo proactivo y una inversión significativa.",
+        "eventos_habilitadores": "La familia tenía la capacidad económica para comprar al contado, eliminando la barrera financiera. La proactividad de la hija (Ibet) para liderar la búsqueda y evaluación de opciones fue el catalizador que puso en marcha el proceso.",
+        "switching_trigger": "La búsqueda activa en el portal inmobiliario Nexo, motivada por la necesidad de resolver el problema de la distancia a la universidad, fue el estímulo que transformó la idea latente en una acción de compra concreta.",
+        "momento_de_decision": "El proceso fue reflexivo y familiar. Tras encontrar dos opciones viables, realizaron tres visitas. La decisión final fue tomada por la madre, con el consenso de los hijos, después de evaluar las características de ambos proyectos y confirmar el encaje con sus prioridades."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida es una unidad familiar consolidada que opera desde una base habitacional propia y estable. La decisión está condicionada por la necesidad de dar soporte a la etapa educativa de un miembro (el hermano), lo que impone una restricción geográfica clave. La compra se activa cuando la familia decide priorizar esta necesidad de soporte por sobre la comodidad de su situación actual y disponen del capital para ejecutar el cambio."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reorganizar la base de operaciones de la familia para facilitar la vida universitaria del hermano, mientras se mejora la calidad de vida general en términos de seguridad y tranquilidad.",
+        "job_statement": "Cuando mi hermano necesita estar cerca de su universidad para facilitar sus estudios, quiero que nos mudemos a un departamento en una zona más segura y tranquila, para poder apoyarlo logísticamente y al mismo tiempo mejorar el bienestar de toda la familia.",
+        "job_dominante_narrativo": "La familia está intentando reconfigurar su sistema de vida para resolver una desalineación estructural: su hogar actual ya no sirve a las necesidades de uno de sus miembros. La compra es una herramienta para dar soporte y facilitar una nueva etapa familiar.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio principal fue la cercanía a la universidad UPC. Secundariamente, la preferencia de la madre por un edificio de baja altura (8 pisos) y que el proyecto tuviera más áreas comunes y se sintiera como un condominio más grande.",
+        "firing_criteria": "Descartaron el proyecto competidor principalmente por su altura (17 pisos), lo cual generaba incomodidad y una sensación de menor seguridad en la madre.",
+        "trade_offs_reales": "Renunciaron a tener un cuarto de servicio, que el proyecto descartado sí ofrecía, a cambio de un edificio más bajo y mejores áreas comunes.",
+        "factores_de_confianza": "La decisión se construyó a través de un proceso familiar. Las múltiples visitas, incluyendo la del padre, y el consenso final de que a los tres les gustaba el proyecto, generaron la seguridad para proceder.",
+        "reduccion_de_riesgo": "La compra al contado eliminó cualquier riesgo o incertidumbre financiera asociada a créditos. Además, al ser un proyecto terminado, pudieron visitar el producto real y no basar su decisión en planos o maquetas."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca de la UPC fue el primer encaje. El diseño del proyecto, con un edificio de solo 8 pisos, conectó directamente con la preferencia de la madre. Finalmente, la percepción de un condominio más grande con más áreas comunes cerró la venta.",
+        "atributos_secundarios": "Las áreas comunes, aunque fueron un factor de elección, no son utilizadas por la cliente. Su valor fue más aspiracional y comparativo en el momento de la compra que funcional en el día a día.",
+        "alternativas_descartadas": "El proyecto de la empresa TIC (Lukanfield) fue la principal alternativa. Fue descartado por ser un edificio mucho más alto (17 pisos), lo que no agradó a la madre, a pesar de ofrecer un cuarto de servicio."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (califica con 9/10). Está recomendando activamente el proyecto a sus familiares.",
+        "reservas": "Hay una percepción de seguridad deficiente en los accesos, ya que las visitas pueden llegar directamente a la puerta sin filtros. También reportan olores desagradables recurrentes de las tuberías.",
+        "fricciones_pendientes": "Existe una fricción por expectativas no cumplidas, específicamente la promesa de tener entrenadores disponibles en las áreas comunes, lo cual resultó ser falso. La gestión de servicios depende de la coordinación informal de los vecinos por WhatsApp."
+    },
+    "proyecto": "MUV"
+}

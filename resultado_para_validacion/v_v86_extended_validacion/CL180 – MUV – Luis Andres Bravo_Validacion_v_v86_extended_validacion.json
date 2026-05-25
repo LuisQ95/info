@@ -1,0 +1,34 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de la pareja de consolidar su relación y dejar de alquilar para tener un lugar propio (J01). El filtro de selección (Selection Driver) es la propuesta de valor del proyecto, específicamente el clubhouse, que el cliente valora como el 70% del atractivo. La compra se origina en J01, pero la elección del producto se define por atributos de J06.",
+        "debate_deal_breaker": "El deal breaker está en la necesidad de establecerse. Si no tuvieran la necesidad de pasar de alquilar a comprar para consolidar su vida, no habrían entrado al mercado. En cambio, si este proyecto no tuviera el clubhouse, habrían comprado otra propiedad que satisficiera su necesidad de J01. El clubhouse no es un deal breaker para la compra en sí, sino para la elección de ESTE proyecto.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "veíamos conveniente convivir ya no en un lugar alquilado, sino en un lugar propio",
+                    "el detonante entonces es que ya querían consolidar un poco su relación con una propiedad"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin la necesidad de consolidar su relación y tener un lugar propio, no habrían iniciado la búsqueda ni la compra."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Lo que suma bastante acá es el clubhouse, ¿no?",
+                    "yo creo que si le quitas el clubhouse al proyecto, como que le quitas el 70% del atractivo"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habrían comprado igual otra propiedad. El clubhouse fue decisivo para ELEGIR MUV, pero no para entrar al mercado a comprar."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "El Job Dominante es J01 (Consolidación de Pareja). La decisión de comprar se origina en la necesidad de la pareja de dar un paso estructural en su vida, pasando de alquilar a poseer. Los atributos del proyecto (clubhouse), aunque extremadamente influyentes y determinantes en la elección final, actúan como un potente Criterio de Selección (J06), no como el motor de arranque de la demanda."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de manera clara y coherente la historia causal de la compra. Se identifica con precisión el Job Dominante (J01 - Consolidar pareja) como el motor de entrada al mercado, y se diferencia nítidamente del Criterio de Selección (J06 - Amenities/Clubhouse) que determinó la elección del producto. La narrativa es rica en detalles sobre bloqueadores, habilitadores y la experiencia post-compra, proporcionando una visión completa del proceso de decisión."
+}

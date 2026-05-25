@@ -1,0 +1,38 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la disponibilidad de fondos de jubilación y la necesidad de invertirlos para proteger el capital y generar una renta futura. El cliente no estaba buscando activamente una propiedad. El filtro de selección (Selection Driver) fue la propuesta de valor del proyecto (clubhouse, amenities, concepto general) presentada por su hija, que lo 'enamoró' y lo hizo elegir esta inversión sobre otras posibles (bolsa, etc.). El Job de inversión (J02) explica por qué entró al mercado, y el Job aspiracional (J06) explica por qué eligió este producto.",
+        "debate_deal_breaker": "El factor innegociable es la naturaleza de la inversión. El cliente descartó otro proyecto de la misma inmobiliaria (MOVE) porque el precio era más alto, lo que demuestra que la lógica de valor patrimonial era primordial. Si el proyecto WOW no hubiese sido percibido como una buena inversión (precio, potencial de revalorización), no lo habría comprado, por más que le gustaran las áreas comunes. La inversión es la base, el lifestyle es el diferenciador que cerró el trato.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Estaba en las fechas justamente de que yo iba a recibir mi jubilación.",
+                    "Iba a recibir un dinero y preferí invertirlo ahí que que hacer otro tipo de inversión.",
+                    "Yo puedo alquilarlo y tener una especie de pensión.",
+                    "Simplemente esto se va a revalorar y yo puedo venderlo y ya, porque antes con inversión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuviera los fondos de su jubilación para invertir, la compra no habría ocurrido. La necesidad de hacer rendir ese capital es la causa raíz de toda la transacción."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Me gustó, me gustó mucho el el concepto de de todo el condominio en general.",
+                    "Sobre todo su su salud, su parte, digamos, este, común, recreativa, su salud, piscina, el gimnasio, la cancha de tenis y todo.",
+                    "El clubhouse es el que me, me, me jala más.",
+                    "Inmediatamente se enamoraron del proyecto, digamos, ¿no?"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera su atractiva propuesta de áreas comunes, es muy probable que no lo hubiera elegido, optando por otra forma de inversión. Fue el factor decisivo para elegir ESTA opción."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "El cliente entra al mercado por una necesidad puramente financiera y patrimonial (J02): hacer rendir el dinero de su jubilación. No tiene una necesidad habitacional. Sin embargo, la elección final del producto es gobernada por criterios aspiracionales y de estilo de vida (J06), que actúan como el factor de selección decisivo. J02 es el porqué de la compra, J06 es el porqué de la elección de WOW."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista reconstruye con claridad la historia causal completa, desde el origen de los fondos hasta la decisión de compra y la experiencia posterior. Permite diferenciar nítidamente el 'Entry Driver' (necesidad de invertir fondos de jubilación - J02) del 'Selection Driver' (atracción por las áreas comunes y el estilo de vida - J06), lo cual es clave para un análisis estratégico preciso. La narrativa es coherente y rica en detalles sobre los criterios de elección y los trade-offs aceptados."
+}

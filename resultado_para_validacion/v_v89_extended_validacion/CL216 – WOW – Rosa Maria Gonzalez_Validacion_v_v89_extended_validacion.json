@@ -1,0 +1,37 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de proveer vivienda segura y estable a la hija que se muda a Lima para estudiar (J04). La disponibilidad de capital por la venta de terrenos es un habilitador, no el origen. El filtro de selección (Selection Driver) son los atributos del proyecto: seguridad, cercanía a la universidad, y la calidad del mantenimiento, que los llevaron a elegir WOW sobre otras opciones.",
+        "debate_deal_breaker": "El factor innegociable es la situación de la hija. Sin su necesidad de vivir en Lima por estudios, la compra no se habría realizado. El test canónico lo confirma: ¿Si la hija no estudiara en Lima, habrían comprado un departamento en WOW con el dinero de los terrenos? No. La compra está completamente subordinada a la necesidad familiar, no a una estrategia de inversión independiente.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Mi hija, el año pasado, se fue a Lima para estudiar la carrera de medicina en la UPC.",
+                    "decidió que era una buena oportunidad para comprar, para ya no alquilar, y que mi hija viva en el departamento que se está comprando, ¿no?",
+                    "nos gustó tanto el proyecto, y más que todo la seguridad en su conjunto del proyecto",
+                    "solo por la seguridad nos hemos quedado ahí."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la hija no se mudara a Lima para estudiar, la compra no ocurriría. La necesidad familiar es la causa raíz."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "al tener un dinero mi esposa, de la venta de unos terrenos, decidió que era una buena oportunidad para comprar",
+                    "para ya no alquilar",
+                    "teníamos el dinero como le dijo mi esposo, yo había vendido unos terrenos acá en Tagna y teníamos la disposición del dinero."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuvieran el capital de la venta de terrenos, no podrían comprar, pero la necesidad de vivienda para la hija persistiría (seguirían alquilando). El capital es un habilitador, no el motor original de la necesidad."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La decisión de compra es una acción de soporte familiar (J04). La familia se reorganiza para facilitar la etapa universitaria de la hija, proveyendo una base segura y estable. La lógica de inversión (J02) funciona como un mecanismo de justificación y viabilidad financiera, pero está completamente subordinada al problema familiar principal. La compra no es autónoma; es una respuesta directa a la necesidad de un miembro de la familia."
+    },
+    "dictamen_final": "Entrevista VÁLIDA y de alta calidad.",
+    "justificacion": "La entrevista revela una historia causal clara y profunda. El conflicto central entre la necesidad de soporte familiar (J04) y la lógica de inversión (J02) está bien articulado, permitiendo una clara identificación del Job Dominante. La narrativa contiene evidencia explícita de todos los componentes del análisis, desde el contexto previo hasta el estado post-compra, incluyendo criterios de elección y trade-offs concretos."
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado fue la obtención de un crédito pre-aprobado que hizo tangible la compra. Sin embargo, el filtro de selección fue la propuesta de valor del proyecto, específicamente las áreas comunes. El cliente no buscaba cualquier departamento, sino uno que ofreciera un estilo de vida superior para su familia, convirtiendo las amenities en el factor decisivo.",
+        "debate_deal_breaker": "El deal-breaker fue la inadecuación del espacio para la dinámica familiar. La prueba es que cambiaron de departamento cuando se dieron cuenta de que en el primero no entraban las dos camas de sus hijos. Esto demuestra que la funcionalidad familiar (J04) primó sobre el impulso inicial y las características aspiracionales (J06). Sin un espacio que funcione para los hijos, la compra no se sostenía.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "casi que te diría que el 50 % de la decisión fue por eso. Por esos, digamos, por esas preventas en términos de los espacios sociales",
+                    "Cuando mandaron el acotado, yo le dije a mi esposa, escucha, no, no van a entrar ni siquiera las dos camas.",
+                    "nosotros compramos en principio, diría yo, por impulso. Sí, nos dio una buena sensación. Vi a mis hijos contentos."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el departamento no hubiera podido acomodar a sus hijos adecuadamente (como casi sucede), no lo habría comprado. De hecho, tuvo que cambiar de unidad para que la compra tuviera sentido. La compra se habría cancelado."
+            },
+            {
+                "codigo_y_nombre_job": "J02 - Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "pagando alquiler, que no haces una plata que está botada a la basura, por lo menos uno compra y algo recuperas",
+                    "el día que lo vendes, pues, difícilmente la gente te va a decir, ¿cuántos soles valen? No, te va a decir, ¿cuántos dólares valen?",
+                    "mi objetivo tampoco es quedarme pagando ese proyecto"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el proyecto no fuera una buena inversión pero sí un lugar ideal para su familia, probablemente lo habría comprado igual. La lógica de inversión es una justificación y un factor de seguridad, pero no el motor principal de la decisión."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La decisión de compra está completamente subordinada al sistema familiar. El impulso inicial se da al ver a sus hijos contentos con las áreas comunes, y el punto de quiebre que casi cancela la operación fue un problema de espacio para los mismos hijos. La compra es una herramienta para mejorar la calidad de vida de la familia. El componente de inversión (J02) actúa como una red de seguridad y racionalización, pero no como el driver principal."
+    },
+    "dictamen_final": "Entrevista Válida",
+    "justificacion": "La entrevista es de alta calidad. El cliente proporciona una narrativa causal detallada, explicando claramente el contexto, las tensiones, el gatillo y los criterios de decisión. El incidente del cambio de departamento es una evidencia objetiva y poderosa que permite validar con certeza el Job Dominante (J04) y diferenciarlo de otros jobs candidatos como el J02 o J06. La riqueza del testimonio sobre las fricciones post-compra también ofrece insights valiosos."
+}

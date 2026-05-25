@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una profesional joven, sin planes de comprar, aprovecha su beneficio de tasa hipotecaria para ejecutar el plan de inversión de su madre, resultando en una compra impulsiva y aspiracional al encontrar un proyecto que ofrecía un estilo de vida superior.",
+    "historia_causal": {
+        "contexto_previo": "La clienta vive cómodamente en un departamento propiedad de su madre, pagando un alquiler preferencial. No tiene ninguna necesidad o urgencia de mudarse y no estaba buscando activamente una propiedad.",
+        "tension_acumulada": "La tensión no era personal, sino familiar: la madre de la clienta tenía la intención de adquirir una nueva propiedad como inversión y estaba explorando proyectos. La clienta identifica una oportunidad de optimización financiera al poder ofrecer su tasa de interés preferencial.",
+        "bloqueadores": "El principal bloqueador era la inercia; la clienta no tenía una razón personal para iniciar un proceso de compra. El plan de inversión era originalmente de su madre.",
+        "eventos_habilitadores": "La combinación de tres factores: 1) La madre tenía la intención y el capital para invertir. 2) La clienta, como empleada de BBVA, tenía acceso a una tasa hipotecaria excepcionalmente baja (4.75%). 3) La madre le ofrece darle el dinero para la cuota inicial.",
+        "switching_trigger": "La conversación donde la clienta le propone a su madre usar su tasa preferencial para la compra. Esto cambia el rol de la clienta de espectadora a protagonista de la transacción, activando la búsqueda conjunta.",
+        "momento_de_decision": "La decisión fue extremadamente rápida. Tras conocer el proyecto WOW por amigos, lo visitan un domingo. La impresión causada por las áreas comunes (especialmente la piscina) y una promoción de fin de semana los lleva a decidir la compra de dos departamentos en el acto."
+    },
+    "contexto_activador": {
+        "marco_general": "Joven profesional de 28 años, con un sistema de vida estable y geográficamente consolidado (vive, trabaja y socializa en el eje Surco-San Isidro-San Borja). Su decisión se activa no por una necesidad personal, sino por la confluencia de la estrategia de inversión de su madre y su propia ventaja financiera (tasa de interés preferencial), que la posiciona como el vehículo ideal para una operación patrimonial familiar."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario que se revalorice y genere ingresos pasivos, optimizando al máximo las ventajas financieras disponibles para fortalecer el patrimonio familiar a largo plazo.",
+        "job_statement": "Cuando mi familia tiene capital para invertir y yo dispongo de una ventaja financiera única, quiero adquirir una propiedad para que el dinero genere rentabilidad y el activo se pague solo a futuro.",
+        "job_dominante_narrativo": "La clienta está tratando de capitalizar una oportunidad financiera única (su tasa de interés de empleada) para ayudar a su madre a realizar una inversión inmobiliaria inteligente, que a su vez se convierte en su primera propiedad y un futuro activo de renta.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Áreas comunes espectaculares (piscina y cine), ubicación estratégica (cerca de su deporte y de su madre), distribución funcional (baño fuera del cuarto), percepción de excelente relación valor-precio ('ganga') y cochera incluida.",
+        "firing_criteria": "Ubicaciones ruidosas o con mucho tráfico (descartó Surquillo), distribuciones poco prácticas (baño único dentro del dormitorio), proyectos sin cochera, y tamaños inadecuados (menores a 50m² o mayores a 65m²).",
+        "trade_offs_reales": "Aceptó un proceso de compra con alta presión y plazos extremadamente cortos (día y medio para pagar la inicial), lo que le generó estrés y la obligó a usar tiempo laboral para gestionar los trámites.",
+        "factores_de_confianza": "La prueba social de tener dos grupos de amigos distintos viviendo felizmente en el proyecto. Ver que una parte del condominio ya estaba construida y habitada.",
+        "reduccion_de_riesgo": "La experiencia positiva y las recomendaciones directas de sus amigos que ya eran residentes eliminaron el riesgo percibido de tratar con una inmobiliaria desconocida para ella."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La piscina 'gigantesca' fue el principal gancho emocional. El cine, la ubicación céntrica pero tranquila, la buena insonorización, la distribución con dos baños y el precio competitivo con cochera incluida fueron los atributos funcionales clave.",
+        "atributos_secundarios": "El gimnasio no fue un factor relevante, ya que tiene uno en su trabajo. El depósito tampoco fue necesario.",
+        "alternativas_descartadas": "Un proyecto llamado 'Highlight' en Surquillo, que su madre estaba considerando. Fue descartado por ser más caro por metro cuadrado, no incluir cochera, tener una ubicación menos atractiva y ruidosa."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (califica la experiencia con un 9 sobre 10).",
+        "reservas": "La única crítica fue el proceso de cierre de venta, específicamente la presión para pagar la cuota inicial en un plazo de un día y medio, antes de tener la aprobación formal del crédito hipotecario.",
+        "fricciones_pendientes": "La incertidumbre y el estrés generados por los plazos de pago tan cortos. Está en la fase de espera para la entrega del inmueble (Noviembre 2025) y la ejecución de la mudanza."
+    },
+    "proyecto": "WOW"
+}

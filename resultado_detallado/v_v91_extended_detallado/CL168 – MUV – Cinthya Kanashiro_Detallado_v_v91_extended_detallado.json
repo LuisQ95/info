@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia residente en Cusco realiza una compra inmobiliaria en Lima, motivada exclusivamente por la necesidad de proporcionar una vivienda segura y conveniente para su hijo mayor que asiste a la universidad en esa ciudad. La decisión fue iniciada por el hijo, validada por el padre y aceptada por la madre, consolidando la compra como un acto de soporte familiar a distancia.",
+    "historia_causal": {
+        "contexto_previo": "La familia tiene su residencia principal y estable en Cusco. Su hijo mayor ya se encontraba viviendo en Lima para cursar sus estudios universitarios en la UPC, utilizando un departamento alquilado como solución temporal.",
+        "tension_acumulada": "Existía una doble tensión: la frustración con las limitaciones de un alquiler, donde no se puede personalizar el espacio ('en lo que no es tuyo ni un clavo'), y, más importante, la constante preocupación de los padres por la seguridad de su hijo al tener que movilizarse en una ciudad grande y vivir solo.",
+        "bloqueadores": "No había un bloqueador económico o de decisión fuerte, sino más bien una inercia. La solución del alquiler funcionaba de manera aceptable, por lo que no había una búsqueda activa hasta que una opción superior se presentó de forma proactiva.",
+        "eventos_habilitadores": "El hijo, en su ruta diaria hacia la universidad, pasaba constantemente por el proyecto MUV. Esta exposición repetida generó familiaridad y curiosidad sobre la propuesta.",
+        "switching_trigger": "El punto de inflexión ocurrió cuando el hijo, junto a un amigo, decidió entrar al proyecto. Tras un recorrido por las instalaciones (piscina, gimnasio), quedaron 'encantados'. Este entusiasmo transformó una necesidad latente en una acción inmediata, llevándolo a convencer a su padre para que visitara el lugar.",
+        "momento_de_decision": "La decisión fue extraordinariamente rápida y liderada por los hombres de la familia. El hijo y el padre visitaron el proyecto y quedaron convencidos. La madre, que también estaba en Lima pero no fue al recorrido, aceptó la compra basándose en la fuerte convicción de ellos dos, bajo la lógica de 'dos convencidos contra una'."
+    },
+    "contexto_activador": {
+        "marco_general": "La familia opera como una unidad de soporte interdependiente, donde las decisiones importantes se toman para el bienestar del grupo, incluso si eso implica gestionar activos a distancia. La compra no es para el individuo, sino para el 'sistema familiar': primero para el hijo mayor, luego para los hermanos que seguirán, funcionando como una base de operaciones familiar en Lima."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Obtener tranquilidad y seguridad al saber que su hijo reside en un entorno controlado, propio y cercano a su centro de estudios, eliminando las preocupaciones logísticas y de seguridad inherentes a vivir en una gran ciudad.",
+        "job_statement": "Cuando mi hijo se muda a otra ciudad para estudiar, quiero proveerle un hogar propio y seguro cerca de su universidad, para poder tener la tranquilidad de que está bien y apoyarlo en esta nueva etapa de su vida.",
+        "job_dominante_narrativo": "La familia está intentando reorganizar su sistema para dar soporte a un miembro que atraviesa una transición vital (inicio de la vida universitaria). La compra del departamento es la herramienta para extender el cuidado y la supervisión parental a distancia, asegurando un entorno seguro y minimizando riesgos.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio de contratación principal y casi único fue la proximidad a la universidad UPC. Secundariamente, la seguridad de un condominio cerrado fue clave para la tranquilidad de los padres. Las áreas comunes fueron un factor de atracción para el hijo, pero no para los padres que tomaban la decisión final.",
+        "firing_criteria": "Cualquier proyecto que implicara un desplazamiento largo o estuviera ubicado en una zona que ellos percibieran como menos segura habría sido descartado de inmediato. La optimización de la seguridad y la minimización del tiempo de traslado del hijo era la directriz principal.",
+        "trade_offs_reales": "El principal sacrificio fue aceptar una compra sin que la madre (una de las decisoras) hubiera visitado el proyecto, confiando plenamente en el juicio de su esposo e hijo. Además, toleraron un retraso de un año en la entrega y graves problemas de gestión postventa, como la venta duplicada de su estacionamiento.",
+        "factores_de_confianza": "La confianza no provino de la marca o el vendedor, sino del entusiasmo y la convicción del propio hijo, el usuario final. Su experiencia positiva al visitar el proyecto fue el principal validador que impulsó la decisión del padre.",
+        "reduccion_de_riesgo": "El riesgo se mitigó al elegir una solución que atacaba directamente su mayor preocupación: la seguridad y logística del hijo. Al estar tan cerca de la universidad, el principal punto de incertidumbre quedaba resuelto, haciendo que la decisión se sintiera segura a pesar de otros factores desconocidos."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica a pasos de la universidad fue el atributo central. La estructura de condominio cerrado que proyectaba seguridad y tranquilidad. Las áreas comunes (piscina, gimnasio) que conectaron con el estilo de vida deseado por el hijo.",
+        "atributos_secundarios": "La tipología de dos dormitorios fue una elección funcional para recibir visitas, pero no fue el driver principal. La marca de la inmobiliaria o la calidad específica de los acabados no fueron mencionados como factores decisivos en la compra inicial.",
+        "alternativas_descartadas": "La principal alternativa descartada fue continuar con el alquiler, debido a sus limitaciones y a la falta de construcción de patrimonio. Implícitamente, descartaron cualquier otro proyecto inmobiliario que no cumpliera con el criterio estricto de cercanía a la UPC."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Satisfecha con el producto y su propósito (calificación de 8/10), ya que a sus hijos les gusta y cumple la función de seguridad y conveniencia. Sin embargo, la satisfacción con el proceso y el servicio postventa es muy baja.",
+        "reservas": "Una profunda frustración por la gestión de la inmobiliaria: el retraso de un año en la entrega, el incumplimiento de la promesa de cubrir el alquiler extra, y el caos administrativo con su estacionamiento, que fue vendido a otra persona.",
+        "fricciones_pendientes": "El departamento está actualmente vacío y en proceso de ser alquilado, ya que el hijo terminó sus estudios. Además, todavía están en medio del trámite de independización y titulación final de la propiedad."
+    },
+    "proyecto": "MUV"
+}

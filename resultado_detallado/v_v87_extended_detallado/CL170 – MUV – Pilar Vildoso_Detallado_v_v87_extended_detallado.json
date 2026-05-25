@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Pareja con vivienda propia en Chorrillos decide mudarse para resolver dos fricciones diarias críticas: la larga distancia al trabajo y la excesiva humedad que afectaba la salud de la clienta.",
+    "historia_causal": {
+        "contexto_previo": "La familia vivía en un departamento propio, grande y bien distribuido en Chorrillos. Su sistema de vida era estable, con sus dos hijos adultos, ya profesionales, viviendo con ellos.",
+        "tension_acumulada": "Existían dos fuentes de tensión constantes y crecientes. Primero, la distancia al trabajo de la clienta, que generaba una fricción logística diaria. Segundo, y más importante, la excesiva humedad de la zona de Chorrillos le afectaba la salud, especialmente en invierno. Estos dos factores crearon un deseo latente de buscar una nueva vivienda.",
+        "bloqueadores": "No se mencionan bloqueadores económicos o de decisión fuertes, más allá de la inercia de tener ya una vivienda propia y cómoda. La decisión estaba latente pero no era una urgencia inmediata.",
+        "eventos_habilitadores": "La decisión de empezar a buscar activamente por la zona del trabajo fue el principal habilitador. El hecho de tener una propiedad para vender facilitó la aprobación del crédito hipotecario, viabilizando financieramente la operación.",
+        "switching_trigger": "La acumulación de las fricciones de distancia y salud los llevó a pasar de un pensamiento pasivo a una búsqueda activa, que se materializó al identificar proyectos online y decidir visitar una feria inmobiliaria (Expo Vivienda).",
+        "momento_de_decision": "La decisión fue muy rápida. Identificaron el proyecto WOW por la web, fueron a la feria directamente a su stand, y las ventajas presentadas (especialmente el club y la distribución) los convencieron de no seguir buscando. Separaron el departamento en la misma feria con un pago simbólico."
+    },
+    "contexto_activador": {
+        "marco_general": "Se trata de una pareja establecida, con hijos adultos, que ya son propietarios de una vivienda. Su vida no está en crisis ni en una transición estructural (como J01 o J05), sino que buscan una mejora incremental pero significativa de su calidad de vida diaria, eliminando problemas funcionales y de bienestar."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Mejorar radicalmente la calidad de vida diaria al eliminar las fricciones de un largo viaje al trabajo y un ambiente perjudicial para la salud, sin sacrificar el espacio necesario para su familia.",
+        "job_statement": "Cuando mi ubicación actual me genera fricciones diarias de logística y salud, quiero mudarme a un lugar cercano a mi trabajo y con un mejor ambiente para optimizar mi rutina y bienestar.",
+        "job_dominante_narrativo": "La clienta busca optimizar su vida cotidiana, resolviendo problemas funcionales muy concretos (distancia al trabajo) y de bienestar (salud afectada por la humedad). La compra es una herramienta para hacer su día a día más eficiente y saludable.",
+        "job_dominante_canonico": "J03 - Optimizar la vida cotidiana",
+        "job_secundario_canonico": "J04 - Acompañar crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La proximidad al trabajo (7 minutos) y un entorno con menos humedad fueron los detonantes. La elección final del proyecto se basó en las áreas comunes (el club fue un factor de peso), la distribución del departamento de 3 dormitorios y la percepción de una zona tranquila.",
+        "firing_criteria": "Ubicaciones lejanas al trabajo o con alta humedad como Chorrillos. Proyectos con muchos pisos o alta densidad de departamentos eran menos atractivos para ellos.",
+        "trade_offs_reales": "Aceptaron defectos de construcción (puntos de luz descentrados, vigas) que requirieron reclamos y arreglos post-entrega. Tuvieron que soportar la inflexibilidad de la inmobiliaria para no instalar una tina. Conviven con ruidos de clubes cercanos y problemas de convivencia (mascotas).",
+        "factores_de_confianza": "La visita a los departamentos piloto y al club les dio la confianza para decidirse rápidamente. La decisión fue impulsiva y basada en el encaje percibido en el momento.",
+        "reduccion_de_riesgo": "El hecho de que el edificio ya estuviera en construcción (quinto piso) les permitió ver el avance. La separación con un monto bajo (1000 soles) en la feria minimizó el riesgo inicial del compromiso."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica, el club con sus amenities (piscina, gimnasio, etc.) y la distribución del departamento de 3 dormitorios que se ajustaba a su configuración familiar.",
+        "atributos_secundarios": "La orientación del departamento (salida del sol) fue un detalle valorado. La baja densidad percibida del condominio también fue un plus.",
+        "alternativas_descartadas": "Tenían otro proyecto en mente pero ni siquiera lo visitaron en la feria, ya que WOW los convenció de inmediato. Descartaron su vida anterior en Chorrillos por las fricciones mencionadas."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "A pesar de los problemas, han recomendado el proyecto a tres personas que han comprado, lo que indica una satisfacción general alta con la decisión de fondo, aunque no con la ejecución y post-venta.",
+        "reservas": "Decepcionados con varios aspectos de la post-venta: defectos de construcción, inflexibilidad en cambios, problemas de mantenimiento (acero de balcones), promesas incumplidas (sol y sombra), y gestión de áreas comunes (clases a externos, mascotas, ruido).",
+        "fricciones_pendientes": "Retrasos en el inicio de la siguiente torre (lo que afecta a sus referidos), problemas de mantenimiento sin resolver (pintura de balcón, manijas de medidores) y molestias continuas por ruido y convivencia."
+    },
+    "proyecto": "MUV"
+}

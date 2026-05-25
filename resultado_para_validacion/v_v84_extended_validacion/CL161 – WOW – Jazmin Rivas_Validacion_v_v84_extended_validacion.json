@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo de Entrada (Entry Driver) es la toma de conciencia financiera de que el dinero del alquiler es un 'gasto perdido' que podría ser una inversión. El Filtro de Selección (Selection Driver) son las características específicas del proyecto que optimizan su vida (cercanía al trabajo, amenities superiores, baja densidad), las cuales ya conocía por haber vivido allí.",
+        "debate_deal_breaker": "El verdadero innegociable es el componente de inversión. La clienta tenía una barrera mental para comprar debido a su estilo de vida viajero. Solo superó esta barrera al reencuadrar la compra como un activo flexible que puede alquilar. Sin la lógica de inversión y la evidencia de alta demanda de alquiler, no habría comprado. Las excelentes amenidades son un 'plus' que la hizo elegir WOW, pero no el motor original de la compra.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "luego sacando las cuentas de todo lo que había pagado en los años, entonces, he pagado más que una cuota inicial.",
+                    "Si te vas fuera del país, lo alquilas, digamos... Exacto. Lo alquilo, ¿no?",
+                    "me parece que también como una inversión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. Su principal barrera era su estilo de vida viajero; solo la lógica de convertir un gasto (alquiler) en un activo rentable la hizo superar esa barrera."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "De hecho, lo primero es la cercanía a mi trabajo.",
+                    "ninguno de los otros proyectos se acercaba un poco, ni siquiera al tamaño del gimnasio. No vi una piscina semiolímpica...",
+                    "al ser un edificio de de siete pisos, de ocho pisos, me pareció una gran diferencia, ¿no? Porque no lo veo tan saturado."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí compraría. Buscaría otra opción de inversión que cumpliera su objetivo patrimonial, aunque tuviera que sacrificar la conveniencia o las amenidades de este proyecto específico."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La clienta supera su reticencia a comprar, motivada por un análisis financiero que revela el costo de oportunidad de seguir alquilando. Este cambio de mentalidad de 'gasto' a 'inversión' establece a J02 como el Job Dominante. La elección de WOW se basa en criterios de optimización de vida (J03) como la cercanía al trabajo y amenities superiores, pero estos actúan como criterios de selección sobre una decisión ya tomada por razones patrimoniales."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J02: Proteger y flexibilizar el patrimonio. La compra es una decisión de inversión activada por la aversión a la pérdida financiera del alquiler.",
+    "justificacion": "La evidencia clave es la barrera inicial de la clienta ('yo no quería comprar algo') que solo fue superada por un argumento financiero ('he pagado más que una cuota inicial'). Este es el Entry Driver. Los criterios de selección, como la cercanía al trabajo y las amenidades (J03), son potentes y definen la elección del producto, pero no el origen de la necesidad de comprar. Sin el motor de inversión (J02), la transacción no se habría realizado."
+}

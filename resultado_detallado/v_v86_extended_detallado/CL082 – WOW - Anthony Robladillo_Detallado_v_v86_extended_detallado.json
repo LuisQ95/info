@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente con capital disponible inicia la compra como una inversión, pero la elección final es fuertemente influenciada por el concepto 'club' del proyecto, que se alinea con su estilo de vida y aficiones, convirtiéndolo en una opción de vivienda futura.",
+    "historia_causal": {
+        "contexto_previo": "Vive con sus padres en un departamento propio en Santanita. Tiene una situación habitacional completamente estable y cómoda, sin ninguna necesidad de mudarse. Goza de estabilidad financiera, buenos ingresos y no tiene deudas.",
+        "tension_acumulada": "La tensión principal era tener un capital disponible que no estaba generando rentabilidad. Tenía el deseo de diversificar sus inversiones, que ya incluían otros tipos de activos, y consideraba el sector inmobiliario como una opción viable.",
+        "bloqueadores": "La búsqueda había sido pasiva e intermitente durante 2-3 años. No había una urgencia real que lo empujara a actuar, y no había encontrado un proyecto que capturara su interés de manera decisiva.",
+        "eventos_habilitadores": "Su sólida situación financiera, con buenos ingresos y capacidad de ahorro, le permitía afrontar la cuota inicial. Ya contaba con la pre-aprobación de créditos bancarios, lo que facilitaba la viabilidad de la compra.",
+        "switching_trigger": "Ver una publicidad del proyecto WOW en redes sociales. El anuncio destacaba el concepto de 'club' y las amenities, lo que capturó su atención y lo movió de una búsqueda pasiva a una acción concreta.",
+        "momento_de_decision": "Visitó el proyecto y el concepto lo convenció progresivamente. La decisión de compra fue rápida, tomada en una o dos semanas tras la visita, y acelerada por la presión del vendedor para firmar la minuta y pagar la inicial."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional joven con estabilidad financiera y sin urgencia habitacional, que vive con sus padres. Su estilo de vida incluye la práctica de deportes como el tenis. Busca activamente formas de invertir su capital para protegerlo y hacerlo crecer, operando desde una posición de seguridad y no de necesidad."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Proteger y rentabilizar su capital a través de un activo inmobiliario que ofrezca flexibilidad de uso a largo plazo, funcionando como inversión para alquiler y, potencialmente, como vivienda personal en el futuro.",
+        "job_statement": "Cuando tengo un capital que no está generando rendimiento, quiero invertirlo en una propiedad inmobiliaria para proteger mi patrimonio y obtener una rentabilidad futura.",
+        "job_dominante_narrativo": "El cliente busca emplear su excedente de capital en una inversión segura y tangible. La meta es transformar dinero ocioso en un activo que genere ingresos pasivos (alquiler) y se valorice con el tiempo, asegurando así su futuro financiero.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El concepto de 'club' con amenities específicas como canchas de tenis fue el factor decisivo. También valoró que el edificio tuviera un máximo de 10 pisos y una tipología flexible (1 dormitorio + flex).",
+        "firing_criteria": "Descartó proyectos en edificios muy altos (más de 10 pisos) por malas experiencias con la gestión de condominios. También descartó zonas como Miraflores por considerarlas caras y con espacios pequeños que no se ajustaban a su estilo.",
+        "trade_offs_reales": "Aceptó una calidad de acabados y materiales que percibió como 'simples' y por debajo de sus expectativas. Sacrificó la certeza en el proceso de compra, enfrentando cambios de vendedor, mala comunicación y modificaciones en la estructura legal del proyecto.",
+        "factores_de_confianza": "A pesar de los problemas, el concepto del proyecto y la percepción de que era una buena inversión a largo plazo le dieron la confianza para seguir adelante. No se mencionan factores de confianza relacionados con la marca o el personal.",
+        "reduccion_de_riesgo": "La compra en preventa fue vista como una oportunidad de obtener un mejor precio. La estructura de fideicomiso (aunque luego cambió) inicialmente le dio una sensación de seguridad como intermediario."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de 'club', las canchas de tenis y squash, y la baja altura del edificio (máximo 10 pisos). La tipología de 1 dormitorio + flex también encajó con su visión de flexibilidad a futuro.",
+        "atributos_secundarios": "La cercanía al trabajo fue una coincidencia, no un factor de decisión. La vista del departamento hacia la cancha de tenis fue una sugerencia del vendedor que le agradó.",
+        "alternativas_descartadas": "Proyectos en San Borja y Surco que no tenían un concepto diferenciador. Un proyecto en Angamos con Panamericana. Proyectos en Miraflores. El proyecto MUV de la misma inmobiliaria fue descartado por ser de entrega inmediata, ya que él podía esperar."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Muy satisfecho con el concepto del proyecto, pero muy insatisfecho con la atención al cliente y la comunicación post-venta (califica la atención con un 6/10, neutral).",
+        "reservas": "Preocupación por la calidad final de los acabados. Incertidumbre sobre las fechas de desembolso y entrega. Duda sobre si los nuevos compradores obtienen mejores condiciones (ej. domótica) por el mismo precio.",
+        "fricciones_pendientes": "La gestión de la compra de la cochera y el depósito sigue sin resolverse. La comunicación con la inmobiliaria es deficiente, con múltiples cambios de vendedor y canales de atención ineficaces. Hay discrepancias en la minuta que necesitan ser actualizadas."
+    },
+    "proyecto": "WOW"
+}

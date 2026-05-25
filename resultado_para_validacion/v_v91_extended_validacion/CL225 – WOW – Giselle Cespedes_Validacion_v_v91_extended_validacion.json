@@ -1,0 +1,37 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado no es la inversión (como sugiere la metadata), sino la necesidad de encontrar una solución habitacional a largo plazo que se adapte a las necesidades específicas del hijo (J04). La cliente vive cómodamente con sus padres, por lo que no hay una urgencia habitacional (J01). El 'enamoramiento' con el proyecto (J06) y la capacidad de inversión (J02) son filtros de selección y habilitadores, respectivamente, pero no el motor principal. La compra se activa para resolver un problema del sistema familiar.",
+        "debate_deal_breaker": "El factor innegociable es la adecuación del espacio para el hijo. Si el proyecto no hubiera ofrecido una tipología 'flex' para terapias, áreas verdes amplias y un piso bajo por seguridad, la compra no se habría realizado, a pesar del 'enamoramiento'. La necesidad familiar (J04) supera al deseo aspiracional (J06). La compra es una respuesta directa a la pregunta: ¿Cómo creamos el mejor entorno para nuestro hijo?",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "mi hijito tiene una condición genética. Entonces, él tiene regresión en el desarrollo general",
+                    "necesita bastante supervisión, ¿no? Entonces, ahí es donde mi papá y mi suegro también... nos apoyan un montón",
+                    "el otro sería un espacio para, digamos, para que él, de repente, alguna sesión de terapia psicológica",
+                    "si hay algún temblor y tenemos que bajar... mi hijito ahorita no camina, hay que cargarlo. Bajar con 20 kilos que pesa dos pisos era un poco más sencillo"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sin la necesidad de un espacio adaptado para su hijo y la cercanía a la red de apoyo familiar, la compra no habría ocurrido. La comodidad actual con sus padres elimina cualquier otra urgencia."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "yo este proyecto lo he visto desde la etapa uno, que en el 2017 o 16 me parece, porque me gustó mucho",
+                    "ella me muestra todo el condominio... si ya me gustaba el proyecto y en ese momento me enamoré",
+                    "hay mucho espacio para niños, ¿no? Amplios, ¿no? Y eso me parece genial"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Aunque el 'enamoramiento' fue clave para elegir WOW, si otro proyecto hubiera resuelto mejor las necesidades del hijo (J04), lo habrían considerado. El deseo por el proyecto era fuerte, pero subordinado a la necesidad familiar."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "El Job Dominante es J04. La decisión de compra es una reconfiguración del 'sistema operativo familiar' para crear un entorno optimizado y seguro para un hijo con necesidades especiales. Todos los criterios de selección clave (piso bajo, tipología flex, áreas verdes) están subordinados a esta necesidad. El J06 actúa como un potente acelerador y criterio de selección que hizo que WOW fuera la única opción considerada, pero no es el origen de la demanda."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista revela una historia causal clara, profunda y consistente. La narrativa expone sin ambigüedades el 'struggle' central (las necesidades del hijo) que activa la compra, diferenciándolo claramente de los criterios de selección (el 'enamoramiento' con el proyecto). La evidencia es robusta y permite identificar un Job Dominante (J04) de manual, donde la decisión de compra está completamente subordinada a las necesidades del sistema familiar."
+}

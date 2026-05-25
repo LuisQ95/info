@@ -1,0 +1,38 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada es puramente aspiracional y emocional, activado por la visita al club house ('me gustó el condominio más que el departamento'). El cliente no tenía una necesidad previa. El filtro de selección fue el precio y la viabilidad del acuerdo. Casi abandona la compra por un mal negocio en WOW, pero su deseo por el condominio lo mantuvo buscando una solución, que encontró en MUV. El precio no fue el origen, sino la condición para ejecutar una decisión ya tomada emocionalmente.",
+        "debate_deal_breaker": "El 'deal breaker' no es funcional, sino aspiracional. Si el proyecto no tuviera el club house y las amenities que lo enamoraron, la compra nunca se habría iniciado. Él mismo declara no tener necesidad de una nueva vivienda. La compra es 100% dependiente de la propuesta de valor del producto, no de una circunstancia de vida del cliente. El mal acuerdo económico fue un 'deal breaker' para la transacción específica de WOW, pero no para el deseo de comprar en el condominio.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Al inicio no tenía el, o sea, la necesidad de comprar.",
+                    "Yo no tenía mapeado comprarme algo.",
+                    "Solo fue el vi, me mostraron el club, todas esas cosas y automáticamente... lo compro.",
+                    "Fue muy muy una venta muy emocional.",
+                    "Yo quería comprarlo aquí, porque me gustó el condominio más que el departamento."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No compraría. La compra se origina exclusivamente por el deseo que genera el producto, no por una necesidad preexistente. Sin el atractivo del condominio, no hay transacción."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Y de que iba a ser para probablemente alquilarlo.",
+                    "Como ya tenía eso de comprar ese departamento (el de Salaberry para inversión) y al ver ese, dije, ya, pues, también lo lo adquiero, porque ahorita puedo.",
+                    "Terminaron dándome un departamento mucho más amplio, con mejores acabados, a un mejor precio."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, compraría, pero buscaría la forma de que sea un buen negocio. El deseo de poseer el estilo de vida del condominio es tan fuerte que persiste a pesar de los problemas. La lógica de inversión es una justificación y un criterio de viabilidad, no el motor original."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es un caso canónico de J06 (Racional Aspiracional / Emocional Impulsivo). El cliente no tiene una necesidad funcional o habitacional; la demanda es creada enteramente por la propuesta de valor del proyecto (el club house). La compra es un acto de autoexpresión y deseo. La consideración de inversión (J02) aparece después, como una forma de racionalizar la decisión emocional y como un criterio clave en la negociación final, pero no es el driver de origen."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Es un caso ejemplar de J06, donde la demanda es creada por el producto. El cliente articula explícitamente la falta de necesidad previa y el impulso emocional generado por las amenities, permitiendo aislar el 'Entry Driver' aspiracional de los criterios de selección financieros posteriores."
+}

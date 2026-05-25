@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la necesidad de la pareja de establecer su primer hogar juntos para consolidar su relación (J01). Los criterios de selección (filtros) fueron las amenidades únicas como el club y la piscina (J06) y la ubicación tranquila (J03), que diferenciaron al proyecto de otros pero no originaron la búsqueda.",
+        "debate_deal_breaker": "El verdadero 'deal breaker' fue la falta de transparencia de la inmobiliaria anterior (Sancharbel), lo que los expulsó de esa opción. Para el proyecto WOW, las amenidades como la piscina semiolímpica fueron un 'deal maker'; sin ellas, probablemente no lo hubieran elegido, pero habrían seguido buscando otra propiedad para satisfacer su necesidad principal (J01).",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "nosotros hemos comprado para vivir",
+                    "somos novios, de que se van a casar",
+                    "no vivimos juntos"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no estuvieran en la etapa de consolidar su vida en pareja y buscar un hogar propio, no habrían entrado al mercado a comprar un departamento. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "ningún otro proyecto que nosotros habíamos visto tenía este concepto",
+                    "acá es una piscina semiolímpica",
+                    "nos gustó un montón"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera el club y la piscina, no lo habrían comprado, pero sí habrían comprado otra propiedad en otro lugar para vivir juntos. La compra de 'un' departamento sí ocurriría."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra se origina en la necesidad estructural de la pareja de establecer su primera base habitacional para su futuro matrimonio (J01). La propuesta de valor del proyecto, centrada en el club y la piscina (J06), no fue el detonante de la búsqueda, sino el factor decisivo y diferenciador en la fase de selección."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la historia causal de la compra, desde la necesidad original de establecer un hogar en pareja (J01), pasando por la mala experiencia que actuó como catalizador, hasta los criterios de selección específicos (amenidades J06, tranquilidad J03) que definieron la elección del proyecto. La narrativa es coherente y rica en detalles sobre el proceso de decisión y las fricciones post-compra."
+}

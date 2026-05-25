@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una profesional con un estilo de vida móvil transforma su perspectiva sobre la vivienda, pasando de un alquiler conveniente a una compra de inversión estratégica, activada por un cálculo financiero y la recomendación familiar.",
+    "historia_causal": {
+        "contexto_previo": "Vivía en un departamento alquilado durante 4 años en Magna House 2, un proyecto del mismo desarrollador, por lo que conocía perfectamente la zona, el funcionamiento del condominio y la calidad de las amenities.",
+        "tension_acumulada": "Existía un conflicto interno entre su deseo de no atarse a una propiedad debido a sus frecuentes viajes y la creciente conciencia del alto costo financiero que representaba el alquiler a largo plazo.",
+        "bloqueadores": "Su principal bloqueador era una creencia personal: no quería comprar una propiedad porque sentía que limitaría su libertad para viajar y vivir en el extranjero en el futuro.",
+        "eventos_habilitadores": "Una conversación con su hermana, quien la animó a considerar el nuevo proyecto, y un análisis personal de sus finanzas que le reveló que ya había pagado en alquiler más del valor de una cuota inicial.",
+        "switching_trigger": "El momento exacto en que se dio cuenta de la magnitud del 'dinero perdido' en el alquiler. Este cambio de perspectiva de 'gasto' a 'inversión no realizada' fue el detonante que la impulsó a actuar.",
+        "momento_de_decision": "La decisión fue casi instantánea. Tras la sugerencia de su hermana, visitó el proyecto un lunes y el martes ya estaba pagando la cuota inicial, basándose en su profundo conocimiento y confianza previos en el producto."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional que valora la flexibilidad y un estilo de vida móvil, operando desde una base de alquiler estable y funcional. La decisión de compra se activa no por una insatisfacción con su vivienda, sino cuando un análisis financiero, impulsado por su círculo de confianza, replantea la propiedad como un activo flexible que genera patrimonio en lugar de un ancla que limita su libertad."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Transformar un gasto recurrente en un activo que construya patrimonio y ofrezca flexibilidad financiera para adaptarse a un estilo de vida que incluye viajes frecuentes.",
+        "job_statement": "Cuando me doy cuenta de que el dinero que gasto en alquiler es un capital que no crece, quiero invertir en una propiedad fácil de alquilar, para asegurar mi patrimonio y tener ingresos pasivos que me den libertad.",
+        "job_dominante_narrativo": "La clienta está intentando asegurar su futuro financiero convirtiendo su costo de vivienda en una inversión productiva, buscando una solución que no entre en conflicto con su identidad de persona que viaja constantemente.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Alto potencial de alquiler (cercanía a universidad y oficinas), amenities de calidad superior (gimnasio grande, piscina semiolímpica), baja densidad del edificio (pocos pisos, menos saturación) y buena iluminación natural.",
+        "firing_criteria": "Proyectos en edificios muy altos (20+ pisos) por la saturación de gente y autos, departamentos interiores con poca luz y proyectos con áreas comunes de menor calidad.",
+        "trade_offs_reales": "Sacrificó su convicción personal de no ser propietaria. Aceptó esperar un año por la entrega de un proyecto en construcción (WOW) para acceder a un mejor precio en comparación con uno terminado (Move).",
+        "factores_de_confianza": "Su experiencia previa de 4 años viviendo en un proyecto casi idéntico del mismo desarrollador. Conocía la administración, la demanda de alquiler y la calidad de vida. La validación de su hermana también fue clave.",
+        "reduccion_de_riesgo": "El riesgo era mínimo porque ya había 'probado' el producto. Sabía exactamente lo que estaba comprando y estaba segura de su alto atractivo para futuros inquilinos, lo que mitigaba el riesgo de su inversión."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de una ubicación estratégica con alta demanda de alquiler, amenities que ella personalmente valoraba y había usado, y una estructura de edificio de baja densidad que garantizaba menor saturación.",
+        "atributos_secundarios": "La atención amable del personal de ventas y la posibilidad de visitar los departamentos modelo, que reforzaron su decisión.",
+        "alternativas_descartadas": "Proyectos vistos en ferias inmobiliarias (descartados por ser edificios muy altos y saturados), una unidad con vista interior en el mismo proyecto (descartada por falta de luz) y el proyecto 'Move' (descartado por ser más caro al estar ya terminado)."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy alto. Describe la experiencia como 'todo bien hasta el momento' y al personal como 'muy amables'.",
+        "reservas": "Ninguna mencionada. La experiencia hasta la firma ha sido completamente positiva.",
+        "fricciones_pendientes": "El proyecto aún no ha sido entregado, por lo que todo el proceso de post-venta, entrega y vida en el nuevo departamento está pendiente."
+    },
+    "proyecto": "WOW"
+}

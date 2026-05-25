@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de proveer una vivienda al hijo que se muda a Lima para estudiar. La compra no habría ocurrido sin este evento. El filtro de selección (Selection Driver) fue la cercanía a la universidad (UPC) y la seguridad del condominio, que fueron los criterios para elegir MUV sobre otras opciones.",
+        "debate_deal_breaker": "El factor innegociable era la seguridad y la proximidad a la universidad. La cliente menciona explícitamente que siempre buscaron opciones cercanas para evitar que su hijo se movilice mucho y se exponga a riesgos, siendo este el criterio fundamental que gobernó tanto la búsqueda de alquiler previo como la decisión de compra.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nuestro hijo mayor terminó el colegio y se estaba yendo a estudiar a Lima",
+                    "lo más conveniente era que era un departamento que estuviese cerca de la universidad",
+                    "lo que nos interesó siempre era la seguridad de nuestro hijo"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el hijo no se hubiera mudado a Lima para estudiar, la compra no se habría realizado. La necesidad familiar es la causa raíz de la transacción."
+            },
+            {
+                "codigo_y_nombre_job": "J01 - Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "en lo que no es tuyo ni un clavo",
+                    "si quieres poner un cuadro, lo piensas veinte veces",
+                    "por eso buscamos algo propio"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "La necesidad de 'algo propio' es una consecuencia del problema principal (hijo estudiando en Lima). Si el hijo no estuviera en Lima, no habría necesidad de buscar una vivienda propia allí. Es un criterio de cómo resolver el problema, no el problema en sí."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "La decisión de compra está completamente subordinada a la necesidad de dar soporte al hijo en su etapa universitaria. La familia, que reside en Cusco, entra al mercado inmobiliario de Lima exclusivamente para resolver la logística y seguridad de su hijo. Este es un caso canónico de J04 (Tipo 3: Soporte Familiar), donde el sistema familiar se reorganiza para facilitar la etapa de un miembro específico, utilizando la universidad como el proxy que activa la compra."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista reconstruye de manera clara y coherente la cadena causal de la compra. El detonante (hijo yendo a la universidad) es explícito y la lógica de decisión (seguridad y cercanía) es consistente a lo largo de toda la narrativa, permitiendo una clasificación precisa del Job to be Done sin ambigüedades."
+}

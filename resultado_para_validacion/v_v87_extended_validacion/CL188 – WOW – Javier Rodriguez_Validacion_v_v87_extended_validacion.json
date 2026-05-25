@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es claramente la necesidad de invertir un capital disponible para generar rentabilidad. El cliente enmarca toda su búsqueda en zonas con alta demanda de alquiler por universidades. Los filtros de selección (Selection Drivers) son los atributos del proyecto que lo hacen preferible sobre otros: la baja densidad, el concepto de condominio cerrado, las áreas comunes tipo club y la vista, que apelan a su visión de un futuro hogar.",
+        "debate_deal_breaker": "El deal-breaker es el potencial de inversión. Si el proyecto no estuviera ubicado estratégicamente cerca de universidades con una clara demanda de alquiler, la compra no se habría realizado. El cliente descarta otras zonas que no cumplen este criterio. Las amenidades y la tranquilidad son importantes, pero subordinadas a la viabilidad financiera del activo.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Lo compré como inversión, con inicio.",
+                    "Conocía muy bien el negocio, el lugar, la perspectiva de ese sitio... siempre se va a requerir, pues, el alquiler a estudiantes de este inmueble.",
+                    "Siempre tenemos esa mirada de comprar edificaciones cerca a universidades."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el proyecto no tuviera potencial de renta por su cercanía a universidades, no lo habría comprado. La compra no ocurre."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Si yo quisiera tener un hijo... Yo quisiera que viva acá, que tenga toda esta experiencia que quizás yo no la tuve.",
+                    "Si tuviera hijos, me gusta la cercanía a las instituciones.",
+                    "Mi plan a futuro igual es vivir... verla como mi hogar permanente."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuviera planes de familia a futuro, habría comprado la propiedad igualmente como inversión. La compra sí ocurre."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La decisión de compra se origina en la necesidad de rentabilizar un capital (J02). El cliente no tiene una necesidad habitacional presente. La evaluación del proyecto a través de la lente de una futura familia (J04) y el deseo de ciertas comodidades (J06) actúan como potentes criterios de selección que definen la elección de WOW sobre otras opciones de inversión, pero no inician la búsqueda. Por lo tanto, J02 es el Job Dominante."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y coherente. El cliente articula con precisión la lógica de su decisión, permitiendo una distinción nítida entre el 'Entry Driver' (inversión, J02) y los 'Selection Drivers' (atributos para futuro hogar, J04/J06). La evidencia es robusta y soporta de manera concluyente la jerarquía de los Jobs to be Done identificados."
+}

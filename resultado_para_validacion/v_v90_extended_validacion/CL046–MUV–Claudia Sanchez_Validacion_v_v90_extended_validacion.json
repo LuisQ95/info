@@ -1,0 +1,37 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es el deseo de independencia (J01), latente desde la pandemia. Sin embargo, el filtro de selección y la lógica de decisión son puramente de optimización (J03). El intento de compra anterior en San Isidro fue para reducir el tráfico al trabajo. La compra actual en MUV es para optimizar la cercanía a la familia y la rutina deportiva (clubhouse), habilitada por un cambio logístico (cochera en el nuevo trabajo). La independencia es el 'qué' se busca, pero la optimización es el 'cómo' y 'por qué' se elige esta solución específica.",
+        "debate_deal_breaker": "El dealbreaker no es la falta de independencia, ya que podría haber seguido viviendo con su familia. El verdadero dealbreaker es la fricción cotidiana. Si MUV no ofreciera una mejora logística tangible (cercanía, amenities que ahorran tiempo, múltiples salidas para el tráfico), no lo habría comprado, como lo demuestra su descarte de otros proyectos que 'no la llenaban al 100%'. La optimización es la condición innegociable que gobierna la elección.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "Yo compré para vivir.",
+                    "me estoy mudando por independizarme.",
+                    "Eso empieza en pandemia. Este, por por temas pandemia, en algún momento sí decidí querer irme."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si le ofrecieran un departamento para independizarse que complicara su logística diaria (lejos de su familia, sin amenities, con mal acceso), no lo compraría. El deseo de independencia no anula la necesidad de eficiencia, por lo tanto, no es el Job dominante."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "era como que estar más cerca del trabajo para no tener que todo el tráfico.",
+                    "me tengo que mover primero para ir al gimnasio, de ahí volver a regresar y de ahí volver a salir, como están todas las cosas ahorita con los tráficos y todo. Como que dije, ok, hay tiempos que me va a ayudar.",
+                    "el tema de no tener cochera en este trabajo te condicionaba a estar cerca en la compra. Correcto. Pero como el nuevo trabajo tiene cochera, te abre un grado de libertad y ahí más bien ves con mejores ojos quedarte en Surco.",
+                    "el tener las dos las dos salidas es súper importante. O sea, me parece un un plus para poder moverme más tranquila."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si MUV no tuviera el clubhouse, la ubicación estratégica cerca de su familia y las salidas para evitar el tráfico, no lo habría comprado. La compra se activa por la eliminación de fricciones diarias. Pasa el test."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J01: Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "Se determina que el Job Dominante es J03. Aunque el deseo de independencia (J01) inicia la búsqueda, toda la evidencia de comportamiento, tanto en la compra fallida como en la exitosa, demuestra que el criterio decisivo es la optimización de la rutina diaria. La cliente busca una 'independencia optimizada', donde la mejora funcional y la reducción de fricciones (tráfico, logística de deportes, cercanía familiar) son las verdaderas fuerzas que gobiernan la elección del producto. El J01 es el contexto, el J03 es el motor de la decisión."
+    },
+    "dictamen_final": "Entrevista Válida y de Alta Calidad.",
+    "justificacion": "La entrevista proporciona una narrativa causal muy rica y detallada. La cliente articula claramente el contexto, las tensiones, los bloqueadores y los habilitadores de su decisión. La historia de la compra fallida anterior ofrece una evidencia de comportamiento crucial que permite validar con alta certeza el Job Dominante (J03), al demostrar que la optimización logística ha sido el criterio constante en su proceso de compra, incluso cuando los parámetros (trabajo vs. familia) han cambiado."
+}

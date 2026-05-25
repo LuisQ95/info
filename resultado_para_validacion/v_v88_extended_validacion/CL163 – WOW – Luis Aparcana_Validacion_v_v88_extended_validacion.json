@@ -1,0 +1,35 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la disponibilidad de capital del retiro de la AFP y la necesidad de invertirlo para generar rentabilidad. El filtro de selección (Selection Driver) es la ubicación estratégica del proyecto, que por su cercanía a universidades, hace viable el modelo de negocio de alquiler a estudiantes. La familia es contexto que valida la selección, no el gatillo.",
+        "debate_deal_breaker": "El factor innegociable es la viabilidad de la inversión. Si el proyecto no estuviera en una zona con alta demanda de alquiler que asegure un retorno financiero, la compra no se realizaría. El test canónico lo confirma: sin potencial de inversión, no hay transacción. La conveniencia para su hija es un plus, no el pilar de la decisión.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Yo lo he comprado como una inversión.",
+                    "retiré mi fondo de la AFP y bueno, con eso estoy haciendo esta inversión.",
+                    "la idea era alquilarlo, alquilarlo a los chicos que este... otros universitarios."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. La compra está condicionada 100% a su capacidad de generar una renta y proteger el capital."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "la zona, bueno, mi hija que estudia en la UPC...",
+                    "pensando más adelante, yo mudarme a ese departamento que es más pequeño que el que realmente habito ahora."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí compraría. La presencia de su hija valida la zona, pero la demanda de otros estudiantes es suficiente para justificar la inversión. El plan de mudarse es una opción futura, no un driver actual."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "La decisión de compra es puramente de inversión, activada por la liquidez obtenida del retiro de la AFP. El objetivo es transformar capital ocioso en un activo rentable. La ubicación y la tipología del inmueble son criterios de selección que sirven a este fin. El contexto familiar valida la elección pero no la origina, por lo que el Job Dominante es inequívocamente J02."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista revela una historia causal clara y completa. El cliente articula con precisión el origen de la compra (inversión con fondos AFP), los criterios de selección (ubicación para alquiler), y las fricciones post-compra. La información es rica y permite una clasificación de Job to be Done robusta y defendible."
+}

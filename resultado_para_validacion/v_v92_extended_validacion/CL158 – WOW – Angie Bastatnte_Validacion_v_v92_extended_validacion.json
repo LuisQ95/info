@@ -1,0 +1,38 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El debate central es si la compra fue impulsada por la necesidad de adaptar el hogar a la familia (J04) o por una decisión patrimonial astuta (J02). El gatillo de entrada al mercado fue la necesidad familiar: buscar un mejor entorno sociocultural y seguridad para los hijos. Sin embargo, la selección del proyecto y el cierre de la compra fueron gobernados por un filtro financiero innegociable: el precio de oportunidad y el financiamiento directo sin banco, lo que evidencia un fuerte componente de J02.",
+        "debate_deal_breaker": "El cliente afirma explícitamente que si no obtenía el financiamiento directo con la inmobiliaria, no compraba y esperaba para buscar otro proyecto. Esto convierte la condición financiera (asociada a J02) en un 'deal breaker' absoluto. Por otro lado, las áreas comunes y la cercanía a la universidad (J04) fueron el 'plus' decisivo que los hizo elegir WOW sobre otras opciones, pero la compra no se habría ejecutado sin las condiciones financieras favorables.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "buscando mejoría del sector sociocultural.",
+                    "Por temas de seguridad...",
+                    "nuestro hijo es pequeño, la ciudad está muy peligrosa, que no estén saliendo tanto.",
+                    "mi otro hijo el próximo año termina y está buscando una beca deportiva en la UPC. Entonces dije, súper cerca, todo encajaba."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera las áreas comunes ni estuviera cerca de la UPC, ¿lo comprarían solo por el precio? Probablemente no, porque no resolvería la necesidad de origen. La compra no tendría sentido."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo no quiero financiado con el banco.",
+                    "Juntaba el dinero, lo tenía completo en diciembre y buscaba otro proyecto.",
+                    "nos dio un precio. Nosotros nos quedamos impactados.",
+                    "No me gustan los bancos. Porque los bancos, mira, aparte de los intereses, me jala mi crédito."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no hubieran ofrecido financiamiento directo y el precio de oportunidad, ¿habrían comprado? El cliente dice explícitamente que NO. La compra no habría ocurrido."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "El Job Dominante es J04 porque la razón fundamental para entrar al mercado y buscar una nueva vivienda fue la desalineación del hogar actual con las necesidades de seguridad y desarrollo de los hijos. Esta es la causa raíz del progreso buscado. J02 actúa como un Job Secundario extremadamente poderoso que funciona como un filtro de selección innegociable. El cliente, por su perfil profesional, no solo busca resolver un problema familiar, sino hacerlo a través de una transacción financieramente óptima, pero la necesidad original sigue siendo familiar."
+    },
+    "dictamen_final": "Entrevista Válida y de Alta Calidad.",
+    "justificacion": "La entrevista proporciona una narrativa causal profunda y detallada. El cliente articula claramente el contexto previo, las tensiones, los bloqueadores y el trigger de la compra. Se obtiene evidencia explícita sobre los criterios de decisión, los trade-offs y las fricciones post-compra, permitiendo un análisis robusto y la identificación clara de los Jobs to be Done dominantes y secundarios."
+}

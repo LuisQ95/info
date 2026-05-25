@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra impulsada por la necesidad de adaptar el espacio habitacional a una nueva etapa familiar (hijos adultos, downsizing), enmarcada en una estrategia de inversión patrimonial.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive en una casa propia, que se está volviendo grande a medida que los hijos crecen y se independizan. Tienen capital disponible y una mentalidad de inversión, habiendo comprado recientemente un local comercial.",
+        "tension_acumulada": "Existía la necesidad de encontrar una solución habitacional para el hijo de 32 años que aún vive con ellos, y al mismo tiempo, una tensión latente por reconfigurar el espacio familiar y poner a trabajar el capital disponible.",
+        "bloqueadores": "No habían encontrado un proyecto que combinara el potencial de inversión con las necesidades específicas de la familia a un precio adecuado. Las opciones de entrega inmediata eran muy caras.",
+        "eventos_habilitadores": "La decisión de poner en venta su casa actual y la disponibilidad de capital para un pago directo liberaron la capacidad de actuar rápidamente. La compra previa de un local comercial los puso en un modo activo de búsqueda de inversiones.",
+        "switching_trigger": "Ver una publicidad online del proyecto WOW, que ofrecía un precio más bajo que otras opciones y un paquete de áreas comunes superior, activó la decisión de compra inmediata.",
+        "momento_de_decision": "La decisión fue extremadamente rápida e impulsiva. Visitaron el proyecto y lo compraron el mismo día 'sin dudar y sin pensarlo', apostando 'a ciegas' por la oportunidad percibida sin una investigación profunda."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia en una etapa de reconfiguración: los hijos son adultos, la casa principal se vuelve demasiado grande y se busca una solución que sirva tanto para la nueva dinámica familiar (apoyo a los hijos, espacio para nietos) como para la protección del patrimonio."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario que se adapte a la transición de la familia, facilitando la vida de los hijos y funcionando como un hogar futuro más adecuado, mientras protege y rentabiliza el capital.",
+        "job_statement": "Cuando mi estructura familiar está cambiando y mi casa actual ya no es adecuada, quiero encontrar una propiedad flexible que sirva como hogar para mi familia reconfigurada y como una inversión segura para el futuro.",
+        "job_dominante_narrativo": "La familia está intentando reorganizar su sistema de vivienda para adaptarse al crecimiento de los hijos y al eventual 'nido vacío', buscando una solución que ofrezca soporte funcional (cercanía a universidad, amenities) y flexibilidad patrimonial (inversión/vivienda).",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La combinación de precio competitivo, ubicación estratégica (cerca de universidades para los hijos y futuro mall) y un paquete de áreas comunes superior que se ajustaba a las actividades de la familia (cancha de tenis, piscina, juegos para nietos).",
+        "firing_criteria": "Proyectos con precios más elevados por estar terminados, ya que no tenían urgencia de mudanza inmediata y priorizaban el valor económico.",
+        "trade_offs_reales": "Sacrificaron la inmediatez de un proyecto terminado por un mejor precio en un proyecto en planos. También aceptaron un alto nivel de incertidumbre al comprar impulsivamente sin investigar a fondo la constructora.",
+        "factores_de_confianza": "La confianza fue baja y se basó puramente en la percepción de la oportunidad. No hubo factores de confianza sólidos; fue una 'apuesta a ciegas' que ahora genera ansiedad.",
+        "reduccion_de_riesgo": "No hubo una estrategia activa de reducción de riesgo. El único mitigante implícito es la flexibilidad del activo (si no venden la casa, lo alquilan)."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Áreas comunes (cancha de tenis, piscina, juegos para niños), ubicación céntrica y conveniente para los hijos, y el precio más bajo en comparación con proyectos terminados.",
+        "atributos_secundarios": "La distribución flexible (2+flex) que se podía adaptar a 3 dormitorios.",
+        "alternativas_descartadas": "El proyecto Move de la misma inmobiliaria fue descartado por tener un precio más elevado. Otros proyectos solo fueron vistos superficialmente online."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo (calificado con 4-5/10) debido a la experiencia post-venta.",
+        "reservas": "Fuerte temor y duda sobre la seriedad de la empresa y la culminación del proyecto, basado en la falta de inicio de obras y malas experiencias pasadas.",
+        "fricciones_pendientes": "Incertidumbre total sobre el cronograma del proyecto, comunicación nula y un trato indiferente por parte del personal, lo que genera ansiedad ante el próximo pago del saldo total."
+    },
+    "proyecto": "WOW"
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente con perfil de inversionista, que ya posee vivienda, es activado por una oferta de financiamiento bancario para buscar un activo que genere rentabilidad. Selecciona un proyecto por su ubicación estratégica para alquiler y precio, descubriendo en sus amenidades un valor adicional que lo hace considerar su uso personal a futuro.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vive cómodamente en una casa propia de tres pisos en Chorrillos con su madre. Pertenece a un grupo familiar con experiencia en inversiones inmobiliarias y construcción, lo que le da un conocimiento técnico del mercado.",
+        "tension_acumulada": "Existía una necesidad latente de invertir un capital disponible o de acceder a un préstamo para adquirir un activo que generara ingresos pasivos. El dinero estaba disponible pero no 'circulando' o produciendo rentabilidad.",
+        "bloqueadores": "La falta de una oportunidad de inversión concreta y atractiva. Además, experiencias previas con otras constructoras cuyas formas de trabajo no le gustaron actuaban como un freno para tomar una decisión.",
+        "eventos_habilitadores": "El banco BanBif le ofrece la posibilidad de un préstamo y, junto con ello, le presenta una cartera de proyectos inmobiliarios con los que tienen convenio, actuando como un curador de opciones y facilitador financiero.",
+        "switching_trigger": "La presentación por parte del banco de un proyecto específico (WOW) que encajaba en sus parámetros de inversión por ubicación y, crucialmente, por precio ('estaba bueno el precio'), lo que activó la consideración seria y la visita.",
+        "momento_de_decision": "El proceso fue rápido. Tras la presentación del banco, visitó el proyecto con su hermano (quien tiene conocimiento técnico), validó la ubicación y el potencial de negocio, le gustó el precio y procedió a la compra, a pesar de las fricciones con el contrato."
+    },
+    "contexto_activador": {
+        "marco_general": "El cliente opera desde una posición de estabilidad habitacional y financiera, no busca resolver una necesidad de vivienda sino una necesidad de inversión. Su sistema de vida está consolidado, y la decisión se enmarca en una estrategia de crecimiento patrimonial, condicionada por su experiencia previa en el sector y su aversión a prácticas contractuales que considera injustas."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo patrimonial que sea financieramente productivo a corto plazo (vía alquiler) y que ofrezca flexibilidad de uso a largo plazo (potencial vivienda para él y su madre), maximizando así tanto la rentabilidad como la opcionalidad futura.",
+        "job_statement": "Cuando tengo capital para invertir, quiero comprar un departamento en una zona con potencial de alquiler y buenas comodidades, para generar un flujo de ingresos constante y a la vez tener una opción de vivienda de calidad para mi familia en el futuro.",
+        "job_dominante_narrativo": "El cliente está tratando de convertir su capital o capacidad de crédito en un activo productivo. La misión es 'hacer que la plata vaya circulando', es decir, busca un instrumento de inversión que genere renta y preserve o aumente su valor, desvinculado de una necesidad habitacional inmediata.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación estratégica con potencial de alquiler (cerca a la UPC, zona en crecimiento), el precio competitivo que se ajustaba a su presupuesto de inversión, y las áreas comunes tipo club que añadían valor al activo y abrían la posibilidad de uso personal.",
+        "firing_criteria": "Proyectos con precios más elevados ('estaba más caro'), y fundamentalmente, constructoras con prácticas contractuales abusivas y unilaterales. La falta de flexibilidad en el contrato casi lo hace descartar la compra.",
+        "trade_offs_reales": "Aceptó un contrato rígido y sin penalidades para la constructora, y toleró una comunicación post-venta deficiente, a cambio de asegurar lo que percibía como una buena oportunidad de inversión en términos de precio y ubicación.",
+        "factores_de_confianza": "La principal confianza inicial provino del banco (BanBif) que le presentó el proyecto. La vendedora, Ingrid, generó una buena relación inicial, aunque luego se convirtió en una fuente de fricción por la rigidez del proceso.",
+        "reduccion_de_riesgo": "El riesgo se mitigó al percibir que el precio por metro cuadrado era correcto para el mercado. Su propio conocimiento y el de su familia sobre construcción le permitieron evaluar la propiedad con un ojo técnico, aunque la falta de cláusulas de protección en el contrato aumentó su percepción de riesgo post-compra."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación con alto potencial de renta, un precio considerado bueno, y la tipología de 2 dormitorios que es ideal para el mercado de alquiler. Las áreas comunes (club) actuaron como un potente diferenciador que elevó el atractivo de la inversión.",
+        "atributos_secundarios": "La promesa de una futura conexión vial hacia El Polo fue un atributo valorado pero no decisivo. La distribución interna del departamento era aceptable, pero no el factor principal.",
+        "alternativas_descartadas": "Proyectos en Jesús María y San Isidro ofrecidos por el mismo banco, que fueron descartados principalmente por ser más caros y no ofrecer un mejor retorno de inversión percibido. También descartó trabajar con otras constructoras por sus malas prácticas."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo. Aunque está satisfecho con el activo adquirido como inversión, su experiencia con la constructora es muy negativa, marcada por la frustración con el contrato y la falta de seguimiento, lo que genera desconfianza y arrepentimiento sobre el proceso.",
+        "reservas": "La principal reserva es la desprotección que siente como cliente debido a un contrato unilateral que favorece enteramente a la constructora, sin penalidades por retrasos. Desconfía de que la empresa cumpla los plazos y condiciones pactadas.",
+        "fricciones_pendientes": "La incertidumbre sobre la fecha real de inicio de obra (le dijeron julio, luego noviembre). La falta total de comunicación proactiva y seguimiento post-venta por parte de la inmobiliaria."
+    },
+    "proyecto": "WOW"
+}

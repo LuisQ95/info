@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Clienta con un deseo latente de independencia, materializa la compra solo cuando una mejora laboral y logística (nuevo trabajo con cochera) le permite elegir un proyecto que optimiza su rutina diaria (cercanía a familia, amenities) sin generar nuevas fricciones.",
+    "historia_causal": {
+        "contexto_previo": "Vive en un departamento en Surco con su madre y hermano, en un sistema de vida estable y con una fuerte red familiar en la zona. Su rutina y entorno están consolidados.",
+        "tension_acumulada": "Desde la pandemia, siente un creciente deseo de independizarse para tener mayor comodidad y autonomía. Experimenta fricciones diarias relacionadas con los tiempos de traslado y la logística de sus actividades, buscando una mejora en su calidad de vida.",
+        "bloqueadores": "Anteriormente, una situación económica más ajustada le impedía comprar. Además, una experiencia de compra fallida con otra inmobiliaria, que resultó en un conflicto por la devolución de su dinero, le generó desconfianza y desmotivación para seguir buscando.",
+        "eventos_habilitadores": "Un cambio laboral significativo (mejor puesto y mayor sueldo) mejoró su capacidad económica. Crucialmente, el nuevo trabajo incluye una cochera, eliminando un gasto y una restricción logística que antes condicionaba la ubicación de su vivienda.",
+        "switching_trigger": "La mejora económica y la eliminación de la restricción de la cochera actúan como el disparador final, dándole el impulso y la libertad para reactivar la búsqueda de un departamento de forma seria.",
+        "momento_de_decision": "El proceso fue extremadamente rápido. Realizó una única visita exploratoria a MUV, un proyecto que ya conocía por fuera. El encaje fue inmediato y decidió separar el departamento el mismo día de la visita."
+    },
+    "contexto_activador": {
+        "marco_general": "Joven profesional en transición hacia la independencia, pero con un fuerte anclaje a su sistema de vida actual en Surco, donde reside su familia. Su decisión está condicionada por la logística de su trabajo y su estilo de vida activo. La compra se activa cuando una mejora laboral elimina una restricción clave (cochera), permitiéndole optimizar su rutina en lugar de simplemente mudarse."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una independencia funcional que no solo le dé su propio espacio, sino que mejore activamente su calidad de vida diaria, reduciendo fricciones y manteniendo la conexión con su entorno familiar y social.",
+        "job_statement": "Cuando mi situación laboral mejora y me da más libertad logística, quiero encontrar un lugar propio que esté cerca de mi entorno actual, para poder independizarme mientras optimizo mi rutina diaria y mis actividades.",
+        "job_dominante_narrativo": "La clienta está tratando de ejecutar su independencia de una manera inteligente y eficiente, buscando una solución que le permita tener su propio espacio pero que, a la vez, funcione como una actualización de su sistema de vida actual, haciéndolo más práctico y agradable.",
+        "job_dominante_canonico": "J03: Optimizar la vida cotidiana",
+        "job_secundario_canonico": "J01: Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La cercanía a su familia (5 minutos), las áreas comunes que integran sus hobbies (deportes) y le ahorran tiempo, la accesibilidad y múltiples salidas para gestionar el tráfico, y la confianza generada por reencontrarse con una vendedora conocida.",
+        "firing_criteria": "Ubicaciones lejanas que rompieran su conexión con Surco, proyectos que no ofrecieran una mejora tangible en su logística diaria, y diseños o fachadas que no le atrajeran a primera vista.",
+        "trade_offs_reales": "Aceptó un departamento sin balcón (algo que no quería inicialmente), renunció a su aspiración de tener un dúplex y su mascota no vivirá con ella de forma permanente. Sacrificó características específicas del inmueble a cambio de la optimización general de su estilo de vida.",
+        "factores_de_confianza": "El factor principal fue reencontrarse con Ingrid, la asesora que le había vendido el departamento anterior. Interpretó esta coincidencia como una señal positiva y un generador de confianza, que contrastaba con su mala experiencia previa.",
+        "reduccion_de_riesgo": "El proyecto ya estaba terminado y era de entrega inmediata, lo que le permitió ver el producto final y evitar la incertidumbre de la construcción. Esto fue clave para superar el miedo generado por su compra fallida anterior."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica en Surco, el clubhouse con instalaciones deportivas, la distribución funcional del departamento de un dormitorio, la entrega inmediata y las dos salidas del condominio que facilitan la movilidad.",
+        "atributos_secundarios": "El depósito fue ofrecido pero lo consideró innecesario. No evaluó a fondo otras tipologías como las 'flex' porque su prioridad era la entrega inmediata.",
+        "alternativas_descartadas": "La compra previa en un proyecto en San Isidro, que fue descartada por problemas con la inmobiliaria y porque su contexto laboral (y logístico) cambió. Otros proyectos solo fueron vistos superficialmente por internet sin generar interés."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto (8/10), principalmente por el producto y su adecuación a su vida. La compra resolvió su necesidad de forma muy satisfactoria.",
+        "reservas": "La única reserva es sobre la ubicación, que percibe como algo 'escondida' o no tan céntrica, lo que podría no ser ideal para perfiles de amigos o familiares diferentes al suyo.",
+        "fricciones_pendientes": "Incertidumbre y falta de comunicación proactiva sobre las fechas exactas del desembolso final y la entrega del departamento, lo que le genera ansiedad mientras espera para concretar la mudanza."
+    },
+    "proyecto": "MUV"
+}

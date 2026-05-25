@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la inadecuación de su departamento de soltero ante el crecimiento de su familia (matrimonio, un hijo y otro en camino). La ubicación y la estética de los pilotos son filtros de selección, no el motor de la compra. El problema es de espacio, no de conveniencia.",
+        "debate_deal_breaker": "El cliente ya tenía una propiedad. No compró para establecer una base (J01), sino porque la base que tenía se volvió obsoleta para su nueva estructura familiar. Sin el crecimiento de la familia, la compra no habría ocurrido, ya que su departamento de soltero le era funcional.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "era mi departamento de soltero y ya me casé y tuve que comprar un departamento con dos habitaciones.",
+                    "en el transcurso mi esposa sale embarazada y entonces ya tenía que pensar en comprar un departamento con tres habitaciones.",
+                    "Como como te dije, que era mi departamento de una habitación. Una habitación. OK. Entonces, yo me casé y tuve un hijo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si su familia no hubiera crecido (matrimonio e hijos), no habría comprado. Su departamento de soltero era suficiente. La compra es una consecuencia directa del cambio en la estructura familiar. Pasa el test."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "como vivía cerca, vi el proyecto, me gustó la temática",
+                    "La ubicación me parecía bonita"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto hubiera estado en otra zona pero resolviera la necesidad de espacio, lo habría considerado. La ubicación es un criterio de selección para optimizar, pero la razón para entrar al mercado es la falta de espacio. No pasa el test."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "El Job dominante es J04. La compra es una respuesta directa y estructural a la inadecuación de su vivienda actual (departamento de soltero) frente a una nueva realidad familiar (matrimonio y dos hijos). La necesidad de más habitaciones es el driver causal que activa la búsqueda y la decisión. La ubicación (J03) es un criterio de selección importante, pero secundario."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "A pesar de que la mayor parte de la entrevista es una queja extensa sobre la post-venta, el cliente narra de forma clara y consistente la historia causal de su compra. El paso de un departamento de soltero a la necesidad de uno más grande por el crecimiento de su familia (matrimonio y dos hijos) es explícito y define un J04 canónico. La lógica de elección y descarte de alternativas también está bien fundamentada."
+}

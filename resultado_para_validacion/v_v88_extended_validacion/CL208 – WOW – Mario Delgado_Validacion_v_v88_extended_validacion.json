@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la necesidad de invertir los fondos de su jubilación (J02). No estaba buscando vivienda. El filtro de selección fue el atractivo aspiracional del proyecto, específicamente el clubhouse y las áreas comunes (J06), que lo hicieron elegir esta inversión sobre otras posibles.",
+        "debate_deal_breaker": "El deal-breaker fundamental es la viabilidad de la inversión. Si la compra no representara una forma segura y rentable de colocar su capital de jubilación, no habría ocurrido. El atractivo del producto (J06) fue un poderoso criterio de contratación, pero no el origen de la necesidad.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02 - Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "estaba en las fechas justamente de que yo iba a recibir mi jubilación.",
+                    "preferí invertirlo ahí que que hacer otro tipo de inversión.",
+                    "yo puedo alquilarlo y tener una especie de pensión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin los fondos de jubilación para invertir, la compra no se habría considerado en absoluto."
+            },
+            {
+                "codigo_y_nombre_job": "J06 - Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "me gustó mucho el el concepto de de todo el condominio en general.",
+                    "el clubhouse es el que me, me, me jala más.",
+                    "No es que estuvimos, este, buscando dónde, cómo comprar, ni nada."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, si tuviera el dinero para invertir pero el proyecto no tuviera ese atractivo, habría buscado otra opción de inversión, ya sea inmobiliaria o de otro tipo."
+            }
+        ],
+        "job_dominante_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06 - Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "El cliente entra al mercado estrictamente por una necesidad patrimonial: invertir el capital de su jubilación (J02). La compra no es para resolver una necesidad habitacional. El atractivo del producto y su promesa de estilo de vida (J06) funcionaron como un potente criterio de selección que lo hizo elegir este activo específico de forma impulsiva."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de forma clara y coherente la historia causal de la compra. El cliente articula con precisión el origen de la necesidad (invertir fondos de jubilación), el trigger (presentación del proyecto por su hija), los criterios de elección (atractivo del clubhouse) y las fricciones post-compra. La información es suficiente para identificar el Job Dominante."
+}

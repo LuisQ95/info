@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de invertir un capital disponible en un activo que genere rentabilidad. El cliente explícitamente declara que la compra es 'como inversión' y analiza el mercado de alquiler para estudiantes. El filtro de selección (Selection Driver) son las características del proyecto: baja densidad, tranquilidad y amenidades tipo club. Estas características lo hicieron elegir WOW sobre otras opciones de inversión, pero no fueron la razón por la que entró al mercado.",
+        "debate_deal_breaker": "El deal breaker es el potencial de inversión. Si el proyecto no estuviera cerca de universidades con alta demanda de alquiler, no lo habría comprado. Las amenidades y la baja densidad, aunque muy valoradas, fueron un criterio de elección para maximizar el atractivo de su inversión y su futuro disfrute, pero la base de la decisión es financiera. Sin el potencial de renta, la compra no ocurre.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Lo compré como inversión, con inicio.",
+                    "La vivienda o el inmueble que iba a adquirir tenía que tener estas dos perspectivas. Una de inversión a corto plazo.",
+                    "Conocía muy bien el negocio, el lugar, la perspectiva de ese sitio... siempre se va a requerir, pues, el alquiler a estudiantes de este inmueble."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el proyecto no tuviera un claro potencial de rentabilidad por alquiler, la compra no se habría realizado. El cliente buscaba activamente opciones de inversión cerca de universidades."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Vi wow, entré al proyecto. Son edificaciones de máximo siete pisos... un condominio cerrado.",
+                    "La tranquilidad y este cero contacto con el exterior... te da una tranquilidad y paz.",
+                    "Es como un mini condominio, un mini club dentro. Y pues... Eso también marcó mucho en la decisión."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto tuviera el mismo potencial de inversión pero fuera de alta densidad y sin las amenidades, probablemente habría elegido otra opción de inversión. Fue el factor decisivo para elegir ESTE proyecto, pero no para decidir INVERTIR."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J01: Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "La decisión de compra se origina en la necesidad de rentabilizar un capital disponible (J02). El cliente no tiene una necesidad habitacional inmediata. La futura posibilidad de vivir en el departamento (J01) es un beneficio secundario que añade flexibilidad a la inversión. Las características aspiracionales del proyecto (J06) actúan como un potente criterio de selección que lo diferencia de la competencia, pero no constituyen el motor de arranque de la compra."
+    },
+    "dictamen_final": "Entrevista Válida",
+    "justificacion": "La entrevista es rica en detalles causales y permite reconstruir con claridad la historia de compra. El cliente articula de forma explícita su motivación de inversión (Entry Driver) y los criterios de selección del producto (Selection Drivers), lo que permite una clasificación precisa del Job Dominante. Proporciona evidencia sólida sobre el contexto, las alternativas consideradas y la experiencia post-compra."
+}

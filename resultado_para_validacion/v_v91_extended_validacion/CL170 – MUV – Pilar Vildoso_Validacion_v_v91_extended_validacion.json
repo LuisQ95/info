@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de resolver fricciones diarias: el largo viaje al trabajo y la humedad de Chorrillos que afectaba la salud. Estos son los 'dos detonantes' explícitos. La necesidad de espacio para los hijos (3 dormitorios) funciona como un filtro de selección (Selection Driver) que define la configuración del producto a elegir, pero no es la razón por la que deciden mudarse, ya que incluso consideraron una opción de 2 dormitorios.",
+        "debate_deal_breaker": "Si el proyecto hubiera estado lejos del trabajo y en una zona igualmente húmeda, la compra no se habría realizado. La optimización de la vida cotidiana es innegociable. En cambio, si sus hijos ya se hubieran independizado, la necesidad de mudarse por el trabajo y la salud persistiría; simplemente habrían comprado un departamento más pequeño. Por lo tanto, la optimización funcional es el verdadero 'deal breaker'.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "teníamos que buscar una oportunidad para salir de Chorrillos, para acercarme al trabajo, número uno.",
+                    "Número dos, la excesiva humedad de de Chorrillos, cerca de la playa y todo eso, a mí me afectaba en invierno mucho.",
+                    "Entonces, fueron los dos detonantes, ¿no?"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si eliminamos la fricción del viaje y la humedad, ¿comprarían? No, porque ya tenían una propiedad grande y cómoda. La compra pierde su razón de ser."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Teníamos dos hijos varones.",
+                    "decidimos por el departamento de tres dormitorios y así es que estamos juntos los cuatro.",
+                    "que estén hasta cuando ellos deseen, ¿no?"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si sus hijos ya se hubieran mudado, ¿comprarían igual para resolver el viaje y la humedad? Sí, la motivación principal sigue intacta, solo cambiaría el tamaño del departamento."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El Job Dominante es J03. La decisión de abandonar una propiedad propia y funcional se origina inequívocamente en la búsqueda de eliminar fricciones diarias severas (viaje y salud). El J04 actúa como un criterio de configuración clave, definiendo el tamaño y tipo de la solución, pero no es el motor que inicia la búsqueda."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista revela una historia causal clara y coherente. Los clientes articulan con precisión los dos detonantes funcionales (viaje y humedad) que los impulsaron a dejar su propiedad actual, permitiendo una identificación robusta del Job Dominante (J03). La narrativa detalla el proceso de decisión, los criterios de elección y las fricciones post-compra, proporcionando un análisis completo."
+}

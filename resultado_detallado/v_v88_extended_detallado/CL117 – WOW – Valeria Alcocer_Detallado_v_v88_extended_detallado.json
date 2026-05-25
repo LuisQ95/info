@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "La compra se origina como una decisión de inversión (J02) impulsada por la madre, pero la alta calidad y conveniencia del proyecto (J03) la llevan a cambiar el plan y decidir vivir allí temporalmente.",
+    "historia_causal": {
+        "contexto_previo": "La clienta vive cómodamente en un departamento de su madre, pagando un alquiler preferencial. No tenía planes activos de comprar una propiedad para sí misma.",
+        "tension_acumulada": "La tensión era puramente financiera y latente: la existencia de un capital o capacidad de endeudamiento que no estaba siendo utilizado para generar patrimonio o rentabilidad.",
+        "bloqueadores": "El principal bloqueador era la inercia. Sin un plan personal de compra, no había una razón para actuar. Su situación de vivienda era estable y cómoda.",
+        "eventos_habilitadores": "El plan de su madre de comprar otra propiedad para inversión, la oferta de ayudarla con la cuota inicial y, crucialmente, la ventaja de la clienta de tener una tasa de interés muy baja por ser empleada de un banco.",
+        "switching_trigger": "El detonante fue la conversación con su madre sobre la inversión y la propuesta de unir fuerzas para aprovechar la tasa preferencial. Esto la movió de un estado pasivo a uno activo de búsqueda de una oportunidad de inversión.",
+        "momento_de_decision": "La decisión se cristalizó rápidamente tras visitar el proyecto WOW, que ya conocía por amigos. El producto superó las expectativas, el precio se percibió como una 'ganga' y la madre decidió no solo apoyar la compra de la hija, sino comprar una segunda unidad para el hermano, consolidando una estrategia patrimonial familiar."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional joven, soltera, con estabilidad económica y una situación de vivienda resuelta. Su vida está organizada en torno a su trabajo en San Isidro, su deporte cerca del Golf Los Incas y su familia en San Borja. La decisión de compra no surge de una necesidad habitacional, sino de una oportunidad financiera dentro de su sistema familiar."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario que funcione como una inversión flexible, capaz de generar renta pasiva y que, a la vez, ofrezca la opcionalidad de ser una vivienda de alta calidad si se decide usarlo así, todo mientras se construye patrimonio a largo plazo.",
+        "job_statement": "Cuando se presenta una oportunidad de inversión con ventajas financieras únicas, quiero adquirir una propiedad para proteger y hacer crecer mi capital, asegurando mi futuro patrimonial.",
+        "job_dominante_narrativo": "La clienta busca capitalizar una oportunidad financiera (tasa preferencial y apoyo familiar) para adquirir un activo que genere valor. El objetivo inicial es la rentabilidad (alquiler), demostrando una mentalidad de inversora que busca poner su dinero a trabajar.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La combinación de una excelente ubicación (cerca de su deporte y familia), áreas comunes superiores (piscina, cine), una distribución funcional (baño de visitas) y un precio percibido como 'ganga'. La flexibilidad de uso (vivir o alquilar) fue clave.",
+        "firing_criteria": "Proyectos en ubicaciones ruidosas o con mucho tráfico (Surquillo), que no incluyeran cochera, o con distribuciones poco prácticas (baño único dentro del cuarto). Proyectos sin construcción avanzada (solo terreno) también eran un riesgo inaceptable.",
+        "trade_offs_reales": "Soportó un proceso de venta con alta presión y plazos muy cortos para el pago de la inicial, lo que le generó estrés y la obligó a usar tiempo laboral para trámites urgentes.",
+        "factores_de_confianza": "La confianza provino principalmente de tener dos grupos de amigos diferentes ya viviendo en el proyecto, quienes dieron excelentes referencias. Ver la construcción avanzada también redujo la percepción de riesgo.",
+        "reduccion_de_riesgo": "La validación social de sus amigos fue el principal mitigador de riesgo, superando el hecho de no conocer a la inmobiliaria previamente."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La piscina 'gigantesca' y el cine fueron los ganchos emocionales. La ubicación céntrica para su estilo de vida (deporte, familia, trabajo) y la distribución del departamento (1+flex, baño de visitas) fueron los anclajes racionales.",
+        "atributos_secundarios": "El gimnasio no fue relevante ya que tiene uno en su trabajo. El depósito tampoco fue necesario.",
+        "alternativas_descartadas": "Un proyecto en Surquillo (High Life) fue descartado por peor ubicación, ser más caro por metro cuadrado, no incluir cochera y tener peores áreas comunes."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto con el producto (calificó con 9/10), pero con fricciones en el proceso.",
+        "reservas": "La principal reserva es el estrés generado por la presión en los plazos de pago de la inicial antes de tener la aprobación formal del crédito.",
+        "fricciones_pendientes": "Incertidumbre sobre la fecha exacta de inicio de construcción y la posibilidad de un retraso de hasta 6 meses en la entrega, lo cual está en el contrato pero genera ansiedad."
+    },
+    "proyecto": "WOW"
+}

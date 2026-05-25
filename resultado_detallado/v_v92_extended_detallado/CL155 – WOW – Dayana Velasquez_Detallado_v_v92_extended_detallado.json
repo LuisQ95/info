@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia decide usar sus ahorros para dejar de alquilar y comprar su primera vivienda propia, buscando principalmente seguridad y estabilidad a largo plazo. La elección del proyecto se define por su capacidad para satisfacer las necesidades logísticas de todos sus miembros: cercanía a universidades, accesibilidad para los padres y áreas de esparcimiento para los hijos menores.",
+    "historia_causal": {
+        "contexto_previo": "La familia, compuesta por padres y varios hijos en diferentes etapas (universitarios y escolares), vivía en una casa alquilada en Ate. Contaban con un capital ahorrado y la entrevistada tenía acceso a un beneficio de tasa de interés preferencial a través de su trabajo.",
+        "tension_acumulada": "Existía un deseo latente y compartido de dejar de alquilar para tener 'algo propio', lo que representaba mayor seguridad y estabilidad. A esto se sumaba la necesidad de una mejor logística familiar, considerando la ubicación de las universidades de los hijos mayores.",
+        "bloqueadores": "El principal bloqueador era la inercia de su situación de vida actual y no haber encontrado un proyecto que cumpliera con todos los requisitos del complejo sistema familiar.",
+        "eventos_habilitadores": "La acumulación de un capital suficiente, el inicio de la etapa universitaria de los hijos mayores que hacía más relevante la ubicación, y el acceso a una tasa de interés especial, crearon las condiciones perfectas para tomar la decisión.",
+        "switching_trigger": "La visita a una feria inmobiliaria (Expourbania/Nexo) fue el catalizador que transformó la intención latente en una búsqueda activa y concreta.",
+        "momento_de_decision": "El proceso fue rápido. En la feria evaluaron pocas opciones, descartando un proyecto por malas referencias y otro por ser más caro. Al visitar el showroom de WOW, reconocieron inmediatamente el encaje con sus necesidades funcionales y familiares, procediendo a la compra."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida es una unidad familiar multigeneracional que opera de forma cohesionada. La decisión de compra está condicionada por la necesidad de resolver simultáneamente la estabilidad habitacional de los padres (accesibilidad) y las necesidades educativas y de esparcimiento de los hijos. La compra se activa cuando disponen del capital y un disparador (feria) los pone frente a una solución viable."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la transición de inquilinos a propietarios para asegurar la estabilidad, el patrimonio y el bienestar de la familia en un hogar que se adapte a las necesidades de cada uno de sus miembros.",
+        "job_statement": "Cuando la familia tiene el capital ahorrado y los hijos crecen, quiero comprar una vivienda propia y segura, para dejar de alquilar y consolidar un patrimonio que además facilite la logística y el bienestar de todos.",
+        "job_dominante_narrativo": "La familia busca establecer una base de operaciones permanente y segura, dejando atrás la transitoriedad del alquiler para construir un futuro estable y adaptado a su estructura familiar.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Los criterios decisivos fueron: la seguridad de un condominio, la cercanía a universidades, la disponibilidad de un primer piso para el padre, áreas comunes atractivas y poco concurridas para los hermanos, una distribución funcional, un precio de preventa conveniente y facilidades de pago (desembolso postergado y tasa especial).",
+        "firing_criteria": "Descartaron automáticamente opciones con malas referencias sobre la calidad de construcción y servicios (proyecto 'Look'). También descartaron proyectos que, aunque buenos, excedían su presupuesto (proyecto 'Magna').",
+        "trade_offs_reales": "Aceptaron un departamento con un metraje ligeramente menor al que idealmente buscaban, a cambio de obtener todos los demás beneficios que eran más prioritarios para la dinámica familiar.",
+        "factores_de_confianza": "La confianza se construyó sobre las buenas referencias de amigos que ya vivían en proyectos de la misma inmobiliaria y la percepción de experiencia y seriedad de la constructora.",
+        "reduccion_de_riesgo": "El riesgo se minimizó al elegir una inmobiliaria con reputación validada por conocidos y al investigar activamente las referencias de los proyectos competidores, evitando así una mala inversión."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación estratégica (cerca de universidades), la tipología (primer piso), las áreas comunes (gimnasio, piscina temperada, parrillas) y la oferta comercial (precio de preventa, financiamiento) generó un encaje perfecto e inmediato con la demanda.",
+        "atributos_secundarios": "El tamaño exacto del departamento fue un atributo secundario; aunque deseaban algo más grande, no fue un factor decisivo frente a las demás ventajas.",
+        "alternativas_descartadas": "Se descartó el proyecto 'Look' por malas referencias y el proyecto 'Magna' por ser más caro. La alternativa de 'no hacer nada' (seguir alquilando) fue superada por el deseo de propiedad y la oportunidad financiera."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto en cuanto a la decisión de compra, pero con ansiedad por la espera. La familia, especialmente los hermanos menores, está expectante por la entrega.",
+        "reservas": "La principal reserva es el largo tiempo de espera (un año) hasta la entrega del inmueble, lo que genera incertidumbre y ansiedad.",
+        "fricciones_pendientes": "La fricción principal es la gestión de la espera y la comunicación post-venta. Aunque reciben comunicados, la postergación de la entrega, incluso justificada, es un punto de tensión."
+    },
+    "proyecto": "WOW"
+}

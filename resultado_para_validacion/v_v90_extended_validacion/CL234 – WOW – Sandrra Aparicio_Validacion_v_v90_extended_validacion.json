@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado fue una mala experiencia con otra inmobiliaria que los obligó a reiniciar su búsqueda. Sin embargo, el gatillo para elegir ESTE proyecto fue la recomendación de un familiar sobre una propuesta de valor única (club con piscina semiolímpica). Este atributo aspiracional funcionó tanto como gatillo de interés como filtro final de selección, superando a otros factores como la ubicación o el precio.",
+        "debate_deal_breaker": "El deal-breaker fue la propuesta de valor del producto. La piscina semiolímpica y el concepto de club fueron el factor innegociable que activó la compra. Sin este diferenciador, el proyecto no habría sido elegido, ya que no estaban en una búsqueda urgente. La falta de transparencia fue el deal-breaker que los hizo descartar a la competencia (Sancharbel).",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "lo vimos viable porque ningún otro proyecto que nosotros habíamos visto tenía este concepto.",
+                    "Tenía un concepto mucho más pequeño, que es en el último piso, en las terrazas, unas piscinas que eran, no sé, de tres por diez, pero son chiquitas.",
+                    "En cambio, acá es una piscina semiolímpica. Entonces, es una de las cosas que sí nos atrajo un montón."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No comprarían. La decisión fue activada por el deseo de acceder a este estilo de vida único, no por una necesidad funcional o de vivienda que cualquier otro proyecto pudiera resolver."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "toda nuestra vida la hemos pasado viajando de extremo a extremo.",
+                    "ya estamos un poco cansados de eso también.",
+                    "ahorita como está tan metido... es muy difícil que haya tráfico por esa zona realmente."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Probablemente sí comprarían si el proyecto tuviera la piscina única, aunque la ubicación fuera menos óptima. El cansancio del viaje era una fricción, pero la atracción por el producto fue el verdadero motor de la decisión."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La compra es 'No Problem-Driven'. No fue gatillada por una necesidad de vivienda (J01) ni una crisis familiar (J04). Fue una decisión aspiracional activada por la superioridad y unicidad del producto (piscina semiolímpica), que prometía un estilo de vida deseado. La optimización de la rutina (J03) fue un criterio de selección importante y un beneficio secundario, pero no el motor principal de la compra."
+    },
+    "dictamen_final": "Entrevista Válida",
+    "justificacion": "La entrevista ofrece una narrativa causal rica y detallada. Se identifica claramente el contexto, el trigger (fracaso previo y recomendación), los criterios de contratación y descarte, los trade-offs y las profundas fricciones post-compra. La evidencia es robusta para determinar el Job Dominante y la lógica de decisión del cliente."
+}

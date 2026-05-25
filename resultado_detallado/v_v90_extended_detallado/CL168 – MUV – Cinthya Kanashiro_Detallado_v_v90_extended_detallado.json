@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra motivada por la necesidad de proveer vivienda segura a hijo universitario en Lima, superando las limitaciones del alquiler y asegurando un activo familiar a futuro.",
+    "historia_causal": {
+        "contexto_previo": "La familia reside en Cusco, mientras que su hijo mayor ya se encontraba en Lima estudiando en la UPC y viviendo en un departamento alquilado. Esta situación establecía una dinámica de gestión y preocupación a distancia.",
+        "tension_acumulada": "Existía una preocupación constante por la seguridad del hijo al movilizarse en Lima. A esto se sumaba la frustración con las limitaciones de un alquiler, como la imposibilidad de personalizar el espacio ('en lo que no es tuyo ni un clavo'), lo que generó un deseo latente de adquirir 'algo propio'.",
+        "bloqueadores": "El principal bloqueador era la inercia de la solución existente. El hijo ya tenía un lugar donde vivir (alquilado), por lo que no había una urgencia extrema para cambiar, solo una insatisfacción latente.",
+        "eventos_habilitadores": "El cambio fue habilitado por el propio hijo, quien, al pasar diariamente por el proyecto, se sintió atraído por la publicidad. Su visita a las instalaciones y el entusiasmo que le generaron las áreas comunes (piscina, gimnasio) fue el catalizador que movilizó al padre a considerar la opción seriamente.",
+        "switching_trigger": "El momento exacto en que la búsqueda pasiva se convirtió en acción fue cuando el hijo, ya 'encantado' con el proyecto, convenció a su padre para que lo visitara. La experiencia positiva de ambos consolidó la intención de compra.",
+        "momento_de_decision": "La decisión fue rápida y liderada por el esposo y el hijo. La madre, sin haber visitado las instalaciones, aceptó la compra al ser superada en número ('fueron dos convencidos contra una'). La compra se cerró basada en la confianza y el entusiasmo de su familia."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida se define por una familia con base en provincia (Cusco) que debe dar soporte a un hijo que inicia su vida universitaria en la capital. Esta configuración está condicionada por la distancia, lo que eleva la seguridad y la conveniencia logística a prioridades absolutas. El Job se activa cuando surge una solución que promete resolver no solo la vivienda, sino también la necesidad de control y tranquilidad de los padres."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la tranquilidad de saber que su hijo vive en un entorno seguro, propio y conveniente cerca de su centro de estudios, al tiempo que se establece un activo patrimonial en Lima que servirá para los hijos menores en el futuro.",
+        "job_statement": "Cuando mi hijo se va a estudiar a otra ciudad y necesita un lugar donde vivir, quiero comprar un departamento propio en un entorno seguro y cerca de su universidad, para así tener la tranquilidad de que está bien y, a la vez, construir un patrimonio para el futuro de toda la familia.",
+        "job_dominante_narrativo": "La familia está intentando establecer un 'puesto de avanzada' en Lima para dar soporte logístico y de seguridad a la etapa universitaria de sus hijos, empezando por el mayor, para asegurar su bienestar y tranquilidad como padres.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J01: Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La proximidad a la UPC fue el criterio funcional principal. La seguridad de un condominio cerrado fue el criterio emocional dominante para los padres. Las áreas comunes (piscina, gimnasio) fueron un factor clave para el hijo, quien fue el 'descubridor' del proyecto.",
+        "firing_criteria": "Se descartarían automáticamente ubicaciones que implicaran largos traslados para el hijo o que estuvieran en zonas percibidas como inseguras. La principal preocupación era minimizar la exposición y el riesgo.",
+        "trade_offs_reales": "Aceptaron un retraso de un año en la entrega, lo que les obligó a seguir pagando alquiler. Soportaron una mala experiencia post-venta con problemas en el estacionamiento y acabados. La madre aceptó la compra sin haber visitado el proyecto, confiando en el criterio de su esposo e hijo.",
+        "factores_de_confianza": "La confianza se basó enteramente en la convicción y el entusiasmo del hijo y el esposo tras visitar el proyecto. La decisión fue un acto de confianza familiar más que una evaluación de la marca inmobiliaria.",
+        "reduccion_de_riesgo": "El formato de condominio cerrado fue el principal mitigador de riesgo, ya que abordaba directamente la mayor preocupación de los padres: la seguridad del hijo viviendo solo en una ciudad grande."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica a pasos de la UPC. El concepto de condominio cerrado que proyectaba seguridad y tranquilidad. Las áreas comunes que generaron el deseo inicial en el hijo y validaron la calidad de vida ofrecida.",
+        "atributos_secundarios": "La tipología de dos dormitorios fue una elección funcional, pero no el driver principal; podrían haber considerado tres. La marca de la inmobiliaria no fue un factor relevante en la decisión inicial.",
+        "alternativas_descartadas": "La alternativa principal era continuar con el alquiler, que fue descartada por sus limitaciones y falta de retorno. Otras opciones de compra en distritos más lejanos o en formatos que no fueran condominios cerrados no fueron consideradas seriamente por no cumplir el criterio de seguridad y conveniencia."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "8/10. A pesar de los graves problemas post-venta, el hecho de que el producto cumple su función principal (les gusta a los hijos, es seguro y está bien ubicado) mantiene una valoración positiva.",
+        "reservas": "La principal reserva es la mala gestión post-venta de la inmobiliaria, evidenciada en el retraso de un año, la falta de comunicación, el incumplimiento de promesas (pago de alquiler) y el grave error con la venta duplicada de su estacionamiento.",
+        "fricciones_pendientes": "Actualmente, el departamento está vacío y deben gestionar su alquiler para que no genere solo gastos. Además, están a la espera de la finalización de los trámites de independización y titulación."
+    },
+    "proyecto": "MUV"
+}

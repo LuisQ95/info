@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra motivada por el deseo de una primera independencia, eligiendo un proyecto que no solo cumple este objetivo sino que optimiza drásticamente su logística diaria (trabajo-familia) y le ofrece un estilo de vida superior a un costo percibido como eficiente.",
+    "historia_causal": {
+        "contexto_previo": "Vivía con sus padres en Surco, con una vida social y laboral consolidada en el eje Surco-La Molina. No tenía una necesidad urgente de mudarse, pero sí un deseo latente de autonomía.",
+        "tension_acumulada": "El deseo de independizarse y tener su propio espacio para vivir sola, ganando autonomía y comodidad. Era una compra planificada como un primer paso, no como una vivienda definitiva.",
+        "bloqueadores": "No había un bloqueador económico o de urgencia fuerte; la búsqueda era abierta y sin un plazo definido. La inacción era la alternativa principal hasta que un estímulo externo la activó.",
+        "eventos_habilitadores": "Alcanzar la capacidad financiera para considerar una compra y ver un proyecto por casualidad (Lucio) que despertó su curiosidad y la impulsó a iniciar una búsqueda activa y concreta.",
+        "switching_trigger": "La curiosidad generada al ver un proyecto inmobiliario en su ruta diaria, que la hizo pasar de un deseo pasivo de independencia a una búsqueda activa y concreta.",
+        "momento_de_decision": "El proceso fue rápido una vez que se activó. Visitó pocas opciones y al encontrar MUV, que encajaba perfectamente en ubicación, amenities y precio (con descuento), tomó la decisión rápidamente. El contacto de su padre facilitó el acceso pero no fue el driver de la decisión."
+    },
+    "contexto_activador": {
+        "marco_general": "Joven profesional con un sistema de vida muy establecido en el eje Surco-La Molina, donde se concentra su familia y su trabajo. Busca independizarse pero sin romper o generar fricción con su ecosistema actual, valorando la eficiencia logística y la continuidad de su rutina."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Conseguir un primer espacio propio que le permita vivir de forma independiente, pero que a la vez mejore su calidad de vida diaria al reducir tiempos de traslado y ofrecerle comodidades (clubhouse) que se alinean con su estilo de vida a un costo eficiente.",
+        "job_statement": "Cuando quiero independizarme de casa de mis padres, quiero encontrar un departamento propio para establecer mi autonomía y tener mi primer hogar.",
+        "job_dominante_narrativo": "La cliente busca dar el paso fundamental de independizarse y establecer su primera base habitacional. Es una compra transicional, no definitiva ('no es el departamento en el que quiero vivir toda mi vida'), pero clave para marcar el hito de vivir sola.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación que optimizaba su traslado al trabajo en La Molina y la mantenía cerca de su familia en Surco. El clubhouse (piscina, canchas) que ofrecía un estilo de vida superior a un costo de mantenimiento bajo. La seguridad del condominio y que fuera pet friendly.",
+        "firing_criteria": "Inseguridad (departamento en primer piso con reja simple), mala ubicación (zonas 'feas' o con mucho ruido de tráfico como Av. Primavera), y estar fuera de presupuesto.",
+        "trade_offs_reales": "Aceptó un departamento pequeño de 1 dormitorio, sin balcón, y tuvo que lidiar con la imposibilidad de instalar aire acondicionado, un problema que de haberlo sabido 'me hubiera hecho pensarlo dos veces'.",
+        "factores_de_confianza": "La percepción de que era un 'buen deal' que no encontraría en otro lado dentro de su presupuesto. El hecho de que el proyecto ya estuviera construido y pudiera verlo físicamente.",
+        "reduccion_de_riesgo": "Comprar un producto tangible y no en planos. Obtener un descuento importante que validó la decisión económicamente y aceleró el cierre."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica entre Surco y La Molina. El clubhouse con piscina y canchas de tenis. La seguridad del condominio. La distribución funcional del departamento. El ser pet friendly.",
+        "atributos_secundarios": "El gimnasio (no lo usa). El contacto del padre fue un facilitador de acceso, no un driver de decisión.",
+        "alternativas_descartadas": "Un departamento de reventa en el mismo Magna Haus (le gustó más la distribución del nuevo), un proyecto en primer piso por inseguridad, otro en un cerro por la zona, y uno en Chacarilla por ruido y presupuesto."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Satisfecha con el proyecto/condominio (calificación de 7), pero muy insatisfecha con la inmobiliaria (calificación de 4) por la pésima gestión post-venta.",
+        "reservas": "El ruido del Club Árabe Palestino los fines de semana, la escasez de estacionamientos de visita y la conflictividad de los vecinos en el chat del condominio.",
+        "fricciones_pendientes": "La principal fricción es la falta de comunicación y el desorden de la inmobiliaria en el proceso de independización, lo cual le ha generado desconfianza y frustración, al punto de no poder votar en la junta de propietarios."
+    },
+    "proyecto": "MUV"
+}

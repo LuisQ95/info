@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la reconfiguración del sistema familiar: la hija vive fuera, el hijo se independiza y el departamento actual queda sobredimensionado. Esto crea la necesidad de reorganizar los activos de vivienda. Los criterios de selección (Selection Drivers) son la ubicación (cerca a la UPC para el hijo), la tranquilidad del entorno y los costos de mantenimiento razonables. El 'porqué comprar' es la familia; el 'qué comprar' se define por la logística.",
+        "debate_deal_breaker": "El factor innegociable es la necesidad de resolver la nueva dinámica familiar. Sin la independencia del hijo y el sobredimensionamiento de su vivienda actual, la compra no se habría iniciado. El Test Canónico para J04 es claro: ¿Sin este cambio en la estructura familiar, compraría? La respuesta es un rotundo NO. La compra es una consecuencia directa de la desalineación entre su vivienda y la realidad de su familia, no de una simple optimización o deseo de inversión.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "quiero que uno de los departamentos, mi hijo se está independizando, y el otro para mí.",
+                    "mi departamento es bien grande, pero ahora que ya mi hija se fue, mi hijo también se independizó, ese departamento es demasiado grande para mí.",
+                    "compramos en un lugar relativamente cerca uno al otro. Así podemos comprar, prestarnos el vehículo, así cocinamos para los dos."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si su estructura familiar no hubiera cambiado (hijos independizándose), no habría entrado al mercado para comprar dos departamentos más pequeños. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo tenía un ahorro importante",
+                    "te estoy pagando al contado"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuviera la necesidad de reconfiguración familiar, habría mantenido sus ahorros o buscado otro tipo de inversión. La forma de la compra (dos depas pequeños y cercanos) está dictada por la familia, no por la maximización de capital. El ahorro es un habilitador, no el driver."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "El Job Dominante es J04. La cliente entra al mercado para resolver una desalineación estructural entre su vivienda actual y la nueva configuración de su familia (hijos que se van). El plan de comprar dos unidades (una para ella, otra para el hijo) para mantener un sistema de apoyo mutuo es la evidencia central. El J02 (inversión) es secundario; el capital disponible habilita la solución, pero la misión y la forma de la solución son dictadas enteramente por la necesidad familiar."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la cadena causal de la compra. El Job Dominante (J04) está fuertemente sustentado en la narrativa de la cliente, explicando el origen de la necesidad (reconfiguración familiar) y cómo esta moldea todos los criterios de búsqueda y decisión. La riqueza de detalles sobre las fricciones en el proceso de compra y post-venta ofrece información valiosa sobre la experiencia del cliente."
+}

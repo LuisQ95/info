@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo de Entrada (Entry Driver) es la necesidad de encontrar una solución habitacional permanente y adaptada a las necesidades específicas del hijo de la clienta, quien tiene una condición genética que requiere terapias y un entorno particular. La situación actual de vivir con los padres es funcional pero no una solución a largo plazo. El Filtro de Selección (Selection Driver) son las características específicas del proyecto WOW: las amplias áreas comunes y jardines para las terapias, la tipología 'flex' para un espacio de terapia interior y un piso bajo por seguridad. El 'enamoramiento' con el proyecto es el filtro, no el gatillo.",
+        "debate_deal_breaker": "El verdadero innegociable es la adecuación del espacio a las necesidades del hijo y la cercanía a la red de apoyo familiar. Si el proyecto no hubiera ofrecido los jardines para terapia o la tipología flexible, habría sido descartado. Sin embargo, el test fundamental es: ¿si no tuvieran la necesidad de un espacio adaptado para su hijo, habrían comprado ahora, a pesar de estar cómodos con sus padres? La respuesta es no. La necesidad familiar es el deal-breaker de la compra misma, no solo de la elección del proyecto.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nosotros tenemos un hijo, mi hijito tiene una condición genética. Entonces, él tiene regresión en el desarrollo general y tiene cinco años, todavía no habla, todavía no camina",
+                    "ahí es donde mi papá y mi suegro también... nos apoyan un montón, ¿no? Entonces, por eso es que tenemos esa necesidad de estar cerca.",
+                    "el otro sería un espacio para, digamos, para que él, de repente, alguna sesión de terapia psicológica que él tiene"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sin la necesidad de un hogar adaptado para su hijo y cerca de la red de apoyo, la compra no se habría realizado en este momento. La necesidad familiar es la causa raíz."
+            },
+            {
+                "codigo_y_nombre_job": "J06 - Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "yo este proyecto lo he visto desde la etapa uno, que en el 2017 o 16 me parece, porque me gustó mucho.",
+                    "si ya me gustaba el proyecto y en ese momento me enamoré, ¿no?",
+                    "tenía toda la convicción de comprar ahí."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Aunque el 'enamoramiento' era fuerte, fue un deseo latente por años. No se activó la compra hasta que la necesidad familiar (J04) se volvió prioritaria. El proyecto era la solución preferida, no el problema original."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J06 - Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra está completamente subordinada a las necesidades del sistema familiar. La condición del hijo y la dependencia de la red de apoyo de los abuelos crean una 'desalineación estructural' con sus opciones de vivienda actuales, activando la búsqueda. Este es el Entry Driver (J04). El 'enamoramiento' de larga data con el proyecto (J06) y sus amenities específicas actúan como un poderoso Criterio de Selección que resuelve perfectamente la demanda generada por el J04."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J04 - Acompañar el crecimiento familiar, con un fuerte Job Secundario J06 - Expresar identidad y coherencia personal.",
+    "justificacion": "La decisión de compra se origina en una necesidad estructural del sistema familiar: la vivienda actual es inadecuada para las necesidades a largo plazo del hijo. Todos los criterios de selección (piso bajo, áreas verdes, espacio flex, cercanía a los abuelos) se subordinan a esta necesidad central. El test canónico lo confirma: sin la necesidad específica del hijo, la compra no se habría activado en este momento, a pesar del 'enamoramiento' preexistente con el proyecto. Por lo tanto, la familia es el 'Entry Driver' (J04) y el proyecto aspiracional es el 'Selection Driver' (J06)."
+}

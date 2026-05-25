@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente con vivienda propia sobredimensionada por cambios en su estructura familiar (hijos se independizan) decide comprar dos propiedades más pequeñas para reconfigurar su 'sistema operativo familiar', manteniendo la cercanía y apoyo con su hijo mientras optimiza su patrimonio.",
+    "historia_causal": {
+        "contexto_previo": "Vive sola en su departamento propio de 154m² en Jesús María. Su hija mayor reside en el extranjero y su hijo de 22 años ya se ha independizado, alquilando cerca de su universidad (UPC). Mantiene una relación de apoyo mutuo y muy cercana con él.",
+        "tension_acumulada": "El departamento actual se ha vuelto demasiado grande y costoso de mantener para una sola persona ('mantenimiento me cuesta caro y ya vivo sola'). Existe la necesidad de adaptar su vivienda a la nueva realidad familiar y el deseo de invertir ahorros de manera productiva, idealmente facilitando una solución habitacional para ella y su hijo que mantenga la proximidad.",
+        "bloqueadores": "La principal barrera era la inercia y la falta de una opción que resolviera la ecuación logística y financiera de manera satisfactoria. La desconfianza generada durante el proceso de compra en MUV se convirtió en un bloqueador para adquirir la segunda unidad en el mismo proyecto.",
+        "eventos_habilitadores": "La disponibilidad de un capital ahorrado ('un ahorro importante') que le permitía pagar al contado y la independencia ya en marcha de su hijo, que hacía tangible y urgente la necesidad de una nueva configuración de vivienda.",
+        "switching_trigger": "La decisión consciente de empezar a buscar activamente en marzo/abril en plataformas online, con el objetivo claro de comprar dos departamentos pequeños, uno para ella y otro para su hijo, para reestructurar su vida.",
+        "momento_de_decision": "Tras una búsqueda activa y visitas a varios proyectos, se topó con MUV. La decisión de compra fue rápida, motivada por la ubicación y las características del proyecto, aunque la desconfianza generada por el proceso de venta la hizo comprar solo una unidad y buscar la segunda en otro lugar (La Molina)."
+    },
+    "contexto_activador": {
+        "marco_general": "La clienta opera dentro de un sistema de vida donde, a pesar de la independencia formal de su hijo, existe una fuerte interdependencia funcional y emocional ('nos tenemos que ayudar de ambas partes'). Su vivienda actual, un vestigio de una etapa familiar anterior, es ahora una restricción logística y financiera. La decisión de compra se activa por la necesidad de alinear su infraestructura habitacional con esta nueva dinámica de 'nidos vacíos pero coordinados'."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una nueva configuración de vida que sea financieramente eficiente, logísticamente práctica y que preserve el vínculo de apoyo y cercanía con su hijo, adaptándose a la nueva etapa de sus vidas.",
+        "job_statement": "Cuando mi estructura familiar cambia y mi hogar se vuelve inadecuado, quiero reconfigurar nuestras viviendas en unidades más pequeñas y cercanas, para poder mantener nuestro sistema de apoyo mutuo mientras optimizo mis costos y patrimonio.",
+        "job_dominante_narrativo": "La clienta está intentando desmantelar su base de operaciones familiar, que ha quedado obsoleta, para reconstruirla en dos nodos coordinados y eficientes (uno para ella, otro para su hijo) que reflejen y soporten mejor su nueva realidad de vida.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación cerca de la universidad del hijo (UPC), un entorno tranquilo con poca bulla, y costos de mantenimiento razonables que no se asemejen a un alquiler. El hecho de que el proyecto estuviera terminado era un plus.",
+        "firing_criteria": "Proyectos con costos de mantenimiento excesivamente altos ('es más que un alquiler'), ubicaciones con mucha bulla, y proyectos en etapas muy tempranas de construcción que implicaban una larga espera (como WOW).",
+        "trade_offs_reales": "Aceptó comprar solo un departamento en MUV debido a la desconfianza generada, rompiendo su plan ideal de tener ambos en el mismo edificio. Compró el segundo en La Molina, sacrificando la cercanía inmediata. Soportó un proceso de compra informal y de alto estrés.",
+        "factores_de_confianza": "Prácticamente inexistentes. Por el contrario, el proceso estuvo plagado de factores de desconfianza: la insistencia en firmar un contrato de 'inmueble futuro' para un bien terminado, la falta de formalidad notarial, y la mala comunicación post-venta.",
+        "reduccion_de_riesgo": "Intentó reducir el riesgo pagando con cheque de gerencia contra firma de documentos, pero la informalidad del proceso anuló esta medida. La única 'reducción de riesgo' fue su decisión de no comprar la segunda unidad en el mismo proyecto."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca de la UPC, la percepción de tranquilidad en la zona y la disponibilidad de un departamento de 1 dormitorio ya terminado. Las áreas comunes (aunque luego una fuente de ruido) también fueron un atractivo.",
+        "atributos_secundarios": "La promoción con descuento y el televisor de regalo ayudaron a cerrar, pero no fueron el motivo de la elección. La opción de comprar dos unidades era valorada pero no se concretó por la mala experiencia.",
+        "alternativas_descartadas": "El proyecto WOW (descartado por el tiempo de espera), un proyecto en La Molina (que finalmente compró como segunda opción) y otras opciones en Surco, Miraflores y Barranco que no cumplieron con sus criterios principales de tranquilidad y costos."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy bajo. La experiencia post-venta ha sido 'devastadora' y 'adrenalítica', marcada por la ansiedad, la falta de comunicación y la incertidumbre sobre la documentación y la entrega final del inmueble en condiciones habitables.",
+        "reservas": "Profunda desconfianza en la empresa vendedora. Preocupación por problemas no resueltos como el ruido del motor de la piscina y la falta de capacidad resolutiva de la administración. Duda sobre si tomó la decisión correcta al comprar en este proyecto.",
+        "fricciones_pendientes": "La entrega formal y completa del departamento (aún con trabajos pendientes). El reemplazo de la minuta de 'inmueble futuro'. La inscripción de la propiedad en Registros Públicos. La solución a los problemas de ruido de las áreas comunes."
+    },
+    "proyecto": "MUV"
+}

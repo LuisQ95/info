@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Un profesional que regresa a Perú compra un departamento de forma planificada para asegurar un hogar estable para su futura familia, eligiendo un proyecto con el que tiene un vínculo emocional y que cumple con sus altos estándares de seguridad.",
+    "historia_causal": {
+        "contexto_previo": "Cliente regresa a Perú en 2019 tras estudiar en el extranjero. Vivía sin propiedad y sin apuro por mudarse, en una etapa de exploración pasiva de opciones inmobiliarias.",
+        "tension_acumulada": "Deseo latente de establecer una base sólida para su futuro proyecto de vida: casarse y tener hijos. Aspiración de larga data de vivir en ese condominio específico, que conocía y admiraba desde sus años universitarios.",
+        "bloqueadores": "No tenía una urgencia real para comprar, por lo que inicialmente adoptó una postura de espera, dejando su contacto para futuras etapas del proyecto que le interesaban más que las disponibles en ese momento.",
+        "eventos_habilitadores": "El regreso a Perú y la consolidación de sus planes de vida a largo plazo. La inmobiliaria lo contacta proactivamente para informarle sobre la preventa de la tercera etapa del proyecto.",
+        "switching_trigger": "El correo y posterior llamada de la inmobiliaria en mayo de 2020, en plena pandemia, anunciando la preventa de la tercera etapa. Esto lo movió de una búsqueda pasiva a una decisión activa de compra.",
+        "momento_de_decision": "La decisión se tomó en dos fases. La primera, en 2020, cuando decide comprar solo tras un tour virtual, motivado por la oferta de preventa. La segunda fue una 're-aceptación' junto a su novia (futura esposa) de continuar con la compra a pesar de los grandes retrasos, reafirmando el valor del proyecto para ellos."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional joven en una fase de transición vital, planificando activamente la formación de su propia familia. Su sistema de vida está orientado a futuro, buscando asegurar las condiciones óptimas (seguridad, entorno) para esa nueva etapa, condicionado por una fuerte conexión aspiracional con una ubicación específica."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un hogar definitivo y seguro que funcione como la base estable para construir y ver crecer a mi futura familia, en un lugar que además cumple una aspiración personal de toda la vida.",
+        "job_statement": "Cuando estoy planificando mi futuro para formar una familia, quiero comprar un departamento en un condominio cerrado y seguro, para tener la tranquilidad de que mis hijos crecerán en un entorno protegido y estable.",
+        "job_dominante_narrativo": "El cliente está intentando establecer una base habitacional permanente y segura de manera anticipada para blindar las condiciones de vida de la familia que planea formar en el futuro cercano.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Seguridad de un condominio cerrado, parques internos privados, entorno ideal para niños, y la conexión emocional y aspiracional con el proyecto.",
+        "firing_criteria": "Proyectos que no fueran en formato de condominio cerrado, es decir, departamentos 'con puerta de calle', que no ofrecían el mismo nivel de seguridad y control del entorno.",
+        "trade_offs_reales": "Aceptó un retraso de dos años en la entrega, un aumento en la tasa de interés hipotecaria, acabados de menor calidad a la esperada y la no habilitación de amenities prometidas como la zona de canes y la lavandería.",
+        "factores_de_confianza": "La fuerte convicción en el valor del proyecto a largo plazo, basada en su historia personal con el lugar. La negociación de un descuento de S/50,000 por parte de la inmobiliaria para compensar el alza de la tasa, lo que evitó que la venta se cayera.",
+        "reduccion_de_riesgo": "El descuento financiero redujo el riesgo económico inmediato. La decisión de continuar a pesar de los retrasos fue una reafirmación de que el valor intrínseco del proyecto (seguridad, ubicación) superaba los problemas de gestión de la inmobiliaria."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de condominio cerrado con alta seguridad y parques privados. La propuesta de valor de un 'clubhouse'. El valor aspiracional y emocional que el proyecto representaba para él.",
+        "atributos_secundarios": "La calidad específica de los acabados (que resultó decepcionante), la tipología exacta del departamento (compró 2 dormitorios con planes de mudarse a 3 en el futuro), y amenities específicas que luego no se concretaron.",
+        "alternativas_descartadas": "Otros dos proyectos en Surquillo y Miraflores/San Isidro, que fueron descartados por ser 'puerta de calle' y no ofrecer el entorno de condominio cerrado que consideraba esencial."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Condicional. No otorga una puntuación numérica, pero afirma que lo recomendaría 'con la advertencia' de que el comprador tendrá que invertir mucho tiempo y esfuerzo en reclamar y gestionar problemas con la inmobiliaria.",
+        "reservas": "Percepción de que la inmobiliaria priorizó el ahorro sobre la calidad en su etapa, resultando en acabados inferiores y problemas constructivos (ej. balcones con moho). Publicidad engañosa sobre amenities (zona de canes, lavandería) y sobre la infraestructura (sistema de desagüe).",
+        "fricciones_pendientes": "El cliente ha asumido un rol de delegado de su torre para gestionar activamente los múltiples problemas con la inmobiliaria, lo que le consume una cantidad significativa de tiempo y energía. La relación con la empresa es de constante reclamo y seguimiento."
+    },
+    "proyecto": "MUV"
+}

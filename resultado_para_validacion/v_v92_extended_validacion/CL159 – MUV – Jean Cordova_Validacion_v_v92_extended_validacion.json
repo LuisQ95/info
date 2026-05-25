@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada fue puramente emocional y aspiracional (J06), activado por el deseo del estilo de vida al ver el club house. El cliente no tenía una necesidad preexistente. La consideración de inversión (J02) y la obtención de un buen precio fueron factores de selección y justificación, pero no el motor original que lo introdujo al mercado.",
+        "debate_deal_breaker": "El elemento innegociable fue la propuesta de valor del condominio y sus áreas comunes. Sin el 'club house' que generó el deseo impulsivo, la compra no se habría iniciado. La posibilidad de inversión era un plus, pero el cliente priorizó el uso personal al mudarse, demostrando que el estilo de vida era el verdadero 'deal breaker'.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "solo fue el vi, me mostraron el club, todas esas cosas y automáticamente... ah, lo compro.",
+                    "fue muy muy una venta muy emocional",
+                    "me gustó el condominio más que el departamento."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No. Sin la propuesta de valor aspiracional del club house, la compra impulsiva no se habría activado, ya que el cliente no tenía ninguna necesidad funcional o habitacional preexistente."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "iba a ser para probablemente alquilarlo.",
+                    "Lo compraba porque para empezar quería atenderlo. Segundo, dije, puede ser que lo alquile..."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí. La compra habría ocurrido de todos modos, ya que el motor fue el deseo de vivir el estilo de vida del lugar. De hecho, terminó viviendo en él en lugar de alquilarlo, demostrando que el uso personal (J06) primó sobre la inversión (J02)."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es un caso claro de J06 (Emocional Impulsivo). El cliente no tenía necesidad de comprar, ya que poseía una vivienda estable. La decisión fue activada instantáneamente por el deseo generado al ver las áreas comunes ('el club'), siendo una 'venta muy emocional'. La idea de inversión (J02) fue una consideración secundaria y una forma de racionalizar la compra, pero el verdadero motor fue la aspiración al estilo de vida del proyecto."
+    },
+    "dictamen_final": "Entrevista válida y de alta calidad.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. El cliente explica explícitamente que no tenía necesidad de comprar y que la decisión fue un impulso emocional activado por la propuesta de valor del proyecto (J06), lo que permite aislar el Job Dominante con alta certeza. La historia del conflicto con la inmobiliaria y el cambio de proyecto enriquece el análisis de la lógica de elección."
+}

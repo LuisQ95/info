@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la necesidad de habilitar una transición de vida mayor: la jubilación y el regreso a Perú (J05). Este es el 'por qué' de la compra. Los filtros de selección, que definen el 'qué' y 'dónde', son la proximidad a la familia, la entrega inmediata para mitigar riesgos y la calidad del producto.",
+        "debate_deal_breaker": "El factor innegociable es el plan de jubilación y retorno a Perú. Si ese plan no existiera, la compra no se realizaría, ya que su vida está establecida en EE.UU. La posibilidad de alquilar es una optimización temporal, no el motor principal. La compra es el vehículo para ejecutar su plan de vida futuro.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J05 - Cerrar una etapa y avanzar",
+                "citas_textuales_evidencia": [
+                    "la idea es ir a vivir a al Perú, este, de aquí más o menos a unos dos o tres años.",
+                    "yo me jubilo en dos años.",
+                    "esa era la meta desde el principio, ¿no? Yo no... yo no me quiero quedar toda la vida hasta viejita acá."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin el plan de jubilación y retorno a Perú, la compra no tendría sentido ni urgencia."
+            },
+            {
+                "codigo_y_nombre_job": "J02 - Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "si se puede, qué te digo, alquilarla.",
+                    "se me hace mucho más factible, o sea, y en verdad mucho más barato vivir allá con mi pensión."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, probablemente compraría igual para asegurar su vivienda de retiro, aunque no pudiera alquilarla."
+            }
+        ],
+        "job_dominante_final": "J05 - Cerrar una etapa y avanzar",
+        "job_secundario_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es un habilitador para una transición de vida estructural: la jubilación y el regreso a Perú. Este es el motor de la decisión (J05). La rentabilidad temporal (J02) y la cercanía familiar (criterio de selección) son factores que modulan la elección final pero no originan la necesidad de compra."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista revela una clara historia causal, con un fuerte detonante (jubilación inminente) que activa la compra. Se identifican con claridad los criterios de selección (ubicación, entrega inmediata) y descarte, permitiendo aislar el Job Dominante (J05) de los factores secundarios. La narrativa es coherente y rica en detalles sobre el proceso de decisión."
+}

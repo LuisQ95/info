@@ -1,0 +1,35 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la disponibilidad de capital por el retiro de la AFP, con la intención explícita de invertir (J02). El filtro de selección es la ubicación estratégica del proyecto, definida por la conveniencia para el alquiler a estudiantes, un criterio fuertemente influenciado por el contexto de su hija universitaria (contexto J04).",
+        "debate_deal_breaker": "El factor innegociable es la rentabilidad de la inversión. Si el proyecto no tuviera un alto potencial para ser alquilado a estudiantes, la compra no se habría realizado. La ubicación es el atributo clave que habilita este potencial, convirtiéndose en el principal criterio de contratación, pero la motivación subyacente es puramente financiera.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Yo lo he comprado como una inversión.",
+                    "retiré mi fondo de la AFP y, bueno, con eso estoy haciendo esta inversión.",
+                    "la idea era alquilarlo, alquilarlo a los chicos que... a otros universitarios."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No compraría. La compra se anula si no hay potencial de rentabilidad, ya que el propósito explícito es hacer trabajar el capital de la AFP."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "La zona, bueno, mi hija que estudia en la UPC...",
+                    "pensando más adelante, yo mudarme a ese departamento que es más pequeño que el que realmente, el que habito ahora, como es tan grande, mis hijas ya se van a ir"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí compraría, pero en otro lugar. Buscaría otra oportunidad de inversión si esta ubicación no fuera relevante. La necesidad de invertir el capital es independiente de la ubicación de su hija."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar crecimiento familiar",
+        "resolucion_del_tribunal": "La decisión es gobernada por J02. La disponibilidad de capital (retiro AFP) crea la necesidad de invertir. La compra es una decisión patrimonial, no habitacional. El contexto familiar (hija en la universidad) actúa como un poderoso filtro de selección que define la ubicación ideal para la inversión, pero no origina la necesidad de comprar en primer lugar."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J02: Proteger y flexibilizar el patrimonio.",
+    "justificacion": "El cliente entra al mercado motivado por la disponibilidad de un capital (retiro AFP) y con el objetivo explícito de 'hacer una inversión' y 'alquilarlo'. No tiene ninguna necesidad habitacional propia. El contexto familiar (hija universitaria) funciona como un criterio de selección que define la ubicación, pero no como el motor de la compra. Si se elimina el potencial de inversión, la compra no se realiza, validando J02 como el driver estructural."
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es una combinación de un crédito pre-aprobado y el deseo de dejar de 'botar dinero' en alquiler (J02/J01). Sin embargo, el filtro de selección es abrumadoramente emocional y familiar: las áreas comunes y el bienestar de los hijos. El cliente afirma que el 50% de la decisión fue por las amenities, lo que lo convierte en el factor decisivo que gobierna la elección final del proyecto.",
+        "debate_deal_breaker": "El innegociable son las áreas comunes para los hijos. El cliente compró por impulso al ver a sus hijos contentos y estuvo dispuesto a cambiar de departamento (con el costo y fricción que implica) cuando se dio cuenta de que la distribución inicial no era adecuada para ellos. Esto demuestra que la funcionalidad familiar (J04) prima sobre la inversión (J02). Sin un entorno adecuado para los hijos, la compra no se hubiese sostenido.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "casi que te diría que el 50 % de la decisión fue por eso. Por esos espacios sociales",
+                    "nosotros compramos en principio, diría yo, por impulso. Sí, nos dio una buena sensación. Vi a mis hijos contentos.",
+                    "ni siquiera van a entrar las dos camas de los niños, dije, ¿para qué me voy a poner ese bus?"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. La felicidad y comodidad de sus hijos fue el factor emocional dominante que cerró la venta y justificó superar las fricciones posteriores."
+            },
+            {
+                "codigo_y_nombre_job": "J02 - Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "pagando alquiler, que no haces una plata que está botada a la basura, por lo menos uno compra y algo recuperas",
+                    "el valor de la cuota es casi lo que yo pago hoy en día de alquiler",
+                    "avancemos con el proyecto y me toca decirle a mi familia, ya no voy a mover ahí porque nos vamos para otro país"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Probablemente sí compraría. La lógica de inversión es un habilitador y un racionalizador importante, pero la elección del 'qué' y el 'dónde' fue dictada por las necesidades familiares. El J02 justifica la compra, pero el J04 la dirige."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "El cliente entra al mercado por una oportunidad financiera (J02), pero la decisión de compra se materializa y se sostiene gracias a la solución que el proyecto ofrece para el bienestar de su familia (J04). La evidencia emocional y las acciones correctivas post-compra (cambio de unidad) están 100% centradas en la familia, estableciendo a J04 como el driver dominante."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista proporciona una narrativa causal rica y coherente. Expone claramente el gatillo financiero que activa la búsqueda, pero revela un driver de decisión emocional y familiar mucho más potente. La historia del cambio de departamento post-compra es una evidencia conductual contundente que valida el Job Dominante (J04), demostrando que las necesidades de la familia eran innegociables y superaban la fricción del proceso."
+}

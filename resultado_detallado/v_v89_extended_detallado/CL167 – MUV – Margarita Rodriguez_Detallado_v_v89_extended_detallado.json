@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "La compra es un caso de 'Dependencia Funcional Estructural', donde la clienta (madre) se ve obligada a comprar para mantener la proximidad y el soporte mutuo con su hija, cuya propia mudanza, iniciada por el yerno, es el único gatillo de la transacción.",
+    "historia_causal": {
+        "contexto_previo": "La clienta vivía en su casa propia en San Martín de Porres, en un departamento independiente pero dentro de la misma propiedad que su hija y yerno. Tenía un sistema de vida estable, consolidado y sin intenciones de cambiarlo.",
+        "tension_acumulada": "La tensión se genera cuando el yerno decide mudarse al proyecto MUV. Esto crea una crisis en el sistema familiar, amenazando con separar físicamente a la madre de su única hija, de quien depende para apoyo en emergencias y viceversa.",
+        "bloqueadores": "El principal bloqueador fue el fuerte apego emocional a su casa de toda la vida, lo que le generó estrés y depresión. Operativamente, la indisponibilidad inicial de dos departamentos contiguos en el proyecto frenó la decisión.",
+        "eventos_habilitadores": "El evento clave fue la decisión firme del yerno de comprar en MUV. Esto habilitó a la hija a poner la condición de que solo se mudarían si su madre podía comprar un departamento al lado. La posterior venta de su casa le proporcionó el capital para comprar al contado.",
+        "switching_trigger": "El momento en que la hija le comunica a su madre la decisión de mudarse y le plantea la necesidad de irse juntas, convirtiendo la búsqueda de departamentos contiguos en una acción concreta e inmediata.",
+        "momento_de_decision": "La decisión fue condicionada y no autónoma. La búsqueda se centró exclusivamente en encontrar dos unidades juntas. Una vez que el vendedor les informó que una unidad contigua se había liberado, la decisión de compra se ejecutó, ya que cumplía con el único requisito indispensable."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida se basa en una fuerte interdependencia entre madre e hija. La madre, una persona mayor sin más familia en Lima, depende funcional y emocionalmente de la cercanía de su hija. La decisión de compra no se activa por una necesidad individual de vivienda, sino por la necesidad de preservar la estructura del sistema familiar ante un cambio externo (la mudanza del yerno)."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Preservar la unidad familiar y el sistema de apoyo mutuo, asegurando que la proximidad física inmediata permita continuar con la dinámica de cuidado y compañía, especialmente en la vejez.",
+        "job_statement": "Cuando mi sistema de apoyo familiar decide reubicarse, necesito encontrar una solución habitacional que me permita mantenerme físicamente contigua a ellos, para asegurar la continuidad del soporte mutuo y la tranquilidad ante cualquier emergencia.",
+        "job_dominante_narrativo": "La clienta está intentando reorganizar su vida para seguir el movimiento de su núcleo familiar, con el fin de no perder la red de seguridad y apoyo que representa su única hija.",
+        "job_dominante_canonico": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_canonico": "J03 - Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio de contratación principal y absoluto fue la disponibilidad de un departamento exactamente al lado del de su hija. Secundariamente, las amenidades como el gimnasio y la piscina, y la seguridad del nuevo distrito, fueron factores que hicieron la elección más atractiva.",
+        "firing_criteria": "Cualquier proyecto o configuración que no permitiera tener dos departamentos contiguos fue descartado automáticamente. La distancia física era inaceptable.",
+        "trade_offs_reales": "Sacrificó una casa grande (casi 200m²) por un departamento pequeño, lo que la obligó a deshacerse de todos sus muebles y le causó depresión. Aceptó un cambio radical de distrito y estilo de vida.",
+        "factores_de_confianza": "La confianza principal radicaba en que la decisión era conjunta con su hija. Adicionalmente, la consulta con un abogado amigo de la familia le dio seguridad para realizar la compra en planos y al contado, mitigando el miedo a ser estafada.",
+        "reduccion_de_riesgo": "El mayor riesgo percibido no era financiero, sino el de la separación familiar. Comprar un departamento contiguo eliminaba por completo ese riesgo, lo que justificaba cualquier otra incertidumbre del proceso de compra."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La capacidad del proyecto para ofrecer (tras una espera) dos unidades residenciales contiguas. La flexibilidad para revisar planos y asegurar la proximidad fue el único atributo crítico.",
+        "atributos_secundarios": "Las áreas comunes (gimnasio, piscina, spa) y la ubicación más segura y tranquila fueron valorados positivamente por la clienta, pero no fueron determinantes para la decisión de compra.",
+        "alternativas_descartadas": "Buscó opciones en Miraflores, pero las descartó por ser 'minidepartamentos' y no sentirse cómoda con el espacio, además de que no resolvían el problema central de estar junto a su hija."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Satisfecha con la cercanía familiar (el objetivo principal), pero muy insatisfecha con problemas de infraestructura post-venta. Califica con un 9/10, pero la justificación revela problemas graves.",
+        "reservas": "Se sintió estafada por los cambios unilaterales en las condiciones de compra del estacionamiento y depósito después de haber firmado y pagado.",
+        "fricciones_pendientes": "Existen problemas críticos y recurrentes con el sistema de desagüe del edificio (malos olores, atoros, desbordes), que la inmobiliaria no ha solucionado eficazmente, generando gran malestar en la comunidad."
+    },
+    "proyecto": "MUV"
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una pareja, que vive temporalmente con los padres para apoyar el cuidado de su hijo con necesidades especiales, decide comprar un departamento en un proyecto que deseaban desde hace años. La elección de la unidad está completamente determinada por las necesidades de su hijo: un espacio para terapias, un piso bajo por seguridad y amplias áreas verdes.",
+    "historia_causal": {
+        "contexto_previo": "La pareja vive con los padres de ella en Surco, una solución funcional que les permite tener apoyo constante para su hijo, quien tiene una condición genética. Poseen dos departamentos propios, pero uno está en Trujillo (alquilado) y el otro en Chorrillos (habitado por los suegros), ninguno adecuado para su situación actual.",
+        "tension_acumulada": "Existía una necesidad latente de establecer su propio hogar, pero uno que estuviera estructuralmente preparado para las necesidades de su hijo (terapias, accesibilidad) y que mantuviera la proximidad indispensable con la red de apoyo familiar. La solución actual, aunque cómoda, era percibida como temporal.",
+        "bloqueadores": "El principal bloqueador en el pasado fue económico. Habían visto el proyecto WOW en sus primeras etapas (2017) pero su presupuesto no les permitía comprar en ese momento. La falta de urgencia, al tener una solución de vivienda estable, también pospuso la decisión.",
+        "eventos_habilitadores": "La acumulación de ahorros les dio la capacidad financiera para la cuota inicial. El evento clave fue una visita en diciembre de 2023 a una prima que vive en la primera etapa del proyecto, lo que reactivó y potenció su deseo latente por el estilo de vida y las instalaciones que ofrecía.",
+        "switching_trigger": "El 'enamoramiento' definitivo con el proyecto durante la visita a su prima. Ver las áreas comunes en uso y visualizar cómo podrían beneficiar directamente a su hijo (terapias al aire libre) fue el estímulo final que los impulsó a pasar de un deseo pasivo a una acción de compra.",
+        "momento_de_decision": "La decisión fue extremadamente rápida y enfocada. No exploraron otras alternativas de manera seria. Una vez que el deseo se reactivó y confirmaron que había un producto que se ajustaba a sus necesidades y presupuesto, procedieron directamente a la compra, apalancados en su falta de urgencia para mudarse."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida de la familia opera en torno al cuidado de su hijo, lo que crea una fuerte dependencia de la red de apoyo de los abuelos. Esta restricción estructural dicta que cualquier solución de vivienda debe estar geográficamente cerca. La decisión de compra se activa cuando su capacidad económica coincide con la reactivación de un deseo aspiracional por un proyecto que, además, resuelve perfectamente sus necesidades funcionales familiares."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr un entorno de vida estable, propio y a largo plazo que esté perfectamente adaptado para maximizar el bienestar, la seguridad y el desarrollo de su hijo, manteniendo al mismo tiempo la conexión vital con su red de apoyo familiar.",
+        "job_statement": "Cuando mi situación familiar requiere un entorno de vivienda altamente especializado y con soporte cercano, quiero comprar un departamento que ofrezca espacios adaptables y seguros, para poder brindarle a mi hijo la mejor calidad de vida posible y facilitar nuestra logística diaria.",
+        "job_dominante_narrativo": "La familia está intentando construir un 'nido' a medida, un sistema operativo familiar que resuelva las necesidades presentes y futuras de su hijo, asegurando que el espacio físico no sea una barrera sino un facilitador para su desarrollo y el bienestar de todos.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La tipología 'flex' adaptable para terapias, el piso bajo para evacuación segura, las amplias áreas comunes para actividades al aire libre, la proximidad a la familia y un precio más conveniente que otras opciones fueron los criterios clave.",
+        "firing_criteria": "Proyectos con precios más altos, sin la flexibilidad de entrega a largo plazo (ya que no tenían urgencia), o con áreas comunes menos funcionales para las necesidades de su hijo fueron descartados implícitamente.",
+        "trade_offs_reales": "Aceptaron importantes fricciones en la post-venta: mala comunicación, rotación de vendedores sin aviso, confusión en los procesos de pago y del crédito hipotecario, y retrasos significativos en la entrega. Sacrificaron la certeza y la buena gestión por los beneficios del producto.",
+        "factores_de_confianza": "La confianza principal provino del conocimiento previo de su esposo sobre los problemas de permisos en el sector inmobiliario de Surco, lo que les permitió racionalizar y tolerar los retrasos. El 'enamoramiento' previo con el proyecto también generó una fuerte convicción.",
+        "reduccion_de_riesgo": "El no tener urgencia para mudarse fue el mayor reductor de riesgo, permitiéndoles absorber los retrasos sin que afectara su calidad de vida. La compra se sintió como una inversión a futuro y no como una solución a una crisis inmediata."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La distribución 2+flex, el estar en un 2do (3er real) piso, y sobre todo, las áreas comunes (jardines, espacios para niños) que permitían visualizar las terapias de su hijo al aire libre. La propuesta de valor del condominio como un todo fue el principal atractivo.",
+        "atributos_secundarios": "El depósito y las cocheras fueron componentes necesarios pero no decisivos en la elección del proyecto. La marca de la inmobiliaria no fue un factor de confianza, sino más bien una fuente de fricción.",
+        "alternativas_descartadas": "No hubo una búsqueda activa de alternativas. Mencionan MOVE, del mismo desarrollador, pero fue descartado por precio y por estar ya terminado, lo cual no se ajustaba a su flexibilidad temporal. Otros proyectos solo fueron vistos superficialmente online."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Dividido: un 10/10 para el proyecto (el producto y su promesa de valor) y un 8/10 para la inmobiliaria, penalizada por serias deficiencias de comunicación y gestión en la post-venta.",
+        "reservas": "La principal reserva es la incertidumbre generada por la mala comunicación de la inmobiliaria. Hay desconfianza sobre la gestión de los procesos y la falta de un punto de contacto claro y responsable.",
+        "fricciones_pendientes": "La gestión del crédito hipotecario sigue siendo un punto de confusión. Persiste la incertidumbre sobre los plazos finales de entrega y la preocupación por futuras construcciones en el condominio a largo plazo."
+    },
+    "proyecto": "WOW"
+}

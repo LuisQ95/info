@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente, ya propietario de un departamento de soltero, es impulsado a comprar una vivienda más grande debido a cambios estructurales en su vida: primero el matrimonio y luego un embarazo, lo que hizo su espacio actual completamente inadecuado para la nueva dinámica familiar.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vivía en su propio departamento de una habitación, una situación estable y adecuada para su vida de soltero. No tenía una necesidad activa de mudarse.",
+        "tension_acumulada": "La tensión comenzó al casarse, cuando el departamento de soltero se volvió pequeño. Esta tensión se intensificó drásticamente cuando su esposa quedó embarazada, creando una necesidad urgente y no negociable de un espacio con al menos tres habitaciones.",
+        "bloqueadores": "La búsqueda inicial fue pausada por la incertidumbre de la pandemia. Posteriormente, una mala experiencia con otra inmobiliaria que retrasó la entrega de un departamento de dos habitaciones generó desconfianza y estrés en el proceso.",
+        "eventos_habilitadores": "El crecimiento de la familia (matrimonio y posterior embarazo) fue el habilitador principal, convirtiendo una preferencia en una necesidad estructural. Contar con ahorros previos y la identificación de un proyecto viable (MUV) frente a otro riesgoso (Paz Centenario) permitieron que la decisión avanzara.",
+        "switching_trigger": "El embarazo de su esposa fue el detonante definitivo. Este evento transformó la necesidad de 'más espacio' en una urgencia por 'un hogar familiar adecuado ahora', reactivando la búsqueda de manera inmediata y decisiva.",
+        "momento_de_decision": "La elección de MUV fue pragmática y basada en la reducción de riesgo. Ya conocía el proyecto por su cercanía. La decisión se consolidó al recibir información negativa sobre la licencia de construcción de su principal alternativa (Paz Centenario), lo que lo llevó a optar por la opción que parecía más segura y con construcción garantizada."
+    },
+    "contexto_activador": {
+        "marco_general": "Un profesional establecido y propietario de vivienda que atraviesa una rápida transición de vida, pasando de ser soltero a formar una familia. Su sistema de vida y sus responsabilidades están cambiando, lo que le obliga a reconfigurar su patrimonio inmobiliario para que se ajuste a las nuevas necesidades operativas y de espacio de su núcleo familiar."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un espacio físico estable y funcional que pueda albergar cómodamente a su familia en crecimiento, proveyendo un entorno de seguridad y bienestar para su esposa e hijos, y cumpliendo con su rol de proveedor.",
+        "job_statement": "Cuando mi familia crece y mi vivienda actual se vuelve inadecuada, quiero comprar un departamento más grande para poder acomodar a todos cómodamente y garantizar la estabilidad de mi hogar.",
+        "job_dominante_narrativo": "El cliente está tratando de resolver la desalineación estructural entre su vivienda actual y la nueva realidad operativa de su familia en expansión, buscando adecuar su espacio para el crecimiento y las necesidades del grupo.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "Ninguno"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La viabilidad y seguridad del proyecto (tener licencia de construcción confirmada) fue el criterio principal. La ubicación conveniente y la buena impresión de los departamentos piloto fueron factores secundarios que reforzaron la elección.",
+        "firing_criteria": "El alto riesgo de que el proyecto de la competencia (Paz Centenario) fuera paralizado por problemas con la licencia de construcción fue la razón explícita y determinante para descartarlo.",
+        "trade_offs_reales": "Aceptó los retrasos en la entrega porque no tenía una urgencia extrema de mudanza inmediata. Sacrificó una debida diligencia profunda sobre la calidad y el servicio post-venta de la inmobiliaria, priorizando la certeza de que el edificio se construiría.",
+        "factores_de_confianza": "La principal fuente de confianza fue la confirmación de que MUV tenía la licencia de construcción, en contraste directo con la incertidumbre que rodeaba a su competidor. Esto le dio seguridad para avanzar con la compra.",
+        "reduccion_de_riesgo": "Su estrategia de reducción de riesgo consistió en elegir el proyecto que presentaba la menor probabilidad de fracaso en la construcción, eliminando la alternativa que podría haber dejado su inversión congelada por años."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación, por ser cercana a su zona de vida, y el diseño de los pilotos, que le parecieron atractivos. Sin embargo, el atributo clave fue la existencia de la licencia de construcción, que garantizaba la viabilidad del proyecto.",
+        "atributos_secundarios": "Mencionó que le gustó la 'temática' del proyecto, pero esto fue un comentario menor y no un factor decisivo en la compra.",
+        "alternativas_descartadas": "Descartó explícitamente un proyecto de Paz Centenario. La razón fue la información que recibió sobre problemas con su licencia de construcción y el riesgo de que la obra se paralizara, lo cual efectivamente ocurrió."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Extremadamente bajo, lo califica como 'negativo', por debajo de cero. Describe la experiencia post-compra como una 'pesadilla' y un 'desastre' total.",
+        "reservas": "Siente que fue víctima de un 'marketing transaccional', donde la inmobiliaria se desentendió por completo una vez que se concretó la venta, mostrando un trato déspota y nulo interés en resolver problemas.",
+        "fricciones_pendientes": "Sufre de múltiples problemas graves y no resueltos: defectos de construcción (humedad, melamina abombada, mármol dañado), fallas críticas de diseño en áreas comunes (intercomunicadores, sistema de desagüe, alarmas de incendio) y, crucialmente, la falta de entrega del título de propiedad después de más de un año, lo que le impide refinanciar su crédito y le genera pérdidas económicas mensuales."
+    },
+    "proyecto": "MUV"
+}

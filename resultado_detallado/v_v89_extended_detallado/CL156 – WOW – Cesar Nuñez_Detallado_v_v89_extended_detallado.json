@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra de inversión activada por capital excedente, con criterios de selección definidos por la conveniencia logística y futura de la familia, que ahora enfrenta incertidumbre por una deficiente comunicación post-venta.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive cómodamente en un departamento propio, más grande que el adquirido, y no tiene ninguna necesidad habitacional. Disponen de un capital excedente que no está generando rendimientos.",
+        "tension_acumulada": "Existía una conciencia latente del costo de oportunidad de tener capital inmovilizado. La idea de invertir en un inmueble para generar una renta pasiva estaba presente, aunque sin una búsqueda activa.",
+        "bloqueadores": "La falta de una necesidad urgente de vivienda mantenía la búsqueda en un estado pasivo. No había un impulso fuerte para investigar activamente el mercado inmobiliario.",
+        "eventos_habilitadores": "La disponibilidad de capital para cubrir la cuota inicial (20%) y el proceso de calificación crediticia ya en marcha (plan ahorro) eliminaron las barreras financieras para ejecutar la inversión cuando surgiera la oportunidad.",
+        "switching_trigger": "Ver una publicidad del proyecto WOW en internet, que por su ubicación y características (áreas comunes) llamó su atención y los movió de una consideración pasiva a una acción concreta de visitar el proyecto.",
+        "momento_de_decision": "La decisión fue muy rápida. Tras la visita, el proyecto encajó perfectamente con sus criterios de inversión y conveniencia familiar. Una oferta comercial con descuentos y la presión de la vendedora sobre la disponibilidad aceleraron el cierre de la compra."
+    },
+    "contexto_activador": {
+        "marco_general": "El cliente opera desde una posición de estabilidad habitacional y financiera, con su necesidad de vivienda principal ya resuelta. Su sistema de vida gira en torno a una familia consolidada con dos hijos en edad universitaria, lo que convierte la logística educativa en un factor relevante. La decisión de compra se activa por la disponibilidad de un capital excedente, bajo la condición de encontrar una inversión que no solo sea rentable, sino que también ofrezca flexibilidad y conveniencia para la dinámica familiar futura."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario flexible que funcione como una inversión rentable a corto plazo (alquiler) y como una potencial vivienda familiar a futuro, optimizando la conveniencia para los hijos universitarios y la seguridad patrimonial.",
+        "job_statement": "Cuando tengo un capital que no está generando rendimiento, quiero invertirlo en una propiedad inmobiliaria que me ofrezca tanto rentabilidad a corto plazo a través del alquiler como la flexibilidad de convertirse en una opción de vivienda para mi familia en el futuro, para así proteger y hacer crecer mi patrimonio de forma segura.",
+        "job_dominante_narrativo": "El cliente está intentando convertir un capital ocioso en un activo productivo para asegurar su patrimonio y generar ingresos pasivos. La misión principal es encontrar una buena oportunidad de inversión inmobiliaria, donde la rentabilidad y la opcionalidad a futuro son los objetivos centrales.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La elección se basó en la combinación de una ubicación estratégica (cercanía a la universidad de los hijos), una tipología de producto flexible (2+flex adaptable a 3 dormitorios para uso familiar futuro) y un diferenciador clave en las áreas comunes (cancha de tenis).",
+        "firing_criteria": "Descartaron automáticamente opciones en ubicaciones con mucho tráfico y ruido, y con áreas comunes que no les parecieron atractivas o funcionales para su visión de uso futuro.",
+        "trade_offs_reales": "Aceptaron un cambio en la ubicación de la cochera asignada, toleraron tácticas de presión de venta y, sobre todo, están soportando una comunicación post-venta inexistente y contradictoria que genera incertidumbre.",
+        "factores_de_confianza": "La confianza inicial se basó en el rápido y evidente encaje del producto con sus criterios. Sin embargo, esta confianza se ha visto severamente erosionada por la mala gestión post-venta, la falta de información y los errores en los documentos.",
+        "reduccion_de_riesgo": "La decisión se sintió más segura al aprovechar una oferta con descuentos, lo que validó la compra como una buena oportunidad financiera. No obstante, la falta de un contrato físico y de comunicación clara ha incrementado la percepción de riesgo post-compra."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La proximidad a la Universidad de Lima, la distribución flexible del departamento (2+flex) y la cancha de tenis fueron los tres atributos que generaron un encaje perfecto e inmediato con sus criterios de selección.",
+        "atributos_secundarios": "El depósito asociado a la cochera fue un atributo valorado inicialmente, pero su ausencia final no fue un factor decisivo para detener la compra, aunque sí generó molestia.",
+        "alternativas_descartadas": "Un proyecto en la zona de El Derby fue la principal alternativa considerada y descartada activamente por su ubicación ruidosa, el tráfico intenso y áreas comunes menos atractivas en comparación con WOW."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alta satisfacción con la decisión de inversión y el producto elegido, pero muy baja satisfacción con la experiencia post-venta y la gestión de la inmobiliaria.",
+        "reservas": "La principal reserva es la creciente desconfianza hacia la inmobiliaria, provocada por la falta total de comunicación proactiva, información contradictoria sobre plazos y errores en los planos y asignaciones.",
+        "fricciones_pendientes": "Se sienten 'en el aire' con una inversión de más de 150,000 soles. No tienen un contrato físico, desconocen las fechas de inicio de obra y entrega, y no tienen un punto de contacto claro, lo que genera ansiedad e incertidumbre."
+    },
+    "proyecto": "WOW"
+}

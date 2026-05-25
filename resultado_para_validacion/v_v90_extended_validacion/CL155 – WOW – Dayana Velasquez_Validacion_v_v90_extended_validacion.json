@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la decisión de dejar de alquilar para tener 'algo propio' y 'un lugar más seguro', lo cual es claramente J01. Las necesidades familiares (cercanía a la universidad, áreas comunes para los hermanos menores, primer piso para el padre) son los filtros de selección (Selection Drivers) que definen qué tipo de propiedad comprar, pero no el porqué de la compra en sí. La compra se habría realizado de todos modos para salir del alquiler, aunque quizás en otro proyecto si las necesidades familiares fueran distintas.",
+        "debate_deal_breaker": "El deal breaker es la condición de 'no ser propietario'. Si la familia ya tuviera una vivienda propia, esta compra no se habría iniciado. La necesidad de establecer una base habitacional es la causa raíz. Los criterios familiares, aunque muy importantes, son negociables en su conjunto (podrían haber elegido otro proyecto que cumpliera otros criterios), pero la necesidad de propiedad no lo es.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "mis papás también quieren, están viendo una casa alquilada conmigo",
+                    "decidimos ir a la feria inmobiliaria",
+                    "fue básicamente porque queríamos un lugar más seguro, ya tener algo propio"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si ya tuvieran una casa propia, ¿comprarían este departamento? No. La compra se anula sin la necesidad de dejar de alquilar."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "cuando nos iniciamos la universidad, y por acá hay un montón de universidades",
+                    "mis hermanos que todavía están pequeños... van a poder disfrutar más",
+                    "mi papá hace un poco mal de la rodilla, entonces, pues, podemos tener el primer piso"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuvieran estas necesidades familiares específicas, ¿comprarían una propiedad para dejar de alquilar? Sí. La compra ocurriría igual, aunque la elección del producto sería diferente."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El Job Dominante es J01. La familia entra al mercado para resolver su situación de vivienda precaria (alquiler) y establecer una base propia y segura. El J04 actúa como un poderoso conjunto de criterios de selección que modelan la solución final, pero no originan la necesidad de compra. La causa fundamental es la transición de inquilino a propietario."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista reconstruye de manera clara y coherente la historia causal de la compra. Se puede distinguir con precisión el 'Entry Driver' (J01: salir de alquilar) de los 'Selection Drivers' (J04: necesidades familiares). La narrativa proporciona evidencia textual sólida para identificar los criterios de contratación, descarte y los trade-offs realizados, permitiendo un análisis robusto y fiable."
+}

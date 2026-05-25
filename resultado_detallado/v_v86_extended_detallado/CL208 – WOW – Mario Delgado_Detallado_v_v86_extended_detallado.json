@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente con capital de jubilación disponible realiza una compra de inversión no planificada, activada por la recomendación de su hija y la fuerte atracción hacia la propuesta de valor y amenities del proyecto.",
+    "historia_causal": {
+        "contexto_previo": "El cliente, de 66 años, vive con su esposa en un departamento propio en Surco. No tenía ninguna necesidad o intención activa de mudarse o comprar otra propiedad. Su situación habitacional era estable y cómoda.",
+        "tension_acumulada": "La tensión era puramente financiera y latente. Al acercarse y cumplir los 65 años, iba a recibir los fondos de su jubilación (AFP), lo que generó la pregunta de cómo invertir ese capital para asegurar su vejez y evitar que perdiera valor.",
+        "bloqueadores": "El principal bloqueador era la inercia. No había una búsqueda activa ni una urgencia que lo empujara a explorar el mercado inmobiliario. Estaba 'tranquilo' en su situación actual.",
+        "eventos_habilitadores": "El evento habilitador clave fue la recepción de sus fondos de jubilación, que le proporcionó el capital necesario. Esto, combinado con el hecho de que su hija trabajaba como agente inmobiliaria, creó el puente perfecto hacia la oportunidad.",
+        "switching_trigger": "El detonante fue cuando su hija, conociendo el proyecto WOW por su trabajo, se lo presentó. La visita al proyecto y el 'enamoramiento' con el concepto y las áreas comunes fue el estímulo que convirtió una idea latente de inversión en una acción de compra concreta.",
+        "momento_de_decision": "La decisión fue extremadamente rápida y emocional, descrita como 'amor a primera vista'. No hubo un proceso de comparación con otros proyectos inmobiliarios. Vio el proyecto, le gustó el concepto y decidió comprar, validando la decisión como una buena inversión para su capital."
+    },
+    "contexto_activador": {
+        "marco_general": "Un hombre recién jubilado, con capital disponible y sin urgencia habitacional, cuya decisión de inversión se activa a través de una conexión familiar directa con el sector inmobiliario, que le presenta una oportunidad específica y atractiva."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar su futuro financiero en la vejez, convirtiendo un capital estático (fondos de jubilación) en un activo productivo que genere una renta pasiva (alquiler) o se revalorice para una venta futura, manteniendo la flexibilidad de poder usarlo para la familia si fuera necesario.",
+        "job_statement": "Cuando recibo el dinero de mi jubilación, quiero invertirlo en una propiedad segura para que me genere una pensión o se revalorice, asegurando así mi tranquilidad económica en la vejez.",
+        "job_dominante_narrativo": "El cliente está tratando de resolver el problema de qué hacer con el dinero de su jubilación. La compra del departamento es la contratación de un vehículo de inversión para proteger y hacer crecer su patrimonio, con la doble funcionalidad de generar ingresos o servir como un activo familiar a futuro.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio principal fue la propuesta de valor extrínseca al departamento: el club house, la piscina, el gimnasio y la cancha de tenis. La flexibilidad de la tipología (2 dormitorios + flex) y la ubicación estratégica cerca de una universidad (potencial para alquiler) también fueron factores importantes.",
+        "firing_criteria": "Descartó proyectos ya terminados, incluso de la misma inmobiliaria, por tener un precio más elevado. La compra en planos representaba una mejor oportunidad de inversión inicial. Un precio significativamente mayor habría sido un factor de descarte.",
+        "trade_offs_reales": "Aceptó la incertidumbre y los largos plazos de una compra en planos, la distancia relativa a su trabajo y una comunicación post-venta deficiente y generadora de malestar, a cambio de un mejor precio de entrada y la promesa de las amenities deseadas.",
+        "factores_de_confianza": "La principal fuente de confianza inicial fue su hija, quien trabajaba en el sector y le presentó el proyecto. A pesar de los problemas posteriores, la decisión de continuar se basa en una renovación de la confianza (un 'salto de fe') en la inmobiliaria.",
+        "reduccion_de_riesgo": "El riesgo se redujo al ser uno de los primeros compradores, lo que le permitió acceder a un plan de pagos semestrales más flexible y conveniente, sin necesidad de un desembolso total inmediato mientras el proyecto no avanzaba."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes, especialmente el club house y la cancha de tenis, fueron el principal gancho. El concepto general del condominio y la promesa de un estilo de vida recreativo conectaron fuertemente con su visión, tanto para uso personal como para el atractivo de la inversión.",
+        "atributos_secundarios": "La distribución interna del departamento fue considerada estándar y no un diferenciador clave ('son muy parecidos en casi todos los condominios'). La tipología específica fue funcional, pero no el principal motor de la decisión.",
+        "alternativas_descartadas": "Consideró de forma abstracta otras formas de inversión como la bolsa, pero prefirió la tangibilidad de un bien inmueble. Descartó activamente otros departamentos de la misma inmobiliaria que ya estaban terminados (como MOVE) debido a su mayor costo."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo. Describe la experiencia de espera como de 'incertidumbre' y 'constante malestar' debido a los retrasos en la construcción y la mala comunicación de la empresa. No lo recomendaría en su estado actual (en planos).",
+        "reservas": "Su principal reserva es la falta de tangibilidad y los retrasos. La confianza en la empresa se ha visto erosionada, al punto de haber considerado solicitar la devolución de su dinero y tener que 'amenazar' para obtener respuestas.",
+        "fricciones_pendientes": "La principal fricción es la incertidumbre sobre los plazos de entrega reales y la necesidad de gestionar activamente la comunicación con la inmobiliaria. El desembolso final del dinero sigue pendiente y condicionado al avance de la obra."
+    },
+    "proyecto": "WOW"
+}

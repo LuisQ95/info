@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El debate se centra en si el gatillo fue la optimización de la vida diaria (J03) o la necesidad de espacio para la familia (J04). La evidencia es contundente: los clientes declaran que los 'dos detonantes' para la búsqueda fueron la cercanía al trabajo y la excesiva humedad de su vivienda anterior. La necesidad de 3 dormitorios para sus hijos fue un criterio de selección que definió el 'qué' comprar, no el 'porqué' entraron al mercado. Incluso consideraron una opción de 2 dormitorios, lo que demuestra que el espacio familiar no era el driver innegociable.",
+        "debate_deal_breaker": "El test canónico confirma la dominancia de J03. Si se eliminara la fricción del traslado y la humedad, no habrían comprado, ya que su vivienda anterior era propia, grande y funcional. En cambio, si sus hijos ya se hubieran independizado, la compra para resolver los problemas de traslado y salud igualmente habría ocurrido, aunque probablemente en una unidad más pequeña. La compra no dependía de la presencia de los hijos, sino de la eliminación de una fricción personal y diaria.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "yo trabajo prácticamente a siete minutos de este lugar. Entonces, nosotros ya veníamos pensando eh que teníamos que buscar una oportunidad para salir de Chorrillos, para acercarme al trabajo, número uno.",
+                    "Número dos, la excesiva humedad de de Chorrillos, cerca de la playa y todo eso, a mí me afectaba en invierno mucho.",
+                    "Entonces, fueron los dos detonantes, ¿no?"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Positivo. Sin la fricción del largo traslado al trabajo y los problemas de salud por la humedad, la compra no se habría realizado, ya que poseían una vivienda propia y funcional."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Nosotros teníamos dos alternativas, ¿no? o un departamento de tres dormitorios. Tenemos dos hijos varones.",
+                    "decidimos por el departamento de tres dormitorios y así es que estamos juntos los cuatro."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Negativo. La compra habría ocurrido igualmente sin los hijos en casa, ya que los detonantes principales (trabajo y salud) eran independientes de la configuración familiar. Habrían optado por una tipología diferente, pero el cambio de vivienda se habría ejecutado."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "Se dictamina J03 como Job Dominante. La compra es una clara optimización funcional pura. Los clientes ya tenían una base habitacional estable y propia. La decisión de entrar al mercado fue causada exclusivamente por dos fricciones diarias severas: un largo commute al trabajo y un problema de salud derivado de la humedad. El J04 opera como un claro Job Secundario, definiendo la configuración del producto (3 dormitorios) pero no el origen de la demanda."
+    },
+    "dictamen_final": "Entrevista Válida y de Alta Calidad.",
+    "justificacion": "La entrevista es excepcionalmente clara para el análisis de Jobs to be Done. Proporciona una narrativa causal detallada y permite distinguir con precisión el 'Entry Driver' (J03: optimizar la vida diaria por trabajo y salud) del 'Selection Driver' (J04: adaptar el espacio a la familia). El cliente articula explícitamente los 'dos detonantes', lo que elimina la ambigüedad y valida el diagnóstico de J03 como dominante de forma robusta."
+}

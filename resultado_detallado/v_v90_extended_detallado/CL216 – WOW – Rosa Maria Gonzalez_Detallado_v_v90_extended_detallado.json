@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia de Tacna, con capital disponible, decide comprar un departamento para su hija que se muda a Lima a estudiar. La elección se basa en la seguridad y cercanía a la universidad, transformando un gasto de alquiler en una inversión patrimonial y una solución de soporte familiar a largo plazo.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive en Tacna. Su hija se traslada a Lima para iniciar sus estudios de medicina en la UPC, lo que genera la necesidad inmediata de encontrarle una vivienda.",
+        "tension_acumulada": "La principal tensión era la preocupación por la seguridad y el bienestar de su hija viviendo sola en una nueva ciudad. A esto se sumaba la carga económica de un alquiler, percibido como un gasto sin retorno, y la necesidad de encontrar una solución estable para toda su etapa universitaria.",
+        "bloqueadores": "Inicialmente, el plan era únicamente alquilar, no comprar. No había una búsqueda activa de inversión inmobiliaria. La falta de familiaridad con el mercado de Lima también era una barrera inicial.",
+        "eventos_habilitadores": "La familia disponía de capital proveniente de la venta de unos terrenos. Al buscar alquiler, encontraron una opción en el complejo Magna House y la experiencia fue muy positiva (seguridad, limpieza, personal), lo que generó confianza en el lugar. La existencia del proyecto WOW en el mismo sitio se presentó como una oportunidad.",
+        "switching_trigger": "La combinación de tener una experiencia de alquiler muy satisfactoria en el complejo, la disponibilidad de capital y la propuesta de compra del proyecto WOW, los hizo pasar de 'buscar alquiler' a 'evaluar compra' para dejar de gastar y empezar a invertir.",
+        "momento_de_decision": "El proceso fue rápido. Al ya conocer y valorar muy positivamente el complejo, la decisión de comprar en WOW fue casi inmediata. Visitaron opciones de entrega inmediata en MUV pero las descartaron por ubicación (pisos altos, ruido), y optaron por comprar en planos en WOW para asegurar la ubicación y tipología deseadas."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida es el de una familia unida que opera a distancia para apoyar a un miembro en una etapa crucial. La hija está en Lima, enfocada en sus estudios, mientras los padres desde Tacna gestionan el soporte logístico y financiero. La decisión de compra se activa bajo la condición de tener que resolver la vivienda de la hija de forma segura y económicamente eficiente, aprovechando un capital disponible."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la tranquilidad de saber que su hija vive en un lugar seguro, conveniente y estable durante sus años universitarios, mientras se optimizan los recursos familiares al convertir un gasto fijo (alquiler) en un activo patrimonial a largo plazo.",
+        "job_statement": "Cuando mi hija se muda a otra ciudad para estudiar en la universidad, quiero comprarle un departamento propio cerca de su centro de estudios, para poder garantizar su seguridad y bienestar a distancia, y a la vez, realizar una inversión familiar inteligente.",
+        "job_dominante_narrativo": "La familia está intentando facilitar la transición y el éxito de su hija en la universidad, proveyéndole una base de operaciones segura y funcional para que pueda enfocarse en sus estudios sin preocupaciones logísticas.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La seguridad del condominio cerrado fue el factor principal. La cercanía a la universidad (UPC) era crucial para la conveniencia de la hija. La calidad del mantenimiento, la limpieza y la amabilidad del personal del complejo existente reforzaron la decisión. La tipología de 2 dormitorios + flex ofrecía el espacio necesario para la hija y para las visitas de los padres.",
+        "firing_criteria": "Descartaron automáticamente opciones en pisos muy altos por preferencia personal. También descartaron unidades con exposición directa al ruido de la cancha de tenis, basado en una experiencia previa. Proyectos en otras zonas (Miraflores, Jesús María) fueron descartados por la lejanía y menor percepción de seguridad en comparación.",
+        "trade_offs_reales": "El principal sacrificio fue comprar en planos, lo que implicó aceptar una incertidumbre en la fecha de entrega. Esto ha resultado en demoras significativas, gastos adicionales de alquiler no previstos y una muy mala experiencia de comunicación y atención post-venta.",
+        "factores_de_confianza": "La confianza se basó en su experiencia directa y positiva como inquilinos en el complejo Magna House. La amabilidad y profesionalismo del personal de mantenimiento y seguridad les dio una gran tranquilidad. El vendedor inicial (Jorge/Coqui) también generó un vínculo de confianza que los animó a comprar.",
+        "reduccion_de_riesgo": "Comprar en un complejo que ya conocían y aprobaban redujo drásticamente el riesgo de la elección. Sabían exactamente cómo era la vida allí, la calidad del entorno y la seguridad, eliminando las sorpresas de un proyecto desconocido."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La seguridad integral del complejo. La ubicación estratégica a 5 minutos de la UPC. La calidad percibida en el mantenimiento y limpieza de las áreas comunes. La amabilidad del personal. La posibilidad de elegir un departamento en piso bajo y lejos de fuentes de ruido al comprar en planos.",
+        "atributos_secundarios": "La cochera y el depósito fueron comprados pero no eran el driver principal. Las áreas comunes como la piscina eran valoradas pero no decisivas frente a la seguridad y ubicación.",
+        "alternativas_descartadas": "Se descartaron departamentos de entrega inmediata en MUV (mismo complejo) por estar en pisos muy altos o tener una sola habitación. Se descartó una unidad específica por su cercanía y ruido de la cancha de tenis. Otros proyectos en zonas como El Derby fueron considerados pero descartados por no ofrecer el mismo nivel de seguridad y conveniencia percibida."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Un 7 sobre 10. La satisfacción con el concepto del proyecto, la ubicación y la calidad del condominio es muy alta (10/10), pero la experiencia post-venta ha sido muy negativa debido a los retrasos en la entrega y la pésima comunicación, lo que reduce la calificación general.",
+        "reservas": "La principal reserva es la desconfianza generada por la inmobiliaria debido al incumplimiento de las fechas de entrega y la mala atención recibida, lo que les genera angustia y preocupación por su inversión.",
+        "fricciones_pendientes": "La fricción más crítica es la incertidumbre sobre la fecha final de entrega del departamento, lo que les obliga a gestionar la extensión de su contrato de alquiler actual, incurriendo en gastos no planificados. La falta de comunicación proactiva por parte de la inmobiliaria es una fuente constante de molestia."
+    },
+    "proyecto": "WOW"
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo (Entry Driver) es el crecimiento de la familia, que hace que su departamento de soltero sea obsoleto. Pasa de necesitar una a dos y luego a tres habitaciones. El Filtro (Selection Driver) es la ubicación conveniente y la percepción de menor riesgo del desarrollador en comparación con un competidor que tenía problemas de licencia.",
+        "debate_deal_breaker": "El factor innegociable era el espacio. La necesidad de pasar de un departamento de una habitación a uno más grande para acomodar a su esposa y a sus hijos fue la razón fundamental de la compra. Cualquier opción que no ofreciera el espacio adecuado habría sido descartada de inmediato.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "era mi departamento de soltero y ya me casé y tuve que comprar un departamento con dos habitaciones.",
+                    "mi esposa sale embarazada y entonces ya tenía que pensar en comprar un departamento con tres habitaciones.",
+                    "Como como te dije, que era mi departamento de una habitación. Una habitación. OK. Entonces, yo me casé y tuve un hijo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin el crecimiento de su familia (matrimonio e hijos), no habría tenido ninguna razón para abandonar su departamento de soltero. La compra no tendría sentido."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "Yo vivía muy cerca.",
+                    "como vivía cerca, vi el proyecto, me gustó la temática",
+                    "La ubicación me parecía bonita"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habría comprado un departamento más grande en otro lugar si este no hubiera estado disponible. La conveniencia de la ubicación fue un factor de elección, no la causa raíz de la necesidad de mudarse."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "El Job Dominante es J04. La compra es una respuesta directa y estructural a la inadecuación de su vivienda actual (un departamento de soltero) frente a la nueva realidad de su familia en crecimiento. La ubicación (J03) es un criterio de selección importante, pero no el motor que inicia la búsqueda."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "A pesar de que la mayor parte de la conversación se centra en una fuerte insatisfacción post-compra, el cliente proporciona una narrativa causal clara y coherente sobre el origen de su necesidad (crecimiento familiar - J04), su proceso de consideración y los criterios de descarte (riesgo del desarrollador). La historia de la decisión de compra es completa y analizable."
+}

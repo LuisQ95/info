@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente sin necesidad de compra es seducido por la propuesta de valor del condominio (club house), realizando una compra impulsiva y emocional que luego se materializa en MUV tras una mala experiencia con el proyecto inicial (WOW).",
+    "historia_causal": {
+        "contexto_previo": "Vive solo en un departamento propio de 200m2 que también utiliza para su empresa. No tiene ninguna necesidad o intención activa de comprar una nueva propiedad.",
+        "tension_acumulada": "No existe una tensión o problema acumulado. La demanda es latente y se crea en el momento, es 'No Problem-Driven'. El único antecedente es un interés general en adquirir propiedades, como demuestra la compra de otro departamento para inversión.",
+        "bloqueadores": "El principal bloqueador era la inexistencia de una necesidad. No estaba buscando activamente y la falta de tiempo le había impedido visitar el proyecto a pesar de invitaciones previas de amigos.",
+        "eventos_habilitadores": "Recibe una publicidad por WhatsApp que capta su atención. Dispone de tiempo un domingo para visitar el proyecto por curiosidad. Tiene la capacidad económica para tomar una decisión de compra impulsiva.",
+        "switching_trigger": "La visita guiada al club house y las áreas comunes del condominio. La experiencia directa con la propuesta de estilo de vida del proyecto fue el detonante inmediato de la decisión de compra.",
+        "momento_de_decision": "La decisión fue instantánea y emocional ('lo compro'). A pesar de una experiencia muy negativa con la primera opción (WOW), su deseo de comprar 'aquí' persistió, llevándolo a negociar una alternativa en MUV que resultó ser muy ventajosa."
+    },
+    "contexto_activador": {
+        "marco_general": "Empresario soltero, con solvencia económica y sin urgencias habitacionales, que valora el estatus y el estilo de vida. Su vida está organizada en torno a su negocio, utilizando su vivienda actual como centro de operaciones, y tiene una propensión a la compra de inmuebles."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Acceder a un estilo de vida superior, que le ofrezca disfrute, estatus y una sensación de recompensa, materializado en las amenidades y el ambiente del condominio.",
+        "job_statement": "Cuando me encuentro con una propuesta de valor que me genera un deseo inmediato, quiero adquirirla para sentir que mejoro mi calidad de vida y expreso mi éxito, sin que responda a una necesidad funcional.",
+        "job_dominante_narrativo": "Esta persona está intentando acceder a un estilo de vida aspiracional que vio y le gustó, para sentir que disfruta de su éxito y vive en un lugar superior.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La calidad y atractivo de las áreas comunes (club house, piscina) fue el factor decisivo. La persistencia en comprar 'aquí' a pesar de los problemas demuestra que el lugar era el criterio principal.",
+        "firing_criteria": "Proyectos sin una propuesta de valor de estilo de vida contundente. La mala gestión, la falta de transparencia y los plazos incumplidos en la primera opción (WOW) casi lo hacen descartar la compra por completo.",
+        "trade_offs_reales": "Aceptó pasar por un proceso de compra muy conflictivo y estresante con la inmobiliaria para poder concretar su deseo de vivir en ese condominio. Inicialmente, aceptó un departamento que no existía físicamente.",
+        "factores_de_confianza": "La confianza fue muy baja durante gran parte del proceso debido a la mala experiencia con los vendedores y los plazos. La confianza se restableció al final al tratar con una persona de Alquimia (Stephanie) que resolvió su problema y le ofreció una buena alternativa.",
+        "reduccion_de_riesgo": "La oferta final en MUV, un proyecto ya terminado y con un precio muy ventajoso, redujo drásticamente el riesgo percibido y le permitió cerrar la compra de forma rápida y segura."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El club house, la piscina y el concepto general del condominio. La propuesta de estilo de vida fue el gancho principal.",
+        "atributos_secundarios": "El departamento en sí era secundario; de hecho, compró sin verlo. El precio final fue un habilitador clave para el cierre, pero no el gatillo inicial.",
+        "alternativas_descartadas": "Tenía ofertas con grandes descuentos en otros proyectos (Highline, Amaras), pero las descartó porque su deseo estaba anclado en este condominio específico."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto con el producto final (departamento y condominio), pero muy bajo con el proceso de compra inicial.",
+        "reservas": "Preocupación por las quejas de otros vecinos sobre la calidad y la gestión de la inmobiliaria, y la incertidumbre sobre la independización.",
+        "fricciones_pendientes": "El tema de la independización del inmueble sigue pendiente."
+    },
+    "proyecto": "MUV"
+}

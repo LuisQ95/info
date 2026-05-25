@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Familia con vivienda propia y estable decide comprar un nuevo departamento para resolver una desalineación estructural con las necesidades de sus hijos: la seguridad del menor y la conveniencia universitaria del mayor. La decisión se acelera al encontrar una propuesta de valor (amenities, precio, financiación) que consideran una oportunidad de mercado única.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive en un departamento propio en La Calera, una zona que, si bien es funcional, presenta un entorno sociocultural mixto y preocupaciones de seguridad que contrastan con la formación que desean para sus hijos.",
+        "tension_acumulada": "Existía una tensión latente por mejorar el entorno social y la seguridad para los hijos. Esta tensión se cristalizó con dos necesidades específicas: un espacio seguro con actividades para el hijo menor y la proximidad a la universidad UPC para el hijo mayor, quien busca una beca deportiva.",
+        "bloqueadores": "La búsqueda previa se veía frenada por precios elevados en proyectos que ofrecían poco valor (departamentos pequeños, sin áreas comunes destacables). Además, tenían una aversión total al financiamiento bancario debido a los intereses y al impacto en su capacidad de crédito empresarial.",
+        "eventos_habilitadores": "La búsqueda activa se reactivó cuando el plan del hijo mayor de estudiar en la UPC se volvió concreto. La aparición de una publicidad online de WOW fue el catalizador que los llevó a explorar una opción que no habían considerado.",
+        "switching_trigger": "La visita al proyecto fue el detonante. El contraste entre el alto valor percibido (áreas comunes tipo club) y un precio inesperadamente bajo (oferta Cyber), sumado a la oferta de financiación directa de la inmobiliaria, eliminó todas las barreras previas y creó una urgencia de compra.",
+        "momento_de_decision": "La decisión fue extremadamente rápida, tomada el mismo día de la visita. La jefa de ventas les presentó una oferta irresistible que no requería negociación. La combinación de producto, precio y condiciones de pago generó una certeza absoluta de que era una oportunidad única que no podían dejar pasar."
+    },
+    "contexto_activador": {
+        "marco_general": "Son una familia consolidada con un sistema de vida estable y capital propio, lo que les permite actuar con decisión cuando encuentran una oportunidad. Su experiencia profesional en el sector de la construcción les otorga un criterio sofisticado para evaluar proyectos, identificar valor real y moverse con una lógica de inversión, incluso en una compra para vivir. La aversión al crédito bancario es una restricción estructural clave en su toma de decisiones."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr un entorno familiar que brinde seguridad, facilite el desarrollo y la autonomía de los hijos en su nueva etapa de vida, y al mismo tiempo represente una inversión patrimonial inteligente y segura.",
+        "job_statement": "Cuando mis hijos entran en una nueva etapa de vida (adolescencia y universidad), quiero mudarme a un entorno tipo club, seguro y estratégicamente ubicado, para poder darles soporte y autonomía sin las fricciones y riesgos de nuestro barrio actual.",
+        "job_dominante_narrativo": "La familia está intentando reconfigurar su base de operaciones para alinearla con las necesidades operativas y de desarrollo de sus hijos. No se trata de una simple mejora, sino de una adaptación estructural para facilitar la logística universitaria de uno y garantizar un entorno de crecimiento seguro para el otro.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J03 - Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Las áreas comunes tipo club fueron el principal atractivo, resolviendo la necesidad de seguridad y recreación. La cercanía a la UPC era un requisito funcional clave. El precio con descuento 'Cyber' y, de forma crítica, la financiación directa sin banco fueron los factores que viabilizaron y aceleraron el cierre.",
+        "firing_criteria": "Descartaron proyectos con mala distribución, pequeños para el precio, o con áreas comunes básicas que no justificaban la inversión. La mala atención en otras inmobiliarias también fue un factor de descarte.",
+        "trade_offs_reales": "Aceptaron la presión de venta de la asesora para asegurar la unidad y el precio. Están tolerando una comunicación post-venta deficiente y una falta de flexibilidad para personalizar el departamento, un sacrificio significativo dado su perfil profesional.",
+        "factores_de_confianza": "La investigación previa sobre la solidez del grupo inmobiliario (a través de contactos en el estudio de abogados Muñiz) les dio seguridad sobre la inversión. Su propio conocimiento del sector construcción les permitió validar la calidad y el valor de la oferta.",
+        "reduccion_de_riesgo": "El principal mecanismo de reducción de riesgo fue evitar el financiamiento bancario a largo plazo. La posibilidad de pagar directamente a la inmobiliaria en un plazo corto (hasta diciembre) se alineó perfectamente con su estrategia financiera y eliminó la principal barrera para la compra."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Los 4000m² de áreas comunes, la ubicación estratégica cerca de la UPC y sus clientes, la tipología de 3 dormitorios y 80m², y el precio de $185,000 con cochera y financiación directa.",
+        "atributos_secundarios": "La distribución y acabados del departamento piloto fueron valorados positivamente, pero el verdadero atractivo estaba en el conjunto del proyecto (amenities y ubicación).",
+        "alternativas_descartadas": "El proyecto MUV fue descartado por no tener la tipología deseada disponible y por problemas de distribución en las unidades que quedaban. Proyectos en La Calera y otras zonas de Surco fueron descartados por ofrecer una relación precio/valor muy inferior (más caros, más pequeños, sin amenities comparables)."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alta con la compra, pero baja con la experiencia post-venta. Racionalmente, sienten que hicieron un gran negocio. Emocionalmente, están frustrados por la falta de comunicación.",
+        "reservas": "La principal reserva es la incertidumbre generada por la inmobiliaria. La falta de respuestas técnicas a sus solicitudes de personalización y la ausencia de comunicación proactiva sobre el inicio de obras erosionan la confianza.",
+        "fricciones_pendientes": "La necesidad crítica de obtener información técnica precisa (planos, medidas, viabilidad de modificaciones) para poder planificar el diseño interior de su futuro hogar. La comunicación con el área de proyectos es inexistente, lo que les impide avanzar."
+    },
+    "proyecto": "WOW"
+}

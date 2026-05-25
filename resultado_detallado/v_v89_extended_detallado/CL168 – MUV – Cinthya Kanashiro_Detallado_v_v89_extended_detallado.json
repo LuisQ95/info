@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia de Cusco compra un departamento en Lima, motivada por la necesidad de proporcionar un entorno seguro y conveniente para su hijo mayor que comienza sus estudios universitarios, priorizando la tranquilidad de los padres y el bienestar del hijo sobre otros factores.",
+    "historia_causal": {
+        "contexto_previo": "La familia reside en Cusco. Su hijo mayor termina el colegio y se muda a Lima para estudiar en la UPC, donde inicialmente vive en un departamento alquilado. Los padres viajan ocasionalmente a Lima.",
+        "tension_acumulada": "Existía una tensión latente por la seguridad del hijo viviendo solo en una ciudad grande a los 17 años. A esto se sumaba la frustración del alquiler: la imposibilidad de personalizar el espacio ('en lo que no es tuyo ni un clavo') y la sensación de no estar construyendo patrimonio.",
+        "bloqueadores": "La principal barrera era la distancia física y la falta de una opción que resolviera de forma convincente la necesidad de seguridad y conveniencia. No estaban en una búsqueda activa y estructurada.",
+        "eventos_habilitadores": "La familia se encontraba de vacaciones en Lima, lo que permitió la visita del padre al proyecto. La capacidad económica para realizar la compra ya existía.",
+        "switching_trigger": "El hijo, en su rutina diaria, pasa por el proyecto, ve la publicidad, entra con un amigo y queda 'encantado' con las instalaciones. Su entusiasmo es tan fuerte que convence a su padre para que visite el proyecto ese mismo día, activando la decisión de compra.",
+        "momento_de_decision": "La decisión fue rápida y liderada por el hijo y el padre, quienes quedaron convencidos tras la visita. La madre, sin haber visitado las instalaciones, aceptó la compra por la convicción de los otros dos ('fueron dos convencidos contra una'). La compra se cerró en ese contexto familiar."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida de la familia está centralizado en Cusco, pero se ve obligado a extenderse para dar soporte a un miembro que inicia una etapa crucial (universidad) en otra ciudad. La decisión de compra se activa bajo la condición de garantizar la seguridad y el bienestar del hijo a distancia, estableciendo un 'hogar base' controlado por la familia en Lima."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr la tranquilidad y seguridad de que su hijo vive en un entorno protegido, propio y conveniente durante su etapa universitaria, y a la vez, establecer un activo familiar a largo plazo que pueda servir para los otros hijos en el futuro.",
+        "job_statement": "Cuando mi hijo se muda a otra ciudad para estudiar, quiero proveerle una vivienda propia y segura cerca de su universidad, para así minimizar mis preocupaciones sobre su bienestar y darle una base estable.",
+        "job_dominante_narrativo": "La familia está intentando crear un 'sistema de soporte habitacional' a distancia para facilitar la transición y la vida universitaria de su hijo, asegurando su protección y minimizando los riesgos de vivir solo en una gran ciudad.",
+        "job_dominante_canonico": "J04: Acompañar crecimiento familiar",
+        "job_secundario_canonico": "J01: Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La cercanía a la universidad (UPC) fue el criterio fundamental. La seguridad de un condominio cerrado fue el segundo factor más importante. Las áreas comunes (piscina, gimnasio) fueron un plus que encantó al hijo y ayudó a cerrar la decisión.",
+        "firing_criteria": "Cualquier ubicación que implicara largos traslados o que fuera percibida como insegura para un joven de 17 años. La opción de seguir alquilando fue descartada por sus limitaciones y falta de control.",
+        "trade_offs_reales": "Aceptaron un retraso de un año en la entrega. La madre aceptó la compra sin haber visitado personalmente las instalaciones, confiando en el juicio de su esposo e hijo. Soportaron graves problemas de postventa, como la venta duplicada de su estacionamiento.",
+        "factores_de_confianza": "La confianza fue depositada enteramente en la experiencia y el entusiasmo del hijo y el esposo. La percepción de seguridad del condominio fue un factor clave para la madre.",
+        "reduccion_de_riesgo": "El principal riesgo a mitigar era la seguridad del hijo. Un condominio cerrado con vigilancia fue la solución que les dio la tranquilidad necesaria para tomar la decisión de compra a distancia."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica, a una distancia caminable de la universidad. El concepto de condominio cerrado que garantizaba seguridad. Las áreas comunes que apelaron directamente al estilo de vida del usuario final (el hijo).",
+        "atributos_secundarios": "La tipología de 2 dormitorios fue una elección funcional, pero no un driver crítico; incluso consideraron cambiar a 3 dormitorios después. La calidad de los acabados no fue un factor decisivo en la compra, aunque sí una fuente de frustración posterior.",
+        "alternativas_descartadas": "La alternativa principal era continuar con el alquiler, la cual fue descartada por la falta de control, seguridad percibida y la imposibilidad de personalizar el espacio. No exploraron activamente otros proyectos de compra."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "8/10. A pesar de los graves problemas de postventa (retraso, estacionamiento, acabados), la satisfacción con el cumplimiento del Job principal (seguridad y ubicación para el hijo) es alta.",
+        "reservas": "La experiencia con la gestión de la inmobiliaria fue muy negativa, generando desconfianza y malestar. Problemas como el retraso de un año, la promesa incumplida de pagar el alquiler extra y la venta duplicada del estacionamiento dañaron la relación.",
+        "fricciones_pendientes": "El departamento está actualmente vacío y deben decidir si lo alquilan hasta que la siguiente hija lo necesite. El proceso de titulación aún no ha concluido. La desconfianza hacia la gestión de la inmobiliaria persiste."
+    },
+    "proyecto": "MUV"
+}

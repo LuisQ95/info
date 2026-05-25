@@ -1,0 +1,37 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) fue la necesidad de invertir un capital disponible (J02). Sin embargo, el filtro de selección (Selection Driver) fue la propuesta de valor del proyecto. El cliente no buscaba cualquier inversión, sino una que se alineara con un estilo de vida aspiracional (J06). El concepto 'club' y las canchas de tenis no fueron un 'plus', sino el factor que activó la decisión de compra sobre este proyecto en particular, transformando una búsqueda pasiva de inversión en una compra activa y emocional.",
+        "debate_deal_breaker": "El 'deal breaker' fue el concepto del proyecto. El cliente explícitamente descartó edificios altos (+10 pisos) y no se interesó por otros proyectos que carecían de una propuesta conceptual fuerte. Si el proyecto WOW no hubiera tenido el concepto de club y las canchas de tenis, la compra no se habría realizado, aunque la necesidad de invertir (J02) siguiera existiendo. El J06 fue la condición innegociable para la selección final.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "El original era el derecho de inversión.",
+                    "Tenía, digamos, no tenía deudas, tenía un ingreso, una buena remuneración.",
+                    "Yo, de hecho, venía y invierto en otro tipo de activos. Buscaba algo más en tema de inversión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si le ofrecieran otra propiedad con mayor rentabilidad pero sin el concepto de 'club', ¿la compraría? No. Él mismo descartó otras opciones y priorizó el concepto sobre otros factores, lo que demuestra que la inversión era la condición de entrada, pero no el criterio decisivo final."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Más que por el precio u otra cosa, en realidad lo que me interesó es el enfoque que le dieron, ¿no? Como club, ¿no?",
+                    "Yo practico tenis, así que es una de las cosas que me gusta.",
+                    "Una de las cosas que sí buscaba era que no hay edificios más de 10 pisos... no es algo que me gusta a mí.",
+                    "A nivel conceptual creo que no he visto otra que se parezca."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera el concepto de club, las canchas de tenis y fuera una torre de 20 pisos, ¿lo compraría? No. Estos atributos fueron los que lo hicieron elegir este proyecto sobre cualquier otra alternativa de inversión."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "El cliente entra al mercado para resolver un J02 (invertir capital), pero la decisión de compra se materializa y se gobierna por un J06 (aspiracional). La propuesta de valor del producto (concepto club, tenis, baja altura) generó un deseo que se convirtió en el verdadero motor de la elección, relegando el J02 a un rol de habilitador financiero y justificación secundaria. La compra no fue la mejor inversión posible, sino la inversión que mejor se alineaba con su identidad y estilo de vida deseado."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Se logra identificar con precisión el 'Entry Driver' (J02 - Inversión) y diferenciarlo del 'Selection Driver' que define el Job Dominante (J06 - Aspiracional). El cliente ofrece evidencia explícita sobre sus criterios de contratación y descarte, los sacrificios realizados y las profundas fricciones en la post-venta, lo que permite un análisis robusto de la demanda y el fit con el producto."
+}

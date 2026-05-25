@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Un empresario sin necesidad habitacional visita el proyecto por curiosidad, se enamora del club house y realiza una compra impulsiva que, tras un proceso conflictivo, se materializa en una oportunidad inmobiliaria que decide aprovechar para uso personal.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vive solo en un departamento propio de 200m² en Los Álamos, que utiliza parcialmente como almacén para su empresa de marketing. No tiene ninguna necesidad ni intención activa de comprar otra propiedad para vivir.",
+        "tension_acumulada": "No existe una tensión acumulada. La compra no responde a la solución de un problema, sino a la creación de un deseo a partir de la exposición al producto.",
+        "bloqueadores": "Inicialmente, no había bloqueadores porque no estaba en el mercado. Durante el proceso, los bloqueadores fueron las promesas incumplidas sobre las fechas de construcción, la desinformación sobre el precio y la desconfianza generada por el equipo de ventas externo.",
+        "eventos_habilitadores": "Recibir una publicidad por WhatsApp y tener disponibilidad un domingo para visitar el proyecto. Su solvencia económica le permitió tomar una decisión de compra impulsiva sin planificación previa.",
+        "switching_trigger": "La visita guiada al club house del condominio. Ver las amenities (especialmente la piscina) y visualizar el estilo de vida asociado fue el detonante inmediato y emocional de la decisión de compra.",
+        "momento_de_decision": "La decisión inicial fue instantánea y emocional el mismo día de la visita en diciembre. El proceso se complicó durante meses, pero la decisión final se consolidó en junio, cuando, para no perder el dinero de la separación y aprovechar su crédito aprobado, aceptó una contraoferta para comprar un departamento más grande y de entrega inmediata en MUV a un precio muy reducido."
+    },
+    "contexto_activador": {
+        "marco_general": "Empresario joven con solvencia económica, propietario de una vivienda amplia que satisface sus necesidades funcionales. Su sistema de vida es estable y no presenta fricciones habitacionales. La decisión de compra se activa no por una necesidad estructural, sino por la exposición a una propuesta de valor aspiracional (el estilo de vida del condominio) que conecta con su identidad y deseos personales."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Acceder y disfrutar de un estilo de vida superior, con comodidades y espacios de ocio que representen su éxito y le brinden placer, más allá de la simple funcionalidad de una vivienda.",
+        "job_statement": "Cuando me encuentro con una propuesta inmobiliaria que ofrece un estilo de vida aspiracional y amenities únicas, quiero adquirirla para elevar mi calidad de vida y habitar un espacio que se alinee con mi identidad y deseos.",
+        "job_dominante_narrativo": "El cliente está tratando de adquirir un espacio que materialice un estilo de vida deseado, motivado puramente por la atracción emocional hacia las características y el ambiente del proyecto, no por una necesidad funcional preexistente.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El club house, la piscina y el concepto general del condominio que prometía un estilo de vida superior. La calidad y amplitud del departamento final en MUV a un precio de oportunidad.",
+        "firing_criteria": "Proyectos que no ofrecieran una propuesta de valor diferencial en amenities y estilo de vida. Descartó activamente otras oportunidades de compra, incluso con mejores precios, porque no tenían el 'atractivo' de este condominio.",
+        "trade_offs_reales": "Soportar un proceso de venta de seis meses lleno de incertidumbre, frustración y desinformación. Aceptar un cambio de proyecto (de WOW a MUV) sobre la marcha.",
+        "factores_de_confianza": "La intervención final de una ejecutiva de la propia inmobiliaria (Stephanie), quien tomó el caso, le dio soluciones y le presentó una oferta transparente y beneficiosa, restaurando la confianza perdida.",
+        "reduccion_de_riesgo": "La compra final se realizó sobre un departamento de entrega inmediata (MUV), eliminando el riesgo de construcción. Además, el precio obtenido fue significativamente menor al de mercado, lo que lo hizo sentir que estaba haciendo una excelente inversión y minimizó el riesgo financiero."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de condominio con un club house completo, destacando la piscina. La propuesta de un estilo de vida social y de ocio integrado en el hogar.",
+        "atributos_secundarios": "El tamaño final del departamento (91.4m²), los acabados y el precio con descuento fueron factores que cerraron el excelente acuerdo final, pero no fueron el gatillo original de la compra.",
+        "alternativas_descartadas": "El plan original de comprar en el proyecto WOW fue descartado por las demoras y la mala gestión. Menciona explícitamente haber tenido ofertas con grandes descuentos en proyectos como Highline (Chacarilla) y Amaras (Valle Hermoso), pero las rechazó porque su deseo estaba anclado a este condominio en particular."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto. Se siente muy contento y beneficiado por el resultado final de la compra, a pesar del mal rato inicial.",
+        "reservas": "El único tema pendiente que menciona es la independización del inmueble, aunque no le genera una preocupación inmediata.",
+        "fricciones_pendientes": "La gestión de la independización por parte de la inmobiliaria. Está al tanto de quejas de otros vecinos por diversos temas, pero él personalmente no ha experimentado problemas significativos en su departamento."
+    },
+    "proyecto": "MUV"
+}

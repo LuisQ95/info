@@ -1,0 +1,37 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado no fue la necesidad de vivienda, sino la toma de conciencia financiera de que el alquiler era un 'gasto perdido'. La clienta era reacia a comprar. La decisión de invertir (J02) fue el 'Entry Driver'. La cercanía al trabajo y las amenidades (J03/J06) fueron 'Selection Drivers' para elegir WOW, pero no la razón para empezar a buscar comprar.",
+        "debate_deal_breaker": "El factor innegociable fue la lógica de inversión. Si el alquiler no representara una pérdida financiera significativa, ella no habría superado su renuencia a comprar, independientemente de las características del proyecto. La compra se activa al transformar un gasto en un activo flexible y rentable.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo no quería comprar algo.",
+                    "luego sacando las cuentas de todo lo que había pagado en los años, entonces, he pagado más que una cuota inicial.",
+                    "Si te vas fuera del país, lo alquilas, digamos, o lo vendes? Claro. Exacto. Lo alquilo, ¿no?",
+                    "Además, yo vi el movimiento que tenía el edificio, es más, el departamento donde estuve, o sea, salí y ya se alquiló, ¿entiendes? Fue así casi inmediato."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el costo del alquiler fuera insignificante, no habría comprado. La justificación financiera fue el único factor que venció su resistencia a adquirir un inmueble."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "De hecho, lo primero es la cercanía a mi trabajo.",
+                    "yo podía ir a mi casa a la hora del almuerzo, regresar, ir caminando al trabajo, ¿no?",
+                    "vi otros proyectos que tenían, no sé, 21 pisos, 20 pisos. Entonces, al ser un edificio de 7 pisos, de 8 pisos, me pareció una gran diferencia, ¿no? Porque no lo veo tan saturado."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no fuera una buena inversión, no lo habría comprado, incluso estando cerca de su trabajo. La cercanía fue un criterio de selección, no el motor de la compra."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La clienta entra al mercado por una razón puramente patrimonial: dejar de perder dinero en alquiler y convertirlo en un activo. Su renuencia inicial a comprar por sus planes de viaje se resuelve al ver la propiedad como una inversión flexible y rentable. Por lo tanto, el Job Dominante es J02. Los criterios de optimización (cercanía al trabajo, baja densidad) y de identidad (amenidades superiores) son potentes filtros de selección, pero no el origen de la demanda."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista captura de manera clara y detallada la historia causal completa. Expone un conflicto interno (viajar vs. comprar) que se resuelve a través de un 'switching trigger' financiero muy específico. La evidencia permite diferenciar nítidamente entre el 'Entry Driver' (J02 - la razón para comprar) y los 'Selection Drivers' (J03/J06 - las razones para elegir WOW), lo que la convierte en un caso de estudio robusto para el análisis de Jobs to be Done."
+}

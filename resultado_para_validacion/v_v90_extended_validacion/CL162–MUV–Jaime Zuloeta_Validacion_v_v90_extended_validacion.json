@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es el crecimiento de la familia (matrimonio, primer hijo, segundo embarazo), que vuelve obsoleto su departamento de soltero. Este es el driver de la compra. Los filtros de selección fueron la ubicación conveniente y el atractivo de los departamentos piloto, pero estos no originaron la necesidad, solo la orientaron hacia una solución específica.",
+        "debate_deal_breaker": "El factor innegociable es el espacio adicional para la familia. Si su familia no hubiera crecido, no habría existido ninguna razón para abandonar su departamento de soltero. La compra no habría ocurrido. Por el contrario, si el proyecto MUV no hubiera estado en esa ubicación exacta, habría buscado otro proyecto que sí cumpliera con el requisito de espacio. El espacio es el Job, la ubicación es un criterio.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "era mi departamento de soltero y ya me casé y tuve que comprar un departamento con dos habitaciones.",
+                    "en el transcurso mi esposa sale embarazada y entonces ya tenía que pensar en comprar un departamento con tres habitaciones.",
+                    "Como como te dije, que era mi departamento de una habitación. Una habitación. OK. Entonces, yo me casé y tuve un hijo."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Pasa el test. Sin el crecimiento de su familia (matrimonio e hijos), la compra no se habría realizado, ya que su departamento de soltero era suficiente para él solo."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "como vivía cerca, vi el proyecto, me gustó la temática",
+                    "Trabajo y pasaba siempre y veía la ubicación. La ubicación me parecía bonita"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No pasa el test. Aunque la ubicación era conveniente, no era una fricción que necesitara resolver. Si no hubiera necesitado más espacio para su familia, habría seguido en su departamento actual sin problemas, independientemente de la cercanía de MUV."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "El Job Dominante es inequívocamente J04. La compra es una reacción directa y necesaria a una desalineación estructural entre su vivienda (departamento de soltero) y su realidad familiar (casado con hijos). La necesidad de más habitaciones es el motor causal. El J03 opera únicamente como un criterio de selección secundario que facilitó el descubrimiento del proyecto, pero no generó la demanda."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "A pesar de que la mayor parte de la conversación se centra en una extensa y detallada queja sobre la desastrosa experiencia post-venta, el cliente logra articular claramente la historia causal de la compra. Expone su situación previa (departamento de soltero), la tensión acumulada (matrimonio e hijos) y el gatillo específico (segundo embarazo) que lo forzaron a buscar una vivienda más grande. Esta información es suficiente para identificar el Job to be Done con alta certeza."
+}

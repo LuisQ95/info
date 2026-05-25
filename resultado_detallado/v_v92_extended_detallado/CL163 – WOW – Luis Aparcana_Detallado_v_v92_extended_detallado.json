@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra de inversión activada por disponibilidad de capital (AFP), seleccionando un producto cuya ubicación y tipología se alinean con necesidades familiares (hija universitaria) como criterio de rentabilidad.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vive cómodamente en un departamento propio en Surco con su familia. No tiene ninguna necesidad o urgencia habitacional. Su hija es universitaria y estudia en la UPC, cerca de la ubicación del proyecto.",
+        "tension_acumulada": "La tensión principal es financiera: tener un capital significativo (proveniente del retiro de fondos de AFP) sin generar rentabilidad. Existe una conciencia del costo de oportunidad de tener el dinero 'parado' y un deseo latente de volver a invertir en inmuebles, basado en una experiencia previa.",
+        "bloqueadores": "El principal bloqueador era la inercia y la falta de una oportunidad de inversión concreta y atractiva que justificara la movilización del capital. No había una búsqueda activa ni una necesidad apremiante que lo empujara a actuar.",
+        "eventos_habilitadores": "El retiro de los fondos de la AFP fue el habilitador clave, poniendo a su disposición un capital líquido para invertir. Esto, combinado con el conocimiento del mercado de alquiler para estudiantes en la zona (a través de la experiencia de su hija y sus amigos), creó la tormenta perfecta.",
+        "switching_trigger": "La disponibilidad del capital del fondo de AFP que busca activamente una oportunidad de inversión. El conocimiento de un proyecto específico en una ubicación estratégica para el alquiler a estudiantes funcionó como el catalizador que transformó la intención pasiva en una acción de compra concreta.",
+        "momento_de_decision": "El proceso fue extremadamente corto y directo. No hubo una búsqueda comparativa de otros proyectos. Una vez que identificó WOW y su perfecta alineación con la estrategia de inversión (ubicación para estudiantes), la decisión fue inmediata. La compra se basó en un 'fit' perfecto con su tesis de inversión."
+    },
+    "contexto_activador": {
+        "marco_general": "Padre de familia con situación habitacional resuelta y estable, que dispone de un capital líquido producto del retiro de su AFP. Su sistema de vida está organizado en Surco, pero su hija universitaria crea un 'nodo' de interés en la zona de Monterrico, revelando una oportunidad de mercado (alquiler a estudiantes) que activa la lógica de inversión."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Transformar un capital ocioso en un activo productivo que genere ingresos pasivos (renta por alquiler) y que, a largo plazo, sirva como un resguardo patrimonial flexible, con la opción de convertirse en una vivienda personal más pequeña en el futuro.",
+        "job_statement": "Cuando dispongo de un capital para invertir, necesito encontrar un activo inmobiliario en una ubicación estratégica con alta demanda de alquiler, para poder generar una rentabilidad segura, proteger mi patrimonio de la inflación y mantener opcionalidad de uso a futuro.",
+        "job_dominante_narrativo": "El cliente está tratando de poner a trabajar el dinero de su AFP en una inversión inmobiliaria segura y rentable. La idea es comprar un departamento para alquilarlo a estudiantes, aprovechando la cercanía a universidades, y más adelante, tener la opción de mudarse él mismo a ese espacio.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio principal fue la ubicación estratégica, con proximidad a múltiples universidades, lo que garantizaba una alta demanda para alquiler estudiantil. La tipología flexible (2 dormitorios + flex) que podía adaptarse a 3 dormitorios para maximizar la renta fue clave. Las áreas comunes y la calidad general del proyecto fueron un plus, pensando en el valor a largo plazo y su posible uso personal futuro.",
+        "firing_criteria": "No hubo un proceso de descarte activo, ya que no consideró otras opciones. Cualquier proyecto que no estuviera en esa ubicación específica y no ofreciera el potencial de alquiler a estudiantes habría sido descartado implícitamente, ya que no cumplía con la tesis de inversión.",
+        "trade_offs_reales": "Aceptó un alto grado de incertidumbre post-venta, incluyendo retrasos significativos en el inicio de la obra y una comunicación deficiente por parte de la inmobiliaria. Sacrificó la tranquilidad y la certeza sobre los plazos a cambio de asegurar lo que considera un activo de alta calidad en una ubicación inmejorable.",
+        "factores_de_confianza": "La confianza inicial se basó en la buena atención del equipo de ventas, la calidad percibida en los acabados y el diseño del proyecto (visitó una etapa anterior), y la validación social de que la zona ya era un polo de alquiler para estudiantes.",
+        "reduccion_de_riesgo": "Está activamente intentando mitigar el riesgo post-compra. Negoció una primera adenda para incluir penalidades por retraso a favor del cliente y está en proceso de negociar una segunda para condicionar sus pagos al inicio real de la obra. Su experiencia profesional previa en municipalidades le da herramientas para presionar y entender los procesos."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación fue el atributo dominante y decisivo. La distribución 2+flex encajó perfectamente con el plan de alquilar a 3 estudiantes. Las áreas comunes y la calidad general del proyecto reforzaron la decisión, aportando valor a largo plazo.",
+        "atributos_secundarios": "La atención durante la venta fue valorada positivamente, pero no fue un factor decisivo. Los detalles específicos de los acabados o las canchas deportivas son importantes, pero secundarios a la lógica de inversión y ubicación.",
+        "alternativas_descartadas": "Ninguna. El cliente no realizó una búsqueda activa ni comparó con otros proyectos. La oportunidad se presentó y se ajustaba tan bien a su plan que no sintió la necesidad de explorar más."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Condicional, calificado con un 7 sobre 10. Está satisfecho con el activo que compró, pero muy insatisfecho y preocupado por la gestión post-venta y la falta de certezas.",
+        "reservas": "La principal reserva es la desconfianza generada por los retrasos y la falta de comunicación transparente sobre el estado de la licencia de construcción. Teme que los plazos se extiendan mucho más, afectando la rentabilidad de su inversión.",
+        "fricciones_pendientes": "La fricción más crítica es la incertidumbre sobre la fecha de inicio de obra. Esto lo ha llevado a una negociación tensa para reprogramar su cronograma de pagos. Además, identifica la falta de un seguro de desgravamen para compras al contado como un riesgo no cubierto."
+    },
+    "proyecto": "WOW"
+}

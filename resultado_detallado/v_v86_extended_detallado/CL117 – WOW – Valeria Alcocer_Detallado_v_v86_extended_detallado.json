@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "La compra se origina como una decisión de inversión (J02), activada por el plan de su madre y la oportunidad de usar su tasa de interés preferencial. El proyecto WOW, descubierto por casualidad, resulta tan atractivo que cambia el plan de uso inmediato de alquiler a vivienda temporal, gracias a su fit con su estilo de vida (J03).",
+    "historia_causal": {
+        "contexto_previo": "Vivía cómodamente en un departamento propiedad de su madre, pagando un alquiler preferencial. No tenía una necesidad activa ni un plan para comprar una propiedad para sí misma, ya que su situación habitacional era estable y sin fricciones.",
+        "tension_acumulada": "La tensión era puramente financiera y latente: la existencia de un capital familiar y la conciencia de que su tasa de interés como empleada de banco era un activo sin explotar. No existía una tensión habitacional o un deseo de mudanza.",
+        "bloqueadores": "La inercia de su cómoda situación actual. Sin un catalizador externo, no había una razón estructural para iniciar un proceso de compra, ya que su necesidad de vivienda estaba completamente resuelta.",
+        "eventos_habilitadores": "El plan de su madre de adquirir un nuevo crédito hipotecario fue el catalizador principal. La clienta ofrece su tasa preferencial, transformando una idea abstracta en un plan concreto. El descubrimiento casual del proyecto WOW a través de amigos le dio un objetivo tangible a esa intención de inversión.",
+        "switching_trigger": "La conversación con su madre donde deciden aprovechar la tasa de interés de la hija para una inversión. Este evento la movió de un estado pasivo a uno de búsqueda activa de una oportunidad financiera, no de una solución de vivienda.",
+        "momento_de_decision": "La decisión fue extremadamente rápida y emocionalmente cargada. Tras conocer el proyecto por amigos, lo visita con su madre. El 'enamoramiento' con las áreas comunes (la piscina) y la percepción de que era una 'ganga' (buen precio, cochera incluida), junto con una promoción de fin de semana, los llevó a comprar dos departamentos en el acto."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional joven, financieramente estable y con acceso a un beneficio crediticio excepcional. Opera dentro de un sistema familiar de apoyo que no solo provee su vivienda actual, sino que también impulsa y co-financia la nueva inversión. No tiene ninguna urgencia habitacional, lo que le permite tomar una decisión basada puramente en la oportunidad y no en la necesidad."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Transformar un capital disponible y una ventaja financiera (tasa de interés) en un activo patrimonial seguro, flexible y rentable que, como beneficio adicional, pueda mejorar su calidad de vida en el corto plazo.",
+        "job_statement": "Cuando surge la oportunidad de usar mi beneficio crediticio para una inversión familiar, quiero adquirir un departamento que sea rentable a futuro para asegurar y hacer crecer nuestro patrimonio.",
+        "job_dominante_narrativo": "La misión principal es capitalizar una ventaja financiera única (tasa de interés de empleada) para realizar una inversión inmobiliaria inteligente. El objetivo es que el activo se pague solo a largo plazo y construya patrimonio, pasando de ser un capital estático a uno productivo.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La combinación de una ubicación estratégica (cerca de su deporte y su madre), áreas comunes espectaculares (piscina, cine), una distribución funcional (baño fuera del cuarto) y un precio percibido como 'ganga'. La flexibilidad de uso (vivir ahora, alquilar después) fue clave.",
+        "firing_criteria": "Proyectos en zonas ruidosas o con mucho tráfico (Surquillo), que no incluyeran cochera, con distribuciones poco prácticas (baño único dentro del cuarto), y con una mala relación precio/m2. Proyectos sin construcción avanzada también generaban desconfianza.",
+        "trade_offs_reales": "Aceptó la enorme presión del equipo de ventas para cerrar el pago de la inicial en un día y medio, perdiendo tiempo laboral y asumiendo el estrés de pagar sin tener la aprobación formal del crédito.",
+        "factores_de_confianza": "La principal fuente de confianza fue la experiencia positiva de dos grupos de amigos que ya vivían en el proyecto y hablaban maravillas de la inmobiliaria y la entrega a tiempo. Esto superó el hecho de que no conocía la marca.",
+        "reduccion_de_riesgo": "La validación social de sus amigos fue el mitigador de riesgo más importante. Ver el proyecto parcialmente construido también aportó tangibilidad y redujo la percepción de riesgo de una compra en planos."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La piscina 'gigantesca' fue el principal gancho emocional que selló la decisión para ella y su madre. Racionalmente, la ubicación céntrica y conveniente, la distribución del departamento de 1+flex, y el precio con cochera incluida cerraron el caso.",
+        "atributos_secundarios": "El gimnasio no fue relevante para ella, ya que tiene uno en su trabajo. El depósito tampoco era una necesidad inmediata, dado que cuenta con espacio en las propiedades de su madre.",
+        "alternativas_descartadas": "Descartó activamente un proyecto en Surquillo (High Life) que su madre había visto por ser más caro por m2, no incluir cochera, tener peores áreas comunes y estar en una zona con más tráfico y ruido."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alta con el producto elegido (calificado con 9/10), pero con fricciones significativas en el proceso de compra.",
+        "reservas": "La presión extrema en los tiempos para el pago de la inicial, que generó mucho estrés y ansiedad. La falta de claridad y la demora en el proceso de aprobación del crédito hipotecario.",
+        "fricciones_pendientes": "La incertidumbre sobre la fecha exacta de inicio de construcción y la posibilidad de un retraso de hasta 6 meses en la entrega, como está estipulado en el contrato. El proceso de pago del crédito aún no está 100% cerrado."
+    },
+    "proyecto": "WOW"
+}

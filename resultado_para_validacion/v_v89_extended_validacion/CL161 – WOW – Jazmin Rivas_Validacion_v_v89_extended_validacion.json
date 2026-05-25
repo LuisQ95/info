@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la toma de conciencia financiera: se da cuenta de que el dinero del alquiler es un gasto perdido que supera una cuota inicial. Esto la mueve de 'no querer comprar' a 'buscar una inversión'. El filtro de selección (Selection Driver) son los criterios de optimización de vida: cercanía al trabajo, calidad de amenities y baja densidad del edificio. Compra porque es una buena inversión (J02), pero elige WOW por cómo mejora su vida (J03).",
+        "debate_deal_breaker": "El deal-breaker es la lógica de inversión. Si el proyecto no tuviera un alto potencial de alquiler y valorización, ella no habría superado su renuencia inicial a comprar, sin importar qué tan buenas fueran las amenities. La viabilidad como activo flexible (alquilar si viaja) es la condición que habilita la compra. La optimización de vida es un criterio de selección potente, pero secundario al motor financiero que inicia la acción.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "luego sacando las cuentas de todo lo que había pagado en los años, entonces, he pagado más que una cuota inicial.",
+                    "Si te vas fuera del país, lo alquilas, digamos, o lo vendes. Claro. Exacto. Lo alquilo, ¿no?",
+                    "me parece que también como una inversión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No compraría. La justificación financiera fue lo que la convenció de superar su renuencia a adquirir un inmueble. Sin el potencial de inversión y alquiler, habría seguido alquilando."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "De hecho, lo primero es la cercanía a mi trabajo.",
+                    "Además de que el edificio tiene espacios deportivos, tanto como el gimnasio... ninguno de los otros proyectos se acercaba un poco.",
+                    "al ser un edificio de 7 pisos, de 8 pisos, me pareció una gran diferencia... no lo veo tan saturado."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí compraría, pero buscaría otro proyecto que cumpliera con sus criterios de inversión. El J03 define QUÉ compra, pero el J02 define POR QUÉ compra en primer lugar."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "El Job Dominante es J02. La clienta tenía una resistencia activa a comprar. El único factor que rompe esta inercia es el cálculo financiero de transformar un gasto (alquiler) en un activo patrimonial flexible. El J03 actúa como un poderoso conjunto de criterios de selección que definen el producto ideal una vez que la decisión de invertir ya fue tomada."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y profunda. Se logra identificar con precisión la resistencia inicial de la clienta, el 'switching trigger' financiero que la moviliza, y la clara distinción entre el Job Dominante (J02, la razón para comprar) y el Job Secundario (J03, los criterios para elegir). La evidencia es consistente y permite un análisis robusto."
+}

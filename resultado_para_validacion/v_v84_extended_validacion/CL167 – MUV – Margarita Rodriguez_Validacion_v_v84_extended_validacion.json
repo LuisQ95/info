@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la decisión del yerno y la hija de la clienta de mudarse al proyecto MUV. Esto obliga a la clienta a buscar una solución habitacional para no romper la unidad familiar de la que depende. El filtro de selección (Selection Driver) es la condición no negociable de que existan dos departamentos contiguos. Las amenidades como el gimnasio o la piscina son valoradas, pero son un bono secundario, no el factor causal de la compra.",
+        "debate_deal_breaker": "El 'deal breaker' absoluto es la proximidad física. La hija lo verbaliza claramente: 'Si no había la opción de un departamento al costado del otro, no era opción para mí'. La compra de la madre estaba 100% supeditada a esta condición. Sin la posibilidad de vivir al lado de su hija, la transacción no se habría realizado, independientemente de cualquier otra característica del proyecto.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "yo compré este departamento porque mi hija, bueno, mi yerno compraron con mi hija su departamento.",
+                    "Si no había la opción de un departamento al costado del otro, no era opción para mí.",
+                    "ya soy una persona mayor y bueno, las dos nos necesitamos para cualquier emergencia."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. La compra es una reacción directa y dependiente a la mudanza de su hija. Sin ese evento, ella no habría entrado al mercado ni considerado mudarse de su casa."
+            },
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "A mí sí me gustó porque, bueno, tiene todo lo que a mí me gusta, que es el gimnasio, la piscina, el spa...",
+                    "me favorece porque de acá voy a la clínica caminando, no tengo que luchar con con el tráfico."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Compraría igual. Si su hija se hubiese mudado a un proyecto con departamentos contiguos pero sin gimnasio, la madre habría comprado de todas formas. Las amenidades son un criterio de selección secundario que hace la decisión más agradable, pero no la originan."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "La decisión de compra es un caso de 'Compra No Autónoma'. El Job no se origina en la clienta (la madre), sino en el sistema familiar. La iniciativa del yerno, condicionada por la hija, obliga a la madre a ejecutar la compra para mantener la estructura de soporte mutuo. La necesidad de reorganizar la unidad familiar ante un cambio es el motor de la transacción, lo que la clasifica inequívocamente como J04. Los elementos de conveniencia (J03) son solo beneficios añadidos, no el driver causal."
+    },
+    "dictamen_final": "Entrevista válida que confirma un Job Dominante J04 - Acompañar el crecimiento familiar, en su subtipo de 'Dependencia Funcional Estructural'.",
+    "justificacion": "La evidencia es concluyente. La compra no es una elección autónoma de la clienta, sino una consecuencia directa y obligada de la decisión de su hija de mudarse. El Test Canónico es claro: sin la mudanza de la hija, la madre no habría comprado. La necesidad de mantener la estructura de apoyo familiar es el único driver que explica la transacción, subordinando todos los demás factores (amenities, ubicación, tipo de producto) a la condición no negociable de la adyacencia física."
+}

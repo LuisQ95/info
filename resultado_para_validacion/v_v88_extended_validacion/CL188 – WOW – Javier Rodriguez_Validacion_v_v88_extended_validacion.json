@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es claramente la necesidad de invertir un capital disponible para generar rentabilidad (J02). El cliente buscaba activamente propiedades cerca de universidades. El filtro de selección (Selection Driver) fue la propuesta de valor aspiracional del proyecto (J06), que lo diferenció de otras opciones de inversión por su baja densidad, tranquilidad y áreas comunes tipo club.",
+        "debate_deal_breaker": "El factor innegociable era el potencial de inversión y la ubicación estratégica cerca de un polo universitario. Sin la capacidad de generar renta por alquiler a estudiantes, la compra no se habría realizado. Los atributos de estilo de vida (J06) fueron decisivos para elegir WOW, pero no habrían justificado la compra por sí solos sin la base de inversión (J02).",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02 - Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Lo compré como inversión, con inicio.",
+                    "conocía muy bien el negocio, el lugar, la perspectiva de ese sitio",
+                    "siempre se va a requerir, pues, el alquiler a estudiantes de este inmueble"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin el potencial de inversión y alquiler a estudiantes, no habría considerado esta zona ni este proyecto."
+            },
+            {
+                "codigo_y_nombre_job": "J06 - Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "si yo quisiera tener un hijo... Yo quisiera que viva acá, que tenga toda esta experiencia",
+                    "Es como un mini condominio, un mini club dentro.",
+                    "la vista era preciosa"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, si no tuviera el potencial de inversión, la belleza del proyecto no sería suficiente para justificar la compra."
+            }
+        ],
+        "job_dominante_final": "J02 - Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06 - Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra se origina en una necesidad puramente de inversión (J02): el cliente tiene capital y busca rentabilizarlo en un mercado que conoce. La elección específica de WOW se define por criterios de selección aspiracionales (J06), como la baja densidad y las amenidades, que lo hacen superior a otras alternativas de inversión. J02 es el 'porqué comprar' y J06 es el 'porqué comprar este'."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista revela una historia causal clara y coherente. El cliente articula con precisión el origen de la compra (inversión), los criterios de selección (baja densidad, amenities) y las fricciones post-compra. La distinción entre el Entry Driver (J02) y el Selection Driver (J06) es nítida y está respaldada por múltiples evidencias en la transcripción."
+}

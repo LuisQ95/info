@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo de Entrada (Entry Driver) es la atracción por una propuesta de valor superior, no una necesidad funcional. El cliente, arquitecto, no tenía un problema habitacional urgente; su búsqueda latente se activó al identificar un producto (MUV) con áreas comunes que consideró las mejores del mercado. El Filtro de Selección (Selection Driver) es precisamente la superioridad de estas áreas comunes en comparación con la competencia. En este caso, el Gatillo y el Filtro convergen en el mismo factor: el producto aspiracional.",
+        "debate_deal_breaker": "El innegociable (Deal-Breaker) son las áreas comunes de alta calidad y escala. El cliente lo afirma explícitamente: 'para mí, de hecho, el principal fuerte de este proyecto son las áreas comunes que tienen'. Descartó a la competencia (Hometown) solo con ver los brochures, basándose en este criterio. Si MUV no hubiera tenido esta propuesta de valor diferencial, la compra no se habría realizado. La compra inicial como soltero demuestra que la familia no era el innegociable.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06 - Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "para mí, de hecho, el principal fuerte de este proyecto son las áreas comunes que tienen...",
+                    "la decisión de compra no nace de la visita, sino no nace del material de brochures y del material de marketing.",
+                    "era para mí mucho más fácil que por medio de... conocer qué cosa hay en el mercado... comprender mucho más rápido pues el valor o no de ese proyecto."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. El cliente fue explícito en que el interés nació de la superioridad de las áreas comunes y que fue el criterio para descartar otras opciones sin siquiera visitarlas."
+            },
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "de que iba a ser mi departamento de soltero, me casé y luego tuve mi hijito.",
+                    "entonces ese departamento de dos, de dos dormitorios ya me quedaba chico y tuve que tuve que más bien pasar a comprar uno de tres."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Compraría igual. La decisión original se tomó cuando era soltero. La familia fue un evento posterior que forzó una modificación del producto comprado, no el motivo original de la compra. La Regla de Temporalidad invalida este Job como dominante."
+            }
+        ],
+        "job_dominante_final": "J06 - Expresar identidad y coherencia personal",
+        "job_secundario_final": "J01 - Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "La decisión de compra fue puramente aspiracional y 'No Problem-Driven'. El cliente, como arquitecto, se sintió atraído por la superioridad del producto (áreas comunes), lo que activó una compra que no estaba motivada por una necesidad funcional o familiar inmediata. La compra original fue para él como soltero. El posterior crecimiento de su familia, ocurrido durante el largo retraso de la entrega, es un cambio de contexto post-decisión que no altera el Job original. Por lo tanto, el Job Dominante es J06."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J06 - Expresar identidad y coherencia personal (subtipo Racional Aspiracional).",
+    "justificacion": "La evidencia es concluyente. La compra no fue para resolver un problema (No Problem-Driven), sino por atracción al producto. El cliente, un arquitecto, usó su criterio profesional para identificar el proyecto con la mejor propuesta de valor (áreas comunes) y tomó una decisión racional basada en esa superioridad. La compra se originó cuando era soltero, y el posterior crecimiento familiar es un evento post-decisión que no define el Job, de acuerdo con el Principio de Temporalidad. El motor de la compra fue el deseo de un estilo de vida superior, lo que define canónicamente al J06."
+}

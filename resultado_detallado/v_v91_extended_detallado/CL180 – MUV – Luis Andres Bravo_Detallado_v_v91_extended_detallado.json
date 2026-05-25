@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una pareja que ya convive en un departamento alquilado decide comprar una propiedad para consolidar su relación y dejar de gastar en alquiler. La decisión se ve bloqueada por altas tasas de interés hasta que una mejora en las condiciones financieras les permite actuar. Eligen MUV de forma decisiva por su completo clubhouse, que representa el 70% del atractivo del proyecto.",
+    "historia_causal": {
+        "contexto_previo": "La pareja llevaba 'cierta cantidad de años' juntos y ya convivían en un departamento alquilado en Surco. Tenían un sistema de vida estable y su radio de búsqueda se centraba en esa zona (El Polo, San Borja).",
+        "tension_acumulada": "La tensión principal era el deseo de dar un paso más en su relación, pasando de la transitoriedad del alquiler a la permanencia de una propiedad. Querían 'consolidar un poco su relación con una propiedad' y dejar de invertir dinero en un alquiler para empezar a construir un patrimonio.",
+        "bloqueadores": "El principal bloqueador fue financiero y coyuntural. Las tasas de interés estaban 'demasiado altas', lo que les impedía obtener un crédito hipotecario favorable. Esto los obligó a retrasar la compra a pesar de ya haber separado el departamento.",
+        "eventos_habilitadores": "El mercado financiero cambió a su favor. Las tasas de interés comenzaron a bajar, lo que les permitió recibir una 'mejor oferta de un banco'. Este cambio externo eliminó el bloqueador económico y les dio luz verde para proceder.",
+        "switching_trigger": "La recepción de una oferta de crédito hipotecario viable y atractiva fue el estímulo final que convirtió la intención de compra en una acción concreta y definitiva.",
+        "momento_de_decision": "La búsqueda fue activa pero no estructurada; encontraron el proyecto 'de casualidad' mientras recorrían su zona de interés. La elección del proyecto fue clara, pero la ejecución de la compra fue pausada, esperando la ventana de oportunidad financiera. Una vez que esta se presentó, la decisión se ejecutó rápidamente."
+    },
+    "contexto_activador": {
+        "marco_general": "Una pareja en una relación consolidada, ya cohabitando en un entorno alquilado dentro de su zona de confort geográfica (Surco). Su sistema de vida está establecido, y la decisión de compra se activa no por una crisis, sino por un deseo de progresión en su proyecto de vida conjunto, condicionado estrictamente por la viabilidad financiera del mercado."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una base habitacional permanente y propia que solidifique su relación, les permita construir patrimonio y les ofrezca una plataforma estable para sus planes futuros, como tener hijos.",
+        "job_statement": "Cuando queremos dar el siguiente paso en nuestra relación, necesitamos comprar un lugar propio para dejar de sentir que estamos en una etapa transitoria y empezar a construir un patrimonio y una base sólida para nuestro futuro juntos.",
+        "job_dominante_narrativo": "La pareja está intentando consolidar su proyecto de vida en común, pasando de la etapa de alquilar a la de ser propietarios para establecer una base estable y segura que refleje la seriedad de su relación y sus planes a futuro.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El factor decisivo fue el clubhouse y sus amenities (gimnasio, piscina, cancha de tenis), que consideraron el 70% del atractivo. Otros criterios importantes fueron la ubicación en su zona de interés, el buen precio para el espacio y que fuera de entrega inmediata.",
+        "firing_criteria": "El tráfico excesivo. Descartaron explícitamente una opción en San Isidro, a pesar de su buen precio y cercanía al trabajo, porque la experiencia de visitarlo en hora punta demostró que la movilidad era 'inviable'.",
+        "trade_offs_reales": "Sacrificaron una mejor ubicación con respecto al trabajo (la opción de San Isidro estaba más cerca) a cambio de una mejor calidad de vida sin el estrés del tráfico. Aceptan y toleran un servicio postventa pésimo a cambio de los beneficios del proyecto.",
+        "factores_de_confianza": "El hecho de que el proyecto fuera de entrega inmediata les permitió ver el producto final, reduciendo la incertidumbre. El precio percibido como justo para el espacio ofrecido también generó seguridad en la decisión.",
+        "reduccion_de_riesgo": "Esperaron pacientemente a que las condiciones del mercado (tasas de interés) fueran favorables para no asumir un riesgo financiero excesivo. Comprar un producto terminado también eliminó los riesgos asociados a la construcción."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El clubhouse fue el principal activador. La ubicación en Surco, la tipología de 2 dormitorios con proyección a futuro, y la versatilidad de la terraza en el primer piso fueron también clave. La conveniencia de tener todo en una 'burbuja' fue muy valorada.",
+        "atributos_secundarios": "La terraza/jardín del primer piso fue algo que 'salió en el camino', no un requisito inicial. La sala de cine es una amenidad que no utilizan.",
+        "alternativas_descartadas": "Un proyecto en San Isidro, con precio y espacio similares. Fue descartado categóricamente por el 'tema del tráfico', que lo hacía inviable para su estilo de vida."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy polarizado: 8/10 para el proyecto y la experiencia de vivir allí, pero un 2/10 para la inmobiliaria debido al pésimo servicio postventa.",
+        "reservas": "Preocupación por la futura sobrepoblación y saturación de las áreas comunes cuando se entreguen las siguientes etapas del proyecto.",
+        "fricciones_pendientes": "Un servicio postventa inexistente o ineficaz, con problemas reportados hace un año (mármol manchado, pintura exterior incompleta) sin solución. Además, una deuda significativa de la inmobiliaria con la administración del condominio que afecta el presupuesto de mantenimiento."
+    },
+    "proyecto": "MUV"
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es puramente financiero (J02): la necesidad de invertir un capital excedente para generar rentabilidad. Los factores familiares, como la cercanía a la universidad de los hijos y las áreas comunes (cancha de tenis), actúan como un potente filtro de selección (J04), definiendo qué propiedad específica comprar, pero no el porqué de la compra inicial.",
+        "debate_deal_breaker": "El deal-breaker fundamental es el potencial de inversión. Si la propiedad no fuera rentable para alquilar, la compra no se realizaría. La conveniencia familiar, aunque muy importante para la elección final, no es el motor de la transacción; sin la lógica de inversión, no habría compra que evaluar.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "la intención es comercial",
+                    "lo compró como inversión",
+                    "esto es más inversión que que necesidad de comprar para vivir"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la propiedad no tuviera potencial de rentabilidad, no la comprarían, ya que su vivienda actual está resuelta. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Pensamos en la ubicación. Por la universidad. Nuestros hijos están en la Universidad de Lima.",
+                    "Al final son dos habitaciones y media... precisamente por la posibilidad de que quizás nosotros mismos...",
+                    "La cancha de tenis, más que todo. Ellos juegan tenis."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la propiedad no estuviera cerca de la universidad o no tuviera 3 dormitorios potenciales, aún buscarían otra propiedad para invertir su capital. La compra ocurriría, pero en otro lugar."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La compra se origina en una necesidad financiera de rentabilizar un capital ocioso (J02). La elección del activo específico está fuertemente condicionada por la conveniencia y logística de sus hijos universitarios (J04), convirtiendo la propiedad en una inversión de doble propósito: financiera a corto plazo y familiar a futuro. J02 es el porqué compran, J04 es el porqué eligen este proyecto."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye claramente la historia causal, desde la motivación inicial de inversión (J02) hasta los criterios de selección basados en la conveniencia familiar (J04). Expone la tensión entre una buena decisión de compra y una mala experiencia de servicio post-venta, ofreciendo insights valiosos en ambas dimensiones."
+}

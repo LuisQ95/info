@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la propuesta de valor superior del proyecto, específicamente sus áreas comunes, que el cliente identifica como las mejores de Lima. Esto activa una compra aspiracional. El crecimiento familiar (matrimonio e hijo) ocurre 4 años después de la decisión inicial, funcionando como un filtro de selección tardío y forzado que lo obliga a cambiar de tipología (de 2 a 3 dormitorios), pero no origina la compra.",
+        "debate_deal_breaker": "El 'deal-breaker' inicial era la calidad y amplitud de las áreas comunes. Si el proyecto no las tuviera, no lo habría elegido, como demuestra al descartar a la competencia basándose solo en brochures. El espacio para la familia se convierte en un 'deal-breaker' posterior, pero para la *permanencia* en el proyecto, no para la compra original.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Para mí, de hecho, el principal fuerte de este proyecto son las áreas comunes que tienen.",
+                    "La decisión de compra no nace de la visita, sino no nace del material de brochures y del material de marketing.",
+                    "Yo soy arquitecto, entonces este, era para mí mucho más fácil... comprender mucho más rápido pues el valor o no de ese proyecto."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. El cliente es explícito en que las áreas comunes fueron el origen de su interés y el factor decisivo sobre la competencia."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "De que iba a ser mi departamento de soltero, me casé y luego tuve mi hijito.",
+                    "Ese departamento de dos, de dos dormitorios ya me quedaba chico y tuve que más bien pasar a comprar uno de tres.",
+                    "Inicial vine pensando en uno, como era un departamento de soltero."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habría comprado igual. La decisión original se tomó cuando era soltero. El cambio a una unidad más grande fue una adaptación forzada por eventos posteriores, no la causa de la compra."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "El Job Dominante es J06. La compra se origina en una decisión racional-aspiracional de un arquitecto que identifica la superioridad del producto (áreas comunes) en 2020, cuando era soltero. El cambio de vida (matrimonio, hijo) ocurre durante el largo periodo de espera y fuerza una adaptación (cambio a 3 dormitorios), pero no redefine el motivo original de la compra. La temporalidad del driver es clave: la decisión se toma como soltero, por aspiración al producto."
+    },
+    "dictamen_final": "Entrevista VÁLIDA.",
+    "justificacion": "La entrevista es rica en detalles causales y permite una clara aplicación del Principio de Temporalidad. El relato del cliente distingue perfectamente el 'motor de arranque' de la compra (J06, aspiracional, como soltero) de los eventos de vida posteriores que forzaron una adaptación (J04, crecimiento familiar). Esta separación hace que el caso sea un excelente ejemplo para diferenciar el Job Dominante original de las circunstancias que modifican la solución final."
+}

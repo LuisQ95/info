@@ -1,0 +1,37 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de proveer una vivienda segura y estable para el hijo que se muda a Lima para estudiar en la universidad. La decisión de comprar en lugar de seguir alquilando es para eliminar las fricciones del alquiler y asegurar un activo. Los criterios de selección (Selection Driver) fueron la cercanía a la universidad (UPC) y la seguridad del condominio, ambos al servicio de la necesidad principal.",
+        "debate_deal_breaker": "El factor innegociable era asegurar el bienestar y la seguridad del hijo. Si el proyecto no hubiera estado convenientemente cerca de la universidad o no hubiera ofrecido un entorno percibido como seguro, la compra no se habría realizado. La transacción estaba completamente subordinada a resolver este problema de soporte familiar a distancia.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nuestro hijo mayor terminó el colegio y se estaba yendo a estudiar a Lima",
+                    "vimos que lo más conveniente era que era un departamento que estuviese cerca de la universidad",
+                    "lo que nos interesó siempre era la seguridad de nuestro hijo",
+                    "para evitar el hecho de que se tenga que movilizar mucho y exponerse"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No comprarían. La compra fue una respuesta directa a la necesidad del hijo de tener un lugar para vivir mientras estudiaba en Lima. Sin esa circunstancia, no había motivo para entrar al mercado."
+            },
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "en lo que no es tuyo ni un clavo",
+                    "si quieres poner un cuadro, lo piensas veinte veces",
+                    "por eso buscamos algo propio"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí comprarían, pero motivados por el J04. El deseo de propiedad era una consecuencia y una forma de resolver el problema principal (soporte al hijo), no la causa original de la búsqueda."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J01: Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "La compra es un caso canónico de J04 - Soporte Familiar (Subtipo 3). La familia, residente en Cusco, se reorganiza para facilitar la etapa universitaria de un miembro en Lima. La 'Universidad como Proxy de J04' es la regla aplicable. La preocupación por la seguridad y la logística del hijo subordina todas las demás consideraciones. El deseo de propiedad (J01) es un beneficio secundario que mejora la solución, pero no es el motor de la decisión."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Se identifica sin ambigüedad el evento gatillo (hijo yendo a la universidad), las tensiones acumuladas (inseguridad del alquiler, preocupación parental), los criterios de elección y los sacrificios realizados. La evidencia permite una clasificación robusta y defendible del Job to be Done dominante."
+}

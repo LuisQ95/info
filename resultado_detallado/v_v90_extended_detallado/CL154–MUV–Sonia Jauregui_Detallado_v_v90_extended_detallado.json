@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente compra para resolver una desalineación estructural de su vivienda actual, que quedó sobredimensionada tras la partida de sus hijos, buscando reconfigurar el sistema familiar en dos unidades habitacionales coordinadas para mantener el apoyo mutuo.",
+    "historia_causal": {
+        "contexto_previo": "Vive sola en un departamento propio de 154m² en Jesús María. Su hija mayor reside en el extranjero y su hijo de 22 años está en proceso de independizarse, alquilando cerca de su universidad.",
+        "tension_acumulada": "El departamento actual es demasiado grande y costoso de mantener para una sola persona. Existe una fuerte necesidad de reorganizar la dinámica familiar para facilitar la independencia del hijo sin perder la cercanía y el sistema de apoyo mutuo que tienen ('nos tenemos que ayudar de ambas partes').",
+        "bloqueadores": "La inercia de su situación de vivienda estable y la dificultad de encontrar una solución que permitiera adquirir dos propiedades funcionales y cercanas para mantener la dinámica familiar deseada.",
+        "eventos_habilitadores": "La disponibilidad de un capital ahorrado ('ahorro importante') que le permite comprar al contado, y la decisión ya en marcha de su hijo de vivir de forma independiente, lo que hace insostenible el status quo.",
+        "switching_trigger": "La convergencia de la ineficiencia de su vivienda actual (espacio y costo) con la necesidad de proveer una solución habitacional definitiva para su hijo y para ella, lo que la impulsa a buscar activamente en el mercado una nueva configuración de vida.",
+        "momento_de_decision": "Inicia una búsqueda activa y metódica en marzo, comparando opciones en plataformas digitales. La decisión por MUV se acelera tras una visita y una oferta comercial. Sin embargo, la desconfianza generada por el proceso de venta la lleva a comprar solo una unidad inicialmente, para 'probar', posponiendo la compra de la segunda."
+    },
+    "contexto_activador": {
+        "marco_general": "Su sistema de vida actual está en plena transición. Aunque su hijo ya alquila, mantiene una fuerte interdependencia operativa y emocional con ella. La restricción estructural es la necesidad de encontrar dos unidades habitacionales en el mismo lugar o muy cerca para no romper esa dinámica. La condición de activación es la decisión de usar su capital para resolver esta reorganización familiar, volviendo la situación actual insostenible."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reconfigurar su sistema habitacional para que se ajuste a la nueva realidad familiar (de 3-4 personas a 1), manteniendo la cohesión y el apoyo operativo con su hijo en su nueva etapa de independencia.",
+        "job_statement": "Cuando mi estructura familiar cambia y mi vivienda actual se vuelve inadecuada, quiero adquirir dos propiedades coordinadas para mí y mi hijo, para poder mantener nuestro sistema de apoyo mutuo mientras facilitamos su independencia.",
+        "job_dominante_narrativo": "La clienta está intentando reorganizar su vida y la de su hijo en dos 'nodos' habitacionales cercanos y eficientes para resolver la inadecuación de su vivienda actual y preservar la dinámica de ayuda mutua familiar.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La cercanía a la universidad del hijo (UPC) fue un factor clave. También buscaba tranquilidad (poca bulla) y costos de mantenimiento razonables que no se asemejaran a un alquiler. La posibilidad de comprar dos unidades pequeñas en el mismo proyecto era el plan ideal.",
+        "firing_criteria": "Descartó proyectos con costos de mantenimiento muy altos. La falta de formalidad y la desconfianza en el proceso de venta de MUV la llevaron a 'despedir' la idea de comprar el segundo departamento allí en ese momento.",
+        "trade_offs_reales": "Aceptó un proceso de compra extremadamente informal y riesgoso, firmando un contrato de 'inmueble futuro' para un proyecto terminado y entregando un cheque sin la seguridad de una notaría. Sacrificó la certeza y la tranquilidad por avanzar con la compra.",
+        "factores_de_confianza": "Prácticamente no existieron. La relación con las vendedoras generó más dudas que certezas. La decisión avanzó a pesar de la falta de confianza, impulsada por la fuerza de su necesidad de reorganización familiar.",
+        "reduccion_de_riesgo": "Intentó activamente reducir el riesgo exigiendo formalidad (notaría, corrección de minuta), pero la inmobiliaria se negó. El riesgo no fue reducido, fue asumido con gran ansiedad, lo que demuestra la potencia del Job que la empujaba a comprar."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica cerca de la UPC, la percepción inicial de tranquilidad del condominio y la disponibilidad de departamentos de 1 dormitorio que encajaban perfectamente en su plan de 'dos unidades coordinadas'.",
+        "atributos_secundarios": "Las áreas comunes del proyecto. Aunque valoradas, no fueron el driver principal y, de hecho, el ruido del motor de la piscina se convirtió en una fricción post-compra.",
+        "alternativas_descartadas": "Un proyecto en La Molina (que terminó comprando después, como plan B ante la mala experiencia con MUV), y otras zonas como Miraflores/Barranco y San Isidro/Lince que fueron evaluadas pero no priorizadas."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy bajo (cercano a 0/10). La experiencia post-venta ha sido descrita como 'devastadora' y 'adrenalítica', llena de incertidumbre y falta de comunicación.",
+        "reservas": "Una enorme preocupación por la informalidad del proceso, la validez de su contrato de 'inmueble futuro' y la incertidumbre sobre los plazos para la inscripción en Registros Públicos, lo que le impide disponer libremente de su propiedad.",
+        "fricciones_pendientes": "El departamento no está terminado y no se puede mudar, la minuta incorrecta no ha sido reemplazada, la comunicación con la inmobiliaria es prácticamente nula y han surgido problemas de ruido con los equipos del condominio."
+    },
+    "proyecto": "MUV"
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Pareja joven, tras una mala experiencia con otra inmobiliaria, decide comprar su primer departamento para vivir juntos. La elección del proyecto se define por la recomendación de un familiar y las amenidades únicas (club y piscina), que no encontraron en otras opciones.",
+    "historia_causal": {
+        "contexto_previo": "Viven por separado en casa de sus padres en Los Olivos. Son una pareja de novios con planes de matrimonio. Su rutina diaria implica largos y agotadores traslados a sus centros de trabajo (Surco, San Isidro) y anteriormente a la universidad (La Molina).",
+        "tension_acumulada": "El deseo de independizarse y empezar su vida en común se suma al cansancio acumulado por los largos viajes diarios. Buscan un espacio propio que les sirva como base para su futuro y que, idealmente, mejore su calidad de vida.",
+        "bloqueadores": "Una experiencia negativa reciente con otra inmobiliaria (Sancharbel) por falta de transparencia en la minuta los había dejado desconfiados y frenado el proceso. Además, percibían que zonas como Surco estaban fuera de su presupuesto.",
+        "eventos_habilitadores": "La recomendación de un tío que ya vivía en un proyecto de la misma inmobiliaria (MUV) les dio confianza. Descubrieron que el proyecto WOW en Surco estaba dentro de su presupuesto, lo cual fue una sorpresa positiva. Tenían la capacidad económica para afrontar la cuota inicial.",
+        "switching_trigger": "La recomendación del familiar, que destacó las 'bondades' del proyecto como el club y la piscina, fue el estímulo que los llevó a visitar la sala de ventas y considerar activamente esta opción.",
+        "momento_de_decision": "La visita a la sala de ventas fue decisiva. Quedaron impresionados con el concepto del proyecto, especialmente las áreas comunes. La decisión fue rápida, motivada por el fuerte encaje del producto con sus deseos y la confianza generada por la referencia familiar."
+    },
+    "contexto_activador": {
+        "marco_general": "Son una pareja de profesionales jóvenes en la transición hacia el matrimonio y la vida en común. Su sistema de vida actual, anclado en casas familiares en una zona alejada de sus centros de actividad, genera una fuerte fricción logística y un deseo de consolidar su independencia."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Establecer una base habitacional sólida y propia para comenzar su vida como pareja, mejorando su calidad de vida y asegurando una inversión en la que puedan confiar.",
+        "job_statement": "Cuando estamos por casarnos y empezar nuestra vida juntos, quiero comprar nuestro primer departamento para tener una base estable y un hogar propio.",
+        "job_dominante_narrativo": "La misión principal es dejar de vivir separados y con sus padres para consolidar su relación en un espacio propio. La compra es el paso fundamental para 'sentar cabeza' y construir su futuro como pareja.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El concepto de 'club dentro del condominio', especialmente la piscina semi-olímpica, fue el principal atractivo. La recomendación y testimonio de un familiar generó confianza. La ubicación tranquila, sin el ruido de avenidas principales, y el amplio estacionamiento para visitas también fueron clave.",
+        "firing_criteria": "Descartaron la inmobiliaria anterior por falta de transparencia en la minuta. Descartaron otros proyectos por estar en zonas ruidosas y con mucho tráfico. Descartaron los departamentos del primer piso por ser pequeños y por el riesgo de suciedad en el jardín.",
+        "trade_offs_reales": "Aceptaron un departamento con un área menor a la que hubieran deseado (79m² vs 100m²). Se conformaron con un balcón muy pequeño y no funcional. Tuvieron que tolerar una comunicación post-venta deficiente y una alta rotación de asesores.",
+        "factores_de_confianza": "La principal fuente de confianza fue el testimonio de su tío que ya vivía en un proyecto similar. La asesora de ventas inicial también generó una buena impresión.",
+        "reduccion_de_riesgo": "La existencia de un familiar viviendo en un proyecto de la misma empresa redujo la percepción de riesgo, a pesar de que este familiar también tuvo problemas con los plazos de entrega."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes (club, piscina semi-olímpica). La ubicación tranquila y 'metida'. El amplio estacionamiento. La distribución 2+flex que ofrece versatilidad.",
+        "atributos_secundarios": "El precio sorprendentemente asequible para la zona de Surco.",
+        "alternativas_descartadas": "El proyecto de Sancharbel fue descartado por falta de transparencia contractual. Otros proyectos en Jesús María y Pueblo Libre fueron descartados por su ubicación ruidosa cerca de avenidas principales."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Mixto. Alto con el proyecto (8/10), pero muy bajo con la inmobiliaria (3/10) debido a la post-venta.",
+        "reservas": "Fuerte preocupación por la falta de comunicación y la rotación de personal de la inmobiliaria. Incertidumbre sobre los plazos de entrega reales.",
+        "fricciones_pendientes": "La comunicación post-venta es prácticamente nula, generando ansiedad y desconfianza. El proceso de desembolso del crédito hipotecario ha sido complicado por la falta de coordinación entre la inmobiliaria y los bancos."
+    },
+    "proyecto": "WOW"
+}

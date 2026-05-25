@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente compra su primer departamento para independizarse de sus padres. La elección de MUV se define por la optimización de su vida cotidiana (cercanía a trabajo y familia) y el estilo de vida que ofrecen las áreas comunes, a pesar de una mala experiencia post-venta.",
+    "historia_causal": {
+        "contexto_previo": "Vivía con sus padres en Surco, con una vida estable y un fuerte arraigo a la zona por motivos familiares y laborales, ya que trabaja en La Molina.",
+        "tension_acumulada": "Tenía un deseo latente y creciente de independizarse y tener su propio espacio. Sentía que ya contaba con la capacidad financiera para dar ese paso fundamental en su vida.",
+        "bloqueadores": "No existía un bloqueador económico o familiar fuerte, sino más bien una inercia. La búsqueda era pasiva y no tenía un plazo definido hasta que un estímulo externo la activó.",
+        "eventos_habilitadores": "La autopercepción de tener la 'situación financiera para independizarme', sumada a la posibilidad de contar con ayuda familiar, le proporcionó la confianza necesaria para empezar a buscar activamente.",
+        "switching_trigger": "La curiosidad generada al ver un proyecto inmobiliario (Lucio) de camino a casa. Este evento la hizo pasar de una idea pasiva ('me quiero independizar') a una búsqueda activa y concreta ('¿cuánto cuesta esto?').",
+        "momento_de_decision": "El proceso fue muy rápido una vez activado. Vio pocas opciones, llegó a MUV a través de una reventa, le gustó el concepto del condominio y, al descubrir unidades nuevas con mejor distribución y un descuento importante, tomó la decisión de compra."
+    },
+    "contexto_activador": {
+        "marco_general": "Joven profesional cuyo sistema de vida (familia, trabajo) está fuertemente anclado en el eje Surco-La Molina. Aunque vive cómodamente con sus padres, ha alcanzado la madurez financiera y personal para buscar su primer espacio propio, marcando el hito de la independencia como una transición natural de su etapa de vida."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Conseguir un espacio propio para vivir sola por primera vez, estableciendo una base de independencia sin sacrificar la conveniencia y cercanía a su red de soporte y trabajo.",
+        "job_statement": "Cuando siento que estoy lista para independizarme, quiero comprar mi primer departamento para tener mi propio espacio y empezar mi vida como adulta, de forma que pueda mantener mi rutina actual sin grandes fricciones.",
+        "job_dominante_narrativo": "La clienta está intentando establecer su primera base habitacional independiente para marcar un hito de vida y vivir bajo sus propias reglas, saliendo de casa de sus padres.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación que optimizaba su vida (cerca a La Molina y Surco), el estilo de vida ofrecido por el clubhouse (piscina, canchas de tenis), la percepción de seguridad del condominio y una buena oferta económica que incluía una rebaja importante.",
+        "firing_criteria": "La inseguridad (departamento en primer piso con reja simple), una mala ubicación (zonas 'feas' o con mucho ruido de tráfico como Av. Primavera), y opciones que estaban fuera de su presupuesto.",
+        "trade_offs_reales": "Aceptó un departamento sin la posibilidad de instalar aire acondicionado, un problema que descubrió tardíamente. Además, tuvo que tolerar una pésima gestión post-venta, demoras en la instalación de servicios básicos como el gas y errores en el contrato.",
+        "factores_de_confianza": "El contacto que su padre tenía con alguien del proyecto fue un 'plus extra' que facilitó el acceso, aunque no fue la razón principal de la compra. La confianza se basó más en el producto en sí y la oportunidad comercial.",
+        "reduccion_de_riesgo": "Al visitar primero un departamento de reventa, pudo validar que el concepto del condominio le gustaba. La compra de una unidad nueva le ofreció una mejor distribución y la percepción de un buen 'deal' económico, minimizando el riesgo de la elección."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La proximidad geográfica a su trabajo y familia, el clubhouse con sus amenities (piscina y canchas de tenis), la distribución funcional del departamento nuevo y la seguridad percibida del condominio.",
+        "atributos_secundarios": "El gimnasio (no lo usa), las canchas de squash (las considera espacio desperdiciado). La compra no fue motivada por inversión, de hecho, calculó una posible pérdida como un 'alquiler razonable'.",
+        "alternativas_descartadas": "Un departamento en primer piso por inseguridad, otro en una zona poco atractiva, y uno en Chacarilla por presupuesto y ruido. También descartó la unidad de reventa en el mismo Magna Haus por una mejor distribución y precio en la unidad nueva."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo con la inmobiliaria (4/10), pero aceptable con el condominio/proyecto (7/10). Siente que el producto es un 'buen deal' para su etapa de vida, pero la gestión post-venta es un 'desastre'.",
+        "reservas": "La imposibilidad de instalar aire acondicionado es una molestia significativa que la haría pensar dos veces. El ruido del Club Árabe cercano durante el verano también es un problema.",
+        "fricciones_pendientes": "La principal fricción es la pésima comunicación y gestión de la inmobiliaria en el proceso de independización, lo que genera desconfianza, frustración y le impidió votar en la junta de propietarios. Errores en el contrato y demoras en servicios básicos (gas) también fueron problemas críticos."
+    },
+    "proyecto": "MUV"
+}

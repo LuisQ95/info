@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia de Cusco decide comprar una propiedad en Lima con el único propósito de dar soporte, seguridad y una base estable a su hijo mayor durante su etapa universitaria, priorizando la cercanía a su centro de estudios.",
+    "historia_causal": {
+        "contexto_previo": "La familia reside en Cusco, mientras su hijo mayor ya se encuentra viviendo en Lima en un departamento alquilado para asistir a la universidad (UPC).",
+        "tension_acumulada": "Preocupación constante de los padres por la seguridad de su hijo viviendo solo en una ciudad grande, sumada a la frustración por las limitaciones de un alquiler que no permite personalización ni se siente como un hogar ('en lo que no es tuyo ni un clavo').",
+        "bloqueadores": "No existían bloqueadores económicos o de decisión claros; la familia operaba con una solución temporal (alquiler) mientras maduraba la idea de una solución permanente.",
+        "eventos_habilitadores": "La consolidación de la vida universitaria del hijo en Lima y la disponibilidad de capital para invertir en una propiedad.",
+        "switching_trigger": "El hijo descubre el proyecto MUV al pasar por ahí diariamente. Tras una visita donde queda 'encantado' con las instalaciones, convence a su padre, lo que detona la acción de compra de manera inmediata.",
+        "momento_de_decision": "La decisión fue rápida y liderada por el hijo y el padre. La madre confió en su criterio y aceptó la compra sin haber visitado personalmente las instalaciones, demostrando que la decisión era funcional y basada en la confianza familiar ('fueron dos convencidos contra una')."
+    },
+    "contexto_activador": {
+        "marco_general": "Familia con su centro de vida en provincia (Cusco) y con hijos en transición a la vida universitaria en la capital. Su sistema operativo se basa en una alta priorización de la seguridad y el bienestar de los hijos que viven a distancia, lo que condiciona sus decisiones de inversión y logística."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr tranquilidad y seguridad al saber que su hijo tiene una base habitacional propia, estable y segura cerca de su universidad, eliminando las preocupaciones logísticas y de exposición, y a la vez construyendo un patrimonio para el futuro de sus otros hijos.",
+        "job_statement": "Cuando mi hijo se muda a otra ciudad para la universidad, quiero comprarle un departamento propio cerca de su campus para asegurar su bienestar y seguridad, y tener una base familiar estable para el futuro.",
+        "job_dominante_narrativo": "La familia está intentando reconfigurar su sistema de soporte para facilitar la transición de vida de uno de sus miembros, proveyendo una herramienta (el departamento) que garantiza su seguridad y optimiza su logística diaria en un entorno desconocido.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J01 - Establecer estabilidad habitacional"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Cercanía a la universidad (UPC) para minimizar traslados y exposición al riesgo, seguridad del condominio (entorno cerrado y controlado), y las áreas comunes (piscina, gimnasio) que fueron un factor de 'encantamiento' para el hijo.",
+        "firing_criteria": "Cualquier ubicación que implicara largos o complicados traslados para el hijo. Zonas percibidas como inseguras o que no ofrecieran un entorno controlado.",
+        "trade_offs_reales": "Soportaron un retraso de un año en la entrega, graves problemas de gestión post-venta (su estacionamiento fue vendido a otra persona) y defectos menores en los acabados. La madre compró a ciegas, sin visitar el proyecto.",
+        "factores_de_confianza": "La confianza plena en el juicio del hijo y del esposo, quienes sí visitaron el proyecto y quedaron convencidos. La percepción de seguridad que transmitía el ser un condominio cerrado.",
+        "reduccion_de_riesgo": "La principal estrategia de reducción de riesgo fue elegir una ubicación que minimizaba la movilidad y exposición del hijo. La compra de un bien tangible en un proyecto concreto se percibió como menos riesgoso que la incertidumbre de los alquileres a largo plazo."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica adyacente a la universidad. El formato de condominio cerrado que prometía seguridad y tranquilidad para los padres. Las áreas comunes que fueron el gancho inicial para el hijo.",
+        "atributos_secundarios": "La tipología de dos dormitorios fue una elección práctica para alojar visitas familiares, pero no fue un factor decisivo en la compra inicial.",
+        "alternativas_descartadas": "La alternativa principal era continuar alquilando, la cual fue descartada por las restricciones, la falta de seguridad percibida y el no construir patrimonio. No se mencionan otros proyectos inmobiliarios que hayan sido evaluados en profundidad."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Satisfecha con el producto final y su función (calificación de 8/10), principalmente porque a sus hijos les gusta y se sienten seguros. Sin embargo, la satisfacción con la inmobiliaria y el proceso post-venta es muy baja.",
+        "reservas": "Calidad de algunos acabados (barandas oxidadas) y la percepción de que la gestión de la inmobiliaria es deficiente.",
+        "fricciones_pendientes": "La experiencia estuvo plagada de fricciones graves: un año de retraso en la entrega, incumplimiento de la promesa de cubrir el alquiler extra, y la venta de su estacionamiento asignado a otra persona, lo que generó un gran malestar y múltiples gestiones para resolverlo."
+    },
+    "proyecto": "MUV"
+}

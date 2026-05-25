@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente realiza una compra de inversión, motivado por la necesidad de rentabilizar un capital disponible. Elige el proyecto WOW por su propuesta de valor superior (amenidades, baja densidad, tranquilidad) que lo diferencia de otras opciones de inversión y que, además, se alinea con su visión de un futuro hogar.",
+    "historia_causal": {
+        "contexto_previo": "Ingeniero civil con un estilo de vida laboral itinerante (Huaraz, Huancayo), lo que implica que no tiene una residencia fija y la empresa cubre sus gastos de vivienda. No posee una necesidad habitacional inmediata. Proviene de Chosica y tiene experiencia previa alquilando en Surco durante su etapa universitaria.",
+        "tension_acumulada": "Posee capital ahorrado que no está generando rentabilidad. Su experiencia como estudiante en la zona de Monterrico le dio un conocimiento profundo del potencial del mercado de alquiler para universitarios (UPC, ESAN, Piura). Existe un deseo latente de asegurar un activo patrimonial que sirva como inversión a corto plazo y como posible hogar a largo plazo.",
+        "bloqueadores": "Inicialmente, no había una decisión firme sobre qué proyecto elegir. Estaba evaluando múltiples opciones en diferentes zonas con potencial de alquiler (San Isidro, cerca a la Ricardo Palma, etc.), lo que mantenía la decisión en una fase de análisis.",
+        "eventos_habilitadores": "Una visita previa al proyecto ya había generado una buena impresión. El reencuentro con el proyecto en una feria inmobiliaria, donde se presentó una oferta comercial con un descuento por tiempo limitado (10-15%), actuó como un catalizador.",
+        "switching_trigger": "El reencuentro con el proyecto en la feria inmobiliaria, combinado con una oferta de descuento de corta duración, lo impulsó a pasar de la consideración a la acción inmediata.",
+        "momento_de_decision": "La decisión fue rápida y se tomó en la misma feria. Ante la presión de la vendedora por la oferta limitada y la falta de liquidez inmediata, utilizó su tarjeta de crédito para pagar la cuota inicial y asegurar la unidad y la promoción."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional joven, soltero, con alta movilidad laboral y sin necesidad de vivienda inmediata. Su sistema de vida es flexible y dependiente de sus proyectos profesionales. Posee capital para invertir y un conocimiento específico del mercado de alquiler estudiantil en Surco, lo que condiciona su búsqueda a zonas con universidades. La decisión se activa cuando una opción de inversión se cruza con una propuesta de valor aspiracional y una oferta comercial que genera urgencia."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo patrimonial que genere ingresos pasivos a corto plazo y ofrezca la flexibilidad de convertirse en un hogar de alta calidad de vida en el futuro, protegiendo y aumentando mi capital.",
+        "job_statement": "Cuando tengo capital disponible y no necesito una vivienda inmediata, quiero invertir en un departamento ubicado estratégicamente para alquilar, de modo que pueda generar una rentabilidad segura y, a la vez, tener una opción de hogar futuro que me ofrezca tranquilidad y un estilo de vida superior.",
+        "job_dominante_narrativo": "El cliente está intentando transformar su capital ocioso en un activo productivo y flexible. La misión es doble: primero, generar una renta segura a través del alquiler a estudiantes y, segundo, asegurar una futura vivienda personal en un entorno que considera ideal por su tranquilidad y calidad de vida.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación estratégica cerca de tres universidades (potencial de alquiler). El concepto de condominio cerrado de baja densidad que ofrece tranquilidad y paz. Las áreas comunes tipo 'mini-club' (piscina, gimnasio, cine) que representan un estilo de vida aspiracional para él y su futura familia. El precio competitivo en comparación con MUV. La vista desde el sexto piso.",
+        "firing_criteria": "Proyectos de alta densidad con muchos pisos (25-30) y numerosos propietarios, percibidos como problemáticos y con áreas comunes masificadas. Zonas con mucho tráfico y ruido. Proyectos más caros que no ofrecían un beneficio adicional para su necesidad actual (MUV).",
+        "trade_offs_reales": "Aceptó una tipología de 1 dormitorio + estudio en lugar de 2 dormitorios, confiando en la flexibilidad para convertir el estudio. Cedió ante la presión de la vendedora para cerrar la compra rápidamente y aprovechar un descuento.",
+        "factores_de_confianza": "Su conocimiento previo y profundo de la zona y su potencial de mercado. La experiencia positiva en las visitas al proyecto. La percepción de que el concepto de condominio cerrado se alinea con su experiencia de vida tranquila en Chosica.",
+        "reduccion_de_riesgo": "La inversión se sentía segura por la alta demanda de alquiler estudiantil que él mismo había experimentado y observado. La elección de un proyecto de baja densidad minimizaba el riesgo percibido de problemas de convivencia futuros."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de condominio cerrado de baja altura. El paquete de amenities ('mini-club'). La ubicación estratégica para inversión. La vista específica desde la unidad elegida. El precio con descuento.",
+        "atributos_secundarios": "La flexibilidad de la tipología (estudio convertible en cuarto). La posibilidad de pagar la inicial con tarjeta de crédito.",
+        "alternativas_descartadas": "Proyectos en San Isidro (descartados por alta densidad). Otros proyectos en Monterrico (descartados por ser edificios muy altos y masificados). El proyecto MUV (descartado por ser más caro y no tener apuro en la entrega)."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Califica su experiencia actual con un 7-8 sobre 10, pendiente del producto final.",
+        "reservas": "La principal reserva es la calidad del producto final (acabados, cumplimiento de promesas), que determinará si la calificación sube a 10 o baja drásticamente.",
+        "fricciones_pendientes": "Comunicación postventa deficiente y poco proactiva por parte de la inmobiliaria, lo que le genera 'zozobra' e incertidumbre. Un premio prometido (gift card de S/1000) que no ha sido entregado."
+    },
+    "proyecto": "WOW"
+}

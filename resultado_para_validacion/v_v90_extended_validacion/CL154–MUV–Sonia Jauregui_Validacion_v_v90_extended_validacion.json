@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de reconfigurar el sistema familiar. La clienta vive sola en un departamento sobredimensionado después de que su hija se fue al extranjero y su hijo se independiza. Esto crea una desalineación estructural. Los criterios de selección (Selection Drivers) como la ubicación cerca a la universidad del hijo, la tranquilidad y los costos de mantenimiento, son factores para elegir MUV sobre otras opciones, pero no explican por qué entró al mercado a comprar.",
+        "debate_deal_breaker": "El factor innegociable es la reorganización familiar. Si se aplica el Test Canónico: ¿Sin el cambio en la estructura familiar (hijo independizándose, ella sola en un depa grande), compraría? La respuesta es un rotundo NO. La compra de dos departamentos pequeños (o al menos uno con la intención de otro) solo tiene sentido bajo esta nueva configuración familiar. La inversión (J02) es el medio y la optimización de su espacio (J03) es una consecuencia, pero el motor es la familia (J04).",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "quiero que uno de los departamentos, mi hijo se está independizando, y el otro para mí.",
+                    "mi departamento es bien grande, pero ahora que ya mi hija se fue, mi hijo también se independizó, ese departamento es demasiado grande para mí.",
+                    "compramos en un lugar relativamente cerca uno al otro. Así podemos comprar, prestarnos el vehículo, así cocinamos para los dos...",
+                    "estoy pagando a la muni, mantenimiento me cuesta caro y ya vivo sola."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sin la necesidad de reorganizar el sistema familiar para mantener el apoyo mutuo con su hijo, la compra no se realizaría. La lógica de comprar dos unidades o una para este fin se desvanece por completo."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo tenía un ahorro importante",
+                    "te estoy pagando al contado"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Aunque la compra es una inversión, el capital es el habilitador, no el fin. Si no tuviera el problema familiar que resolver, el dinero podría seguir ahorrado o invertirse de otra forma. La compra ocurre para resolver el J04."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "Se determina que el Job Dominante es J04. La compra es una respuesta a una 'desalineación estructural' entre la vivienda actual y la nueva realidad operativa de la familia. El objetivo es reconfigurar el 'sistema operativo familiar' en nuevos 'nodos coordinados' (dos departamentos) para mantener el apoyo mutuo. El capital disponible (J02) y la optimización de costos (J03) son factores secundarios que habilitan y justifican la decisión, pero no la originan."
+    },
+    "dictamen_final": "El Job Dominante es J04: Acompañar el crecimiento familiar, específicamente el subtipo 'Reconfiguración'.",
+    "justificacion": "La evidencia es concluyente. La compra es una respuesta directa a la desalineación entre su vivienda actual (grande, costosa, vacía) y la nueva estructura familiar. El objetivo central no es meramente invertir (J02) u optimizar su rutina (J03), sino reestructurar el 'sistema operativo familiar' en dos nodos habitacionales coordinados para preservar el apoyo mutuo. El Test Canónico lo confirma: sin el cambio en la estructura familiar, la compra carece de sentido. La necesidad de su hijo y la reorganización de su propia vida son el motor innegociable de la decisión."
+}

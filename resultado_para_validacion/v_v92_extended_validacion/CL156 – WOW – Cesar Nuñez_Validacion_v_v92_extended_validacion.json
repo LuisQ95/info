@@ -1,0 +1,39 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de invertir un capital excedente para generar rentabilidad, lo cual es J02. La conveniencia familiar (cercanía a la universidad de los hijos, cancha de tenis, tipología flexible) actúa como un potente filtro de selección (Selection Driver), definiendo QUÉ propiedad comprar, pero no el PORQUÉ de la compra. La decisión de entrar al mercado es puramente de inversión.",
+        "debate_deal_breaker": "Si se elimina el objetivo de inversión (J02), la compra no ocurre, ya que tienen una vivienda propia y cómoda. Si se eliminan los criterios de conveniencia familiar (J04), la compra de inversión SÍ ocurriría de todas formas, simplemente buscarían otro proyecto que cumpliera con sus criterios de rentabilidad. Esto confirma que J02 es el Job dominante y J04 es el criterio de selección.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "la intención es comercial",
+                    "para ponerlo en alquiler",
+                    "lo compró como inversión",
+                    "esto es más inversión que que necesidad de comprar para vivir",
+                    "tienen un excedente de dinero y mientras sepan que van a alquilar ya ya están ganando"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuvieran el capital excedente para invertir, no habrían comprado una segunda propiedad. La compra no se realizaría."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Pensamos en la ubicación. Por la universidad. Nuestros hijos están en la Universidad de Lima.",
+                    "La cancha de tenis, más que todo. Ellos juegan tenis.",
+                    "Precisamente por la posibilidad de que quizás nosotros mismos...",
+                    "Con tres [dormitorios]. Entonces, el flex lo hice en vuelta de un tercer dormitorio."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no estuviera cerca de la universidad o no tuviera cancha de tenis, habrían invertido su capital en otra propiedad. La compra de inversión se realizaría igualmente."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La compra es gobernada por el J02. El cliente entra al mercado para dar rentabilidad a un capital. El J04, aunque muy influyente, opera como el conjunto de criterios de selección para elegir la inversión más conveniente y con mayor opcionalidad futura, pero no origina la transacción."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y coherente. Permite distinguir con precisión el Job Dominante (J02 - Inversión) que actúa como gatillo de entrada al mercado, del Job Secundario (J04 - Familia) que funciona como un potente filtro de selección. La evidencia es consistente y las fricciones post-compra están bien documentadas."
+}

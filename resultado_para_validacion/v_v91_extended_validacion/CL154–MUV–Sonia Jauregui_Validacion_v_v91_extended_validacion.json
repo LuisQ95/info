@@ -1,0 +1,37 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo o 'Entry Driver' es la desalineación estructural de su vivienda actual (154m²) con la nueva realidad de su familia (hija en el extranjero, hijo independizándose). Esto la obliga a reconfigurar su sistema habitacional. Los criterios de selección o 'Selection Drivers' fueron la ubicación (cerca a la UPC), la tranquilidad de la zona y los costos de mantenimiento, que usó para elegir MUV sobre otras opciones, pero no explican por qué entró al mercado.",
+        "debate_deal_breaker": "El factor innegociable era la necesidad de reorganizar el 'sistema operativo familiar'. El plan original de comprar dos departamentos (uno para ella, otro para su hijo) para mantener la cercanía y el apoyo mutuo es la manifestación de este 'deal breaker'. Sin esta necesidad de reconfiguración familiar, la compra no se habría iniciado, independientemente de la disponibilidad de capital para invertir.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "quiero que uno de los departamentos, mi hijo se está independizando, y el otro para mí.",
+                    "mi departamento es bien grande, pero ahora que ya mi hija se fue, mi hijo también se independizó, ese departamento es demasiado grande para mí.",
+                    "compramos en un lugar relativamente cerca uno al otro. Así podemos comprar, prestarnos el vehículo, así cocinamos para los dos...",
+                    "estoy pagando a la muni, mantenimiento me cuesta caro y ya vivo sola."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si su estructura familiar no hubiera cambiado (hijos aún en casa), no habría existido la necesidad de vender o dejar su departamento grande. La compra no ocurriría. El Job pasa el test."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo tenía un ahorro importante",
+                    "te estoy pagando al contado",
+                    "Lo vendo, pero no voy a poder vender mientras no esté inscrito en Registros Públicos."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuviera los ahorros, buscaría otra forma de financiar la solución al problema familiar (J04), como vender la propiedad grande primero. La necesidad de reorganización familiar persiste independientemente del capital disponible. El Job no pasa el test como dominante."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "El Job dominante es J04. La compra es una respuesta directa a una reconfiguración del sistema familiar que vuelve inadecuada la vivienda actual. La madre busca crear nuevos 'nodos coordinados' para ella y su hijo, manteniendo la interdependencia funcional. El J02 (inversión) y el J03 (optimización de costos) son lógicas secundarias que dan forma a la solución, pero no originan la necesidad."
+    },
+    "dictamen_final": "Entrevista Válida y de Alta Calidad.",
+    "justificacion": "La entrevista revela con gran profundidad y claridad una historia causal compleja. Expone un claro Job Dominante J04 (Reconfiguración Familiar) que pasa todos los tests canónicos, diferenciándolo de los fuertes Jobs secundarios (J02, J03). Además, documenta de manera excepcional el agudo contraste entre una decisión de compra racionalmente sólida y una experiencia de cliente post-venta extremadamente deficiente, proporcionando insights valiosos sobre las fricciones operativas."
+}

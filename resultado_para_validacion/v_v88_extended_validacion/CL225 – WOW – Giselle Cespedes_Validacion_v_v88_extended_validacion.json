@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de un hogar adaptado a las necesidades especiales del hijo (J04), que requiere un entorno específico y cercanía a la red de apoyo familiar. El 'enamoramiento' con el proyecto (J06) y sus amenities no es el origen, sino el filtro de selección (Selection Driver) que definió el 'dónde' comprar, pero no el 'porqué' estructural de la compra. La compra no ocurriría si el lugar no resolviera las necesidades del hijo, independientemente de lo atractivo que fuera.",
+        "debate_deal_breaker": "El innegociable es la adecuación del espacio para el hijo. Si el proyecto no tuviera áreas verdes para sus terapias, un departamento en piso bajo para evacuaciones seguras y una distribución flexible para sus necesidades, la compra no se realizaría. El 'enamoramiento' es un acelerador potente, pero el J04 es la condición sine qua non. La compra se subordina completamente a la dinámica y requerimientos familiares.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "mi hijito tiene una condición genética. Entonces, él tiene regresión en el desarrollo general",
+                    "necesita bastante supervisión, ¿no? Entonces, ahí es donde mi papá y mi suegro también... nos apoyan un montón, ¿no? Entonces, por eso es que tenemos esa necesidad de estar cerca.",
+                    "si hay algún temblor y tenemos que bajar... mi hijito ahorita no camina, hay que cargarlo. Bajar con 20 kilos que pesa dos pisos era un poco más sencillo"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No compraría. Sin la necesidad de un entorno adaptado y cercano a la red de apoyo para su hijo, la urgencia y la configuración específica de esta compra desaparecen. Podrían seguir viviendo con los padres o buscar otra opción sin las restricciones actuales."
+            },
+            {
+                "codigo_y_nombre_job": "J06 - Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "yo este proyecto lo he visto desde la etapa uno, que en el 2017 o 16 me parece, porque me gustó mucho.",
+                    "si ya me gustaba el proyecto y en ese momento me enamoré, ¿no?",
+                    "tenía toda la convicción de comprar ahí."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, compraría igual, pero en otro proyecto que cumpliera con los requisitos funcionales para su hijo. El 'enamoramiento' con WOW lo convirtió en la primera y única opción, pero la necesidad de base (J04) la habría llevado a buscar una solución similar en otro lugar si WOW no existiera."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J06 - Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La decisión de compra está gobernada por el J04. La necesidad de proveer un entorno seguro, funcional y terapéutico para su hijo, que depende estructuralmente de la proximidad a la red de apoyo familiar, es el motor de la transacción. El J06 actúa como un poderoso catalizador y criterio de selección, explicando la elección específica del proyecto WOW, pero no el origen de la demanda. La compra es una solución a una desalineación estructural entre su vivienda y las necesidades operativas de la familia."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista proporciona una narrativa causal rica y detallada. La cliente articula con claridad el contexto, las tensiones y los eventos que llevaron a la decisión. Se puede identificar sin ambigüedad el Job Dominante (J04) y el rol del Job Secundario (J06), con múltiples piezas de evidencia que sustentan el análisis en todas las capas."
+}

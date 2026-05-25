@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Un cliente que inicialmente buscaba invertir capital es inesperadamente cautivado por el concepto único de 'club' de un proyecto, lo que lleva a una compra aspiracional impulsada por el estilo de vida en lugar del retorno financiero, a pesar de encontrar importantes fallas de servicio y comunicación después de la venta.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vive cómodamente en el departamento propio de sus padres, goza de estabilidad financiera con buenos ingresos, no tiene deudas y ya invierte en otros activos. No tiene ninguna necesidad o urgencia habitacional.",
+        "tension_acumulada": "Tenía un capital disponible que no estaba generando rendimientos, lo que creaba un deseo latente de encontrar una inversión adecuada. Su búsqueda fue pasiva e intermitente durante 2-3 años, sin un catalizador específico.",
+        "bloqueadores": "El principal obstáculo era la falta de un proyecto convincente. Había explorado opciones en ferias y en línea, pero ninguna había captado su interés lo suficiente como para tomar acción, dado que no tenía una necesidad urgente.",
+        "eventos_habilitadores": "Su sólida situación financiera, la disponibilidad de capital para la cuota inicial y la preaprobación de créditos bancarios hacían que la compra fuera factible en cualquier momento que decidiera actuar.",
+        "switching_trigger": "Ver un anuncio publicitario dirigido en redes sociales sobre el proyecto WOW, que destacaba su concepto único de 'club' y sus comodidades como canchas de tenis, activó instantáneamente su interés y lo movió de una búsqueda pasiva a una activa.",
+        "momento_de_decision": "Tras ver el anuncio, visitó el proyecto. La visita confirmó su impresión positiva y, aunque notó que la calidad de los materiales era estándar, el concepto general lo conquistó. La decisión se tomó rápidamente, en una o dos semanas, acelerada en parte por la presión del vendedor para cerrar el trato."
+    },
+    "contexto_activador": {
+        "marco_general": "Un profesional financieramente estable que vive con sus padres y dispone de capital para invertir. Tiene un estilo de vida definido que incluye la práctica de tenis y una clara preferencia por edificios de baja altura (máximo 10 pisos) para evitar problemas de gestión de condominios."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Poseer una propiedad que no solo funcione como un activo sólido, sino que también refleje y mejore su estilo de vida e identidad personal a través de comodidades únicas y aspiracionales.",
+        "job_statement": "Cuando veo un proyecto con un concepto de estilo de vida único que se alinea con mis pasiones, quiero comprar una propiedad allí para sentir que he hecho una compra inteligente que mejora mi calidad de vida.",
+        "job_dominante_narrativo": "El cliente está tratando de adquirir una propiedad cuyo valor va más allá de lo funcional. Contrata el proyecto por su concepto de 'club', las canchas de tenis y la sensación de vivir en una comunidad única y bien diseñada, que se alinea con su identidad personal y sus aficiones.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El concepto de 'club' fue el principal criterio de contratación. Específicamente, las canchas de tenis, el diseño del edificio de baja altura (máximo 10 pisos) y la propuesta general de estilo de vida aspiracional. La distribución flexible (1 dormitorio + flex) también fue un punto a favor.",
+        "firing_criteria": "Descartó automáticamente los edificios altos (más de 10 pisos) por problemas de gestión anticipados. También desestimó proyectos en zonas como Miraflores, que percibía como de espacios más pequeños y caros que no se ajustaban a su estilo.",
+        "trade_offs_reales": "Aceptó acabados y materiales estándar, no de lujo. Toleró un proceso de venta y postventa muy desorganizado y frustrante (múltiples cambios de vendedor, falta de comunicación, discrepancias en el contrato). También sacrificó beneficios potenciales (como la domótica) que se ofrecieron a compradores posteriores.",
+        "factores_de_confianza": "Inicialmente, no hubo factores de confianza sólidos; de hecho, el proceso estuvo lleno de desconfianza (presión del vendedor, cambios en la estructura legal). La confianza provino puramente del concepto del producto en sí.",
+        "reduccion_de_riesgo": "El riesgo fue alto debido al mal servicio. Intentó mitigarlo buscando activamente información por su cuenta, contactando al banco y visitando la oficina de ventas repetidamente. El hecho de que fuera una preventa fue un riesgo que estuvo dispuesto a asumir por el producto específico."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de club, las dos canchas de tenis, la estructura del edificio de baja altura y el concepto arquitectónico general.",
+        "atributos_secundarios": "La ubicación cercana a su trabajo fue una coincidencia, no un factor decisivo. La distribución de 1 dormitorio + flex era adecuada pero no la atracción principal.",
+        "alternativas_descartadas": "Consideró brevemente un proyecto cerca de Angamos con Panamericana y otros en San Borja, pero ninguno tenía un atractivo conceptual comparable. Afirma explícitamente: 'a nivel conceptual creo que no he visto otra que se parezca'."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Califica el concepto con un 10/10, pero el servicio con un 6/10 (neutral). La experiencia general es mixta.",
+        "reservas": "Tiene importantes reservas sobre el servicio al cliente, la comunicación y los procesos administrativos de la inmobiliaria. Siente que lo han dejado 'en el aire'.",
+        "fricciones_pendientes": "Finalizar la compra de la cochera y el depósito, que se ha complicado por los cambios de vendedor. Obtener claridad sobre la fecha final de entrega y el calendario de desembolso de la hipoteca. Resolver discrepancias en su contrato (por ejemplo, características como la domótica)."
+    },
+    "proyecto": "WOW"
+}

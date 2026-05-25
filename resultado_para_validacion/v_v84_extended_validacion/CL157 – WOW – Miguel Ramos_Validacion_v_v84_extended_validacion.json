@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El Gatillo de Entrada (Entry Driver) es la necesidad de invertir un capital disponible, activada por la oferta de proyectos del banco. El Filtro de Selección (Selection Driver) fueron las características del proyecto: la ubicación estratégica para alquiler, el precio competitivo y, de forma destacada, las amenidades tipo club que generaron un atractivo aspiracional.",
+        "debate_deal_breaker": "El verdadero innegociable es la viabilidad de la inversión. Si el proyecto no representara una buena oportunidad de negocio (precio, ubicación, potencial de renta), no lo habría comprado, incluso con las atractivas áreas comunes. Las amenidades fueron un potente 'hiring criteria' que lo hizo elegir WOW sobre otros, pero no el origen de la compra. La inflexibilidad del contrato casi se convierte en un deal-breaker, pero fue superado por el atractivo de la inversión.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo lo quiero para negocio, la verdad.",
+                    "compras por inversión, como cuentas",
+                    "lo que te motiva a comprar es la inversión pura"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la propiedad no fuera una inversión rentable en una buena ubicación, no la habría comprado, independientemente de las amenidades."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Es como un club, si mal no lo recuerdo, es como un club adentro.",
+                    "A mí me ha gustado el club, el club está bien bonito, la verdad.",
+                    "no descarto el tiempo de irme a vivir allá yo."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera el club, pero la inversión siguiera siendo rentable, probablemente habría comprado de todos modos, aunque con menos entusiasmo."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "El cliente entra al mercado por una razón puramente financiera (J02): tenía capital y buscaba un préstamo para invertir. La oferta del banco canalizó esta necesidad hacia el sector inmobiliario. No tenía ninguna necesidad habitacional. Las amenidades y el estilo de vida (J06) fueron un poderoso criterio de selección que lo hizo preferir este proyecto e incluso considerar un uso personal futuro, pero no fue el motor de arranque de la compra. El Job Dominante es, sin duda, el de inversión."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es claramente J02: Proteger y flexibilizar el patrimonio.",
+    "justificacion": "La motivación de entrada al mercado es explícita y repetidamente declarada como 'negocio' e 'inversión'. El cliente no tiene ninguna necesidad habitacional; su vivienda actual es más que adecuada. La compra es una decisión puramente financiera para rentabilizar un capital. Las amenidades y el estilo de vida (J06) actúan como un potente criterio de selección y un generador de deseo secundario, pero no son el origen de la necesidad. Si se elimina el componente de inversión, la compra no ocurre. Si se eliminan las amenidades, la compra aún podría ocurrir si los números son correctos. Esto confirma a J02 como el driver dominante."
+}

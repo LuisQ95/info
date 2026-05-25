@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia con capital disponible y una dinámica familiar en transición (hijos adultos) decide invertir en un departamento. La compra, inicialmente pensada para un hijo, evoluciona a una solución para toda la familia, eligiendo un proyecto cuyas características (ubicación, amenities) resuelven directamente las necesidades logísticas y de estilo de vida de los hijos.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive en una casa propia en la zona de Surco. Tienen un negocio cercano y una vida establecida. De sus tres hijos, dos aún viven con ellos, uno de ellos con 32-33 años. Disponen de capital para invertir, como demuestra la compra previa de un local comercial.",
+        "tension_acumulada": "Existía una necesidad latente de encontrar una solución de vivienda para el hijo mayor que aún vive en casa, combinado con el deseo de invertir el capital disponible en lugar de tenerlo inmovilizado. A esto se suma la planificación a largo plazo de una posible mudanza a un lugar más pequeño una vez que la casa actual resulte demasiado grande.",
+        "bloqueadores": "No había un bloqueador fuerte, sino una falta de urgencia. Estaban en una fase de exploración pasiva de inversiones hasta que un estímulo concreto activó la decisión.",
+        "eventos_habilitadores": "La disponibilidad de capital y la decisión ya tomada de vender su casa actual fueron los principales habilitadores. Esto les dio la flexibilidad para considerar la compra del departamento no solo como una inversión para un hijo, sino como su futuro hogar familiar.",
+        "switching_trigger": "Ver una publicidad online del proyecto WOW, que ofrecía un precio más competitivo y, crucialmente, mejores áreas comunes (piscina, juegos, cancha de tenis) que otras opciones que habían considerado superficialmente. Este estímulo convirtió una búsqueda pasiva en una acción de compra inmediata.",
+        "momento_de_decision": "La decisión fue extremadamente rápida e impulsiva. Visitaron el proyecto y lo compraron el mismo día 'sin dudar y sin pensarlo', apostando 'a ciegas' porque percibieron un encaje perfecto con las necesidades de su familia, especialmente las de sus hijos."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida es el de una familia consolidada en una zona específica, con un negocio local y una dinámica centrada en el bienestar de los hijos, que ya son adultos pero siguen integrados en el núcleo familiar. La decisión se activa cuando el capital disponible se cruza con una solución inmobiliaria que no solo funciona como inversión, sino que resuelve de manera óptima la logística y las necesidades de la siguiente generación (universidad, hobbies)."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reconfigurar el patrimonio y el espacio habitacional de la familia para que se adapte mejor a su etapa de vida actual y futura, facilitando la vida de los hijos y asegurando una inversión flexible y rentable.",
+        "job_statement": "Cuando la dinámica de mi familia cambia y mis hijos crecen, quiero invertir en una propiedad que se adapte a sus nuevas necesidades (estudios, independencia, hobbies), para poder facilitar su desarrollo y al mismo tiempo reestructurar nuestro hogar y patrimonio de forma inteligente.",
+        "job_dominante_narrativo": "La familia está intentando reorganizar su 'sistema operativo' habitacional para dar soporte a la etapa de vida de sus hijos adultos, proveyéndoles un entorno conveniente y funcional, mientras planifican su propia transición a una vivienda más compacta en el futuro.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J02 - Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La elección se basó en: 1) Ubicación estratégica cerca de la universidad de los hijos. 2) Áreas comunes específicas que se alineaban con los hobbies familiares (cancha de tenis) y planes futuros (juegos para nietos). 3) Una tipología flexible (2+flex) que podía convertirse en 3 dormitorios para alojar a toda la familia. 4) Un precio percibido como una oportunidad.",
+        "firing_criteria": "Descartaron proyectos con precios más elevados, aunque estuvieran terminados (ej. proyecto Move). Cualquier opción que no ofreciera las áreas comunes específicas o la ubicación conveniente para sus hijos habría sido descartada.",
+        "trade_offs_reales": "Aceptaron el riesgo de comprar un proyecto en planos y una entrega no inmediata a cambio de un mejor precio. Realizaron una compra impulsiva sin una investigación profunda, sacrificando la debida diligencia por la rapidez para asegurar la oportunidad.",
+        "factores_de_confianza": "La confianza inicial fue baja y la compra fue una 'apuesta a ciegas'. La confianza se basó puramente en la percepción de que los atributos del producto (ubicación, amenities) eran una garantía de valor a futuro.",
+        "reduccion_de_riesgo": "No hubo una estrategia de reducción de riesgo pre-compra. De hecho, la compra fue de alto riesgo percibido (impulsiva, sin investigar). La flexibilidad del activo (poder alquilarlo si no venden la casa) funciona como una red de seguridad financiera post-facto."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La cancha de tenis fue un atributo clave y específico para los hijos. La proximidad a universidades y la zona céntrica con desarrollos futuros (mall) también fueron determinantes. La distribución 2+flex que permitía 3 dormitorios fue el encaje funcional perfecto para el plan de mudanza familiar.",
+        "atributos_secundarios": "La piscina y las áreas de juegos para niños, aunque valoradas pensando en los nietos, eran más un 'nice to have' que un requisito indispensable como la cancha de tenis.",
+        "alternativas_descartadas": "El proyecto 'Move' de la misma inmobiliaria fue descartado explícitamente por tener un precio más alto. Otros proyectos solo fueron vistos superficialmente online y no llegaron a ser considerados seriamente porque WOW cumplió con todos los criterios clave de forma inmediata."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy bajo (4-5 sobre 10). La experiencia post-venta ha erosionado completamente la emoción inicial de la compra.",
+        "reservas": "Tienen un temor fundado de que el proyecto no se culmine o se retrase indefinidamente, basado en malas experiencias pasadas y la falta total de comunicación proactiva por parte de la inmobiliaria. Desconfían de la seriedad de la empresa.",
+        "fricciones_pendientes": "La principal fricción es la incertidumbre total sobre el inicio de obras y el cronograma del proyecto. Esto genera una enorme ansiedad, especialmente porque tienen que realizar el pago del 60% restante del valor total en diciembre sin tener ninguna visibilidad del avance. La comunicación es nula o deficiente, lo que agrava la sensación de riesgo."
+    },
+    "proyecto": "WOW"
+}

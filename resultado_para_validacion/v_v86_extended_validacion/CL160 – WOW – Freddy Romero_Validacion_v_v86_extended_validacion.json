@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado fue financiero: un crédito pre-aprobado y el deseo de no seguir 'botando' dinero en alquiler. Sin embargo, el filtro de selección fue 100% aspiracional y familiar. Descartó proyectos 'normalitos' y eligió WOW exclusivamente por su propuesta de valor superior (amenities tipo club), que conectó con el bienestar que deseaba para sus hijos. El gatillo fue la oportunidad (J02), pero el filtro que definió la compra fue el producto (J06).",
+        "debate_deal_breaker": "El deal-breaker fue la propuesta de valor del proyecto. El cliente afirma que las áreas comunes fueron 'el 50% de la decisión'. Sin ese 'efecto club', no habría comprado, como lo demuestra su descarte de otras opciones en San Borja. La inadecuación del primer departamento (no cabían las camas de los hijos) casi rompe el trato, pero su lealtad a las amenities del proyecto fue tan fuerte que prefirió cambiar de unidad dentro de WOW en lugar de buscar otro proyecto. El producto era el innegociable.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "casi que te diría que el 50% de la decisión fue por eso. Por esos... espacios sociales",
+                    "Vi a mis hijos contentos. Y yo dije, pucha, hagámosle a ellos.",
+                    "cuando mandaron el acotado, yo le dije a mi esposa, escucha, no, no van a entrar ni siquiera las dos camas."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si bien la familia es el 'para quién' de la compra, no es el 'porqué'. La familia no tenía un problema estructural de vivienda; el driver fue la atracción hacia una mejora de estilo de vida. La familia es el contexto que da sentido a la aspiración, pero no el origen del problema a resolver."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "nosotros compramos en principio, diría yo, por impulso. Sí, nos dio una buena sensación.",
+                    "no era como meternos en cualquier proyecto y así costará menos o algo así, no era eso",
+                    "esos valores agregados, como que te decía, no puedo creer que haya esos lugares acá, o sea, parecerá un club"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Positivo. Si le quitamos las amenities 'tipo club' y la propuesta de valor aspiracional, la compra no ocurre. El cliente explícitamente descartó proyectos funcionalmente adecuados pero sin este diferencial. La compra fue 'No Problem-Driven', activada 100% por el deseo que generó el producto."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La compra es un caso canónico de J06 (Racional Aspiracional). El cliente no tenía una necesidad funcional urgente; su situación de alquiler era estable. La decisión fue activada por la atracción hacia la propuesta de valor superior del proyecto ('efecto club'), que interpretó como la materialización del bienestar que aspiraba para su familia. La familia (J04) no es el motor de la compra, sino el beneficiario y el criterio principal para evaluar la aspiración. La compra fue por deseo, no por necesidad."
+    },
+    "dictamen_final": "Entrevista Válida de Alta Calidad.",
+    "justificacion": "La entrevista captura de manera excepcional la tensión entre una compra impulsiva y aspiracional (J06) y la posterior racionalización y ajuste funcional. El relato del cambio de departamento es una evidencia objetiva y poderosa que revela la jerarquía real de prioridades del cliente: estaba dispuesto a pasar por un proceso complejo para no renunciar a las amenidades del proyecto. Esto valida con fuerza que el Job Dominante es la atracción por el producto y no una necesidad funcional preexistente."
+}

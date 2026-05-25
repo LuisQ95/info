@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Una familia que vive temporalmente con sus padres se ve impulsada a comprar una vivienda propia para satisfacer las necesidades estructurales y de largo plazo de su hijo, eligiendo un proyecto que no solo resuelve sus requerimientos funcionales sino que también cumple con una aspiración emocional de larga data.",
+    "historia_causal": {
+        "contexto_previo": "La clienta, su esposo e hijo viven en el departamento de los padres de ella en Surco. Esta es una solución cómoda y estable que les brinda el apoyo necesario para el cuidado de su hijo, quien tiene una condición genética. Poseen otras dos propiedades, pero una está alquilada y la otra es habitada por sus suegros, por lo que no son opciones viables para ellos.",
+        "tension_acumulada": "La conciencia de que vivir con los padres es una solución temporal y la creciente necesidad de un espacio propio, diseñado y adaptado para las dinámicas de su propia familia y las necesidades específicas de su hijo (terapias, accesibilidad).",
+        "bloqueadores": "En el pasado (2017), el presupuesto no les permitía acceder al proyecto WOW, a pesar de que ya les gustaba.",
+        "eventos_habilitadores": "Lograron ahorrar el dinero para la cuota inicial. La visita a una prima que ya vivía en la primera etapa del proyecto les permitió experimentar los beneficios de las áreas comunes de primera mano, reactivando y solidificando su interés.",
+        "switching_trigger": "La visita al condominio en diciembre de 2023, donde la experiencia directa de las áreas comunes la 'enamoró' del proyecto, cristalizando la idea de que era la solución perfecta para las necesidades de su hijo y su familia.",
+        "momento_de_decision": "La decisión fue rápida y muy enfocada después de la visita. No exploraron activamente otras alternativas, ya que tenían una fuerte convicción de que WOW era el lugar correcto. La compra se realizó con la tranquilidad de no tener apuro por mudarse."
+    },
+    "contexto_activador": {
+        "marco_general": "Una familia joven cuyo sistema de vida gira en torno al cuidado de su hijo con necesidades especiales. Operan dentro de una red de apoyo familiar muy unida y geográficamente concentrada en Surco, lo que hace que la proximidad a los abuelos sea una restricción estructural clave para cualquier decisión de vivienda."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Establecer un hogar independiente y permanente que esté perfectamente equipado para apoyar el desarrollo y bienestar de nuestro hijo, sin sacrificar la cercanía a nuestra red de apoyo familiar indispensable.",
+        "job_statement": "Cuando nos damos cuenta de que nuestra situación de vivienda actual no es sostenible a largo plazo para las necesidades de nuestro hijo, queremos comprar un departamento con espacios adaptables y amplias áreas verdes cerca de nuestros padres, para poder brindarle el mejor entorno para su desarrollo y mantener el apoyo familiar.",
+        "job_dominante_narrativo": "La clienta está intentando configurar un 'sistema operativo familiar' a largo plazo, donde la vivienda no sea solo un techo, sino una herramienta activa para el bienestar y la terapia de su hijo, asegurando al mismo tiempo la logística de apoyo de los abuelos.",
+        "job_dominante_canonico": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J06 - Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Áreas comunes muy amplias con jardines (para terapias al aire libre), una tipología de departamento con un espacio flexible (para terapias en casa), un piso bajo (seguridad en sismos para su hijo que no camina) y la ubicación en Surco cerca de la familia.",
+        "firing_criteria": "Proyectos con áreas comunes pequeñas o inexistentes, departamentos en pisos altos, ubicaciones lejanas a su red de apoyo familiar y proyectos con entrega inmediata a un precio más alto (ya que no tenían urgencia).",
+        "trade_offs_reales": "Aceptar una larga espera por la construcción y entrega del departamento. Tolerar una comunicación deficiente y procesos administrativos confusos por parte de la inmobiliaria.",
+        "factores_de_confianza": "El conocimiento previo de su esposo, abogado con experiencia en el sector inmobiliario, sobre los problemas comunes con los permisos de construcción en Surco, lo que les dio tranquilidad frente a los retrasos.",
+        "reduccion_de_riesgo": "La ausencia de una necesidad urgente de mudanza les permitió tomar la decisión sin presión, eligiendo el proyecto ideal en lugar de uno simplemente disponible. Esto les dio flexibilidad para absorber los retrasos en la construcción."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de las extensas áreas verdes, la distribución del departamento 2+flex y la ubicación. La elección de un piso bajo fue un atributo de seguridad crítico y no negociable.",
+        "atributos_secundarios": "Otras amenidades como la piscina o el área de parrillas, que son valoradas por experiencias previas pero no fueron el factor decisivo para esta compra.",
+        "alternativas_descartadas": "El proyecto MOVE fue considerado pero descartado principalmente por el precio más elevado y porque su entrega inmediata no era una ventaja para ellos. No se exploraron otras opciones a fondo debido a la fuerte preferencia por WOW."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Alto con el proyecto en sí (10/10), pero moderado con la gestión de la inmobiliaria (8/10), principalmente por fallas en la comunicación.",
+        "reservas": "Incertidumbre y desconfianza generada por la mala comunicación post-venta, la rotación de personal no informada y la falta de claridad en los procesos de pago y gestión del crédito hipotecario.",
+        "fricciones_pendientes": "Todo el proceso de construcción y entrega está pendiente. Existe la preocupación sobre cómo será la comunicación de la inmobiliaria a futuro y si se cumplirán los nuevos plazos."
+    },
+    "proyecto": "WOW"
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es la necesidad de independizarse y tener un espacio propio por primera vez. El filtro de selección (Selection Driver) fue la combinación de una ubicación que optimizaba su logística diaria (trabajo en La Molina, familia en Surco) y la propuesta de valor de las áreas comunes (clubhouse) a un precio accesible.",
+        "debate_deal_breaker": "El deal-breaker funcional fue la ubicación; descartó explícitamente opciones que empeoraban su calidad de vida por el tráfico o la inseguridad. Un deal-breaker de principio fue que el lugar permitiera mascotas, calificado como 'no negociable'. Sin embargo, el deal-breaker fundamental es la necesidad de independencia: sin ella, no habría entrado al mercado en primer lugar, independientemente de las características del proyecto.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "pero ya me quería independizar",
+                    "la intención principal, diría, era para vivir",
+                    "el primer espacio en el que voy a vivir sola"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuviera la necesidad de independizarse de casa de sus padres, ¿habría comprado un departamento? No. La compra no tendría sentido, por lo que este es el origen de la decisión."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "me acercaba incluso más hacia La Molina, como me ahorraba un par de semáforos feos",
+                    "nada de mi vida del día a día se mueve fuera de Surco, La Molina",
+                    "no me quería mudar más lejos porque la verdad es que no había manera de que aguante el tráfico al trabajo"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no optimizara su logística diaria (lejos del trabajo o familia), ¿lo habría comprado? No, explícitamente descartó opciones por esta razón. Funcionó como un criterio de selección clave."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La clienta entra al mercado para resolver una necesidad de J01 (Primera Independencia), estableciendo su primera base habitacional fuera del hogar paterno. Esta es la causa estructural de la compra. La elección del proyecto MUV se define por criterios de J03 (optimización de su ruta diaria) y J06 (acceso a un estilo de vida aspiracional a través del clubhouse). Estos últimos son potentes criterios de selección, pero no el motor de arranque de la decisión. Sin la necesidad de independizarse, la compra no habría ocurrido."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J01: Establecer estabilidad habitacional, en su subtipo de 'Primera Independencia'.",
+    "justificacion": "La compra se origina en la necesidad estructural de la clienta de independizarse de la casa de sus padres y establecer su primer hogar propio. Este es el 'Entry Driver' que activa la búsqueda y justifica la inversión. Criterios como la ubicación para optimizar su commute (J03) y el estilo de vida del clubhouse (J06) son 'Selection Drivers' que determinaron la elección de MUV sobre otras alternativas, pero no constituyen el origen de la necesidad. El test canónico lo confirma: sin la necesidad de independencia, la compra no ocurre."
+}

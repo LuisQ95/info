@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "La compra es una reacción a la decisión de mudanza del yerno y la hija. La madre, compradora final, se ve obligada a mudarse para cumplir la condición innegociable de su hija de vivir en departamentos contiguos, asegurando así la continuidad de su sistema de apoyo mutuo.",
+    "historia_causal": {
+        "contexto_previo": "La clienta vivía en una casa grande y propia en San Martín de Porres, en la misma propiedad que su hija y yerno, pero en unidades independientes. Su sistema de vida era estable y se basaba en una fuerte interdependencia funcional y emocional con su única hija.",
+        "tension_acumulada": "La decisión del yerno de mudarse a Surco creó una tensión estructural: la posible desintegración del núcleo familiar. Para la hija, era inaceptable alejarse de su madre, quien es mayor y no tiene más familia en Lima, lo que generó la necesidad imperiosa de una solución que mantuviera la proximidad física.",
+        "bloqueadores": "El principal bloqueador fue la indisponibilidad inicial de dos departamentos contiguos en el proyecto. Adicionalmente, la madre sentía un fuerte apego a su casa de toda la vida y desconfianza hacia la compra en planos, temiendo una estafa.",
+        "eventos_habilitadores": "El evento habilitador clave fue la decisión firme del yerno de comprar en MUV, lo que forzó a la hija a establecer su condición. La promesa del vendedor de que una unidad contigua podría liberarse mantuvo la opción activa, y la posterior confirmación de esta disponibilidad eliminó el bloqueador principal.",
+        "switching_trigger": "El detonante final fue la imposición de la condición no negociable por parte de la hija: 'Si no había la opción de un departamento al costado del otro, no era opción para mí'. Esto convirtió a la madre de una observadora pasiva a una compradora obligada.",
+        "momento_de_decision": "La decisión de compra fue inmediata una vez se confirmó la disponibilidad de un departamento adyacente. La necesidad de mantener la unidad familiar superó todas las demás consideraciones, incluyendo el apego a su antigua casa y el miedo a la compra en planos. La madre vendió su propiedad y pagó al contado."
+    },
+    "contexto_activador": {
+        "marco_general": "La decisión se activa dentro de un sistema familiar con una dependencia funcional y emocional muy alta, compuesto por una madre mayor, su única hija y el yerno. La mudanza de la pareja joven amenaza con romper este sistema, convirtiendo la proximidad física en el eje central e innegociable de la decisión habitacional."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reconfigurar la geografía habitacional de la familia para preservar la interdependencia, el apoyo mutuo y la seguridad emocional, asegurando que la proximidad física continúe facilitando la dinámica diaria y las emergencias.",
+        "job_statement": "Cuando mi sistema de apoyo familiar se ve amenazado por una mudanza, quiero asegurar una vivienda inmediatamente contigua a la de mi hija, para poder mantener nuestra interdependencia funcional y cuidarnos mutuamente en el día a día.",
+        "job_dominante_narrativo": "Esta persona está intentando reorganizar su vida para seguir el movimiento de su núcleo familiar, garantizando que la proximidad física, indispensable para su seguridad y apoyo mutuo, no se rompa.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "J03: Optimizar la vida cotidiana"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "El criterio de contratación absoluto y único fue la disponibilidad de un departamento contiguo al de su hija. Secundariamente, valoró las áreas comunes (gimnasio, piscina) y la conveniencia de la nueva ubicación (más segura, cerca de clínicas) como beneficios adicionales.",
+        "firing_criteria": "Cualquier proyecto o solución que no permitiera vivir literalmente al lado de su hija fue descartado de inmediato. También rechazó opciones de 'minidepartamentos' por ser una reducción de espacio demasiado drástica.",
+        "trade_offs_reales": "Sacrificó el gran espacio y la comodidad de su casa de casi 200m2 por un departamento pequeño, lo que le generó una depresión inicial. Tuvo que deshacerse de todos sus muebles y aceptar los riesgos de comprar en planos y los problemas post-venta.",
+        "factores_de_confianza": "La confianza inicial era baja debido al miedo a estafas. Fue mitigada por la validación de un abogado conocido, quien confirmó la seriedad de la constructora y el respaldo bancario del proyecto.",
+        "reduccion_de_riesgo": "El principal riesgo (la separación familiar) fue completamente eliminado al asegurar los departamentos contiguos. El riesgo financiero se minimizó al pagar al contado con el dinero de la venta de su propiedad anterior, evitando deudas."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La existencia de dos unidades residenciales una al lado de la otra. Este fue el único atributo que activó el 'fit'. Las áreas comunes y la mejor ubicación fueron atributos que hicieron la solución más atractiva, pero no fueron la causa del encaje.",
+        "atributos_secundarios": "Gimnasio, piscina, spa, seguridad del distrito, y cercanía a clínicas. Todos fueron valorados positivamente, pero no eran determinantes para la decisión de compra.",
+        "alternativas_descartadas": "Proyectos en Miraflores fueron explorados superficialmente pero descartados por ser 'minidepartamentos' y, fundamentalmente, porque no cumplían con el requisito de proximidad familiar. La opción de 'no hacer nada' fue invalidada por la condición impuesta por su hija."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Satisfecha con el cumplimiento del objetivo principal (cercanía familiar), pero muy frustrada con los problemas de infraestructura (desagüe, olores) y los cambios contractuales post-venta que la hicieron sentir estafada. Califica con un 9, pero la narrativa revela importantes fricciones.",
+        "reservas": "Siente que fue engañada durante el proceso de compra, específicamente con los cambios unilaterales en las condiciones del estacionamiento y el depósito, que considera una estafa.",
+        "fricciones_pendientes": "Problemas graves y recurrentes con el sistema de desagüe del edificio, que la constructora no ha solucionado de manera definitiva, generando malos olores, desbordes y una dependencia de soluciones provisionales."
+    },
+    "proyecto": "MUV"
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de adaptar el entorno familiar a las nuevas etapas de los hijos: la seguridad del menor y la logística del mayor que irá a la universidad (UPC). Este es el problema estructural. El filtro de selección (Selection Driver) fue la combinación de una propuesta de valor inesperada: áreas comunes tipo club, un precio de oportunidad único y, crucialmente, la facilidad de financiamiento directo sin banco.",
+        "debate_deal_breaker": "El verdadero deal-breaker es la necesidad familiar. Sin la presión de la universidad del hijo y la búsqueda de un mejor entorno, no habrían iniciado la búsqueda activa. Adicionalmente, el financiamiento directo fue un deal-breaker para la transacción específica; sin esa facilidad, habrían descartado este proyecto y seguido buscando otra solución para su necesidad familiar, pero no habrían abandonado el mercado.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "nuestro hijo es pequeño, la ciudad está muy peligrosa, que no estén saliendo tanto.",
+                    "mi otro hijo, el próximo año termina, y está buscando una beca deportiva en la UPC.",
+                    "buscando mejoría del sector sociocultural."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No comprarían. La decisión de mudarse está completamente subordinada a resolver la logística y seguridad de los hijos. Sin esta necesidad, se mantendrían en su vivienda actual."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo no quiero financiado con el banco.",
+                    "terminas pagando como tres, un departamento más.",
+                    "me pareció una buena ocasión y creo que han vendido casi todo."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Comprarían igualmente una propiedad si la necesidad familiar existiera, pero buscarían otra opción que se ajuste a sus estrictas condiciones financieras. La necesidad familiar precede a la lógica de inversión."
+            }
+        ],
+        "job_dominante_final": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "La compra es gobernada por J04. La familia ya posee una vivienda estable, pero esta se ha vuelto inadecuada para la siguiente etapa de vida de sus hijos (universidad, seguridad, entorno social). Esta desalineación estructural es el motor de la compra. El perfil sofisticado del cliente (J02) actúa como un poderoso filtro de selección, haciendo que la oportunidad financiera (precio y financiamiento directo) sea la razón para elegir ESTE proyecto, pero no la razón para ENTRAR al mercado."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J04: Acompañar el crecimiento familiar, con un fuerte componente secundario de J02: Proteger y flexibilizar el patrimonio que actúa como filtro de selección.",
+    "justificacion": "La compra se origina por una desalineación entre la vivienda actual y las necesidades del sistema familiar (hijo yendo a la universidad, seguridad del hijo menor). Este es el 'Entry Driver'. Sin esta tensión familiar, la búsqueda no habría comenzado. La elección del proyecto WOW se debe a que su propuesta de valor (amenities, precio, financiamiento) resuelve de manera excepcional tanto la necesidad familiar (J04) como los estrictos criterios financieros del cliente (J02). El J04 explica el 'porqué comprar', mientras que el J02 y los atributos del producto explican el 'porqué elegir este'."
+}

@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra aspiracional de un arquitecto que, usando su criterio profesional, identifica la superioridad de las áreas comunes del proyecto como el driver decisivo. Un retraso de 4 años en la entrega transforma su situación de vida (se casa y tiene un hijo), obligándolo a cambiar a una unidad más grande y enfrentando una severa fricción post-venta.",
+    "historia_causal": {
+        "contexto_previo": "Un arquitecto soltero, residente de Surco, que desde 2016 evaluaba de forma pasiva la compra de un departamento. Su profesión le otorga un entendimiento técnico del mercado inmobiliario.",
+        "tension_acumulada": "El deseo latente de adquirir una propiedad se combinaba con la búsqueda de una opción que no solo fuera una vivienda, sino una inversión inteligente en estilo de vida, una que pudiera validar con su criterio profesional.",
+        "bloqueadores": "La falta de un proyecto en el mercado que presentara una propuesta de valor lo suficientemente diferenciada y superior como para justificar la inversión y activar la decisión de compra.",
+        "eventos_habilitadores": "El descubrimiento del proyecto MUV a través de redes sociales. Su capacidad para analizar los brochures y material de marketing desde una perspectiva técnica le permitió reconocer rápidamente el valor diferencial del proyecto.",
+        "switching_trigger": "La identificación de las áreas comunes de MUV como una de las mejores y más amplias de Lima. Este atributo se convirtió en el factor decisivo que lo movió de una búsqueda pasiva a una acción de compra concreta.",
+        "momento_de_decision": "La decisión fue eminentemente racional y se tomó antes de la visita física, basándose en la comparación de brochures con la competencia. La visita a los pilotos fue una mera confirmación de una elección ya hecha. La compra inicial fue para un departamento de dos dormitorios, pensado para su vida de soltero."
+    },
+    "contexto_activador": {
+        "marco_general": "Un profesional joven (arquitecto) que opera con una lógica de 'elección inteligente'. Su sistema de vida es individual y no está presionado por una necesidad habitacional urgente. La decisión se activa no por un problema, sino por la aparición de una oportunidad de adquirir lo que él percibe como el 'mejor producto' del segmento, alineando su compra con su identidad profesional."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Vivir en un lugar que refleje una decisión informada y superior, asegurando un estilo de vida de alta calidad y validando mi propio criterio como conocedor del mercado.",
+        "job_statement": "Cuando decido comprar un lugar para vivir, quiero elegir el proyecto con la propuesta de valor más robusta y las mejores áreas comunes, para sentir que he tomado la decisión más inteligente y asegurarme un estilo de vida superior que otros no ofrecen.",
+        "job_dominante_narrativo": "El cliente está tratando de adquirir una propiedad en el proyecto que él, como experto, ha juzgado como el mejor del mercado, para así validar su criterio profesional y garantizarse un entorno de vida aspiracional y de alta calidad.",
+        "job_dominante_canonico": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_canonico": "J04: Acompañar crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La superioridad cualitativa y cuantitativa de las áreas comunes, consideradas el principal fuerte del proyecto. La capacidad de evaluar y validar esta superioridad a través de material de marketing gracias a su formación como arquitecto.",
+        "firing_criteria": "Proyectos con áreas comunes inferiores o un terreno más pequeño. La competencia fue descartada sin ser visitada por no cumplir con este criterio principal.",
+        "trade_offs_reales": "Aceptó un retraso de 4 años en la entrega, lo que cambió radicalmente sus circunstancias de vida. Tuvo que pagar un sobreprecio significativo al cambiar a una unidad más grande. Toleró una gestión de post-venta deficiente, acabados de menor calidad a los esperados y promesas incumplidas.",
+        "factores_de_confianza": "Su propio juicio profesional como arquitecto. La confianza no estaba en la inmobiliaria, sino en la calidad intrínseca del concepto del proyecto que él había evaluado.",
+        "reduccion_de_riesgo": "El riesgo se minimizó en la etapa de selección gracias a su análisis técnico, que le dio certeza sobre el valor del producto. Sin embargo, no hubo mitigación para los riesgos de ejecución (plazos, calidad de entrega, servicio), que se materializaron completamente."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "Las áreas comunes (el factor decisivo y principal). La propuesta general de un condominio con un estilo de vida superior. La distribución inicial del departamento de 2 dormitorios que permitía una oficina.",
+        "atributos_secundarios": "La ubicación en Surco. La influencia familiar que lo animó a optar por 2 dormitorios en lugar de 1 inicialmente.",
+        "alternativas_descartadas": "El proyecto 'Hometown', que fue analizado a través de brochures y descartado por tener áreas comunes y un terreno de menor tamaño, sin ameritar una visita."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Califica el proyecto con un 8/10 por su concepto y potencial, pero su experiencia con la gestión de la inmobiliaria es extremadamente negativa.",
+        "reservas": "Profunda desconfianza en la capacidad de gestión de la inmobiliaria, la falta de comunicación, la alta rotación de personal y el incumplimiento de promesas sobre el equipamiento y mantenimiento de áreas comunes.",
+        "fricciones_pendientes": "La entrega incompleta de áreas comunes, la mala calidad de acabados (tarrajeo, aislamiento acústico de ventanas), la reducción de calidad en la tipología más grande y la incertidumbre sobre futuras mejoras prometidas."
+    },
+    "proyecto": "MUV"
+}

@@ -1,0 +1,36 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es el deseo de independencia (J01), una decisión estructural de vida para tener su primer hogar. El filtro de selección es la optimización de su vida diaria (J03), donde la ubicación (cerca de trabajo y familia) y las amenidades (clubhouse) se vuelven los criterios decisivos para elegir MUV sobre otras opciones.",
+        "debate_deal_breaker": "El factor innegociable es la independencia. Sin el deseo de salir de casa de sus padres, la compra no habría ocurrido. La ubicación y la seguridad fueron filtros de descarte muy fuertes, pero el motor principal que activa y sostiene la búsqueda es la necesidad de establecer su propia base habitacional.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J01: Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "ya me quería independizar",
+                    "no es, digamos, el departamento en el que quiero vivir toda mi vida",
+                    "es, pero más el el primer espacio en el que voy a vivir sola"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No, sin el deseo de independizarse y tener un espacio propio, no habría iniciado ninguna búsqueda ni realizado la compra."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "me acercaba incluso más hacia La Molina, como me ahorraba un par de semáforos feos",
+                    "nada de mi vida del día a día se mueve fuera de Surco, La Molina",
+                    "el mantenimiento es más barato que pagar un gimnasio"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, probablemente habría comprado otro departamento para independizarse, aunque no tuviera estas ventajas logísticas. La optimización fue el factor decisivo para ELEGIR MUV, no para ENTRAR al mercado."
+            }
+        ],
+        "job_dominante_final": "J01: Establecer estabilidad habitacional",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La compra es gobernada por el J01, subtipo 'Primera Independencia'. La cliente entra al mercado para satisfacer una necesidad estructural de establecer su propia base. El J03 actúa como un poderoso filtro de selección, donde la ubicación y las amenidades de MUV resuelven fricciones diarias y mejoran su estilo de vida, asegurando la elección final del proyecto."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la historia causal, desde el deseo latente de independencia hasta los criterios específicos de selección y las fricciones post-compra. Permite aislar el Job Dominante (J01) del Job Secundario (J03) con evidencia explícita y aplicar los tests canónicos con certeza."
+}

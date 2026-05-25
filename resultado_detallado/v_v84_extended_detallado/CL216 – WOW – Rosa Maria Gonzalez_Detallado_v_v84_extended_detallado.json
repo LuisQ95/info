@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Padres de Tacna, con capital disponible, deciden comprar un departamento para su hija universitaria en Lima, transformando un gasto de alquiler en una inversión patrimonial y una solución de vivienda segura y conveniente para ella.",
+    "historia_causal": {
+        "contexto_previo": "Familia reside en Tacna. Hija se muda a Lima para iniciar estudios universitarios en la UPC, viviendo en un departamento alquilado en el complejo Magna House.",
+        "tension_acumulada": "La preocupación por la seguridad de la hija viviendo sola en una nueva ciudad, sumada al gasto recurrente del alquiler y la tenencia de un capital (por venta de terrenos) sin invertir.",
+        "bloqueadores": "Inicialmente no había una intención de compra, el plan era solo alquilar. La falta de conocimiento sobre el mercado inmobiliario de Lima.",
+        "eventos_habilitadores": "La mudanza de la hija a Lima. La experiencia positiva alquilando en el complejo Magna House. La disponibilidad de capital líquido proveniente de la venta de unos terrenos.",
+        "switching_trigger": "La combinación de estar físicamente en el complejo (donde se construía WOW), la satisfacción con la seguridad y el entorno, y la conciencia de tener el capital disponible para invertir en vez de seguir gastando en alquiler.",
+        "momento_de_decision": "La decisión fue rápida y se tomó en paralelo a la firma del contrato de alquiler. Tras experimentar la vida en el complejo y ser persuadidos por un vendedor, optaron por comprar en el proyecto WOW en planos para asegurar una buena ubicación dentro del mismo."
+    },
+    "contexto_activador": {
+        "marco_general": "Padres que viven en provincia (Tacna) y deben proveer soporte a distancia a una hija que inicia su vida universitaria en la capital. Tienen una mentalidad de previsión y valoran la seguridad por encima de todo. Cuentan con liquidez para una inversión importante."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar el bienestar y la seguridad de su hija durante su etapa universitaria en Lima, mientras realizan una inversión patrimonial inteligente que elimina un gasto fijo.",
+        "job_statement": "Cuando mi hija se muda a otra ciudad para estudiar, quiero proveerle una vivienda propia, segura y cercana a su universidad, para tener la tranquilidad de que está bien y a la vez invertir nuestro capital de forma productiva.",
+        "job_dominante_narrativo": "Los padres están intentando reconfigurar el soporte familiar a distancia para facilitar la nueva etapa de vida de su hija, asegurando su estabilidad y seguridad habitacional en una ciudad desconocida.",
+        "job_dominante_canonico": "J04: Acompañar crecimiento familiar",
+        "job_secundario_canonico": "J02: Proteger y flexibilizar el patrimonio"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Seguridad del complejo (entorno cerrado, control de acceso), proximidad a la universidad (UPC), calidad del mantenimiento y amabilidad del personal, y una tipología de 2 dormitorios para alojar a la hija y a ellos en sus visitas.",
+        "firing_criteria": "Pisos muy altos (descartaron opciones en MUV por estar en el 7mo piso), ruido excesivo (descartaron unidades cerca de la cancha de tenis), y ubicaciones que no fueran en ese complejo específico por la seguridad ya validada.",
+        "trade_offs_reales": "Aceptaron comprar en planos y enfrentar la incertidumbre y los retrasos en la entrega, en lugar de una opción de entrega inmediata, para poder elegir la ubicación exacta del departamento (piso bajo, lejos del ruido).",
+        "factores_de_confianza": "La experiencia positiva viviendo de alquiler en el mismo complejo (Magna House), la amabilidad y profesionalismo del personal de mantenimiento y seguridad, y la buena relación inicial con el vendedor.",
+        "reduccion_de_riesgo": "El riesgo fue minimizado al comprar en un lugar que ya conocían y aprobaban por su experiencia como inquilinos. La compra en planos fue un riesgo asumido, pero mitigado por la posibilidad de elegir la unidad ideal."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación estratégica a 5 minutos de la UPC, el concepto de condominio cerrado con alta seguridad, la limpieza y orden de las áreas comunes, y la disponibilidad de una tipología (2+flex) que se ajustaba a sus necesidades.",
+        "atributos_secundarios": "El balcón para poner plantas, la cochera y el depósito.",
+        "alternativas_descartadas": "Departamentos de entrega inmediata en MUV (pisos muy altos o de 1 dormitorio), unidades en WOW cerca de la cancha de tenis (ruido), y otros proyectos en zonas como El Polo que no ofrecían el mismo nivel de seguridad percibida."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Ambivalente. Muy alta con el proyecto y el concepto (calificado con un 7/10, que sería 10/10 sin los retrasos), pero muy baja con la experiencia post-venta.",
+        "reservas": "La principal reserva es la gestión de la inmobiliaria, específicamente la falta de comunicación, los múltiples retrasos en la entrega y el mal trato recibido por parte del personal de post-venta.",
+        "fricciones_pendientes": "La incertidumbre sobre la fecha final de entrega, lo que les obliga a extender el contrato de alquiler y asumir gastos no planificados. La mala relación y desconfianza generada con el equipo de post-venta."
+    },
+    "proyecto": "WOW"
+}

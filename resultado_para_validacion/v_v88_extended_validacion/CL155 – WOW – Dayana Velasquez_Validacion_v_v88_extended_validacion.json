@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la decisión de dejar de alquilar para tener algo propio y seguro (J01). Sin embargo, el filtro de selección (Selection Driver) está completamente gobernado por las necesidades operativas de la familia: cercanía a la universidad para los hermanos, un primer piso por la salud del padre y áreas comunes para los menores. Estos criterios no son optimizaciones individuales, sino requerimientos del sistema familiar, lo que posiciona a J04 como el Job que explica la elección final.",
+        "debate_deal_breaker": "El innegociable es la adecuación del espacio al sistema familiar. Una propiedad que no estuviera cerca de las universidades o que no ofreciera una unidad en primer piso para el padre habría sido descartada, independientemente de si cumplía el deseo de 'ser propia'. La necesidad de dejar de alquilar (J01) abrió la puerta a la compra, pero la configuración familiar (J04) dictó qué puerta cruzar.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "mis hermanos que todavía están pequeños. Y, bueno, va a poder tener el departamento, aparte de que mi papá hace un poco mal de la rodilla, entonces, pues, podemos tener el primer piso para por eso.",
+                    "cuando nos iniciamos la universidad, y por acá hay un montón de universidades",
+                    "buscamos, más que nada, un condominio familiar"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la familia no tuviera estas necesidades específicas (universidad, salud del padre), ¿habrían elegido este proyecto en esta ubicación? Probablemente no. La compra no ocurriría de esta forma sin el 'problema familiar' a resolver."
+            },
+            {
+                "codigo_y_nombre_job": "J01 - Establecer estabilidad habitacional",
+                "citas_textuales_evidencia": [
+                    "fue básicamente porque queríamos un lugar más seguro, ya tener algo propio.",
+                    "mis papás también quieren, están viendo una casa alquilada conmigo.",
+                    "decidimos ir a la feria inmobiliaria"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuvieran la necesidad de dejar de alquilar, ¿comprarían? No. Este Job explica por qué entraron al mercado, pero no por qué eligieron WOW sobre otras opciones de compra."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar el crecimiento familiar",
+        "job_secundario_final": "J01 - Establecer estabilidad habitacional",
+        "resolucion_del_tribunal": "La decisión de compra es una respuesta directa a una desalineación entre la vivienda actual y las necesidades del 'sistema operativo familiar'. El deseo de propiedad (J01) es el habilitador de la búsqueda, pero la selección del producto está 100% subordinada a resolver las necesidades logísticas y de soporte de sus miembros (universidad, accesibilidad), lo que confirma a J04 como el Job Dominante."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Se identifica el contexto previo (alquiler), el detonante (feria inmobiliaria), el conjunto de consideración (Look, Magna), los criterios de contratación y descarte basados en necesidades familiares explícitas, y el estado post-compra. La información es suficiente para un análisis robusto de Jobs to be Done."
+}

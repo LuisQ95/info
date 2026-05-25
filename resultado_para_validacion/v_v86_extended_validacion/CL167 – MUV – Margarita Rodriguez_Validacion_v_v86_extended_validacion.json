@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la decisión del yerno de mudarse, lo que obliga a la clienta a buscar una vivienda para no separarse de su hija. Los filtros de selección (Selection Drivers) son los atributos del proyecto que hicieron la opción atractiva una vez la decisión de moverse ya estaba tomada, como las áreas comunes (gimnasio, piscina) y la cercanía a clínicas.",
+        "debate_deal_breaker": "El innegociable absoluto fue la disponibilidad de un departamento contiguo al de su hija. La hija lo verbaliza claramente: 'Si no había la opción de un departamento al costado del otro, no era opción para mí'. Sin esta condición, la compra no se realizaba en este ni en ningún otro proyecto. Esto confirma que el driver no es la vivienda en sí, sino la reconfiguración del sistema familiar.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Yo compré este departamento porque mi hija, bueno, mi yerno compraron con mi hija su departamento y yo siempre he vivido con con ellos.",
+                    "Si no había la opción de un departamento al costado del otro, no era opción para mí.",
+                    "Ya soy una persona mayor y bueno, las dos nos necesitamos para cualquier emergencia."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si su hija y yerno no se mudaban a este proyecto, la clienta no habría comprado. La compra es 100% dependiente del movimiento del núcleo familiar. Pasa el test."
+            },
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "A mí sí me gustó porque, bueno, tiene todo lo que a mí me gusta, que es el gimnasio, la piscina.",
+                    "Me favorece porque de acá voy a la clínica caminando, no tengo que luchar con el tráfico."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera gimnasio o no estuviera cerca de la clínica, pero sí ofreciera un departamento junto al de su hija, la compra se habría realizado igual. La conveniencia es un bono, no la causa. No pasa el test."
+            }
+        ],
+        "job_dominante_final": "J04 - Acompañar crecimiento familiar",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "La decisión de compra de la clienta no es autónoma. Es una reacción directa y condicionada a la mudanza de su hija y yerno. El motor de la compra es la necesidad de mantener la estructura de apoyo familiar (Dependencia Funcional Estructural), donde la proximidad física es innegociable. Los beneficios del proyecto (amenities, ubicación) son criterios de selección secundarios que validan la elección, pero no originan la necesidad. El Job Dominante es un caso claro y puro de J04."
+    },
+    "dictamen_final": "Entrevista Válida. Proporciona un caso de estudio ejemplar y de alta pureza para el Job Dominante J04.",
+    "justificacion": "La narrativa es causalmente clara y consistente. La compra es una consecuencia directa y no opcional de la decisión de su hija de mudarse. La clienta verbaliza explícitamente la dependencia y la necesidad de apoyo mutuo como la única razón para la transacción. El test canónico se cumple sin ambigüedades: sin el movimiento de su hija, la compra no habría ocurrido. Es un caso de libro del subtipo 'Dependencia Funcional Estructural'."
+}

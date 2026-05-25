@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente con perfil de inversionista y vivienda propia resuelta, aprovecha una oferta de su banco para colocar capital en un activo inmobiliario. La decisión se centra en la rentabilidad y el potencial de negocio, aunque la calidad del proyecto abre una opción secundaria de uso personal a futuro.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vive en una casa propia de tres pisos en Chorrillos con su madre. No tiene ninguna necesidad habitacional. Estaba en un proceso activo de búsqueda de un préstamo de capital (200-300 mil dólares) con la intención de invertirlo.",
+        "tension_acumulada": "La tensión principal era el costo de oportunidad de tener capital o acceso a crédito sin que este generara rendimientos. La necesidad no era de vivienda, sino de encontrar un vehículo de inversión adecuado para hacer su dinero más productivo.",
+        "bloqueadores": "El principal bloqueador fue que el banco (BanBif) no le desembolsaba el préstamo en efectivo como él deseaba, limitando sus opciones de inversión a la cartera de proyectos inmobiliarios que el propio banco financiaba.",
+        "eventos_habilitadores": "El evento clave fue cuando su sectorista del banco le presentó una cartera de proyectos inmobiliarios como alternativa al préstamo en efectivo. Esto canalizó su intención de inversión hacia opciones concretas y pre-filtradas.",
+        "switching_trigger": "La recepción de la lista de proyectos por parte del banco. Este fue el momento en que su búsqueda abstracta de 'invertir' se convirtió en una evaluación concreta de 'comprar un departamento' en uno de esos proyectos.",
+        "momento_de_decision": "El proceso fue racional y rápido. Descartó opciones más caras en otros distritos y se centró en WoW por su ubicación y precio. Visitó el proyecto con su hermano (ingeniero civil) para una validación técnica y, tras confirmar el potencial, procedió con la compra."
+    },
+    "contexto_activador": {
+        "marco_general": "Se trata de un individuo con experiencia en el sector inmobiliario, proveniente de una familia con conocimientos técnicos (hermano ingeniero, hermana arquitecta). Opera con una mentalidad de inversionista, no de residente. Su situación de vivienda está completamente resuelta, lo que le permite evaluar la compra sin ninguna presión o urgencia personal, enfocándose exclusivamente en los méritos financieros y estratégicos del activo."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo patrimonial que genere un flujo de ingresos pasivos a través del alquiler y que, a la vez, ofrezca flexibilidad para un posible uso familiar en el futuro, protegiendo y haciendo crecer su capital.",
+        "job_statement": "Cuando tengo capital disponible para invertir, quiero comprar un departamento en una ubicación estratégica para generar una renta mensual y tener un activo tangible que asegure mi patrimonio a largo plazo.",
+        "job_dominante_narrativo": "El cliente está ejecutando una estrategia de inversión. Su misión es adquirir un activo productivo. La compra no resuelve un problema de vida, sino una necesidad financiera: poner a trabajar su dinero. El departamento es visto como una unidad de negocio.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación estratégica cerca a la UPC (ideal para alquilar a estudiantes), un precio competitivo que se ajustaba a su presupuesto de inversión, y las áreas comunes tipo club que aumentan el atractivo para futuros inquilinos y para un potencial uso personal.",
+        "firing_criteria": "Proyectos con precios más elevados que no se ajustaban a su modelo de inversión. Constructoras con prácticas contractuales que consideraba abusivas o poco transparentes. Propuestas que no tuvieran un claro potencial de negocio.",
+        "trade_offs_reales": "Aceptó un contrato que consideró rígido y unilateral, con cláusulas desfavorables (sin penalidad por retraso) y una comunicación post-venta deficiente. Sacrificó la tranquilidad del proceso por la solidez de la inversión subyacente (ubicación y precio).",
+        "factores_de_confianza": "La recomendación inicial del proyecto a través de su banco (BanBif). La validación técnica y de potencial realizada junto a su hermano, quien tiene experiencia en construcción. Su propio conocimiento del crecimiento de la zona.",
+        "reduccion_de_riesgo": "El principal mecanismo fue la evaluación conjunta con su hermano experto. Además, la elección de una zona con una demanda de alquiler predecible (estudiantes de la UPC) minimizaba el riesgo de vacancia del inmueble."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación, el precio y la tipología de dos dormitorios (su estándar para inversión). Las áreas comunes (club, piscina, cine) fueron un diferenciador clave que no solo justificaba la inversión sino que también activó la idea de un posible uso personal futuro.",
+        "atributos_secundarios": "La promesa de una futura conexión vial hacia El Polo fue un dato interesante pero no decisivo. La calidad percibida de los acabados o la distribución exacta era menos crítica dado que el uso principal era para alquiler.",
+        "alternativas_descartadas": "Descartó explícitamente un proyecto en Jesús María y otro en San Isidro ofrecidos por el mismo banco por ser 'más caros'. También mencionó haber descartado trabajar con otras constructoras en el pasado debido a sus malas prácticas comerciales."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Bajo. Aunque está conforme con el activo adquirido, su experiencia con la constructora es muy negativa. Expresa una fuerte frustración por el contrato, la falta de seguimiento y lo que percibe como una actitud 'angurrienta' y unilateral.",
+        "reservas": "Su principal reserva es la falta de garantías contractuales. Le preocupa enormemente que la constructora pueda retrasar la entrega sin ninguna penalidad, lo que afectaría sus planes de rentabilidad. Desconfía del proceso post-venta.",
+        "fricciones_pendientes": "La incertidumbre sobre la fecha real de inicio de obra y la falta de comunicación proactiva por parte de la inmobiliaria. Siente que tiene que perseguir la información en lugar de recibirla, y percibe una relación contractual desequilibrada y conflictiva."
+    },
+    "proyecto": "WOW"
+}

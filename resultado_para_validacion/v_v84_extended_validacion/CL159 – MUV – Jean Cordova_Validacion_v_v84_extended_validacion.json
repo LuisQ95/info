@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado fue 100% emocional y aspiracional, activado por la propuesta de valor del proyecto (el clubhouse y sus amenidades) durante una visita casual. No existía una necesidad previa. El filtro de selección fue la negociación final que le permitió cambiar de un proyecto futuro (WOW) a uno de entrega inmediata (MUV) con mejores condiciones, pero la decisión de comprar en ese condominio ya estaba anclada en el gatillo emocional.",
+        "debate_deal_breaker": "El deal-breaker era la propuesta de valor del condominio en sí. El cliente afirma: 'yo quería comprarlo aquí, porque me gustó el condominio más que el departamento'. A pesar de una pésima experiencia de venta y de tener ofertas económicamente superiores en otros proyectos, su deseo de pertenecer a este ecosistema de lifestyle fue innegociable y lo mantuvo atado a la compra.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "Al inicio no tenía el el, o sea, la necesidad de comprar...",
+                    "cuando llegué, el vendedor me... mostró el club y lo vi y me gustó. Más que el departamento...",
+                    "fue muy muy una venta muy emocional..."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "No compraría. La compra fue totalmente 'No Problem-Driven'. Sin la atracción aspiracional del clubhouse y el estilo de vida, no habría existido ningún motivo para iniciar el proceso."
+            },
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "iba a ser para probablemente alquilarlo.",
+                    "como ya tenía eso de comprar ese departamento [de inversión] y al ver ese, dije, ya, pues, también lo lo adquiero..."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, compraría igual. La decisión fue impulsiva y emocional. La idea de alquilarlo fue una racionalización posterior para justificar la compra, no el motor que la originó. El atractivo del producto precedió a la lógica de inversión."
+            }
+        ],
+        "job_dominante_final": "J06: Expresar identidad y coherencia personal",
+        "job_secundario_final": "J02: Proteger y flexibilizar el patrimonio",
+        "resolucion_del_tribunal": "El cliente no tenía una necesidad funcional o habitacional preexistente. La compra fue generada íntegramente por el producto. La visita al clubhouse activó un deseo impulsivo y emocional de acceder a ese estilo de vida. Este es un caso canónico de J06, donde la demanda es creada por la atracción al producto, no por la solución a un problema."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J06: Expresar identidad y coherencia personal (subtipo Emocional Impulsivo).",
+    "justificacion": "La compra es 'No Problem-Driven'. El cliente declara explícitamente no tener necesidad de una nueva vivienda. La decisión se origina en una visita exploratoria donde la atracción por las amenidades (clubhouse) genera un deseo impulsivo e inmediato. Este factor supera una mala experiencia de venta y ofertas económicamente superiores en otros proyectos, demostrando que el estilo de vida aspiracional fue el verdadero y único motor de la compra, cumpliendo con el test canónico para J06."
+}

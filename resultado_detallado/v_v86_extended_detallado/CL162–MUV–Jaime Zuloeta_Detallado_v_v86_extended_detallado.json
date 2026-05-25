@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente que ya es propietario se ve forzado a comprar una nueva vivienda debido a que su 'departamento de soltero' se vuelve estructuralmente inadecuado tras casarse y tener hijos. La compra es una respuesta directa a la necesidad de más habitaciones para acomodar el crecimiento familiar.",
+    "historia_causal": {
+        "contexto_previo": "El cliente vivía en un departamento propio de una habitación, su 'departamento de soltero'. Su situación habitacional era estable hasta que formó una familia, casándose y teniendo su primer hijo.",
+        "tension_acumulada": "El departamento de una habitación se volvió insuficiente para la nueva dinámica familiar. La necesidad de espacio creció, primero a dos habitaciones y, durante el proceso de búsqueda y los retrasos de otra compra, su esposa quedó embarazada nuevamente, escalando la necesidad a tres habitaciones.",
+        "bloqueadores": "Inicialmente, la pandemia y la incertidumbre general lo detuvieron de comprar, a pesar de haber visto el proyecto y tener el dinero. Se fue a vivir a EEUU temporalmente, poniendo en pausa la decisión.",
+        "eventos_habilitadores": "El regreso al país y la consolidación de su familia, con un segundo hijo en camino, hicieron que la necesidad de un espacio más grande fuera ineludible y urgente.",
+        "switching_trigger": "El embarazo de su esposa fue el detonante final que lo obligó a buscar activamente una solución de tres habitaciones, ya que una compra anterior (de dos habitaciones) se había retrasado y ya no cumplía con la nueva necesidad familiar.",
+        "momento_de_decision": "La decisión fue relativamente rápida. Ya conocía el proyecto MUV por su ubicación cercana. Al evaluar opciones, descartó a un competidor (Paz Centenario) por no tener licencia de construcción, un factor de riesgo que no estaba dispuesto a asumir. La combinación de ubicación y la aparente seguridad del proyecto MUV lo llevaron a decidirse."
+    },
+    "contexto_activador": {
+        "marco_general": "Es un profesional establecido, catedrático, que ya había resuelto su primera necesidad de vivienda. Su vida está en una fase de expansión familiar (matrimonio, hijos), lo que reconfigura sus prioridades y convierte su solución habitacional actual en un problema a resolver."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr que su espacio vital se alinee con la nueva estructura y tamaño de su familia, asegurando un entorno adecuado y cómodo para el crecimiento de sus hijos.",
+        "job_statement": "Cuando mi familia crece y mi departamento actual se vuelve inadecuado, quiero encontrar una vivienda más grande para poder acomodar a todos cómodamente y asegurar su bienestar.",
+        "job_dominante_narrativo": "El cliente está tratando de resolver el desajuste estructural entre su vivienda de soltero y su nueva realidad como esposo y padre. La misión es adecuar su hogar al crecimiento de su familia, pasando de una a tres habitaciones.",
+        "job_dominante_canonico": "J04: Acompañar el crecimiento familiar",
+        "job_secundario_canonico": "Ninguno"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación cercana a su vida cotidiana y trabajo, el diseño de los departamentos piloto que le parecieron atractivos y, crucialmente, la percepción de seguridad al tener la licencia de construcción en regla.",
+        "firing_criteria": "El riesgo y la incertidumbre. Descartó a Paz Centenario explícitamente porque le informaron que no tenían licencia de construcción y su proyecto estaba paralizado.",
+        "trade_offs_reales": "Aceptó los retrasos en la entrega, confiando en que era algo 'común' en el sector. Toleró un proceso de post-venta deficiente y con múltiples problemas, sacrificando su tranquilidad por la obtención del espacio que necesitaba.",
+        "factores_de_confianza": "Inicialmente, la confianza se basó en que el proyecto tenía la licencia de construcción, a diferencia de la competencia. También confió en la apariencia y la promesa de los departamentos piloto.",
+        "reduccion_de_riesgo": "Elegir un proyecto que ya tenía licencia de construcción fue su principal estrategia para reducir el riesgo de que la inversión quedara congelada, como le sucedió a la competencia."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación conveniente y la estética de los departamentos piloto. La disponibilidad de una tipología que se ajustaba a su necesidad de más habitaciones.",
+        "atributos_secundarios": "La temática del proyecto fue mencionada como algo que le gustó, pero no fue un factor decisivo.",
+        "alternativas_descartadas": "Descartó un proyecto de Paz Centenario frente a El Polo debido a que no contaba con licencia de construcción y corría el riesgo de ser paralizado por años."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Extremadamente bajo, lo califica como 'negativo', no cero. La experiencia post-venta ha sido una 'pesadilla'.",
+        "reservas": "Tiene una percepción totalmente negativa de la inmobiliaria (Alquimia), a la que acusa de 'marketing transaccional', mentiras y maltrato al cliente.",
+        "fricciones_pendientes": "Múltiples y graves: problemas de diseño estructural (desagües, intercomunicadores, alarmas de incendio), defectos de acabados no resueltos (melamine, mármol, mayólica) y, críticamente, la falta de entrega del título de propiedad después de más de un año, lo que le impide refinanciar su crédito a una mejor tasa."
+    },
+    "proyecto": "MUV"
+}

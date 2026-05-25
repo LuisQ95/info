@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la necesidad de eliminar fricciones diarias severas: un largo trayecto al trabajo y un ambiente húmedo que afectaba la salud. Esto define el Job como J03. Los criterios de selección (Filtro) fueron las características del producto que resolvían la configuración familiar (3 dormitorios para los hijos) y el deseo de un mejor estilo de vida (el club y sus amenities).",
+        "debate_deal_breaker": "El factor innegociable fue la optimización de la vida cotidiana. Si se eliminan los problemas de distancia y humedad, la compra no habría ocurrido, ya que poseían una vivienda funcional. La necesidad de espacio para los hijos (J04) fue un condicionante de la solución elegida, pero no el motor de la decisión. Habrían comprado de todas formas, aunque quizás un departamento más pequeño si sus hijos no vivieran con ellos.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "teníamos que buscar una oportunidad para salir de Chorrillos, para acercarme al trabajo, número uno.",
+                    "Número dos, la excesiva humedad de de Chorrillos, cerca de la playa y todo eso, a mí me afectaba en invierno mucho.",
+                    "Entonces, fueron los dos detonantes, ¿no?"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No comprarían. La clienta afirma que la distancia al trabajo y la humedad fueron 'los dos detonantes', indicando que sin estas fricciones no había motivo para mudarse de su propiedad actual."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "o un departamento de tres dormitorios. Tenemos dos hijos varones.",
+                    "decidimos por el departamento de tres dormitorios y así es que estamos juntos los cuatro."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, comprarían igual. La necesidad de optimizar la logística y salud era el motor principal. La presencia de los hijos solo definió el tamaño del departamento a comprar, no la decisión de comprar en sí."
+            }
+        ],
+        "job_dominante_final": "J03: Optimizar la vida cotidiana",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La compra es gobernada por J03. Los clientes ya tenían una base habitacional estable (propietarios), por lo que no aplica J01. La decisión de entrar al mercado fue puramente para resolver fricciones funcionales y de bienestar del día a día. El J04, aunque importante, opera como un criterio de selección que define la configuración del producto requerido, pero no origina la necesidad de compra."
+    },
+    "dictamen_final": "Entrevista Válida",
+    "justificacion": "La entrevista reconstruye con claridad la historia causal de la compra. Los detonantes (distancia al trabajo, salud por humedad) están explícitamente declarados, permitiendo una identificación inequívoca del Job Dominante (J03). Se detallan los criterios de selección, los trade-offs y la experiencia post-compra, ofreciendo una visión 360° del proceso de decisión del cliente."
+}

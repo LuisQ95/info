@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Compra motivada por la necesidad de invertir un capital excedente, seleccionando un proyecto que ofrece conveniencia logística para los hijos universitarios y opcionalidad de uso familiar futuro.",
+    "historia_causal": {
+        "contexto_previo": "La familia vive cómodamente en un departamento propio, más grande que el adquirido, y cercano a la zona de compra. Tienen dos hijos universitarios que estudian en la Universidad de Lima. Cuentan con un capital excedente que no está generando rentabilidad.",
+        "tension_acumulada": "Existía una conciencia latente del costo de oportunidad de tener un capital disponible sin invertirlo. La idea de adquirir un inmueble para alquilar y generar una renta pasiva era una conversación recurrente, aunque sin una urgencia activa.",
+        "bloqueadores": "La falta de una necesidad habitacional perentoria mantenía la búsqueda en un estado pasivo. No había una urgencia que los empujara a buscar activamente, por lo que esperaban toparse con una oportunidad que encajara en sus planes.",
+        "eventos_habilitadores": "La principal habilitación era la disponibilidad del capital para la cuota inicial y la preexistencia de la idea de invertir. Ya tenían la decisión mental tomada de que querían comprar algo, solo faltaba el producto adecuado.",
+        "switching_trigger": "Ver una publicidad del proyecto WOW por internet fue el estímulo que los movió de una búsqueda pasiva a una acción concreta. La publicidad destacó la ubicación y las áreas comunes, que coincidían con sus criterios de inversión y conveniencia familiar.",
+        "momento_de_decision": "El proceso fue muy rápido. Tras ver la publicidad, visitaron el proyecto y confirmaron que cumplía con sus requisitos. La existencia de descuentos y una ligera presión de venta sobre la disponibilidad de la unidad aceleraron el cierre, que se concretó casi de inmediato."
+    },
+    "contexto_activador": {
+        "marco_general": "El sistema de vida de la familia es estable y funcional, con su necesidad de vivienda principal ya resuelta. La decisión de compra se activa no por una carencia, sino por una oportunidad: la disponibilidad de un capital excedente que buscan rentabilizar. La compra es posible porque sus finanzas lo permiten y se vuelve atractiva cuando un producto específico ofrece, además de rentabilidad, una solución de conveniencia para la logística de sus hijos universitarios."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo inmobiliario flexible que funcione como una inversión rentable a corto plazo (alquiler) y como una potencial vivienda familiar a futuro, optimizando la conveniencia para los hijos universitarios y la seguridad patrimonial.",
+        "job_statement": "Cuando tengo un capital excedente y mi situación de vivienda está resuelta, quiero invertir en una propiedad que sea rentable y flexible, para proteger y hacer crecer mi patrimonio mientras mantengo opciones abiertas para el futuro de mi familia.",
+        "job_dominante_narrativo": "La familia está intentando transformar un capital ocioso en un activo productivo. La misión es encontrar una inversión inmobiliaria que no solo genere una renta segura, sino que también tenga sentido dentro de su estructura familiar, ofreciendo una solución de conveniencia para sus hijos y la opcionalidad de convertirse en su hogar en el futuro.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J04: Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación estratégica cerca de la Universidad de Lima, la tipología flexible (2+flex) adaptable a 3 dormitorios para un futuro uso familiar, y la presencia de una cancha de tenis para sus hijos fueron los criterios decisivos.",
+        "firing_criteria": "Descartaron automáticamente opciones en ubicaciones con mucho tráfico y ruido, que no ofrecieran un entorno tranquilo. Un proyecto en El Derby fue rechazado por estas razones.",
+        "trade_offs_reales": "Aceptaron una ubicación de cochera distinta a la elegida inicialmente y toleraron una comunicación post-venta deficiente y contradictoria, sacrificando certidumbre y tranquilidad en el proceso a cambio de asegurar la propiedad deseada.",
+        "factores_de_confianza": "No se mencionan factores de confianza claros. De hecho, la experiencia post-compra, con información contradictoria y falta de comunicación, ha erosionado la confianza inicial en la inmobiliaria.",
+        "reduccion_de_riesgo": "La decisión se sintió más segura al aprovechar una oferta con descuentos, lo que validó la compra desde una perspectiva financiera. Sin embargo, la falta de documentos físicos y la comunicación errática post-firma aumentaron la percepción de riesgo sobre el capital ya invertido."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La combinación de ubicación (cerca de la universidad y de su casa actual), áreas comunes (cancha de tenis) y tipología (2+flex) encajó perfectamente con su doble objetivo de inversión y opcionalidad familiar.",
+        "atributos_secundarios": "El resto de las áreas comunes fueron valoradas pero no decisivas. La posibilidad de tener un depósito asociado a la cochera fue un punto de interés que generó fricción, pero su ausencia final no detuvo la compra.",
+        "alternativas_descartadas": "Un proyecto en la zona de El Derby fue descartado por su ubicación ruidosa y con mucho tráfico. Otras opciones vistas por internet no fueron exploradas a fondo porque no generaron el mismo nivel de interés inicial que WOW."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "La satisfacción con el producto elegido es alta, pero la experiencia del proceso post-venta es baja, generando un balance mixto. Se sienten contentos con la inversión pero frustrados por la gestión de la inmobiliaria.",
+        "reservas": "Tienen una gran incertidumbre sobre los siguientes pasos del proceso. La falta de comunicación proactiva y la información contradictoria sobre plazos y documentos les genera dudas y desconfianza.",
+        "fricciones_pendientes": "La principal fricción es la falta de un contrato físico que respalde su inversión del 20% del valor del inmueble. Se sienten 'en el aire', sin certeza sobre las fechas de inicio de obra, entrega final y sin un punto de contacto claro en la inmobiliaria."
+    },
+    "proyecto": "WOW"
+}

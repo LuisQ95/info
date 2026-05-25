@@ -1,0 +1,38 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es la necesidad de invertir un capital disponible para generar rentabilidad (J02). El cliente no tiene una necesidad habitacional. Los filtros de selección son el potencial de alquiler (cercanía a universidades), el concepto del proyecto (baja densidad, amenities) y el precio, que validan la inversión y la hacen atractiva para un futuro uso personal.",
+        "debate_deal_breaker": "El factor innegociable es el potencial de inversión del inmueble. Si la propiedad no estuviera ubicada estratégicamente para ser alquilada a estudiantes, la compra no se habría realizado. El uso personal futuro es una opcionalidad deseable, pero no el motor de la decisión. La compra es, en esencia, una transacción financiera.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "Lo compré como inversión, con inicio.",
+                    "la vivienda o el inmueble que iba a adquirir tenía que tener estas dos perspectivas. Una de inversión a corto plazo.",
+                    "conocía muy bien el negocio, el lugar, la perspectiva de ese sitio...",
+                    "siempre se va a requerir, pues, el alquiler a estudiantes de este inmueble, ¿no?",
+                    "decidí por wow, que estaba más que nada por el precio."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la propiedad no tuviera un alto potencial de alquiler para estudiantes, no la habría comprado. La decisión se fundamenta en la rentabilidad esperada."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "si yo quisiera tener un hijo... Yo quisiera que viva acá, que tenga toda esta experiencia...",
+                    "la tranquilidad y este cero contacto con el exterior... te da una tranquilidad y paz.",
+                    "Y la vista era preciosa, ¿no? O sea, estaba muy bonita."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si la propiedad tuviera un excelente potencial de inversión pero un diseño y entorno desagradables, la decisión habría sido mucho más difícil, pero la compra por inversión aún podría haber ocurrido. El J06 es un potente filtro de selección, no el gatillo."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "La compra es una decisión de inversión (J02) de principio a fin. El cliente entra al mercado para rentabilizar un capital, utilizando su conocimiento experto de la zona. Las características aspiracionales del proyecto (tranquilidad, amenities, vista) funcionan como un potente criterio de selección (J06) que hace que esta inversión sea, además, una excelente opción de vivienda a futuro, pero no alteran el origen financiero de la transacción."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista revela una clara y consistente historia causal. El cliente articula con precisión el 'porqué' de la compra (inversión basada en conocimiento de mercado - J02) y lo diferencia de los criterios de selección (baja densidad, amenities - J06). La narrativa es coherente y rica en detalles sobre el proceso de decisión, las alternativas y los trade-offs."
+}

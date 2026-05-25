@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente con una vida consolidada en Surco compra en WOW para eliminar la fricción diaria de vivir en una casa antigua y descentrada en Magdalena. La decisión final es acelerada por el entusiasmo de su hija con las áreas comunes del proyecto.",
+    "historia_causal": {
+        "contexto_previo": "Vive en una casa grande y antigua en Magdalena, pero su vida social, laboral (UPC) y familiar se desarrolla principalmente en Surco y La Molina.",
+        "tension_acumulada": "La ubicación en Magdalena le resulta 'totalmente descentrada', generando una fricción constante en la movilidad y logística diaria para él y su hija. La casa antigua además empieza a perder valor y a requerir mantenimiento.",
+        "bloqueadores": "Una búsqueda activa de un año sin encontrar un proyecto que cumpliera con todos sus criterios de ubicación, características (balcón, vista) y entorno residencial puro.",
+        "eventos_habilitadores": "La consolidación de sus ejes laborales y la necesidad de optimizar la movilidad para él y su hija lo llevaron a una búsqueda sistemática y activa durante un año.",
+        "switching_trigger": "La visita al proyecto WOW, donde su hija tuvo una conexión inmediata y entusiasta con las áreas sociales, actuando como el catalizador final para la decisión.",
+        "momento_de_decision": "Tras un año de búsqueda, la decisión se tomó rápidamente. La preferencia explícita de su hija por WOW sobre otras opciones finalistas fue el factor decisivo que cerró la compra."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional con una vida social y laboral muy activa y geográficamente concentrada en Surco (trabajo en UPC, club, familia, amigos). Es padre de una hija adolescente cuya logística y bienestar son una prioridad en la decisión de vivienda."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Reubicar su hogar en el centro de su ecosistema de vida para eliminar las fricciones logísticas diarias, mejorar su calidad de vida y la de su hija, y a la vez asegurar una propiedad con valor futuro.",
+        "job_statement": "Cuando mi casa actual está descentrada de mi círculo de vida, quiero mudarme a un departamento estratégicamente ubicado para optimizar mi rutina diaria y la de mi familia.",
+        "job_dominante_narrativo": "El cliente busca mejorar radicalmente su eficiencia y calidad de vida diaria, eliminando el 'costo' de tiempo y energía que implica vivir lejos de donde transcurre su vida. La compra es una solución logística a un problema de fricción cotidiana.",
+        "job_dominante_canonico": "J03 - Optimizar la vida cotidiana",
+        "job_secundario_canonico": "J04 - Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Ubicación estratégica cerca de su trabajo, club y círculo social; excelentes áreas comunes que entusiasmaron a su hija (piscina, parrilla); entorno puramente residencial; y características específicas como balcón y vista a un parque interno.",
+        "firing_criteria": "Ubicaciones descentradas, falta de balcón, vistas poco atractivas hacia casas traseras y, crucialmente, edificios de uso mixto (comercio en el primer piso), que rompían con su deseo de un entorno 'estrictamente residencial'.",
+        "trade_offs_reales": "No se mencionan sacrificios significativos. El cliente percibe que WOW cumplió con todos sus requisitos e incluso superó a la competencia en aspectos clave como el entorno residencial y las áreas sociales.",
+        "factores_de_confianza": "La transparencia y apertura del equipo de ventas durante la negociación del contrato, permitiendo incluso agregar una cláusula que el cliente observó que faltaba.",
+        "reduccion_de_riesgo": "Su método de búsqueda personal (recorrer la zona en auto) le permitió validar el entorno y la ubicación de primera mano, reduciendo el riesgo de sorpresas. La preferencia por un entorno residencial puro también es una forma de mitigar riesgos de ruido o devaluación."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación precisa en su 'cuadrado' de vida, las áreas sociales (especialmente la piscina cerrada), el carácter puramente residencial del edificio, el balcón y la vista al parque interno.",
+        "atributos_secundarios": "El precio por metro cuadrado ligeramente más competitivo que otras opciones, aunque no fue un factor decisivo.",
+        "alternativas_descartadas": "Un proyecto en Camino del Inca fue descartado por tener vista a la espalda, no tener balcón y ser de uso mixto (restaurantes abajo). Otros en Chacarilla y San Borja no tenían el nivel de áreas sociales o la ubicación ideal."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy alto, califica la experiencia con un 10/10.",
+        "reservas": "Ninguna expresada sobre el proyecto o la decisión. Solo una expectativa realista de que la construcción 'siempre demora un poco'.",
+        "fricciones_pendientes": "La espera del inicio de la construcción y la entrega final del departamento."
+    },
+    "proyecto": "WOW"
+}

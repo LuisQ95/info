@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado (Entry Driver) es la toma de conciencia financiera: se da cuenta de que el dinero del alquiler equivale a una cuota inicial, lo que la impulsa a dejar de 'perder dinero'. Este es un driver patrimonial (J02). Sin embargo, los criterios de selección (Selection Driver) son puramente de optimización de vida (J03): cercanía al trabajo, calidad de amenities y baja densidad del edificio. El J02 desbloquea la compra, pero el J03 define la elección.",
+        "debate_deal_breaker": "El 'deal breaker' que la mantenía fuera del mercado era su mentalidad de viajera y su renuencia a atarse a una propiedad. El factor que rompió esta barrera fue el cálculo financiero. El test es claro: ¿sin la presión de 'perder dinero' en alquiler, habría superado su renuencia a comprar? La evidencia sugiere que no. Por lo tanto, la lógica patrimonial es el verdadero 'deal breaker' que, al resolverse, habilita la transacción.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "luego sacando las cuentas de todo lo que había pagado en los años, entonces, he pagado más que una cuota inicial.",
+                    "Si te vas fuera del país, lo alquilas, digamos, o lo vendes. Claro. Exacto. Lo alquilo, ¿no?",
+                    "Esa era mi falta de convencimiento de decir, oye, sí, cómprate algo. Y... y luego sacando las cuentas... me llegó a decidir."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si el proyecto no tuviera potencial de alquiler o no representara una buena inversión, no habría superado su barrera mental para comprar, incluso si fuera conveniente para vivir."
+            },
+            {
+                "codigo_y_nombre_job": "J03: Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "De hecho, lo primero es la cercanía a mi trabajo.",
+                    "ninguno de los otros proyectos se acercaba un poco, ni siquiera al tamaño del gimnasio. No vi una piscina semiolímpica...",
+                    "al ser un edificio de 7 pisos, de 8 pisos, me pareció una gran diferencia... porque no lo veo tan saturado."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no estuviera cerca de su trabajo o no tuviera las amenities que valora, no lo habría elegido, pero seguiría en el mercado buscando otra opción que sí cumpliera con la lógica de inversión."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J03: Optimizar la vida cotidiana",
+        "resolucion_del_tribunal": "La clienta entra al mercado por una razón puramente patrimonial (J02): la necesidad de convertir un gasto (alquiler) en un activo flexible y rentable. Esta es la fuerza que vence su inercia y su renuencia personal. Una vez activada la compra, sus criterios de selección son de optimización de vida (J03), pero estos no originan la decisión, solo la dirigen hacia un producto específico. Por tanto, el Job Dominante es J02."
+    },
+    "dictamen_final": "Entrevista Válida.",
+    "justificacion": "La entrevista reconstruye de manera clara y detallada la cadena causal de la decisión. Expone con precisión el bloqueador mental inicial (renuencia a comprar), el evento habilitador (cálculo financiero impulsado por la hermana) y el 'switching trigger' (toma de conciencia del costo de oportunidad). La distinción entre el Job de entrada (J02) y los criterios de selección (J03) es nítida y está respaldada por evidencia textual, lo que la convierte en un caso de estudio robusto."
+}

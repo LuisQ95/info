@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Pareja joven busca su primer hogar, descarta una opción por desconfianza y elige un proyecto recomendado por un familiar, atraídos decisivamente por su propuesta de valor y estilo de vida únicos (club y piscina).",
+    "historia_causal": {
+        "contexto_previo": "Una pareja de novios, con planes de matrimonio, viven por separado en casa de sus padres en Los Olivos. Ambos están acostumbrados a largos traslados diarios para sus actividades, lo que genera un desgaste en su rutina.",
+        "tension_acumulada": "Existe un deseo latente y creciente de independizarse para consolidar su proyecto de vida en común. El cansancio por los largos viajes diarios y la necesidad de tener un espacio propio y estable alimentan la urgencia de encontrar una solución habitacional.",
+        "bloqueadores": "La búsqueda se vio limitada inicialmente por un presupuesto ajustado para la cuota inicial y la percepción de que distritos como Surco eran inaccesibles. Una experiencia negativa con otra inmobiliaria (Sancharbel) por falta de transparencia generó desconfianza y frenó una primera opción de compra.",
+        "eventos_habilitadores": "Lograron reunir el capital necesario para la cuota inicial. La recomendación directa de un tío que ya vivía en un proyecto de la misma inmobiliaria (MUV) les dio la confianza para explorar una nueva opción. Descubrir que el proyecto WOW en Surco encajaba en su presupuesto fue una sorpresa habilitadora.",
+        "switching_trigger": "La conversación con su tío, quien les describe las bondades del concepto de club del condominio, actúa como el estímulo final que los lleva a visitar la sala de ventas de WOW, pasando de una búsqueda general a una evaluación concreta.",
+        "momento_de_decision": "La decisión fue casi inmediata. Durante la visita a la sala de ventas, el recorrido por las instalaciones y la confirmación de la propuesta de valor (especialmente la piscina semiolímpica) generaron un encaje perfecto con sus aspiraciones, llevándolos a separar la unidad rápidamente."
+    },
+    "contexto_activador": {
+        "marco_general": "Son una pareja joven profesional, en la etapa de transición de noviazgo a matrimonio, que aún viven con sus respectivas familias. Su sistema de vida está condicionado por largos desplazamientos y la falta de un espacio común. La decisión de compra se activa cuando alcanzan la capacidad económica para la cuota inicial y encuentran una opción que no solo resuelve su necesidad de vivienda, sino que también satisface una aspiración de estilo de vida superior."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr establecer una base sólida y propia para nuestra futura vida en común, en un entorno que nos ofrezca una calidad de vida superior y nos permita disfrutar de nuestras aficiones sin salir de casa.",
+        "job_statement": "Cuando iniciamos nuestro proyecto de vida juntos y buscamos nuestro primer hogar, quiero encontrar un lugar que no solo sea una vivienda, sino un espacio con un estilo de vida aspiracional, para sentir que estamos construyendo un futuro estable y a la vez emocionante.",
+        "job_dominante_narrativo": "Estamos buscando comprar nuestro primer departamento para poder empezar nuestra vida juntos, sentar las bases de nuestra futura familia y dejar de depender de nuestras casas paternas.",
+        "job_dominante_canonico": "J01: Establecer estabilidad habitacional",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La principal razón para contratar WOW fue su concepto de club único, especialmente la piscina semiolímpica, que ningún otro proyecto ofrecía. La ubicación tranquila y 'escondida', lejos del ruido de las avenidas principales, y el amplio estacionamiento para visitas fueron también factores clave. La confianza generada por la recomendación de un familiar fue decisiva.",
+        "firing_criteria": "Descartaron la inmobiliaria Sancharbel por falta de transparencia y discrepancias entre lo ofrecido verbalmente y lo estipulado en la minuta. Otros proyectos fueron descartados por su ubicación ruidosa cerca de avenidas principales y por tener áreas comunes pequeñas y poco atractivas (piscinas en azoteas).",
+        "trade_offs_reales": "Aceptaron un departamento con menos metros cuadrados de los que hubieran deseado (79m²) y con un balcón simbólico (80cm), no funcional. Tuvieron que conformarse con las tipologías disponibles, aunque hubieran preferido más opciones. El principal sacrificio ha sido tolerar una comunicación post-venta pésima y la incertidumbre sobre los plazos.",
+        "factores_de_confianza": "El testimonio y la experiencia de su tío, que ya vivía en un proyecto similar de la inmobiliaria, fue el factor de confianza más importante. Esto les dio una referencia real y tangible de que, a pesar de los problemas, el producto final era bueno.",
+        "reduccion_de_riesgo": "El riesgo se redujo al tener una referencia familiar directa y poder visitar físicamente el condominio del tío, validando la calidad del concepto. La mala experiencia previa con Sancharbel los hizo más cautelosos y selectivos, viendo en WOW una opción más sólida a pesar de los problemas de comunicación."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El club con piscina semiolímpica fue el atributo estrella. La ubicación tranquila, la sorpresa de que estuviera dentro de su presupuesto en Surco, el amplio estacionamiento para visitas y la distribución funcional del departamento (2+flex) conectaron directamente con sus necesidades y aspiraciones.",
+        "atributos_secundarios": "La marca de la inmobiliaria o los acabados específicos no fueron tan determinantes como el concepto general del proyecto. La posibilidad de tener 3 dormitorios era deseable pero no crítica, aceptando la opción 2+flex.",
+        "alternativas_descartadas": "La principal alternativa descartada fue un departamento con la inmobiliaria Sancharbel, desechado por falta de transparencia. Otros proyectos en Jesús María y Pueblo Libre fueron explorados pero no llegaron a una etapa avanzada al no competir con la propuesta de valor de WOW."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Evalúan el proyecto con un 8/10 por su propuesta de valor, pero a la inmobiliaria con un 3/10 por la pésima atención y comunicación post-venta.",
+        "reservas": "La principal reserva es la enorme desconfianza generada por la nula comunicación de la inmobiliaria. Temen que los plazos de entrega no se cumplan y sienten una gran incertidumbre sobre el proceso, lo que empaña la emoción de la compra.",
+        "fricciones_pendientes": "La principal fricción es la falta de comunicación y seguimiento por parte de la inmobiliaria. Están en un limbo informativo sobre el avance del proyecto y los siguientes pasos para el desembolso del crédito hipotecario. Existe el deseo de evaluar un cambio a una unidad más grande si fuera posible."
+    },
+    "proyecto": "WOW"
+}

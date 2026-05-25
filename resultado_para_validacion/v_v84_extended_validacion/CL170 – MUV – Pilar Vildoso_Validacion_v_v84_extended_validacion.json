@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo o 'Entry Driver' es la necesidad de resolver fricciones diarias: la distancia al trabajo y la humedad que afectaba la salud. El filtro de selección o 'Selection Driver' fueron las características del proyecto que lo hicieron la mejor opción: el club, las áreas comunes y la distribución del departamento de 3 dormitorios.",
+        "debate_deal_breaker": "El verdadero 'deal-breaker' era la ubicación y el entorno. Si el proyecto no resolvía la cercanía al trabajo y el problema de la humedad, no lo hubieran considerado. El club y las amenities fueron un 'deal-breaker' para la elección específica de este proyecto frente a otros, pero no el motivo original de la búsqueda.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J03 - Optimizar la vida cotidiana",
+                "citas_textuales_evidencia": [
+                    "teníamos que buscar una oportunidad para salir de Chorrillos, para acercarme al trabajo, número uno.",
+                    "Número dos, la excesiva humedad de de Chorrillos, cerca de la playa y todo eso, a mí me afectaba en invierno mucho.",
+                    "Entonces, fueron los dos detonantes, ¿no?"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si la distancia al trabajo y la humedad no hubieran sido un problema, no habrían iniciado la búsqueda de un nuevo departamento. La compra no ocurriría."
+            },
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Nosotros teníamos dos alternativas, ¿no? o un departamento de tres dormitorios. Tenemos dos hijos varones.",
+                    "decidimos por el departamento de tres dormitorios y así es que estamos juntos los cuatro."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si no tuvieran a sus hijos viviendo con ellos, igual se hubieran mudado para resolver el problema de la distancia y la humedad, aunque probablemente hubieran buscado un departamento más pequeño. La compra sí ocurriría."
+            }
+        ],
+        "job_dominante_final": "J03 - Optimizar la vida cotidiana",
+        "job_secundario_final": "J04 - Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El cliente ya poseía una vivienda estable, descartando J01. La búsqueda fue explícitamente iniciada por dos fricciones funcionales: la distancia al trabajo y un problema de salud derivado de la humedad. Esto define a J03 como el motor de entrada al mercado. La necesidad de espacio para sus hijos (J04) y el atractivo de las áreas comunes (un criterio de selección tipo J06) fueron factores decisivos para elegir este proyecto en particular, pero no la causa raíz de la decisión de mudarse."
+    },
+    "dictamen_final": "Entrevista válida que confirma un Job Dominante J03 - Optimizar la vida cotidiana, complementado por un Job Secundario J04.",
+    "justificacion": "La evidencia es inequívoca: los clientes ya eran propietarios y su motivación para entrar al mercado fue resolver dos problemas funcionales explícitos y repetidos: la distancia al trabajo y la humedad perjudicial para la salud. Estos son los 'detonantes' según sus propias palabras. La necesidad de espacio para la familia (J04) y el atractivo de las áreas comunes (criterio de selección) definieron la solución elegida, pero no originaron la necesidad de cambio, cumpliendo así con la regla canónica de 'Entry Driver vs. Selection Driver'."
+}

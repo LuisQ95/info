@@ -1,0 +1,37 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) es claramente J02 - Inversión. El cliente declara explícitamente: 'El original era el derecho de inversión'. Tenía capital, no tenía deudas y buscaba rentabilizar su dinero. El filtro de selección (Selection Driver) fue J06 - Aspiracional. El 'concepto de club', las canchas de tenis y el edificio de baja altura fueron los atributos que lo hicieron elegir ESTE proyecto. La necesidad era financiera, pero la elección fue por estilo de vida.",
+        "debate_deal_breaker": "El test canónico confirma la dominancia de J02 como origen. Si el cliente no hubiera tenido el capital para invertir, la compra no habría ocurrido. Sin embargo, el J06 fue el 'deal-breaker' de la selección: si el proyecto no hubiera tenido el concepto de club y las canchas de tenis, no lo habría elegido, como él mismo afirma: 'a nivel conceptual creo que no he visto otra que se parezca'. La compra se origina en J02 pero se concreta gracias a J06.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "El original era el derecho de inversión.",
+                    "Tenía, digamos, no tenía deudas, tenía un ingreso, una buena remuneración.",
+                    "Yo, de hecho, venía y invierto en otro tipo de activos. Buscaba algo más en tema de inversión."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuviera el capital excedente para invertir, ¿habría entrado al mercado a comprar una propiedad? No. La compra no habría ocurrido."
+            },
+            {
+                "codigo_y_nombre_job": "J06: Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "lo que me interesó es el enfoque que le dieron, ¿no? Como club, ¿no?",
+                    "Yo practico tenis, así que es una de las cosas que me gusta.",
+                    "Una de las cosas que sí buscaba era que no hay edificios más de 10 pisos.",
+                    "a nivel conceptual creo que no he visto otra que se parezca."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si el proyecto no tuviera el concepto de club y las canchas de tenis, ¿habría comprado esta propiedad específica? No. Habría seguido buscando otra opción de inversión."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J06: Expresar identidad y coherencia personal",
+        "resolucion_del_tribunal": "El cliente entra al mercado para resolver un Job de inversión (J02). No tiene una necesidad habitacional. Sin embargo, la elección del producto específico está 100% gobernada por criterios aspiracionales y de estilo de vida (J06). Por lo tanto, el Job Dominante que explica el origen de la transacción es J02, mientras que J06 actúa como el filtro de selección decisivo y, por ende, como Job Secundario."
+    },
+    "dictamen_final": "Válida",
+    "justificacion": "La entrevista es rica en detalles causales. El cliente articula con claridad la transición de su motivación inicial (inversión, J02) a los criterios de selección finales (estilo de vida, J06). Proporciona evidencia explícita de los trade-offs, las fricciones del proceso y el estado emocional post-compra, permitiendo una reconstrucción precisa y defendible de la historia de decisión."
+}

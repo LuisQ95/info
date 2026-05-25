@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente realiza una compra de inversión con capital propio, motivado por la rentabilidad del alquiler a estudiantes en una zona que conoce. La elección final del proyecto se define por atributos aspiracionales como la baja densidad y las áreas comunes tipo club, pensando en una futura vivienda personal.",
+    "historia_causal": {
+        "contexto_previo": "Ingeniero civil con un estilo de vida laboral nómada, trabajando en distintas provincias. No tiene una residencia fija y cuando está en Lima, se queda en la casa de sus padres en Chosica. Tiene un conocimiento profundo de la zona de Monterrico por haber estudiado en la UPC y haber vivido alquilado allí durante años.",
+        "tension_acumulada": "Poseía un capital ahorrado que no estaba generando rendimientos. Existía la idea latente de invertir en un inmueble para generar ingresos pasivos (alquiler) y, a la vez, asegurar un activo que pudiera convertirse en su hogar permanente en el futuro, cuando decidiera establecerse en Lima.",
+        "bloqueadores": "La falta de una necesidad habitacional inmediata le permitía evaluar el mercado sin apuro. Estaba analizando diversas zonas con potencial de inversión cerca de universidades (San Isidro, San Miguel, etc.), lo que retrasaba una decisión final.",
+        "eventos_habilitadores": "Tener ahorros suficientes para la cuota inicial. Su experiencia previa como estudiante alquilando en la zona le dio confianza sobre el potencial de mercado. La experiencia de su familia en inversiones inmobiliarias similares reforzó la idea.",
+        "switching_trigger": "El reencuentro con el proyecto WOW en una feria inmobiliaria. Ya lo conocía, pero verlo de nuevo en el contexto de la feria, sumado a una promoción de descuento por tiempo limitado, catalizó la decisión de actuar en ese momento.",
+        "momento_de_decision": "El proceso fue rápido y decidido. Al encontrar el proyecto en la feria, ya tenía la convicción formada. La vendedora aplicó presión con una oferta semanal, y él, para no perderla, decidió pagar la separación de 45,000 soles con su tarjeta de crédito en el mismo instante."
+    },
+    "contexto_activador": {
+        "marco_general": "Un profesional joven, soltero y con alta movilidad laboral que le impide tener una residencia fija. Opera con una lógica financiera, buscando rentabilizar su capital disponible. Su decisión está condicionada por la necesidad de que el activo sea flexible: una inversión rentable a corto plazo y un hogar deseable a largo plazo."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Asegurar un activo patrimonial que se pague solo a través del alquiler y que, en el futuro, me ofrezca una alta calidad de vida en un entorno tranquilo y exclusivo.",
+        "job_statement": "Cuando tengo un capital que no está trabajando, quiero invertirlo en un departamento ubicado estratégicamente para que genere una renta segura y, a la vez, me brinde la opción de tener un hogar aspiracional en el futuro.",
+        "job_dominante_narrativo": "El cliente está intentando transformar su capital líquido en un activo inmobiliario productivo y flexible, para asegurar tanto rentabilidad financiera a corto plazo como una base habitacional de alta calidad para su futuro.",
+        "job_dominante_canonico": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_canonico": "J06: Expresar identidad y coherencia personal"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "La ubicación estratégica cerca de tres universidades (UPC, ESAN, Piura) que garantiza la demanda de alquiler. El concepto de condominio cerrado de baja densidad (pocos pisos) que promete tranquilidad. Las áreas comunes tipo 'mini club' (piscina, gimnasio, cine) que representan un estilo de vida superior. El precio competitivo frente a otras opciones como MUV. La vista desde el sexto piso.",
+        "firing_criteria": "Proyectos de alta densidad con muchos pisos (25-30) y gran cantidad de propietarios, percibidos como problemáticos y con áreas comunes masificadas. Zonas con mucho tráfico y ruido. Proyectos más caros que no justificaban el costo adicional dada su falta de urgencia por mudarse.",
+        "trade_offs_reales": "Aceptó una tipología de un dormitorio más un estudio convertible en lugar de dos dormitorios definidos para ajustarse al precio. Soportó la presión de la vendedora para cerrar la compra rápidamente y usar su tarjeta de crédito para la inicial.",
+        "factores_de_confianza": "Su propio conocimiento y experiencia en la zona como estudiante. La experiencia previa de su familia con inversiones inmobiliarias cerca de universidades. La visita física al proyecto y la buena atención presencial.",
+        "reduccion_de_riesgo": "La compra se percibía de bajo riesgo por el alto potencial de alquiler en la zona, validado por su propia experiencia. La elección de un proyecto con un concepto claro (baja densidad, club) que se diferenciaba del resto del mercado le dio seguridad en la elección."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "El concepto de condominio cerrado y de baja altura. Las áreas comunes completas y bien diseñadas ('mini club'). La ubicación junto a la UPC. La vista panorámica desde el piso elegido. El precio, que era más bajo que el de proyectos ya terminados.",
+        "atributos_secundarios": "La tipología exacta (1 dormitorio + flex vs 2 dormitorios) fue secundaria y flexible. No le interesaban los balcones.",
+        "alternativas_descartadas": "Proyectos en San Isidro (descartados por alta densidad). Otros proyectos en Monterrico con edificios de 25-30 pisos (descartados por masificación). El proyecto MUV (descartado por ser más caro)."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Evalúa su experiencia hasta ahora con un 7 u 8 sobre 10, pendiente del producto final.",
+        "reservas": "La comunicación postventa es deficiente. Siente que tiene que perseguir a la empresa para obtener información sobre los avances, lo que le genera 'cierta zozobra'.",
+        "fricciones_pendientes": "La falta de comunicación proactiva por parte de la inmobiliaria. Un premio prometido (gift card de S/1000) que nunca fue entregado. La incertidumbre sobre los plazos reales de construcción y entrega."
+    },
+    "proyecto": "WOW"
+}

@@ -1,0 +1,35 @@
+{
+    "proyecto": "MUV",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada (Entry Driver) fue la propuesta de valor aspiracional del proyecto, específicamente sus áreas comunes superiores, que el cliente identificó cuando era soltero (J06). El crecimiento familiar posterior (matrimonio e hijo) durante el largo retraso de entrega actuó como un filtro que forzó la modificación de la compra (de 2 a 3 dormitorios), pero no fue la causa original de la decisión.",
+        "debate_deal_breaker": "El test del innegociable confirma J06. Sin las áreas comunes superiores, el cliente, un arquitecto que evaluó racionalmente el mercado, no habría comprado. En cambio, la compra inicial sí habría ocurrido sin el posterior cambio familiar, simplemente se habría mantenido en la unidad más pequeña originalmente planeada para un soltero.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J06 - Expresar identidad y coherencia personal",
+                "citas_textuales_evidencia": [
+                    "para mí, de hecho, el principal fuerte de este proyecto son las áreas comunes que tienen",
+                    "la decisión de compra no nace de la visita, sino no nace del material de brochures y del material de marketing",
+                    "era para mí mucho más fácil que por medio de, digamos, conocer qué cosa hay en el mercado... ver un brochure, comprender mucho más rápido pues el valor o no de ese proyecto"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No habría comprado. La superioridad del producto fue la razón fundamental para elegirlo sobre otras opciones del mercado."
+            },
+            {
+                "codigo_y_nombre_job": "J04 - Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "de que iba a ser mi departamento de soltero, me casé y luego tuve mi hijito",
+                    "ese departamento de dos, de dos dormitorios ya me quedaba chico y tuve que tuve que más bien pasar a comprar uno de tres"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Sí habría comprado igual. La compra original se realizó bajo la premisa de ser para un soltero. El cambio familiar fue un evento posterior que forzó una adaptación, no el origen de la demanda."
+            }
+        ],
+        "job_dominante_final": "J06 - Expresar identidad y coherencia personal",
+        "job_secundario_final": "J04 - Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "La decisión es gobernada por J06. La compra fue iniciada cuando el cliente era soltero, impulsada por un análisis racional de la superioridad del producto (Racional Aspiracional). El crecimiento familiar (J04) es un factor crítico que emerge años después debido a retrasos en la entrega, obligando a una modificación del producto, pero no redefine la causa original de la compra, que fue puramente aspiracional."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista proporciona una narrativa causal clara y detallada. Permite identificar con precisión el 'Entry Driver' (J06, aspiracional) y separarlo de los eventos posteriores que forzaron una adaptación (J04, crecimiento familiar), lo que posibilita una clasificación canónica robusta y defendible según la regla de temporalidad."
+}

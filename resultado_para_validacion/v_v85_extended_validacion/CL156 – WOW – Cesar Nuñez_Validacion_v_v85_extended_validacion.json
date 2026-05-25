@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada al mercado es puramente financiero: la necesidad de invertir un capital excedente para generar rentabilidad (J02). El cliente ya tiene su necesidad de vivienda resuelta. Sin embargo, el filtro de selección es 100% familiar: la elección del proyecto específico está determinada por la conveniencia para sus hijos (cercanía a la universidad, cancha de tenis) y la flexibilidad para un futuro uso familiar (J04).",
+        "debate_deal_breaker": "La inversión (J02) es el verdadero deal-breaker. Si se elimina la necesidad de rentabilizar un capital, la compra no se realiza. En cambio, si los hijos no estudiaran en esa universidad, la inversión se habría hecho igualmente, pero en otro proyecto. La conveniencia familiar (J04) es un filtro de selección extremadamente potente, pero no el origen estructural de la transacción.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "la intención es comercial",
+                    "lo compró como inversión",
+                    "esto es más inversión que que necesidad de comprar para vivir"
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": false,
+                "test_deal_breaker": "Si no tuvieran el capital excedente para invertir, la compra no se habría realizado. Es la causa raíz de la transacción."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "Pensamos en la ubicación. Por la universidad. Nuestros hijos están en la Universidad de Lima.",
+                    "La cancha de tenis, más que todo. Ellos juegan tenis.",
+                    "Precisamente por la posibilidad de que quizás nosotros mismos... [necesitamos] tres [dormitorios]"
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Si bien la conveniencia familiar fue decisiva para elegir WOW, la necesidad de invertir el dinero existía independientemente. Habrían comprado otra propiedad en otro lugar que cumpliera otros criterios."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "J04: Acompañar el crecimiento familiar",
+        "resolucion_del_tribunal": "El dictamen es claro: la compra se origina en una necesidad de inversión (J02). El cliente ya tiene una vivienda resuelta y busca rentabilizar un capital. Sin embargo, la elección del producto específico está completamente subordinada a las necesidades y conveniencias de su sistema familiar (J04), que actúa como el principal criterio de selección. J02 es el 'porqué' de la compra, y J04 es el 'porqué este'."
+    },
+    "dictamen_final": "Entrevista válida. El Job Dominante es J02: Proteger y flexibilizar el patrimonio, con un fuerte Job Secundario J04: Acompañar el crecimiento familiar que actúa como principal criterio de selección.",
+    "justificacion": "La compra se origina por la necesidad de invertir un capital excedente, no por una necesidad de vivienda. El cliente ya posee una propiedad y está cómodo. El Test Canónico lo confirma: sin el capital para invertir, la compra no ocurre. Sin embargo, todos los criterios de selección (ubicación, amenities, tipología) están definidos por la conveniencia de su familia, haciendo de J04 el filtro decisivo para elegir este proyecto en particular sobre otras opciones de inversión."
+}

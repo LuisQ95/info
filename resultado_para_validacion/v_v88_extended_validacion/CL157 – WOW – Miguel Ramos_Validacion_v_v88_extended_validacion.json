@@ -1,0 +1,36 @@
+{
+    "proyecto": "WOW",
+    "0_dictamen_del_tribunal": {
+        "debate_gatillo_vs_filtro": "El gatillo de entrada es puramente financiero (J02): el cliente buscaba activamente un préstamo para invertir capital. La posibilidad de vivir allí con su madre es un filtro de selección que añade flexibilidad y seguridad a la inversión, pero no es la causa original de la compra.",
+        "debate_deal_breaker": "El factor innegociable es el potencial de inversión del activo. Si el departamento no tuviera una buena ubicación para alquilar o un precio que asegure rentabilidad, la compra no se realizaría. El uso personal es un 'nice to have', no un 'must have'.",
+        "candidatos_evaluados": [
+            {
+                "codigo_y_nombre_job": "J02: Proteger y flexibilizar el patrimonio",
+                "citas_textuales_evidencia": [
+                    "yo lo quiero para negocio, la verdad.",
+                    "compras por inversión, como cuentas",
+                    "estaba buscando un préstamo de 200,000, 300,000 dólares."
+                ],
+                "es_gatillo_entrada": true,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "No, sin el potencial de inversión y rentabilidad, la compra no tendría sentido y no se habría realizado."
+            },
+            {
+                "codigo_y_nombre_job": "J04: Acompañar el crecimiento familiar",
+                "citas_textuales_evidencia": [
+                    "tal vez viva, ¿no?",
+                    "de repente pongo mi otro departamento de alquiler y me voy a vivir ahí",
+                    "me caería perfecto para mí y para mi mamá, por ejemplo."
+                ],
+                "es_gatillo_entrada": false,
+                "es_filtro_seleccion": true,
+                "test_deal_breaker": "Sí, habría comprado el departamento igualmente como negocio, aunque no existiera la posibilidad de vivir allí."
+            }
+        ],
+        "job_dominante_final": "J02: Proteger y flexibilizar el patrimonio",
+        "job_secundario_final": "Ninguno",
+        "resolucion_del_tribunal": "La compra es originada por una necesidad de inversión. El cliente buscaba colocar capital para obtener rentabilidad. La opción de uso personal futuro es un atributo del producto que mejora la percepción de la inversión, pero no constituye el motor de la decisión. Por lo tanto, el Job Dominante es J02."
+    },
+    "dictamen_final": "VÁLIDA",
+    "justificacion": "La entrevista revela de manera clara y consistente la historia causal de un inversionista. El origen de la compra (búsqueda de un préstamo para invertir), los criterios de selección (ubicación para renta, precio) y las fricciones post-compra están bien definidos, permitiendo identificar un J02 dominante sin ambigüedades."
+}

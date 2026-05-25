@@ -1,0 +1,39 @@
+{
+    "summary_ejecutivo": "Cliente propietario de una casa en Magdalena, decide mudarse para eliminar la fricción diaria de vivir 'descentrado' de su círculo de vida. La elección del proyecto WOW es catalizada por el entusiasmo de su hija con las áreas comunes, cumpliendo además sus criterios de inversión y calidad residencial.",
+    "historia_causal": {
+        "contexto_previo": "Vive en una casa propia, grande pero antigua, en Magdalena. Su vida personal, laboral (UPC) y social (Club Palestino, amigos, familia) se desarrolla principalmente en Surco.",
+        "tension_acumulada": "La ubicación en Magdalena le resulta 'totalmente descentrada', generando una fricción constante en la movilidad diaria para él y su hija. Además, la casa antigua requiere mantenimiento y percibe que está perdiendo valor.",
+        "bloqueadores": "La comodidad de tener una casa propia y grande generaba inercia. La búsqueda duró un año, evaluando múltiples opciones sin encontrar el encaje perfecto que justificara el cambio.",
+        "eventos_habilitadores": "La consolidación de sus ejes laborales hizo más evidente la necesidad de optimizar su ubicación. Inició una búsqueda activa y metódica, recorriendo físicamente las zonas de su interés para evaluar el entorno.",
+        "switching_trigger": "La visita al proyecto WOW, donde su hija se enamoró de las áreas sociales. Su entusiasmo explícito ('papá, yo creo que este es el sitio') fue el catalizador final que convirtió la opción en la elegida.",
+        "momento_de_decision": "Tras un año de búsqueda y comparación con otros proyectos (Chacarilla, San Borja), la decisión por WOW fue rápida. La combinación de ubicación, áreas sociales (aprobadas por la hija), características del departamento (balcón, vista) y el carácter residencial puro del edificio solidificaron la elección."
+    },
+    "contexto_activador": {
+        "marco_general": "Profesional establecido, padre de una hija adolescente, con una vida social y laboral consolidada en un área geográfica específica (Surco). Aunque posee una vivienda, su prioridad es la eficiencia logística y la calidad de vida diaria, subordinando el tamaño de la vivienda a la ubicación."
+    },
+    "logica_de_demanda": {
+        "desired_outcome": "Lograr una vida diaria más fluida y con menos fricción, acercando su hogar a sus puntos de interés, y al mismo tiempo asegurar una propiedad que mantenga su valor y ofrezca flexibilidad a futuro.",
+        "job_statement": "Cuando mi ubicación actual me genera una fricción logística diaria, quiero mudarme a un departamento estratégicamente ubicado para optimizar mi rutina y la de mi hija, asegurando un entorno residencial de calidad.",
+        "job_dominante_narrativo": "El cliente busca reconfigurar su logística de vida para eliminar el desgaste diario causado por una mala ubicación. Necesita un 'hub' habitacional que le permita acceder eficientemente a su trabajo, club, y círculo social, mejorando su calidad de vida funcional.",
+        "job_dominante_canonico": "J03 - Optimizar la vida cotidiana",
+        "job_secundario_canonico": "J04 - Acompañar el crecimiento familiar"
+    },
+    "logica_de_eleccion": {
+        "hiring_criteria": "Ubicación estratégica cerca de su 'círculo de vida' (UPC, club, etc.). Áreas sociales excepcionales (piscina cerrada, parrilla) que encantaron a su hija. Carácter puramente residencial del edificio. Departamento con balcón y vista a un parque interno.",
+        "firing_criteria": "Ubicaciones 'descentradas'. Edificios de uso mixto (comercio en primer piso). Departamentos sin balcón o con malas vistas. Proyectos sin áreas sociales atractivas.",
+        "trade_offs_reales": "Cambiar una casa grande y propia en Magdalena por un departamento de menor metraje en Surco. Aceptar un tiempo de espera para la entrega del inmueble.",
+        "factores_de_confianza": "La transparencia y apertura del equipo de ventas durante la negociación del contrato. La calidad percibida del proyecto y su entorno residencial que él ya conocía.",
+        "reduccion_de_riesgo": "La compra se basa en una zona que conoce perfectamente, minimizando la incertidumbre sobre el entorno. La doble funcionalidad (vivienda/inversión) le da flexibilidad y seguridad a largo plazo."
+    },
+    "evidencia_de_fit": {
+        "atributos_que_activaron_fit": "La ubicación precisa en Surco. La piscina cerrada (ideal para su piel). Las áreas sociales que generaron un 'efecto wow' en su hija. El balcón con vista al parque interno. El ser un edificio 100% residencial.",
+        "atributos_secundarios": "El precio por metro cuadrado ligeramente más competitivo. El convenio del club con la UPC.",
+        "alternativas_descartadas": "Un proyecto en Camino del Inca fue descartado por tener comercio en el primer piso, no tener balcón y tener una vista inferior. Otros en Chacarilla y San Borja no tenían el nivel de áreas sociales ni el encaje de ubicación preciso."
+    },
+    "estado_post_compra": {
+        "nivel_de_satisfaccion": "Muy alto, califica la experiencia con un 10/10.",
+        "reservas": "Ninguna expresada sobre la compra o el proyecto. Muestra paciencia y comprensión sobre los tiempos de construcción.",
+        "fricciones_pendientes": "La espera hasta la entrega del departamento. El proceso de venta de su casa actual en Magdalena."
+    },
+    "proyecto": "WOW"
+}
