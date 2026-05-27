@@ -1,0 +1,158 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "El cliente inicialmente adquirió un departamento de dos dormitorios para vivir solo. Sin embargo, debido a un retraso significativo en la entrega del proyecto (cuatro años) y cambios en su situación personal (matrimonio e hijo), el departamento original resultó insuficiente. Esto generó la necesidad de adquirir un departamento de tres dormitorios para acomodar a su familia y disponer de un espacio para oficina.",
+        "punto_A": "Vivir en un departamento de dos dormitorios que se volvió inadecuado para su familia en crecimiento y sin un espacio de trabajo dedicado.",
+        "punto_B": "Poseer un departamento de tres dormitorios con espacio suficiente para su familia y una oficina funcional.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "El departamento de dos dormitorios ya no es suficiente; necesitamos uno de tres para la familia y una oficina.",
+        "urgencia": "latente",
+        "evidencias": [
+            "Compró para vivir.",
+            "Inicialmente pensó en un departamento de soltero.",
+            "Se casó y tuvo un hijo.",
+            "El departamento de dos dormitorios ya le quedaba chico.",
+            "Tuvo que comprar uno de tres dormitorios.",
+            "Quería tener su dormitorio y una oficina.",
+            "Se demoraron 4 años en entregar el departamento."
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "El cliente, un arquitecto, inició una búsqueda activa de vivienda post-pandemia. Descubrió el proyecto a través de redes sociales y material de marketing, siendo atraído por sus áreas comunes superiores. La decisión de compra se basó en su evaluación detallada de las características del proyecto, no en una oferta urgente.",
+        "categoria": "toma de conciencia y evaluación activa",
+        "evento_disparador": "Descubrimiento de un proyecto con áreas comunes destacadas a través de redes sociales y material de marketing, que se alineaba con su búsqueda de una vivienda para uso personal.",
+        "mecanismo_de_urgencia": "No se identificó un mecanismo de urgencia explícito para la decisión inicial de compra. La compra se dio en un contexto post-pandemia de incertidumbre, lo que pudo influir en la decisión de asegurar un activo.",
+        "violacion_expectativas": "",
+        "habilitadores": [
+            "Conocimiento del mercado inmobiliario y capacidad de evaluación detallada como arquitecto.",
+            "Búsqueda activa de vivienda."
+        ],
+        "evidencias": [
+            "\"compré en la etapa justo post pandemia\"",
+            "\"yo ya conocía el proyecto desde antes... sabía de las áreas comunes que tenía... para mí de hecho el principal fuerte de este proyecto son las áreas comunes que tienen\"",
+            "\"por redes sociales\"",
+            "\"la decisión de compra no nace de la visita. Sino nace del material de brochures y del material de marketing.\"",
+            "\"yo soy arquitecto. Entonces... eran para mí pues mucho más fácil... conocer pues qué cosa hay en el mercado\""
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir una vivienda propia para uso personal (inicialmente como soltero) que ofreciera flexibilidad para incluir un espacio de oficina y que contara con áreas comunes de alta calidad.",
+        "emocional": "Sentir seguridad y estabilidad en un contexto post-pandemia, disfrutar de un estilo de vida con buenas amenidades y tener control sobre el uso de su espacio personal y profesional.",
+        "social": "Obtener la aprobación familiar sobre la elección de la vivienda y asegurar un entorno adecuado para futuras necesidades familiares, aunque la compra inicial fuera individual.",
+        "outcome_maestro": "Establecer una base de vida personal y profesional en un entorno con amenidades superiores, con la flexibilidad de adaptarse a futuras necesidades, y que fuera bien percibida por su círculo familiar."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en un departamento propio, más grande que el adquirido."
+        ],
+        "sostenibilidad": "El cliente vivía en un departamento alquilado, lo cual era sostenible. Su familia estaba cómoda en viviendas más grandes, sin urgencia de mudarse.",
+        "comportamiento_actual": "Antes de la compra, el cliente tenía una idea latente de invertir desde 2016. Su búsqueda activa se desencadenó por la oportunidad post-pandemia, y su decisión se basó en el análisis de información de marketing como arquitecto."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "Tener un capital sin invertir que no genera ingresos pasivos."
+        ],
+        "costos": "Costo de oportunidad al no tener su dinero generando la rentabilidad que una inversión inmobiliaria podría ofrecer.",
+        "riesgos": "El capital podría perder valor con el tiempo debido a la inflación si no se invierte adecuadamente.",
+        "frustraciones": "No se evidencia una frustración activa, sino más bien la conciencia de una oportunidad financiera no aprovechada."
+    },
+    "consideration_set": {
+        "opciones": [
+            "Un proyecto en la zona de El Derby, cerca de El Polo (Hometown)."
+        ],
+        "sustitutos": [
+            "Otros proyectos vistos superficialmente por internet, como 'Hometown', sin llegar a investigar a fondo."
+        ],
+        "no_hacer_nada": "El cliente estaba evaluando la compra de un departamento de forma pasiva, pero la búsqueda activa se intensificó al encontrar el proyecto 'Move' a través de redes sociales.",
+        "peso_mental_opciones": "El proyecto 'Move' fue la opción preferida rápidamente por sus áreas comunes superiores. El proyecto 'Hometown' fue descartado por su tamaño y no fue visitado, basándose solo en brochures. El cliente, siendo arquitecto, pudo evaluar rápidamente el valor de 'Move'.",
+        "evidencias": []
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 2 dormitorios más un espacio flexible (2+flex) en el proyecto 'Move'.",
+        "condicionantes": "La decisión fue influenciada por la preferencia de su familia (padre y abuela) por un espacio más grande que un departamento de 1 dormitorio, y su propia necesidad de un espacio flexible para una oficina.",
+        "evidencia_preferencia": "La decisión de compra fue muy rápida después de la visita a los pilotos, ya que el proyecto cumplía con sus requisitos clave de ubicación y áreas comunes, las cuales consideraba las mejores en Lima.",
+        "evidencias": []
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > áreas_comunes: Áreas comunes amplias y bien equipadas, consideradas el principal fuerte del proyecto.",
+            "PRODUCTO > tipología: Flexibilidad para adaptar el departamento a necesidades futuras (de 1 a 2 dormitorios, y luego a 3 dormitorios).",
+            "PRODUCTO > espacio: Suficiente espacio para uso personal y profesional (dormitorio y oficina)."
+        ],
+        "emocionales": [
+            "GENERAL > seguridad_futuro: Búsqueda de estabilidad y previsión ante la incertidumbre post-pandemia.",
+            "GENERAL > comodidad_familiar: Asegurar un espacio cómodo y adecuado para el crecimiento de la familia."
+        ],
+        "sociales": [
+            "GENERAL > aprobación_familiar: Involucrar a la familia en la decisión de compra para asegurar su conformidad con el espacio."
+        ],
+        "criterios_prioritarios": "Las áreas comunes amplias y la flexibilidad en la tipología del departamento para adaptarse al crecimiento familiar fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > áreas_comunes: Las áreas comunes del proyecto competidor no eran tan amplias o atractivas como las del proyecto elegido.",
+            "PRODUCTO > tamaño: El proyecto competidor era más pequeño en terreno y departamentos."
+        ],
+        "riesgos_asociados": "El principal riesgo percibido fue la dilatación excesiva de los plazos de entrega (4 años), la posibilidad de que las áreas comunes no se entregaran o mantuvieran como se prometió, y el sobrecosto al cambiar de tipología de departamento una vez iniciado el proyecto.",
+        "señales_de_alerta": [
+            "PROCESO > contrato: El contrato de compraventa no incluía penalidades por retrasos, favoreciendo a la inmobiliaria.",
+            "PROCESO > compensación: Ausencia de compensación o bonos por los largos retrasos en la entrega.",
+            "PROCESO > gestión_interna: Falta de flexibilidad para respetar precios anteriores al cambiar de tipología de departamento.",
+            "POST-VENTA > entrega_incompleta: Áreas comunes (recepción, coworking, zonas de parrilla) entregadas incompletas o sin equipamiento prometido.",
+            "POST-VENTA > personal: Alta rotación del personal de post-venta, lo que dilató la resolución de acuerdos.",
+            "PRODUCTO > calidad_acabados: Acabados de tarrajeo frágiles y ventanas con deficiente aislamiento acústico.",
+            "PRODUCTO > funcionalidad_áreas: Zonas pet-friendly y áreas de juego para niños mal diseñadas o no funcionales.",
+            "PRODUCTO > reducción_calidad: Reducción de calidad en acabados y equipamiento (ej. eliminación de torre de hornos o puerta divisoria) en departamentos de mayor tamaño."
+        ]
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "UNIDAD > cochera: Aceptaron una ubicación de cochera distinta a la que habían elegido inicialmente, a pesar de la incomodidad que generó el cambio.",
+            "PROCESO_PRECOMPRA > seguimiento: Toleraron una comunicación post-venta inexistente, quedando con incertidumbre sobre los siguientes pasos.",
+            "PROCESO_PRECOMPRA > presión_venta: Soportaron tácticas de presión por parte de la vendedora para acelerar el cierre y cambiar de tipología.",
+            "PRODUCTO > precio: Tuvieron que pagar un precio significativamente más alto por el departamento de 3 dormitorios al momento del cambio, ya que el proyecto estaba terminado.",
+            "PRODUCTO > calidad_acabados: Aceptaron acabados de menor calidad o incompletos en áreas comunes (recepción, coworking, parrillas) y en el departamento (tarrajeo frágil, aislamiento acústico deficiente, eliminación de elementos en tipología superior)."
+        ],
+        "ganancias_obtenidas": [
+            "PROYECTO > áreas_comunes: Obtuvieron una cancha de tenis, un diferenciador clave que se alinea con los hobbies de su familia, y áreas comunes consideradas de las mejores en Lima.",
+            "PROYECTO > ubicación: Aseguraron una propiedad en una zona tranquila y muy conveniente para la vida universitaria de sus hijos.",
+            "PRODUCTO > tipología: Consiguieron la flexibilidad de un departamento que sirvió inicialmente para inversión/soltero y luego se adaptó a una futura vivienda familiar (pasando de 1 a 2 y luego a 3 dormitorios).",
+            "COMERCIAL > descuentos: Aprovecharon una oportunidad de precio al comprar en planos durante la etapa post-pandemia, lo que validó y aceleró la decisión de compra."
+        ],
+        "jerarquia_valor": "Las ganancias funcionales (ubicación, cancha de tenis, flexibilidad de tipología) y el beneficio comercial (descuento por compra en planos) fueron mucho más importantes que las fricciones experimentadas en el proceso de compra, como la presión de venta, el cambio de la cochera, los retrasos y las deficiencias en la post-venta y acabados. La lealtad al proyecto se mantuvo a pesar de las adversidades."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Ausencia total de comunicación proactiva por parte de la inmobiliaria desde la firma del contrato.",
+            "Alta rotación del personal de post-venta, lo que dilató acuerdos y generó inconsistencias.",
+            "Incumplimiento en la entrega de áreas comunes equipadas (recepción, coworking) y falta de instalación de elementos acordados (sol y sombra en parrillas).",
+            "Zona 'pet-friendly' inadecuada: muy pequeña, mal ubicada (junto a un departamento) y su uso fue prohibido por la administración.",
+            "Deficiencias en la calidad de los acabados del departamento: tarrajeo frágil, aislamiento acústico deficiente en ventanas, eliminación de elementos en tipologías superiores (torre de hornos, puerta de lavandería), perfiles de puertas mal instalados y zócalo dañado no reparado.",
+            "Retraso significativo de 4 años en la entrega del departamento.",
+            "Falta de compensación o reconocimiento por los largos retrasos y las deficiencias experimentadas.",
+            "Falta de gestión de riesgos y atención a casos particulares por parte de la inmobiliaria (ej. no respetaron precio inicial al cambiar a un departamento más grande)."
+        ],
+        "impacto_en_confianza": "La falta de información, la alta rotación de personal y el incumplimiento de promesas han erosionado la confianza inicial, generando un estado de duda e incertidumbre. El cliente se siente desatendido y obligado a buscar proactivamente la información y soluciones que la inmobiliaria no proporciona, lo que afecta negativamente la percepción de la marca y la recomendación futura.",
+        "evidencias": [
+            "Se demoraron 4 años en entregar el departamento.",
+            "El contrato no tenía penalidades por retrasos.",
+            "No respetaron el precio inicial al cambiar a un departamento más grande.",
+            "Alta rotación del personal de post-venta.",
+            "Áreas comunes (recepción, coworking) incompletas o no equipadas como se mostró en el brochure.",
+            "No instalaron el sol y sombra en la zona de parrillas a pesar de un acuerdo.",
+            "La zona 'pet-friendly' es muy pequeña y su uso fue prohibido.",
+            "El departamento de 3 dormitorios eliminó elementos que sí tenía el de 2 dormitorios (torre de hornos, puerta de lavandería).",
+            "El tarrajeo de los muros es muy frágil y se desprende fácilmente.",
+            "La acústica de las ventanas es deficiente, permitiendo el paso de ruido exterior.",
+            "No hay seguimiento ni contacto proactivo de la inmobiliaria.",
+            "No hubo compensación por los retrasos y problemas."
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido. La dilatación de los plazos de entrega, la falta de compensación por cambios forzados y la gestión deficiente de las áreas comunes han generado una profunda frustración.",
+        "camino_decision": "Una intención latente de invertir se activó por un anuncio online específico. Este 'switching trigger' los llevó a un producto que encajaba perfectamente con sus criterios funcionales y emocionales (principalmente áreas comunes), resultando en una decisión de compra rápida. La influencia familiar y cambios de vida posteriores lo llevaron a modificar el tipo de departamento adquirido.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad y frustración debido a la mala gestión de la comunicación, la falta de certezas y el incumplimiento de promesas por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada. Se encuentran en la fase de espera pre-entrega, lidiando con los primeros problemas de la post-venta y adaptándose a los cambios de vida que afectaron su elección inicial.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente, lo que puede llevar a conflictos futuros, una mala experiencia de entrega y la pérdida de cualquier posibilidad de recomendación o recompra. El cliente, además, es un líder de opinión en la comunidad de propietarios."
+    }
+}

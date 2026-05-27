@@ -1,0 +1,158 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La búsqueda fue iniciada con la intención de mejorar la calidad de vida de la familia, buscando una propiedad más cercana al trabajo y con un ambiente más saludable, lejos de la humedad excesiva, y con espacio adecuado para sus hijos.",
+        "punto_A": "Vivir en Chorrillos, lejos del trabajo, con alta humedad que afectaba la salud, y en un departamento que ya no se ajustaba a las necesidades familiares (hijos creciendo).",
+        "punto_B": "Residir en un departamento de tres dormitorios, bien distribuido, cerca del trabajo, con menor humedad y acceso a amplias áreas comunes (club, piscina, gimnasio), mejorando la calidad de vida familiar.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesitamos un departamento más cerca del trabajo y con menos humedad, que tenga espacio suficiente para nuestros hijos y buenas áreas comunes.",
+        "urgencia": "latente",
+        "evidencias": [
+            "Yo trabajo prácticamente a 7 minutos de este lugar. Entonces nosotros ya veníamos pensando que teníamos que buscar una oportunidad para salir de Chorrillos, para acercarme al trabajo.",
+            "la excesiva humedad de Chorrillos, cerca de la playa y todo eso, a mí me afectaba en invierno mucho.",
+            "fueron los dos detonantes",
+            "habíamos comenzado a buscar varias alternativas por la zona, como le digo, por la proximidad a mi centro de trabajo.",
+            "una de las cosas que pesó mucho fue el club.",
+            "la distribución del departamento también.",
+            "Nosotros teníamos dos alternativas, ¿no? O un departamento de tres dormitorios, tenemos dos hijos varones. Pero la otra era dos dormitorios y ellos ya hubieran tenido que salir de casa, ¿no? ... decidimos por el departamento de tres dormitorios."
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La decisión de compra fue impulsada por un deseo preexistente de mudarse de Chorrillos debido a su distancia del trabajo y alta humedad. Esto los llevó a una búsqueda activa de alternativas en línea, donde encontraron un anuncio de un proyecto que coincidía con sus preferencias de ubicación y amenidades. Una visita posterior a una feria inmobiliaria confirmó el atractivo del proyecto, particularmente su club y la distribución del apartamento, lo que llevó a una decisión de compra inmediata y un pago inicial.",
+        "categoria": "toma de conciencia y oportunidad",
+        "evento_disparador": "Descubrimiento de un anuncio en línea de un proyecto adecuado, seguido de una visita a una feria inmobiliaria donde las características del proyecto (club, distribución) solidificaron la decisión de compra, apoyada por un pago inicial inmediato.",
+        "mecanismo_de_urgencia": "La decisión inmediata de separar la unidad en la feria con un pago inicial de 1000 soles, impulsada por la idoneidad confirmada del proyecto.",
+        "violacion_expectativas": "Insatisfacción con la residencia anterior en Chorrillos debido a la excesiva humedad y los largos tiempos de viaje al trabajo.",
+        "habilitadores": [
+            "Propiedad actual destinada a la venta, lo que facilitó la obtención de un préstamo.",
+            "Historial de pagos financieros responsables."
+        ],
+        "evidencias": [
+            "ya veníamos pensando",
+            "habíamos comenzado a buscar varias alternativas",
+            "lo ubicamos el departamento, lo ubicamos por redes",
+            "justo encontramos la inmobiliaria",
+            "nos animamos",
+            "separamos en la feria con 1000 soles"
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir una propiedad de 3 dormitorios en una ubicación estratégicamente conveniente (cerca del trabajo, menos humedad que la residencia anterior) con áreas comunes deseables (club, piscina, gimnasio, sala de cine, bar inglés) y una buena distribución interna, adecuada para sus dos hijos adultos y que ofrezca flexibilidad futura para la vida familiar.",
+        "emocional": "Lograr una sensación de seguridad y satisfacción al realizar una inversión sólida que mejora la situación de vida de su familia y proporciona opciones a largo plazo.",
+        "social": "Cumplir el rol de padres que brindan una solución de vivienda conveniente y de alta calidad para sus hijos adultos, demostrando previsión y apoyo para su futuro.",
+        "outcome_maestro": "Asegurar una propiedad de 3 dormitorios flexible, bien ubicada y con ricas amenidades que sirva como un hogar cómodo para sus hijos adultos y una inversión sólida a largo plazo, al tiempo que aborda las incomodidades de su vivienda anterior."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en un departamento propio, más grande que el adquirido."
+        ],
+        "sostenibilidad": "Totalmente sostenible. No tenían ninguna necesidad ni urgencia de mudarse de su vivienda actual, donde se sienten cómodos.",
+        "comportamiento_actual": "Antes de la compra, mantenían una actitud pasiva, con la idea latente de invertir pero sin una búsqueda activa hasta que se toparon con la oportunidad específica."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "Distancia al trabajo de uno de los cónyuges.",
+            "Excesiva humedad en la zona de Chorrillos que afectaba la salud.",
+            "Capital inmovilizado en una propiedad que se planeaba vender para financiar la nueva adquisición."
+        ],
+        "costos": "Costo de oportunidad del capital no invertido, y costos de tiempo, transporte y salud asociados a la vivienda anterior.",
+        "riesgos": "Riesgo de pérdida de valor del capital por inflación, y riesgos para la salud por la humedad.",
+        "frustraciones": "Conciencia de oportunidad financiera no aprovechada, e incomodidad por la humedad y la distancia al trabajo."
+    },
+    "consideration_set": {
+        "opciones": [
+            "Dos proyectos identificados en una feria de vivienda, uno de los cuales era el proyecto 'Wow'."
+        ],
+        "sustitutos": [
+            "Otros proyectos vistos superficialmente por internet y el segundo proyecto identificado en la feria que no fue explorado a fondo."
+        ],
+        "no_hacer_nada": "Era la opción por defecto antes de que las necesidades de cercanía al trabajo y escape de la humedad activaran la búsqueda activa de una nueva propiedad.",
+        "peso_mental_opciones": "El proyecto 'Wow' capturó rápidamente su atención en la feria, descartando la necesidad de investigar el segundo proyecto identificado, debido a las ventajas del club y la distribución del departamento.",
+        "evidencias": []
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 3 dormitorios en el proyecto 'Wow' de la inmobiliaria Alquimia.",
+        "condicionantes": "La decisión fue influenciada por la necesidad de acercarse al trabajo, escapar de la humedad de Chorrillos, las necesidades de sus dos hijos universitarios (cercanía a la universidad, club con gimnasio y piscina) y la intención de vender su propiedad anterior para financiar la nueva.",
+        "evidencia_preferencia": "La decisión de compra fue muy rápida después de la visita a la feria, ya que el proyecto cumplía con todos sus requisitos clave (ubicación, áreas comunes, tipología) y se realizó una separación inmediata con una suma simbólica.",
+        "evidencias": []
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad al trabajo (7 minutos).",
+            "PRODUCTO > tipología: Departamento de 3 dormitorios para acomodar a sus dos hijos varones.",
+            "PROYECTO > áreas_comunes: Club con piscina, gimnasio, sala de cine, bar inglés.",
+            "PRODUCTO > distribución: Distribución del departamento que les gustó.",
+            "PROYECTO > entorno: Evitar la excesiva humedad de Chorrillos.",
+            "PRODUCTO > piso: Preferencia por piso alto.",
+            "PROYECTO > entorno: Zona tranquila y con poca densidad de gente."
+        ],
+        "emocionales": [
+            "GENERAL > bienestar: Mejorar la calidad de vida al alejarse de la humedad de Chorrillos.",
+            "GENERAL > flexibilidad: Deseo de que sus hijos pudieran quedarse en casa hasta que lo desearan."
+        ],
+        "sociales": [
+            "GENERAL > conveniencia_familiar: Proporcionar un espacio adecuado para el crecimiento de sus hijos."
+        ],
+        "criterios_prioritarios": "La proximidad al trabajo, la necesidad de 3 dormitorios para sus hijos, las áreas comunes del club y la distribución del departamento fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "UBICACIÓN > entorno: Excesiva humedad en su anterior vivienda en Chorrillos.",
+            "PROYECTO > competencia: El otro proyecto no ofrecía las mismas ventajas en áreas comunes y distribución."
+        ],
+        "riesgos_asociados": "Adquirir una propiedad con defectos de construcción (puntos de luz descentrados, vigas peraltadas, pintura de balcón con hongos, acero de barandas de baja calidad), funcionalidad limitada (tomas de corriente inutilizables, falta de manijas) y áreas comunes incompletas. Además, el ruido constante de clubes cercanos y problemas de convivencia por mascotas sin control.",
+        "señales_de_alerta": "La inmobiliaria mostró inflexibilidad al no aceptar cambios en el diseño (ej. quitar tina) durante la construcción. Hubo demoras en la entrega y la necesidad de realizar arreglos por defectos de construcción antes de la mudanza. También, falta de información clara sobre el inicio de la obra de la segunda torre."
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "UNIDAD > tina: No pudieron quitar la tina del baño principal a pesar de solicitarlo durante la construcción.",
+            "PROCESO_PRECOMPRA > comunicación_cambios: Aceptaron que no se pudiera modificar el diseño del baño (tina) a pesar de que el departamento estaba en construcción.",
+            "PROCESO_PRECOMPRA > calidad_construcción: Tuvieron que lidiar con defectos como puntos de luz descentrados y vigas, que requirieron reclamos post-entrega.",
+            "UNIDAD > materiales: Aceptaron balcones con acero de baja calidad que se oxida, a pesar de que les dijeron que era inoxidable.",
+            "PROCESO_POSTCOMPRA > plazos_construcción: Toleraron retrasos en el inicio de la obra de la nueva torre y en la implementación de mejoras prometidas (sol y sombra, pintura de balcón).",
+            "PROCESO_POSTCOMPRA > ruido: Soportan el ruido constante de fiestas de clubes cercanos, a pesar de que les aseguraron que no se sentiría.",
+            "PROCESO_POSTCOMPRA > mascotas: Toleran la falta de limpieza de desechos de mascotas en áreas comunes y el mal olor."
+        ],
+        "ganancias_obtenidas": [
+            "PROYECTO > ubicación: Propiedad cercana al trabajo del esposo (7 minutos) y lejos de la humedad de Chorrillos.",
+            "PROYECTO > áreas_comunes: Acceso a un club con piscina, gimnasio, sala de cine, bar inglés, que fue un diferenciador clave.",
+            "PRODUCTO > tipología: Departamento de 3 dormitorios que permite a sus hijos adultos vivir con ellos hasta que decidan irse.",
+            "PROYECTO > diseño_distribución: Les gustó la distribución del departamento y el diseño general del condominio.",
+            "PROYECTO > densidad: El condominio no se siente saturado de gente, a pesar de ser grande.",
+            "PROYECTO > orientación: Orientación del departamento (sol y vista) es perfecta.",
+            "COMERCIAL > recomendación: Han recomendado el proyecto a otros, lo que indica satisfacción general."
+        ],
+        "jerarquia_valor": "Las ganancias funcionales (ubicación, tipología, áreas comunes, orientación) y la percepción de un proyecto de calidad (distribución, baja densidad) superaron con creces los sacrificios relacionados con defectos de construcción, la inflexibilidad en cambios de diseño y las molestias post-venta (ruido, mascotas, mantenimiento). La capacidad de recomendar el proyecto a otros es un fuerte indicador de valor percibido."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Falta de flexibilidad para realizar cambios en el departamento (ej. quitar tina) a pesar de que estaba en construcción.",
+            "Defectos de construcción (puntos de luz descentrados, vigas, tomas de corriente inútiles, manijas faltantes) que no eran visibles en planos y requirieron reclamos post-entrega.",
+            "Problemas de mantenimiento en áreas comunes y balcones (pintura, oxidación de acero).",
+            "Promesas pendientes de la inmobiliaria (sol y sombra en zona de parrillas, solución para pintura de balcón).",
+            "Incomodidad con el uso de áreas comunes por personas externas (clases de natación que reducen carriles).",
+            "Problemas de higiene y olores por mascotas en áreas comunes.",
+            "Ruido constante de fiestas de clubes cercanos que afecta la tranquilidad.",
+            "Retrasos en el inicio de la construcción de la nueva torre, generando incertidumbre y preguntas de referidos.",
+            "Falta de comunicación proactiva sobre el avance de la obra o soluciones a problemas."
+        ],
+        "impacto_en_confianza": "La confianza se ha visto erosionada por la falta de atención a los detalles de construcción, la inflexibilidad para cambios, y la gestión de problemas post-venta (mantenimiento, uso de áreas comunes, ruido). Aunque la satisfacción general con el producto y la ubicación es alta, la experiencia post-venta ha generado frustración y la sensación de que la inmobiliaria no cumple con todas las expectativas o promesas, obligándolos a ser proactivos en la resolución de problemas.",
+        "evidencias": [
+            "No pudieron mudarse inmediatamente, recibiendo el departamento en junio y mudándose en agosto debido a arreglos.",
+            "Los arreglos de defectos de construcción se realizaron solo bajo presión del cliente.",
+            "La inmobiliaria se negó a quitar la tina del baño principal, a pesar de que el departamento estaba en construcción y no ofrecieron compensación.",
+            "Problemas de higiene por mascotas en áreas comunes (orina/heces en ascensores, pasillos) que no son limpiados por los dueños.",
+            "La pintura del balcón está con moho y se prometió una solución al iniciar la nueva obra.",
+            "Las puertas de los medidores de gas no tienen manijas, impidiendo la lectura por parte de la empresa de gas.",
+            "Hay tomas de corriente en el departamento que no se pueden usar (una de las tres clavijas no funciona), y no encontraron adaptadores.",
+            "Hay incertidumbre y quejas de referidos sobre el constante retraso en el inicio de la construcción de la nueva torre."
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "Una intención latente de invertir se activó por un anuncio online específico. Este 'switching trigger' los llevó a un producto que encajaba perfectamente con sus criterios funcionales y emocionales, resultando en una decisión de compra rápida a pesar de algunas fricciones en el proceso de venta.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad debido a la mala gestión de la comunicación y la falta de certezas por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada. Se encuentran en la fase de espera pre-entrega, lidiando con los primeros problemas de la post-venta.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente, lo que puede llevar a conflictos futuros, una mala experiencia de entrega y la pérdida de cualquier posibilidad de recomendación o recompra."
+    }
+}

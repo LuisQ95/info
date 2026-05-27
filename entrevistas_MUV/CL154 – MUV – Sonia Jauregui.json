@@ -1,0 +1,105 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La búsqueda fue iniciada con la intención de realizar una inversión inmobiliaria, utilizando un capital disponible para adquirir una o dos propiedades con el fin de generar una renta y/o proveer vivienda para su hijo que se independiza, optimizando sus gastos de vivienda actuales.",
+        "punto_A": "Tener un capital disponible o un excedente de dinero sin generar rentabilidad, y/o vivir en una propiedad grande con altos costos de mantenimiento que ya no se ajusta a su situación familiar.",
+        "punto_B": "Poseer activos inmobiliarios que generen ingresos pasivos a través del alquiler o que sirvan como vivienda optimizada para ella y su hijo, diversificando sus inversiones y reduciendo gastos innecesarios.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesito invertir este dinero en propiedades que me generen rentabilidad y me permitan optimizar mis gastos de vivienda, quizás ayudando a mi hijo a independizarse.",
+        "urgencia": "latente",
+        "evidencias": [
+            "buscando departamentos de una o dos habitaciones",
+            "quiero que uno de los departamentos mi hijo se está independizando y el otro para mí",
+            "el costo de mantenimiento es bastante alto... es más que un alquiler, entonces digo, no, no tiene sentido comprarme para a la vez pagar un costo similar al alquiler",
+            "mi departamento es bien grande... estoy pagando a la muni, el mantenimiento me cuesta caro y ahora vivo sola",
+            "yo tengo posibilidad de comprar hijo un lugar nuevo... tú quieres estar independiente, perfecto... compremos en un lugar relativamente cerca uno al otro"
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La acción de compra se concretó al encontrar una publicidad online que presentaba un proyecto que encajaba con sus criterios de ubicación y características. La visita confirmó el atractivo y una oferta comercial con descuento, sumado a la idea preexistente de comprar, aceleró la decisión. Sin embargo, la experiencia post-venta ha sido muy negativa debido a la falta de formalidad y comunicación.",
+        "categoria": "toma de conciencia",
+        "evento_disparador": "Ver una publicidad en Facebook de un proyecto que cumplía con sus criterios de ubicación y áreas comunes, seguido de una visita que confirmó su idoneidad y la existencia de descuentos.",
+        "mecanismo_de_urgencia": "Aprovechar una oportunidad de compra con descuento y la presión del vendedor sobre la disponibilidad de la unidad elegida. El pago al contado también fue un factor.",
+        "violacion_expectativas": "La falta de formalidad en el proceso de compra (firma en sala de ventas, no notaría), la insistencia en firmar un contrato que mencionaba 'inmueble futuro' para una propiedad terminada, la falta de comunicación y fechas exactas para la entrega y el saneamiento de documentos, y la falta de capacidad resolutiva de la vendedora y la administración.",
+        "habilitadores": [
+            "Disponibilidad de capital para el pago al contado",
+            "Intención previa de comprar una propiedad para su"
+        ]
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en un departamento propio, más grande que el adquirido."
+        ],
+        "sostenibilidad": "Totalmente sostenible. No tienen ninguna necesidad ni urgencia de mudarse de su vivienda actual, donde se sienten cómodos.",
+        "comportamiento_actual": "Antes de la compra, mantenían una actitud pasiva, con la idea latente de invertir pero sin una búsqueda activa hasta que se toparon con la oportunidad específica."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "Tener un capital sin invertir que no genera ingresos pasivos.",
+            "El departamento actual es demasiado grande para una sola persona, lo que implica costos de mantenimiento y servicios innecesarios."
+        ],
+        "costos": "Costo de oportunidad al no tener su dinero generando la rentabilidad que una inversión inmobiliaria podría ofrecer. Costos de mantenimiento elevados para un espacio no utilizado eficientemente.",
+        "riesgos": "El capital podría perder valor con el tiempo debido a la inflación si no se invierte adecuadamente.",
+        "frustraciones": "No se evidencia una frustración activa, sino más bien la conciencia de una oportunidad financiera no aprovechada y la incomodidad de un espacio sobredimensionado."
+    },
+    "consideration_set": {
+        "opciones": [
+            "Departamentos de una o dos habitaciones.",
+            "Comprar dos departamentos de un dormitorio (uno para su hijo, otro para ella).",
+            "Proyecto 'Moo' (departamentos acabados).",
+            "Proyecto 'Wow' (nuevo proyecto, sin inicio de obra).",
+            "Otro proyecto en La Molina."
+        ],
+        "sustitutos": [
+            "Otros proyectos vistos superficialmente por internet, sin llegar a investigar a fondo."
+        ],
+        "no_hacer_nada": "Era la opción por defecto antes de que la necesidad de independización de sus hijos y el tamaño de su actual vivienda activaran la búsqueda activa.",
+        "peso_mental_opciones": "El proyecto 'Wow' generó dudas por el tiempo de espera (sin inicio de obra), mientras que 'Moo' ofrecía departamentos acabados. La desconfianza generada por el proceso de compra en 'Moo' la llevó a considerar otras opciones, como el proyecto en La Molina.",
+        "evidencias": [
+            "\"Yo tengo posibilidad de comprar hijo un lugar nuevo...\" (35:30)",
+            "\"...yo tengo un ahorro importante...\" (31:49)",
+            "\"...mi departamento es bien grande... es demasiado grande para mí.\" (36:06-36:17)"
+        ]
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la UPC, para conveniencia de su hijo.",
+            "PROYECTO > entorno: Estar ubicado en una zona tranquila y con poco ruido.",
+            "PROYECTO > costos: Precios de mantenimiento razonables, evitando costos similares al alquiler.",
+            "PRODUCTO > estado: Departamento terminado y completado, no un inmueble futuro."
+        ],
+        "emocionales": [
+            "GENERAL > seguridad_familiar: La propiedad debía facilitar la independencia de su hijo, manteniendo la cercanía familiar y la posibilidad de apoyo mutuo."
+        ],
+        "sociales": [
+            "GENERAL > conveniencia_familiar: La compra debía facilitar la logística de sus hijos, reforzando su rol como proveedores atentos."
+        ],
+        "criterios_prioritarios": "La ubicación cercana a la universidad del hijo, un entorno tranquilo y costos de mantenimiento razonables fueron clave. La flexibilidad para adquirir dos unidades de 1 dormitorio era una opción valorada."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > ubic"
+        ]
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PROCESO_PRECOMPRA > presión_venta: Soportó tácticas de presión por parte de la vendedora para acelerar el cierre.",
+            "PROCESO_PRECOMPRA > formalidad_documentos: Aceptó firmar documentos con la descripción 'inmueble futuro' para una propiedad ya construida, lo que generó desconfianza.",
+            "PROCESO_PRECOMPRA > seguridad_pago: Entregó un cheque de gerencia y firmó documentos en la sala de ventas sin presencia notarial, lo que le causó gran inseguridad.",
+            "PRODUCTO > cochera: Aceptó una ubicación de cochera distinta a la que había elegido inicialmente, a pesar de la incomodidad que generó el cambio."
+        ],
+        "ganancias_obtenidas": [
+            "PROYECTO > áreas_comunes: Obtuvo una cancha de tenis, un diferenciador clave que se alinea con los hobbies de su familia.",
+            "PROYECTO > ubicación: Aseguró una propiedad en una zona tranquila y muy conveniente para la vida universitaria de sus hijos.",
+            "PRODUCTO > tipología: Consiguió la flexibilidad de un departamento que sirve tanto para inversión como para una futura vivienda familiar.",
+            "COMERCIAL > descuentos: Aprovechó una oportunidad de precio que validó y aceleró la decisión de compra"
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "Una intención latente de invertir se activó por un anuncio online específico. Este 'switching trigger' los llevó a un producto que encajaba perfectamente con sus criterios funcionales y emocionales, resultando en una decisión de compra rápida a pesar de algunas fricciones en el proceso de venta.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad debido a la mala gestión de la comunicación y la falta de certezas por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada. Se encuentran en la fase de espera pre-entrega, lidiando con los primeros problemas de la post-venta.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente, lo que puede llevar a conflictos futuros, una mala experiencia de entrega y la pérdida de cualquier posibilidad de recomendación o recompra."
+    }
+}

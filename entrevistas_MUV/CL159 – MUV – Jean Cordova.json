@@ -1,0 +1,189 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La búsqueda fue iniciada de manera oportunista, impulsada por la disponibilidad de capital y la intención de adquirir un activo inmobiliario adicional. Aunque el cliente ya poseía una vivienda principal cómoda y otra propiedad de inversión, la oportunidad de obtener un buen precio y las atractivas amenidades del proyecto lo llevaron a la compra, inicialmente con la idea de alquilarla para generar renta, pero luego optó por habitarla.",
+        "punto_A": "Tener un capital disponible o excedente de dinero sin generar rentabilidad en un activo inmobiliario, mientras ya posee una vivienda principal cómoda y una propiedad de inversión.",
+        "punto_B": "Poseer un activo inmobiliario adicional que, aunque inicialmente considerado para alquiler y generación de ingresos pasivos, finalmente se convirtió en su nueva vivienda principal, diversificando su patrimonio.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Tengo capital disponible y la oportunidad de adquirir una propiedad atractiva a buen precio. Aunque ya tengo vivienda e inversión, esta es una excelente adición a mi patrimonio que puedo usar o alquilar.",
+        "urgencia": "latente",
+        "evidencias": [
+            "porque yo tengo un departamento arriba que es amplio",
+            "Pero como comenzó a usarlo para cosas de mi empresa, igual el espacio sobra pues, ¿no?",
+            "me llegó una publicidad",
+            "yo no tenía mapeado comprarme algo",
+            "así como cuando voy a un lugar digo, pucha, quiero comprar una tortilla, quiero comprar un bolo o algo, igual, lo compro",
+            "con mi pareja separamos un departamento que ya lo compramos, que queda en Salaverry",
+            "nos están dejando un buen precio porque es de la inmobiliaria Abril y trabajamos también con ellos años y tenemos contrato y todo",
+            "como ya tenía eso de comprar ese departamento y al ver este dije, ya, pues también lo adquiero porque ahorita puedo puedo este, ¿no? por el tema de la empresa puedo comprar",
+            "me lo terminó sacando a 590",
+            "yo por emoción saqué mi tarjeta",
+            "me nació la ganas de comprarlo, porque ya tenía también el crédito aprobado",
+            "un departamento mucho más amplio, con mejores acabados, a un mejor precio",
+            "este departamento es para alquilarlo",
+            "en su momento el de aquí iba a ser para probablemente alquilarlo",
+            "al tenerlo ya dijiste, mejor me vengo a vivir acá"
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La acción de compra se concretó al encontrar una publicidad online que presentaba un proyecto que encajaba con sus criterios de ubicación y características. La visita confirmó el atractivo y una oferta comercial con descuento, sumado a la idea preexistente de comprar, aceleró la decisión. Sin embargo, las demoras en la construcción y la falta de transparencia en precios del proyecto inicial (Wow) generaron frustración, lo que, junto con el vencimiento de su crédito, lo impulsó a renegociar y adquirir una unidad superior en el proyecto Move.",
+        "categoria": "Toma de conciencia y re-evaluación forzada",
+        "evento_disparador": "Ver una publicidad en Facebook/WhatsApp de un proyecto que cumplía con sus criterios de ubicación y áreas comunes, seguido de una visita que confirmó su idoneidad y la existencia de descuentos. La posterior insatisfacción con el proyecto inicial (Wow) y la inminente caducidad de su crédito bancario lo llevaron a negociar una mejor oferta en el proyecto Move.",
+        "mecanismo_de_urgencia": "Aprovechar una oportunidad de compra con descuento y la presión del vendedor sobre la disponibilidad de la unidad elegida. Posteriormente, la urgencia de no perder el crédito bancario aprobado y la inversión inicial debido a los retrasos del proyecto.",
+        "violacion_expectativas": "El proyecto inicial (Wow) no cumplió con los plazos de construcción prometidos, hubo discrepancias entre el precio y el tamaño del departamento ofrecido versus la información online, y el vendedor inicial generó desconfianza con comentarios negativos.",
+        "habilitadores": [
+            "Disponibilidad de capital para la cuota inicial.",
+            "Proceso de calificación crediticia en curso (aunque con problemas).",
+            "Conocimiento y red de contactos en el sector inmobiliario (por su trabajo en marketing).",
+            "Intervención de una vendedora competente (Stephanie) que facilitó la renegociación y el cambio de unidad."
+        ],
+        "evidencias": [
+            "Publicidad en Facebook/WhatsApp de proyecto con criterios deseados.",
+            "Decisión de compra impulsiva tras visita y ver amenidades.",
+            "Oferta de descuento significativo (de 640k a 590k).",
+            "Presión del vendedor sobre inicio de construcción y disponibilidad.",
+            "Retrasos en construcción (enero a marzo, luego a mayo, agosto).",
+            "Discrepancia de precio y tamaño (590k por 74m2 vs. 568k por 79m2 en web).",
+            "Vencimiento inminente de carta de aprobación de crédito (junio).",
+            "Amenaza de denunciar en feria para recuperar dinero.",
+            "Intervención de Stephanie ofreciendo unidad en Move.",
+            "Negociación de precio (de 720k a 600k) por unidad más grande (91m2).",
+            "Obtención de un departamento más amplio, con mejores acabados y a mejor precio."
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir una propiedad en una ubicación estratégica que sirva como residencia personal cómoda y con buenas amenidades, liberando su departamento anterior para uso exclusivo de su empresa. Además, busca que sea una inversión rentable a largo plazo, con potencial de revalorización y flexibilidad para futuros usos (alquiler o vivienda familiar).",
+        "emocional": "Sentir la tranquilidad y seguridad de haber realizado una inversión inteligente y ventajosa, superando las frustraciones iniciales. Experimentar la satisfacción de poseer un activo de calidad que mejora su estilo de vida y patrimonio.",
+        "social": "Mantener y reforzar su imagen de inversor astuto y exitoso dentro de su círculo social y profesional. Ser capaz de recomendar el proyecto a sus contactos, validando su buen juicio y experiencia en el sector.",
+        "outcome_maestro": "Asegurar un activo inmobiliario de alta calidad y valor, que funcione como residencia principal y como una inversión estratégica rentable, optimizando su patrimonio y reforzando su estatus social."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en un departamento propio, más grande que el adquirido, que usa como almacén para su empresa."
+        ],
+        "sostenibilidad": "Totalmente sostenible. No tienen ninguna necesidad ni urgencia de mudarse de su vivienda actual, donde se sienten cómodos y que además le sirve para su negocio.",
+        "comportamiento_actual": "Antes de la compra, mantenían una actitud pasiva, con la idea latente de invertir pero sin una búsqueda activa hasta que se toparon con la oportunidad específica."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "Tener un capital sin invertir que no genera ingresos pasivos.",
+            "El departamento actual, aunque grande, es usado como almacén, lo que podría limitar su uso personal o la percepción de su valor como vivienda."
+        ],
+        "costos": "Costo de oportunidad al no tener su dinero generando la rentabilidad que una inversión inmobiliaria podría ofrecer.",
+        "riesgos": "El capital podría perder valor con el tiempo debido a la inflación si no se invierte adecuadamente.",
+        "frustraciones": "No se evidencia una frustración activa, sino más bien la conciencia de una oportunidad financiera no aprovechada y la necesidad de optimizar el uso de su capital."
+    },
+    "consideration_set": {
+        "opciones": [
+            "El proyecto 'Wow' (luego 'Move').",
+            "Un departamento en Salaverry (para inversión, separado antes de la activación de 'Wow').",
+            "Otros proyectos de inmobiliarias conocidas (Tribeca, Conforta, Highline, Amaraz) con descuentos significativos."
+        ],
+        "sustitutos": [
+            "Su departamento actual en Los Álamos (200m2, usado para negocio).",
+            "Proyectos de otras inmobiliarias que le ofrecían descuentos importantes, los cuales rechazó."
+        ],
+        "no_hacer_nada": "Mantener su departamento actual en Los Álamos para uso personal y de negocio, sin adquirir nuevas propiedades. Esta era la opción por defecto antes de que la publicidad del proyecto 'Wow' activara la búsqueda activa.",
+        "peso_mental_opciones": "El proyecto 'Wow' (luego 'Move') tuvo un peso mental mucho mayor y fue la opción preferida rápidamente, a pesar de las ofertas de otros proyectos y los problemas iniciales. El proyecto de Salaverry fue una decisión de inversión separada y no una alternativa directa para su vivienda principal.",
+        "evidencias": [
+            "No tenía mapeado comprarme algo.",
+            "Así como cuando voy a un lugar digo, pucha, quiero comprar una tortillita, quiero comprar un bolo o algo. Igual, lo compro.",
+            "Yo me negaba a hacerlo porque yo quería comprar aquí.",
+            "Porque me gustó el condominio. Más que el departamento."
+        ]
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 2 dormitorios más un espacio flexible (2+flex) de 91.34 m2 en el proyecto 'Move' de la inmobiliaria Alquimia.",
+        "condicionantes": "La decisión fue influenciada por el deseo de tener una propiedad, el atractivo del condominio y sus áreas comunes (club, piscina), la necesidad de un espacio flexible para sus dos hijos universitarios (aunque no vivan con él) y una oferta comercial final muy favorable.",
+        "evidencia_preferencia": "La decisión de compra fue muy rápida después de la visita inicial al club, a pesar de no tener intención de comprar. Persistió en el proyecto a pesar de múltiples retrasos, inconsistencias de precio y advertencias de un vendedor. Finalmente, obtuvo un departamento más grande, con mejores acabados y a un precio más bajo que el inicial, además de un descuento en la cochera, lo que generó gran satisfacción.",
+        "evidencias": [
+            "Así como cuando voy a un lugar digo, pucha, quiero comprar una tortillita, quiero comprar un bolo o algo. Igual, lo compro.",
+            "Yo me negaba a hacerlo porque yo quería comprar aquí.",
+            "Porque me gustó el condominio. Más que el departamento.",
+            "Me terminaron dando un departamento mucho más amplio, con mejores acabados, a un mejor precio...",
+            "La verdad sí estoy contento.",
+            "Pasaron 5 minutos, me dijeron, 'André, me han aceptado darte el departamento de 91.34 metros por los 600 mil soles'.",
+            "Nadie me cree cuando el proceso de compra, porque usualmente un proceso de compra demora más tiempo... pero todo se hizo en tres días."
+        ]
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la Universidad de Lima (para sus hijos) y cercanía a su vivienda actual (5 minutos), en una zona tranquila y con poco ruido.",
+            "PRODUCTO > tipología: Distribución flexible que permita convertirlo en un departamento de 3 dormitorios para uso familiar futuro.",
+            "PROYECTO > áreas_comunes: Contar con una cancha de tenis y piscina, ya que sus hijos practican deporte y él disfruta nadar.",
+            "PRODUCTO > valor_percibido: Obtener un precio competitivo y un buen valor de reventa, con un tamaño de departamento más amplio (90+ m2)."
+        ],
+        "emocionales": [
+            "GENERAL > flexibilidad_y_satisfacción: La propiedad debía ofrecer la tranquilidad de una doble funcionalidad (inversión y posible hogar) y generar un impulso de compra al visitar el proyecto y ver las áreas comunes.",
+            "GENERAL > confianza_en_el_vendedor: Necesidad de un vendedor que genere confianza, brinde información precisa y ofrezca soluciones efectivas."
+        ],
+        "sociales": [
+            "GENERAL > conveniencia_familiar_y_estatus: La compra debía facilitar la logística de sus hijos y ser un activo que pueda recomendar a su círculo social y profesional, reforzando su rol como proveedor atento y buen inversor."
+        ],
+        "criterios_prioritarios": "La ubicación estratégica (cerca de la universidad y su vivienda, en zona tranquila), la tipología flexible (adaptable a 3 dormitorios), las áreas comunes (cancha de tenis y piscina) y un precio competitivo con buen valor de reventa fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > ubicación: Descartaron el proyecto competidor en El Derby debido al exceso de tráfico y ruido en la zona.",
+            "PROYECTO > áreas_comunes: Las áreas comunes del otro proyecto no les parecieron cómodas ni atractivas.",
+            "PRODUCTO > precio: Discrepancias significativas entre el precio y el tamaño del departamento ofrecido versus lo publicado en la web.",
+            "PROYECTO > plazos_de_entrega: Múltiples retrasos en la fecha de inicio de construcción del proyecto original (WoW).",
+            "VENDEDOR > información_inconsistente: El vendedor inicial proporcionó información contradictoria y negativa sobre el proyecto."
+        ],
+        "riesgos_asociados": "El riesgo percibido al comprar en la competencia era adquirir una propiedad en un entorno poco tranquilo, lo que afectaría su calidad de vida si se mudaban o el atractivo para futuros inquilinos. Además, la falta de transparencia en la información y los constantes retrasos en la construcción generaban incertidumbre sobre la inversión y la entrega del bien futuro.",
+        "señales_de_alerta": "La presión constante para cerrar la venta, los cambios de información sobre el precio, el tamaño del departamento y la cochera asignada, así como los múltiples retrasos en la construcción del proyecto inicial, generaron desconfianza y molestia, llevando a la casi pérdida de la inversión y la aprobación del crédito."
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PROCESO_PRECOMPRA > presión_venta: Soportó la presión del vendedor para cerrar la compra rápidamente.",
+            "PROCESO_PRECOMPRA > plazos_incumplidos: Toleró múltiple retrasos en el inicio de la construcción y entrega.",
+            "INFORMACIÓN > inconsistencia: Manejó la incertidumbre y las inconsistencias en la información sobre el precio y metraje del departamento.",
+            "PROYECTO > activación: El proyecto no estaba \"activado\", impidiendo el desembolso del crédito bancario.",
+            "COMUNICACIÓN > desconfianza: Lidió con advertencias negativas sobre el proyecto por parte de un ex-vendedor.",
+            "UNIDAD > cochera: Aceptó una ubicación de cochera distinta a la que habían elegido inicialmente, a pesar de la incomodidad que generó el cambio.",
+            "PROCESO_POSTVENTA > resolución: La inmobiliaria se negó a devolver el dinero inicial ante la falta de avance."
+        ],
+        "ganancias_obtenidas": [
+            "PRODUCTO > tamaño_calidad: Obtuvo un departamento más amplio y con mejores acabados de lo esperado.",
+            "COMERCIAL > precio: Consiguió un precio muy favorable para el departamento y un descuento en la cochera.",
+            "PROYECTO > amenidades: Aseguró una propiedad en un condominio con club y piscina, alineado con sus intereses.",
+            "PRODUCTO > valorización: Adquirió una propiedad con alto potencial de revalorización.",
+            "TRIGGER > impulso: La compra fue impulsada por un deseo inmediato al ver el proyecto, más allá de una necesidad planificada."
+        ],
+        "jerarquia_valor": "La oportunidad de obtener un departamento más grande y con mejores acabados a un precio muy ventajoso, junto con el atractivo del condominio y sus amenidades (club, piscina), superaron con creces las múltiple fricciones y la falta de transparencia experimentadas durante el proceso de compra. La satisfacción con el producto final y el valor percibido fueron prioritarios."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Inconsistencia en la información sobre el inicio de la construcción y los plazos de entrega.",
+            "Presión constante para gestionar el crédito bancario a pesar de los retrasos del proyecto.",
+            "Discrepancias entre la información de la inmobiliaria y lo publicado en su página web (precio y metraje).",
+            "El proyecto no estaba \"activado\", impidiendo el desembolso del crédito bancario.",
+            "Advertencias negativas sobre la inmobiliaria y el proyecto por parte de un ex-vendedor, generando desconfianza.",
+            "La inmobiliaria se negó a devolver el dinero inicial ante la falta de avance.",
+            "Necesidad de escalar el problema a un contacto superior (Stephanie de Arquimia) para obtener una solución.",
+            "Conocimiento de múltiple quejas de otros propietarios sobre independización, ruidos y calidad de acabados.",
+            "Incertidumbre continua sobre la fecha de independización de su departamento."
+        ],
+        "impacto_en_confianza": "La confianza inicial se vio seriamente erosionada por la falta de transparencia, las promesas incumplidas, los constantes retrasos y la presión indebida. El cliente se sintió engañado y desinformado, lo que lo llevó a dudar del proyecto y a tomar medidas drásticas (amenazar con quejas públicas) para proteger su inversión. Aunque finalmente obtuvo un buen resultado, el proceso generó un alto nivel de estrés y desconfianza en la gestión de la inmobiliaria.",
+        "evidencias": [
+            "\"me dijeron que iba a ser después en marzo\"",
+            "\"el departamento que yo estaba optando por 590 en sí estaba en 568\"",
+            "\"era un departamento de 79 metros y a mí me estaban dando uno de 74\"",
+            "\"no se podía desembolsar porque el proyecto no había activado\"",
+            "\"el vendedor del punto que ya no estuvo... me comenzó a hablar mal del del proyecto\"",
+            "\"yo comencé a dudar\"",
+            "\"si no me devuelven mi dinero voy a tener que molestarlos en feria\"",
+            "\"la inmobiliaria no quería\"",
+            "\"hablo con Stephanie... que me atendió super bien\"",
+            "\"en el grupo sí he visto bastantes quejas\"",
+            "\"los propietarios están que se quejan con el tema"
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la satisfacción racional de haber obtenido una excelente inversión inmobiliaria (mejor precio, mayor tamaño, mejores acabados) y la profunda frustración emocional generada por una gestión post-venta deficiente, marcada por retrasos constantes, información engañosa y una comunicación ineficaz por parte de la inmobiliaria, lo que genera desconfianza y la sensación de haber sido manipulado.",
+        "camino_decision": "La intención de compra se activó por una publicidad inesperada en WhatsApp, a pesar de ya poseer una propiedad grande y haber separado otra para inversión. Una visita impulsiva al proyecto, motivada por la curiosidad y la cercanía, generó una conexión emocional inmediata con las áreas comunes. La decisión de compra fue rápida, impulsada por una oferta percibida como muy ventajosa (mayor tamaño, mejor precio) y la capacidad financiera existente, priorizando el potencial de inversión y el atractivo del condominio sobre la necesidad funcional inmediata.",
+        "coherencia_emo_racional_decision": "La decisión de compra fue racionalmente sólida, ya que el cliente obtuvo un departamento con características superiores a un precio muy favorable, lo que se alinea con sus objetivos de inversión y uso personal. Sin embargo, la experiencia post-compra ha generado una fuerte disonancia emocional. La tranquilidad esperada se ha visto empañada por la ansiedad, el estrés y la desconfianza debido a las promesas incumplidas, la falta de transparencia y la necesidad de presionar constantemente a la inmobiliaria y al banco para avanzar en el proceso.",
+        "etapa_decision": "Compra realizada y mudanza. El cliente se encuentra en la fase de post-venta, lidiando con las consecuencias de los retrasos en la construcción y la mala comunicación, mientras observa los problemas de la comunidad.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo, ya que el cliente ya se mudó y está satisfecho con su unidad. El riesgo principal es para la inmobiliaria: una severa erosión de la confianza y la lealtad del cliente, lo que se traduce en la pérdida de futuras oportunidades de negocio (recompra o recomendación), una reputación dañada y la alta probabilidad de conflictos si surgen nuevos problemas, dado el perfil proactivo y conectado del cliente."
+    }
+}

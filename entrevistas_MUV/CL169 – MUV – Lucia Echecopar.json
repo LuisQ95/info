@@ -1,0 +1,142 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La búsqueda fue iniciada con la intención de lograr independencia personal y establecer un hogar propio. Aunque no fue una inversión principal, se consideró la posibilidad de alquilar la propiedad en el futuro para generar ingresos.",
+        "punto_A": "Vivir con sus padres o en una situación que no le brindaba total independencia.",
+        "punto_B": "Tener un departamento propio que le otorgue independencia y un espacio de vida personal, con la flexibilidad de alquilarlo en el futuro.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesito mi propio espacio para independizarme y vivir cómodamente, con la posibilidad de alquilarlo si mis planes de vida cambian.",
+        "urgencia": "latente",
+        "evidencias": [
+            "la intención principal diría, era para vivir.",
+            "de ninguna manera es para inversión.",
+            "me quería independizar",
+            "no es, digamos, el departamento en el que quiero vivir toda mi vida.",
+            "si es que esto fuera un alquiler, o sea, tipo si es que tal vez imagínate incluso que llego a perder plata, si es que lo que perdería hubiera significado un alquiler razonable",
+            "creo que sí tengo, digamos, la la situación financiera para independizarme",
+            "no me puse ninguna meta de tiempos."
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La decisión de compra se concretó al encontrar una publicidad online de un proyecto (Magna House) que encajaba con sus criterios de ubicación y áreas comunes. La visita confirmó el atractivo y una oferta comercial con descuento, sumado a la idea preexistente de comprar para independizarse, aceleró la decisión.",
+        "categoria": "toma de conciencia",
+        "evento_disparador": "Ver una publicidad en Facebook de un proyecto que cumplía con sus criterios de ubicación y áreas comunes, seguido de una visita que confirmó su idoneidad y la existencia de descuentos.",
+        "mecanismo_de_urgencia": "Aprovechar una oportunidad de compra con descuento y la propia inclinación de la cliente a actuar rápidamente una vez que toma una decisión.",
+        "violacion_expectativas": "",
+        "habilitadores": [
+            "Capacidad financiera para la cuota inicial",
+            "Contacto familiar que facilitó el acceso directo al proyecto",
+            "Fuerte deseo de independizarse"
+        ],
+        "evidencias": [
+            "Vio un lugar (proyecto Lucio) que le dio curiosidad",
+            "Tenía la situación financiera para independizarse, incluso con ayuda familiar",
+            "Le hicieron una rebaja importante",
+            "Su padre conocía a uno de los organizadores del proyecto"
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir un departamento propio de tamaño adecuado para vivir sola y lograr independencia, en una ubicación estratégica cercana a su trabajo y familia, con una distribución cómoda, bajo mantenimiento y que permita tener mascotas.",
+        "emocional": "Sentir la libertad y autonomía de vivir de forma independiente, con la tranquilidad de haber realizado una compra inteligente que se alinea con sus planes de vida futuros, manteniendo el control y la opcionalidad sobre el uso del activo (alquiler durante maestría, futura vivienda familiar).",
+        "social": "Posicionarse como una persona independiente y capaz de gestionar su vida y finanzas, asegurando un activo que pueda servir como base para su futuro personal y familiar.",
+        "outcome_maestro": "Lograr la independencia habitacional en un departamento funcional y bien ubicado, que se adapte a su estilo de vida actual y ofrezca flexibilidad para futuras etapas personales y familiares, incluyendo la posibilidad de tener mascotas."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir con sus padres."
+        ],
+        "sostenibilidad": "No era sostenible para su objetivo de independencia personal, aunque cubría las necesidades básicas.",
+        "comportamiento_actual": "Actitud pasiva inicial hasta toparse con una oportunidad (un proyecto inmobiliario en construcción), lo que despertó su curiosidad y la llevó a una búsqueda activa y enfocada en la independencia."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "Falta de independencia personal y espacio propio."
+        ],
+        "costos": "Costo de oportunidad de no vivir de forma independiente y tener su propio espacio personal.",
+        "riesgos": "Riesgo de estancamiento en el desarrollo personal y falta de privacidad.",
+        "frustraciones": "Frustración por la imposibilidad de establecer un hogar propio y vivir con autonomía."
+    },
+    "consideration_set": {
+        "opciones": [
+            "Departamento en la etapa principal de Magna House (reventa)."
+        ],
+        "sustitutos": [
+            "Proyecto Lucio (visto por curiosidad, no investigado a fondo).",
+            "Departamento en primer piso con reja simple y problemas de seguridad.",
+            "Departamento en zona de cerro con poca luz y estética desfavorable.",
+            "Departamento en Chacarilla fuera de presupuesto y con ruido de tráfico."
+        ],
+        "no_hacer_nada": "Vivir con sus padres, opción por defecto antes de que la curiosidad por un proyecto y la situación financiera activaran la búsqueda activa.",
+        "peso_mental_opciones": "El proyecto 'Move' (Magna House) fue la opción preferida rápidamente, ya que cumplía con los requisitos clave y ofrecía un buen estilo de vida. Los otros proyectos fueron descartados por problemas de seguridad, ubicación, estética, presupuesto o ruido.",
+        "evidencias": [
+            "La búsqueda se activó al ver un proyecto (Lucio) y al sentirse financieramente lista para independizarse.",
+            "Casi se cierra la compra de un departamento de reventa en Magna House, pero se prefirieron las unidades nuevas del mismo proyecto."
+        ]
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento en el proyecto 'Move' (Magna"
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a Surco (familia) y La Molina (trabajo), con el proyecto elegido estando aún más cerca de La Molina, ahorrando semáforos.",
+            "PRODUCTO > tipología: Distribución cómoda y flexible para un futuro uso familiar (3 dormitorios) y necesidad de dos estacionamientos a largo plazo.",
+            "PROYECTO > áreas_comunes: Contar con un Club House, inicialmente por la piscina y luego por las canchas de tenis, con mantenimiento más económico que un gimnasio externo.",
+            "PROYECTO > entorno: Ubicación en una zona tranquila y segura, sin tráfico ni ruido excesivo."
+        ],
+        "emocionales": [
+            "GENERAL > flexibilidad: La propiedad debía ofrecer la tranquilidad de una doble funcionalidad: vivienda actual y potencial alquiler futuro, permitiendo la independencia."
+        ],
+        "sociales": [
+            "GENERAL > conveniencia_familiar: La compra debía facilitar la logística familiar y laboral, al estar cerca de la familia y el trabajo."
+        ],
+        "criterios_prioritarios": "La ubicación estratégica cerca de la familia y el trabajo, la tipología flexible para el futuro y las áreas comunes como el Club House (especialmente las canchas de tenis) fueron criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > ubicación: Descartaron proyectos en El Derby por tráfico y ruido, un primer piso con reja simple por inseguridad, y una zona 'más fea' en un cerro.",
+            "PROYECTO > áreas_comunes: Las áreas comunes de un proyecto competidor no eran cómodas ni atractivas."
+        ],
+        "riesgos_asociados": "El riesgo percibido al comprar en la competencia era adquirir una propiedad en un entorno poco tranquilo o inseguro, lo que afectaría la calidad de vida o el atractivo para futuros inquilinos.",
+        "señales_de_alerta": "La mala gestión post-venta de la inmobiliaria, especialmente en el proceso de independización, la falta de comunicación y respuesta, errores en el contrato, la imposibilidad de instalar aire acondicionado, y reglas de condominio ilegales (retención de DNI) generaron frustración y desconfianza."
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PRODUCTO > aire_acondicionado: No pudo instalar aire acondicionado, tuvo que comprar uno portátil.",
+            "PROCESO_PRECOMPRA > documentación: El contrato de compra tenía errores (ej. municipalidad incorrecta).",
+            "PROCESO_PRECOMPRA > plazos: La conexión de gas demoró 3 meses adicionales a la entrega.",
+            "UNIDAD > cochera: Aceptó una ubicación de cochera distinta a la elegida."
+        ],
+        "ganancias_obtenidas": [
+            "PROYECTO > ubicación: Ubicación conveniente cerca del trabajo y familia (Surco/La Molina).",
+            "PROYECTO > áreas_comunes: Acceso a clubhouse con piscina, canchas de tenis y parrillas.",
+            "COMERCIAL > descuentos: Obtuvo un descuento significativo en el precio de compra.",
+            "PRODUCTO > tipología: Departamento flexible para independencia y futura inversión/alquiler.",
+            "PRODUCTO > pet_friendly: El condominio permite mascotas, un requisito no negociable."
+        ],
+        "jerarquia_valor": "Las ganancias funcionales (ubicación, áreas comunes, tipología, seguridad, mantenimiento) y el beneficio comercial (descuento) fueron más importantes que las fricciones experimentadas en el proceso de compra (problema con AC, errores en contrato, demora en gas) y la mala gestión post-venta de la inmobiliaria."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Ausencia total de comunicación proactiva por parte de la inmobiliaria desde la firma del contrato.",
+            "Lentitud en las respuestas a consultas, demorando días o semanas.",
+            "Información poco clara y asunción de conocimiento por parte del cliente sobre procesos complejos.",
+            "Incapacidad de votar en las elecciones del condominio debido a la demora en la independización.",
+            "Problemas con las reglas del condominio, como la retención ilegal de DNI de visitas.",
+            "Existencia de problemas de diseño o construcción no resueltos (ej. fachada con moho en tercera etapa)."
+        ],
+        "impacto_en_confianza": "La falta de comunicación proactiva, la lentitud en las respuestas, los errores en la documentación y la incapacidad de resolver problemas como el aire acondicionado han generado una profunda frustración y desconfianza. La cliente se siente desatendida y obligada a perseguir a la inmobiliaria para obtener información sobre su inversión, lo que ha erosionado la percepción positiva inicial.",
+        "evidencias": [
+            "\"mi impresión más grande de la inmobiliaria es luego de la compra, cómo han manejado el tema de la independización y eso ha sido en mi opinión un desastre, una mala gestión.\"",
+            "\"yo mando un correo y nadie me contesta, eso me parece impensable en la vida.\"",
+            "\"si lo hubiera sabido, sí me hubiera hecho pensarla dos veces\" (sobre el aire acondicionado).",
+            "\"el contrato estaba mal escrito\"."
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber realizado una excelente adquisición de propiedad para vivir y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "Una intención latente de independizarse se activó por un anuncio online específico. Este 'switching trigger' los llevó a un producto que encajaba perfectamente con sus criterios funcionales y emocionales (ubicación, amenities, distribución), resultando en una decisión de compra rápida a pesar de algunas fricciones en el proceso de venta.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos de vivienda. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la adquisición se ve reemplazada por la ansiedad debido a la mala gestión de la comunicación y la falta de certezas por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada. Se encuentran en la fase de post-venta y habitabilidad, lidiando con problemas de comunicación y la finalización del proceso de independización.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente, lo que puede llevar a conflictos futuros, una mala experiencia de entrega y la pérdida de cualquier posibilidad de recomendación o recompra."
+    }
+}

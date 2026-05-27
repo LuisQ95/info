@@ -1,0 +1,109 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La búsqueda fue iniciada por la necesidad de una vivienda más grande debido al crecimiento familiar, buscando una propiedad con más habitaciones para acomodar a sus hijos.",
+        "punto_A": "Vivir en un departamento con espacio insuficiente para el crecimiento de su familia.",
+        "punto_B": "Residir en un departamento con el número adecuado de habitaciones para la comodidad de su familia en crecimiento.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesitamos un departamento más grande, con más habitaciones, para que nuestra familia esté cómoda.",
+        "urgencia": "media",
+        "evidencias": [
+            "compré para vivir",
+            "me cansé y tuve que comprar un departamento por dos habitaciones",
+            "estaba embarazada y yo ya tenía que pensar en comprar un departamento con tres habitaciones",
+            "quería un departamento con una habitación más"
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La decisión de adquirir un departamento de 3 habitaciones fue motivada por el incumplimiento en la fecha de entrega de su anterior propiedad y el embarazo de su esposa, lo que generó una necesidad urgente de mayor espacio. El proyecto actual (Move) captó su atención por su ubicación estratégica y su temática atractiva.",
+        "categoria": "toma de conciencia",
+        "evento_disparador": "Incumplimiento de la fecha de entrega del departamento anterior, embarazo de la esposa, y la consecuente necesidad de un departamento de 3 habitaciones. El proyecto actual fue identificado por su cercanía y su temática.",
+        "mecanismo_de_urgencia": "La inminente llegada de un nuevo miembro a la familia y la frustración por los retrasos previos, que impulsaron la búsqueda de una solución habitacional inmediata y confiable.",
+        "violacion_expectativas": "El promotor anterior no cumplió con la fecha de entrega prometida, forzando al cliente a buscar una alternativa.",
+        "habilitadores": [
+            "Disponibilidad de ahorros para la cuota inicial."
+        ],
+        "evidencias": [
+            "\"me prometieron una fecha de entrega que no cumplieron y en el transcurso pues estaba embarazada y yo ya tenía que pensar en comprar un departamento con tres habitaciones\" (2:47-2:58).",
+            "\"Tenía un dinero guardado\" (3:34).",
+            "\"como vivía cerca, vi el proyecto, me gustó la temática\" (3:06-3:10)."
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir un departamento de 3 habitaciones que satisfaga las necesidades de espacio de su familia en crecimiento, con una entrega puntual y conforme a lo prometido, evitando los problemas de su experiencia anterior.",
+        "emocional": "Sentir tranquilidad y seguridad al proporcionar un hogar adecuado y estable para su familia, libre de la ansiedad y el estrés causados por incumplimientos pasados.",
+        "social": "Cumplir con la responsabilidad de ofrecer un entorno de vida óptimo y seguro para su familia, especialmente para su hijo, y evitar la percepción de haber tomado una mala decisión.",
+        "outcome_maestro": "Asegurar una vivienda familiar espaciosa y confiable, que se adapte a las necesidades de su familia en crecimiento, garantizando la estabilidad y el bienestar, y superando las experiencias negativas previas con promotores inmobiliarios."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en un departamento propio de 2 habitaciones (anteriormente)."
+        ],
+        "sostenibilidad": "El cliente vivía cómodamente en su departamento anterior, pero la llegada de un hijo y la necesidad de una habitación adicional (pasando de 2 a 3 habitaciones) hizo que esta alternativa dejara de ser sostenible para sus nuevas necesidades familiares.",
+        "comportamiento_actual": "Antes de la compra, el cliente tenía un capital ahorrado y había considerado invertir en el proyecto anteriormente, pero la pandemia lo detuvo. Durante la pandemia, se mudó temporalmente a EE. UU. y al regresar, decidió activamente buscar un nuevo departamento para vivir, impulsado por la necesidad de más espacio debido al crecimiento familiar."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "El departamento anterior de 2 habitaciones se volvió insuficiente para las necesidades de espacio de la familia debido a la llegada de un hijo.",
+            "El cliente se 'cansó' del departamento anterior, lo que sugiere una insatisfacción general o deseo de cambio más allá de la funcionalidad."
+        ],
+        "costos": "Costo de oportunidad de no tener un departamento más grande que se ajustara a las necesidades familiares crecientes, lo que podría implicar incomodidad o falta de espacio adecuado para el nuevo miembro de la familia.",
+        "riesgos": "No se mencion"
+    },
+    "consideration_set": {
+        "opciones": [
+            "Un proyecto en la zona de El Derby, cerca de El Polo (Alquimia 'Wow').",
+            "Otro proyecto (CC) frente a El Polo."
+        ],
+        "sustitutos": [
+            "Otros proyectos vistos superficialmente por internet, sin llegar a investigar a fondo."
+        ],
+        "no_hacer_nada": "Era la opción por defecto antes de que la publicidad del proyecto 'Wow' activara la búsqueda activa. Durante la pandemia, la familia se mudó a EE. UU. y trabajó de forma remota, posponiendo la decisión de compra.",
+        "peso_mental_opciones": "El proyecto 'Wow' tuvo un peso mental mucho mayor y fue la opción preferida rápidamente. El proyecto 'CC' fue descartado por rumores de problemas con la licencia de construcción y paralización, lo que se confirmó posteriormente.",
+        "evidencias": []
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 2 dormitorios más un espacio flexible (2+flex) en el proyecto 'Wow' de la inmobiliaria Alquimia, en un primer piso.",
+        "condicionantes": "La decisión fue influenciada por la necesidad de un espacio más grande para su familia en crecimiento (se casó y tuvo un hijo, y luego su esposa quedó embarazada nuevamente), y la flexibilidad de una"
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la Universidad de Lima, para conveniencia de sus hijos y atractivo para alquiler.",
+            "PRODUCTO > tipología: Distribución flexible que permita convertirlo en un departamento de 3 dormitorios para uso familiar futuro.",
+            "PROYECTO > entorno: Estar ubicado en una zona tranquila y con poco ruido."
+        ],
+        "emocionales": [
+            "GENERAL > flexibilidad: La propiedad debía ofrecer la tranquilidad de una doble funcionalidad: inversión y posible hogar."
+        ],
+        "sociales": [
+            "GENERAL > conveniencia_familiar: La compra debía facilitar la logística de sus hijos, reforzando su rol como proveedores atentos."
+        ],
+        "criterios_prioritarios": "La ubicación estratégica cerca de la universidad y la tipología flexible adaptable a 3 dormitorios fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > ubicación: Descart"
+        ]
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PROCESO_PRECOMPRA > retraso_entrega: Aceptaron múltiples retrasos en la fecha de entrega inicial del departamento, generando estrés y frustración.",
+            "PROCESO_PRECOMPRA > cambios_personal: Tuvieron que lidiar con constantes cambios de personal en la inmobiliaria, lo que dificultó el seguimiento y la comunicación.",
+            "PROCESO_POSTVENTA > defectos_menores: Asumieron la revisión y corrección de defectos menores (como la mayólica de la ducha) por su cuenta, sin esperar a la inmobiliaria.",
+            "PROCESO_POSTVENTA > defectos_mayores: Toleraron defectos de diseño graves (intercomunicadores, desagües, alarmas contra incendios) que afectan la funcionalidad y seguridad, sin una solución efectiva.",
+            "PROCESO_POSTVENTA > falta_documentacion: Han esperado más de un año por el título de propiedad, lo que les impide acceder a mejores tasas de interés bancarias."
+        ],
+        "ganancias_obtenidas": [
+            "PRODUCTO > tipología: Consiguieron un departamento de 3 habitaciones, necesario por el crecimiento de la familia.",
+            "PROYECTO > ubicación: Aseguraron una propiedad en una zona conveniente para sus actividades académicas (ESAN, Católica, UTP) y cercana a su anterior vivienda.",
+            "PRO"
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "Una intención latente de invertir se activó por un anuncio online específico. Este 'switching trigger' los llevó a un producto que encajaba perfectamente con sus criterios funcionales y emocionales, resultando en una decisión de compra rápida a pesar de algunas fricciones en el proceso de venta.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad debido a la mala gestión de la comunicación y la falta de certezas por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada. Se encuentran en la fase de espera pre-entrega, lidiando con los primeros problemas de la post-venta.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente, lo que puede llevar a conflictos futuros, una mala experiencia de entrega y la pérdida de cualquier posibilidad de recomendación o recompra."
+    }
+}

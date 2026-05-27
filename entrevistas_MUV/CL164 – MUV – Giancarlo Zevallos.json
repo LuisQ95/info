@@ -1,0 +1,146 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "El cliente compró el departamento con la intención principal de vivir en él y formar una familia, considerando necesidades futuras como tener hijos. Buscaba un entorno seguro con amenidades adecuadas para criar una familia.",
+        "punto_A": "Vivir sin una vivienda propia (alquilando previamente), en una relación, y planificando formar una familia en un futuro cercano.",
+        "punto_B": "Poseer un departamento seguro de 2 dormitorios con amenidades adecuadas, proporcionando un entorno estable para su vida actual y el crecimiento futuro de su familia, con planes de adquirir una unidad más grande (3 dormitorios) si fuera necesario.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesito un departamento seguro y con buenas áreas comunes para vivir y formar mi familia, pensando en el futuro.",
+        "urgencia": "latente",
+        "evidencias": [
+            "No, para vivir.",
+            "Yo lo hice proyectándome, yo lo separé en el 2020, me casé en el 2025... y bueno, proyectamos tener hijos 2026, 2027.",
+            "Uno porque pensaba por lo menos en un hijo.",
+            "en un lugar que es cerrado donde prima la seguridad y y que es un poco más ideal para para tener una familia con con hijos pequeños",
+            "nuestra intención es en algunos años mudarnos a una de tres [dormitorios]",
+            "en el caso de tener dos hijos tendríamos que pensar en en una de tres [dormitorios]"
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "El cliente, que ya había explorado opciones sin urgencia, fue contactado sobre la preventa de la tercera etapa de un proyecto que conocía y le gustaba. Las visitas virtuales destacaron la seguridad y las áreas comunes, ideales para su futura familia. La decisión de compra se consolidó con un descuento significativo ofrecido por el desarrollador para compensar los retrasos en la entrega y un aumento inesperado en la tasa de interés hipotecario.",
+        "categoria": "toma de conciencia",
+        "evento_disparador": "Contacto de la inmobiliaria en mayo de 2020 para la preventa de la tercera etapa de un proyecto previamente admirado, seguido de tours virtuales que resaltaron la seguridad y las atractivas áreas comunes.",
+        "mecanismo_de_urgencia": "Oferta de preventa (implicando una oportunidad limitada) y un descuento sustancial por parte del desarrollador para mitigar los retrasos en la construcción y el aumento de la tasa hipotecaria.",
+        "violacion_expectativas": "Retrasos significativos en la entrega de la propiedad (de 2022 a 2024) y un aumento en la tasa de interés hipotecario (de 6.5% a 9.5%) debido a las demoras del desarrollador.",
+        "habilitadores": [
+            "Disponibilidad de capital para la cuota inicial",
+            "Elegibilidad para un crédito hipotecario",
+            "Oferta de descuento por parte del desarrollador"
+        ],
+        "evidencias": [
+            "\"Me contactan... sobre que ya estaban empezando con la preventa de la tercera etapa.\" (3:31-3:38)",
+            "\"me muestran todo por videollamada... me muestran un poco cómo son los interiores, los parques, y eso fue creo que lo que más me llamó la atención.\" (3:44-4:03)",
+            "\"tener un estar en un lugar que es cerrado donde prima la seguridad\" (4:04-4:11)",
+            "\"Arquimia me dio un descuento... de 50,000 soles.\" (1:28-1:30)",
+            "\"la tasa subió a 9.5%.\" (1:22-1:23)",
+            "\"Arquimia se ha retrasado dos años en entrega.\" (1:32-1:34)"
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir una propiedad en un condominio estratégicamente ubicado (Monterrico) con alta seguridad y excelentes áreas comunes, adecuada para la futura vida familiar (con hijos planeados) y con potencial de ingresos por alquiler (estudiantes, Airbnb).",
+        "emocional": "Sentir tranquilidad y seguridad al realizar una inversión inteligente que protege y aumenta el patrimonio familiar, asegurando un entorno de vida de calidad para su futura familia y manteniendo el control sobre el uso futuro del activo.",
+        "social": "Ser percibido como una persona previsora y responsable que asegura el futuro financiero de su familia y facilita una opción de vivienda conveniente y de calidad para sus futuros hijos.",
+        "outcome_maestro": "Asegurar un activo inmobiliario flexible, de alta calidad y seguro, que funcione como una inversión rentable a corto plazo y como una potencial vivienda familiar a futuro, optimizando la conveniencia para los hijos y la seguridad patrimonial."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en un departamento alquilado.",
+            "Comprar en otros proyectos inmobiliarios."
+        ],
+        "sostenibilidad": "Sostenible, ya que no tenía apuro en mudarse y estaba viviendo cómodamente en un departamento alquilado.",
+        "comportamiento_actual": "Antes de la compra, el cliente mantenía una actitud pasiva, con la idea latente de invertir. Al regresar a Perú, comenzó una búsqueda activa y se topó con una oportunidad específica, un proyecto al que tenía un vínculo emocional desde sus años de estudiante."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "No construir patrimonio al estar alquilando.",
+            "Falta de un espacio propio con seguridad y áreas comunes adecuadas para una futura familia."
+        ],
+        "costos": "Costo de oportunidad al no tener su dinero generando la rentabilidad que una inversión inmobiliaria podría ofrecer.",
+        "riesgos": "El capital podría perder valor con el tiempo debido a la inflación si no se invierte adecuadamente.",
+        "frustraciones": "No se evidencia una frustración activa, sino más bien la conciencia de una oportunidad financiera no aprovechada y la aspiración a un estilo de vida con mayor seguridad y comodidades para una futura familia."
+    },
+    "consideration_set": {
+        "opciones": [
+            "El proyecto 'Wow' (conocido desde 2004).",
+            "Otros proyectos en Surquillo, Miraflores o San Isidro."
+        ],
+        "sustitutos": [
+            "Otros proyectos vistos en ferias inmobiliarias o por internet, que no ofrecían las características de un condominio cerrado."
+        ],
+        "no_hacer_nada": "Era la opción por defecto antes de que la preventa de la tercera etapa del proyecto 'Wow' activara la búsqueda activa, ya que el cliente no tenía prisa por mudarse.",
+        "peso_mental_opciones": "El proyecto 'Wow' tuvo un peso mental mucho mayor debido a una conexión emocional desde sus años de estudiante. Fue la opción preferida por ser un condominio cerrado con seguridad, parques internos y clubhouse. Los otros proyectos fueron descartados por ser 'puerta de calle' y no ofrecer estas características.",
+        "evidencias": []
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 2 dormitorios en el proyecto 'Wow' de la inmobiliaria Alquimia.",
+        "condicionantes": "La decisión fue para vivir, proyectándose a tener al menos un hijo en el futuro. Fue influenciada por la conexión emocional con el proyecto y la valoración de la seguridad y las áreas comunes (condominio cerrado, parques, clubhouse).",
+        "evidencia_preferencia": "La decisión inicial de compra fue rápida tras la oferta de preventa de la tercera etapa con descuentos. A pesar de los retrasos en la entrega, el cliente y su pareja (futura esposa) reconfirmaron la decisión de continuar con la compra, lo que él llama un 'segundo momento de aceptación'.",
+        "evidencias": []
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Condominio en zona de Monterrico, con parques internos y seguridad.",
+            "PRODUCTO > tipología: Departamento de 2 dormitorios con intención de mudarse a uno de 3 dormitorios en el futuro, anticipando el crecimiento familiar.",
+            "PRODUCTO > acabados: Deseo de acabados de mayor calidad y personalización, incluso pagando un extra, o recibirlo sin acabar para rediseñar.",
+            "PROYECTO > áreas_comunes: Club House y cancha de tenis (aunque esta última generó problemas de ruido).",
+            "PROYECTO > entorno: Zona protegida y segura, ideal para familia con hijos pequeños.",
+            "PRODUCTO > estacionamiento: Negoció un estacionamiento más grande."
+        ],
+        "emocionales": [
+            "GENERAL > aspiracional: Conexión emocional y aspiracional con el proyecto desde que era estudiante.",
+            "GENERAL > seguridad: Prioridad máxima en la seguridad para"
+        ]
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PROCESO_COMPRA > plazos_entrega: Aceptaron retrasos significativos en la entrega del departamento, extendiéndose dos años más de lo prometido.",
+            "FINANCIERO > hipoteca: Asumieron un aumento del 3% en la tasa de interés hipotecaria debido a las demoras de la inmobiliaria.",
+            "PRODUCTO > acabados: Recibieron acabados que no eran de su gusto y de menor calidad en comparación con etapas anteriores del proyecto.",
+            "PRODUCTO > amenities_prometidas: Toleraron la no habilitación o descarte de amenities clave como la zona de parrillas, el parque de canes y la lavandería, a pesar de haber sido promocionadas.",
+            "PRODUCTO > infraestructura: Aceptaron un sistema de desagüe que no estaba conectado a la red pública, contrariamente a lo prometido, y con una solución temporal.",
+            "PROCESO_POSTVENTA > comunicación: Experimentaron una comunicación deficiente y falta de transparencia por parte de la inmobiliaria, lo que generó incertidumbre y la necesidad de buscar información activamente.",
+            "PROCESO_POSTVENTA > gestión_interna: Asumieron un rol activo en la gestión de problemas y la comunicación con la inmobiliaria, dedicando tiempo y esfuerzo a resolver incidencias que deberían ser responsabilidad de la empresa."
+        ],
+        "ganancias_obtenidas": [
+            "PROYECTO > ubicación_emocional: Compraron en un proyecto con el que tenían una conexión emocional desde sus años de estudiante, cumpliendo un deseo de vivir en un condominio de esa magnitud.",
+            "PROYECTO > seguridad_y_privacidad: Obtuvieron un lugar cerrado con alta seguridad y parques privados, ideal para una familia con hijos pequeños.",
+            "PRODUCTO > tipología_flexible: Adquirieron un departamento de 2 dormitorios con la proyección de crecer a uno de 3 en el futuro, adaptándose a sus planes familiares.",
+            "COMERCIAL > descuento_financiero: Recibieron un descuento de S/50,000 como compensación por el aumento de la tasa hipotecaria, lo cual fue decisivo para concretar la compra.",
+            "PRODUCTO > estacionamiento: Consiguieron el estacionamiento más grande de la tercera etapa, un beneficio adicional."
+        ],
+        "jerarquia_valor": "La conexión emocional con el proyecto, la seguridad, los espacios privados y el descuento financiero fueron los factores más importantes. Estos beneficios, junto con la flexibilidad de la tipología para sus planes familiares futuros, superaron las frustraciones por los retrasos, el aumento de la hipoteca y las deficiencias en la calidad y las amenities prometidas."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Retrasos de dos años en la entrega del departamento, con un año adicional no justificado por la pandemia.",
+            "Aumento del 3% en la tasa de interés hipotecaria debido a las demoras de la inmobiliaria.",
+            "Necesidad de solicitar una cláusula de penalidad por los incumplimientos en los plazos.",
+            "Percepción de que la inmobiliaria priorizó departamentos más económicos sobre la calidad en la tercera etapa.",
+            "Acabados de menor calidad en comparación con etapas anteriores (balcones más delgados, moho, tinas básicas, griferías).",
+            "Incumplimiento de promesas sobre amenities (zona de parrillas no habilitada, parque de canes cerrado, lavandería descartada).",
+            "Información engañosa sobre la infraestructura (sistema de desagüe no conectado a la red pública).",
+            "Falta de comunicación proactiva y transparencia por parte de la inmobiliaria.",
+            "Rotación de personal clave, como la vendedora original, generando incertidumbre sobre el punto de contacto.",
+            "La inmobiliaria da una impresión de falta de liquidez y tiene problemas de reputación.",
+            "El cliente, como delegado de su torre, ha tenido que gestionar activamente problemas y comunicarse constantemente con la inmobiliaria."
+        ],
+        "impacto_en_confianza": "La confianza inicial se ha erosionado significativamente debido a los constantes retrasos, los costos adicionales inesperados y la discrepancia entre las promesas de venta y la realidad del producto y los servicios. La percepción de que la inmobiliaria prioriza el ahorro de costos sobre la calidad y la satisfacción del cliente, sumado a la falta de comunicación y la necesidad de una gestión activa por parte de los residentes, ha generado un sentimiento de frustración y desilusión. El cliente se siente engañado en varios aspectos y la experiencia post-venta ha sido deficiente.",
+        "evidencias": [
+            "Solicitud de cláusula de penalidad por el cliente.",
+            "Descuento de S/50,000 otorgado por la inmobiliaria como compensación por el aumento de la tasa hipotecaria.",
+            "El cliente ejerce como delegado de su torre, interactuando directamente con la inmobiliaria para resolver problemas.",
+            "Cierre del parque de canes y descarte de la lavandería, a pesar de haber sido promocionados.",
+            "Problemas de moho en los balcones de la tercera etapa debido a fallas en la construcción.",
+            "Testimonio del cliente sobre la diferencia de calidad entre las etapas del proyecto (ej. tinas con hidromasaje vs. básicas).",
+            "Declaración del cliente sobre la impresión de falta de liquidez de la inmobiliaria.",
+            "Queja de un vecino (Rosario Nieto) por 'vicios ocultos' relacionados con ruidos y problemas de construcción."
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "Una intención latente de invertir se activó por un anuncio online específico. Este 'switching trigger' los llevó a un producto que encajaba perfectamente con sus criterios funcionales y emocionales, resultando en una decisión de compra rápida a pesar de algunas fricciones en el proceso de venta.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad debido a la mala gestión de la comunicación y la falta de certezas por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada. Se encuentran en la fase de espera pre-entrega, lidiando con los primeros problemas de la post-venta.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente, lo que puede llevar a conflictos futuros, una mala experiencia de entrega y la pérdida de cualquier posibilidad de recomendación o"
+    }
+}

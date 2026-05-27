@@ -1,0 +1,150 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "El cliente y su pareja, después de varios años juntos, decidieron que era el momento de pasar de un alquiler a una propiedad propia para consolidar su relación.",
+        "punto_A": "Vivir separados o en una propiedad alquilada, deseando un paso más permanente en su relación.",
+        "punto_B": "Poseer una propiedad compartida para vivir, simbolizando y consolidando su relación.",
+        "tipo_trigger": "EMOCIONAL/SOCIAL",
+        "frase_mental_resumen": "Es hora de tener nuestro propio lugar y dar un paso más en nuestra relación.",
+        "urgencia": "latente",
+        "evidencias": [
+            "tengo una pareja, ya tenemos cierta cantidad de años y veíamos conveniente convivir ya no en un lugar alquilado, sino en un lugar propio",
+            "el detonante entonces es que ya querían consolidar un poco su relación con una propiedad"
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La decisión de la pareja de dejar de alquilar y adquirir una vivienda propia fue el detonante inicial. Tras una búsqueda activa en zonas de interés, la compra se concretó al encontrar un proyecto con entrega inmediata y buen precio, pero la decisión final se aceleró por una bajada de las tasas de interés y una mejor oferta bancaria, sumado al atractivo de un clubhouse completo y una terraza versátil.",
+        "categoria": "oportunidad y necesidad de vivienda propia",
+        "evento_disparador": "La pareja decidió comprar una vivienda propia tras años de alquiler. La búsqueda activa en zonas de interés llevó al descubrimiento de un proyecto con entrega inmediata y buen precio. La bajada de tasas de interés y una mejor oferta bancaria, junto con amenidades como el clubhouse y una terraza flexible, fueron el impulso final para la compra.",
+        "mecanismo_de_urgencia": "La mejora en las tasas de interés y una oferta bancaria favorable crearon una ventana de oportunidad. La entrega inmediata del inmueble y un precio competitivo también incentivaron la decisión de compra.",
+        "violacion_expectativas": "Las tasas de interés bancarias inicialmente altas retrasaron la decisión de compra, a pesar de la intención preexistente de adquirir una propiedad.",
+        "habilitadores": [
+            "Disponibilidad de capital para la separación y cuota inicial",
+            "Flexibilidad para esperar el momento óptimo en el mercado financiero"
+        ],
+        "evidencias": []
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir una vivienda propia para la pareja, con espacio proyectado para una futura familia (hijos), en una ubicación deseada. Buscaban un proyecto con un clubhouse completo (gimnasio, piscina, cancha de tenis) y una terraza versátil, que también representara una inversión inteligente con potencial de rentabilidad futura (alquiler o reventa).",
+        "emocional": "Sentir seguridad y estabilidad al poseer una vivienda propia, disfrutar de un estilo de vida cómodo y con múltiples opciones de entretenimiento dentro del condominio (sensación de 'burbuja'), y la satisfacción de haber realizado una inversión oportuna y rentable.",
+        "social": "Consolidar la relación de pareja a través de la propiedad, proyectar una imagen de previsión y estabilidad familiar, y ofrecer un entorno de calidad para el crecimiento y bienestar de los hijos.",
+        "outcome_maestro": "Establecer un hogar propio y estable para la familia, que ofrezca comodidad, amplias amenidades y flexibilidad de espacio, a la vez que sirva como una inversión patrimonial inteligente y con potencial de crecimiento a largo plazo."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en un departamento alquilado en Surco."
+        ],
+        "sostenibilidad": "Era sostenible en el corto plazo, pero no a largo plazo dadas sus aspiraciones de consolidar su relación y formar una familia en una vivienda propia.",
+        "comportamiento_actual": "Antes de la compra, la pareja vivía en un departamento alquilado. Mantenían una actitud de búsqueda activa en zonas de interés, pero el encuentro con el proyecto fue por casualidad."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "No tener una vivienda propia para consolidar su relación de pareja y proyectar una familia.",
+            "El dinero del alquiler no generaba patrimonio."
+        ],
+        "costos": "Costo de oportunidad al no construir patrimonio con el dinero del alquiler.",
+        "riesgos": "No se mencionan riesgos directos de la alternativa existente, sino la falta de beneficios a futuro (construcción de patrimonio).",
+        "frustraciones": "No se evidencia una frustración activa con el alquiler, sino más bien la aspiración de tener algo propio y la proyección a futuro como pareja."
+    },
+    "consideration_set": {
+        "opciones": [
+            "Un proyecto en la zona de El Derby, cerca de El Polo (proyecto 'Wow')."
+        ],
+        "sustitutos": [
+            "Un proyecto en San Isidro, cerca del centro financiero, con espacio y precio similar."
+        ],
+        "no_hacer_nada": "Era la opción por defecto antes de que la necesidad de consolidar la relación activara la búsqueda activa de una propiedad propia.",
+        "peso_mental_opciones": "El proyecto de San Isidro fue descartado por el tráfico complicado en la zona, a pesar de su cercanía al trabajo y potencial de inversión. El proyecto 'Wow' en El Derby se convirtió rápidamente en la opción preferida al cumplir con las expectativas de ubicación y áreas comunes.",
+        "evidencias": [
+            "Estábamos buscando departamentos y estábamos por la zona y lo encontramos.",
+            "Era una de las zonas que nos podía interesar para para comprar, toda esta zona de El Polo, San Borja.",
+            "Sí, había un proyecto en San Isidro... era un espacio similar, la verdad, y a un precio similar. Lo único que nos desmotivó era el tema de del tráfico, que era un poco complicado por la zona.",
+            "Si el tráfico se dejaba de ser una variable problemática, sí, porque estaba más cerca de mi trabajo. Probablemente y creo que también si es que lo veía como un tema de inversión, podía ser más o podría votar más por estar justo en la zona financiera."
+        ]
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 2 dormitorios más un espacio flexible (2+flex) en el proyecto 'Wow' de la inmobiliaria Alquimia.",
+        "condicionantes": "La decisión fue influenciada por la necesidad de consolidar su relación con una propiedad propia, la proyección de tener hijos (requiriendo un espacio adicional), un buen precio para el espacio ofrecido, la versatilidad de una terraza y, crucialmente, las áreas comunes como el gimnasio y la cancha de tenis, que aportan un gran valor y conveniencia.",
+        "evidencia_preferencia": "La compra se concretó rápidamente una vez que las tasas de interés bajaron y se obtuvo una mejor oferta bancaria, lo que indica que el proyecto ya era muy deseado y cumplía con los requisitos clave (ubicación, tipología, áreas comunes y precio).",
+        "evidencias": [
+            "Veíamos conveniente convivir ya no en un lugar alquilado, sino en un lugar propio y estábamos en busca de ello.",
+            "El detonante entonces es que ya querían consolidar un poco su relación con una propiedad.",
+            "Es un tema de proyección, teniendo en cuenta que vamos a vivir acá por lo menos por un tiempo, obviamente uno quiere tener hijos y si vamos a tener al menos uno, necesitamos un cuarto aparte.",
+            "Vimos las propiedades disponibles porque nosotros las hemos comprado en entrega inmediata. Vimos los costos y la verdad que estaba muy buen precio para el espacio y al menos tener esta terraza te da la versatilidad de poder transformarla en lo que quieras.",
+            "Había un tema que la tasa de interés estaba alta y por eso retrasamos la compra. Ya cuando comenzó a bajar las tasas, nosotros tuvimos una mejor oferta de un banco y en ese momento decidimos optar por la compra.",
+            "Lo que suma bastante acá es el clubhouse, yo creo que si le quitas el clubhouse al proyecto como que le quitas el 70% del atractivo. El tema de gimnasio, la piscina, la cancha de tenis, la verdad que es bien conveniente.",
+            "La experiencia de vivir acá está perfecto porque es como, literal, es una burbuja. No tienes que salir de acá para hacer muchas cosas."
+        ]
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la Universidad de Lima, para conveniencia de sus hijos y atractivo para alquiler.",
+            "PRODUCTO > tipología: Distribución flexible que permita convertirlo en un departamento de 3 dormitorios para uso familiar futuro.",
+            "PROYECTO > áreas_comunes: Contar con una cancha de tenis, ya que sus hijos practican ese deporte.",
+            "PROYECTO > entorno: Estar ubicado en una zona tranquila y con poco ruido."
+        ],
+        "emocionales": [
+            "GENERAL > flexibilidad: La propiedad debía ofrecer la tranquilidad de una doble funcionalidad: inversión y posible hogar.",
+            "GENERAL > consolidación_relación: Adquirir una propiedad propia para consolidar la relación de pareja y dejar de alquilar."
+        ],
+        "sociales": [
+            "GENERAL > conveniencia_familiar: La compra debía facilitar la logística de sus hijos, reforzando su rol como proveedores atentos."
+        ],
+        "criterios_prioritarios": "La ubicación estratégica cerca de la universidad, la tipología flexible adaptable a 3 dormitorios y la presencia de una cancha de tenis fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > ubicación: Descartaron el proyecto competidor en San Isidro debido al exceso de tráfico y la dificultad de movilidad en la zona."
+        ],
+        "riesgos_asociados": "El riesgo percibido al comprar en la competencia era adquirir una propiedad en un entorno poco tranquilo y con problemas de tráfico, lo que afectaría la calidad de vida y el atractivo para futuros inquilinos.",
+        "señales_de_alerta": [
+            "POSTVENTA > atención_al_cliente: La falta de respuesta y el incumplimiento de fechas por parte del servicio de postventa de la inmobiliaria generaron frustración y desconfianza.",
+            "POSTVENTA > gestión_reclamos: El sistema de reclamos online de la inmobiliaria no funcionaba, lo que impedía una resolución efectiva de los problemas.",
+            "POSTVENTA > calidad_reparaciones: Las reparaciones post-sismo fueron incompletas, dejando acabados deficientes en áreas comunes."
+        ]
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PROCESO_POSTCOMPRA > atencion_cliente: Toleraron una atención post-venta deficiente, con falta de respuesta y promesas de visitas incumplidas para resolver defectos.",
+            "AMENITIES > cancha_tenis: Aceptaron la dificultad para reservar la cancha de tenis en horarios pico debido a la alta demanda y uso por personas externas.",
+            "PRODUCTO > acabados: La marmolería del baño vino manchada y la pintura exterior quedó con un acabado incompleto ('veteado') tras una reparación."
+        ],
+        "ganancias_obtenidas": [
+            "PROYECTO > ubicacion: Obtuvieron una propiedad en una zona tranquila y conveniente (Surco/Polo), ideal para la vida universitaria de sus hijos.",
+            "PROYECTO > areas_comunes: Accedieron a un clubhouse muy completo (cancha de tenis, gimnasio, piscina), siendo la cancha de tenis un diferenciador clave que se alinea con sus hobbies.",
+            "PRODUCTO > tipologia: Consiguieron un departamento de 2 dormitorios que se adapta a sus planes de tener hijos, ofreciendo flexibilidad para el futuro.",
+            "COMERCIAL > precio_condiciones: Aprovecharon una oportunidad de precio y una mejor tasa de interés al esperar el momento adecuado para cerrar la compra.",
+            "PRODUCTO > terraza: La versatilidad de la terraza/jardín en el primer piso fue un plus valorado.",
+            "PROYECTO > conveniencia: Disfrutan de la comodidad de tener todo dentro del complejo ('una burbuja'), evitando la necesidad de salir para muchas actividades."
+        ],
+        "jerarquia_valor": "Las ganancias funcionales del proyecto (ubicación, amenities como la cancha de tenis, tipología adecuada para el futuro familiar) y los beneficios comerciales (buen precio, mejor tasa de interés) fueron mucho más importantes que las frustraciones y la pésima experiencia post-venta con la inmobiliaria. La conveniencia de vivir en una 'burbuja' con múltiples servicios fue altamente valorada, a pesar de los graves problemas de gestión y atención al cliente."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Ausencia total de respuesta y cumplimiento de promesas para resolver defectos reportados (marmolería manchada, pintura exterior incompleta).",
+            "El sistema de reclamos online es ineficaz; los reclamos ingresados no reciben confirmación ni respuesta.",
+            "El servicio post-venta es calificado como 'pésimo', sin solución a problemas sencillos después de un año.",
+            "Cambio en el punto de contacto, siendo el actual representante de post-venta inaccesible y no responsivo.",
+            "Reparaciones incompletas tras un temblor (pintura con 'veteado' sin finalizar).",
+            "La inmobiliaria mantiene una deuda significativa con el clubhouse, lo que afecta el presupuesto para el mantenimiento de las áreas comunes."
+        ],
+        "impacto_en_confianza": "La falta de respuesta, las promesas incumplidas y la ineficacia de los canales de reclamo han erosionado severamente la confianza del cliente en el servicio post-venta de la inmobiliaria. Se sienten desatendidos y frustrados, teniendo que perseguir constantemente soluciones a problemas básicos. Esto impacta directamente su disposición a recomendar la empresa, a pesar de estar satisfechos con el proyecto en sí, generando una brecha de credibilidad significativa.",
+        "evidencias": [
+            "\"no me responden o me responden sí, vamos tal fecha y nunca nadie viene\" (13:53-13:56)",
+            "\"ingresado mi reclamo dos veces por el libro de reclamaciones... no llega a ningún lado\" (14:07-14:16)",
+            "\"su sistema de... postventa, es pésimo, no puede ser que un año no puedan dar solución a algo que parece... bastante sencillo\" (14:45-14:56)",
+            "\"le escribo, pues no me responde\" (19:16)",
+            "\"hasta ahora no tengo ninguna respuesta\" (20:07)",
+            "\"han dejado el veteado, o sea, lo han dejado sin pintar totalmente la pared\" (20:46-20:49)",
+            "\"la inmobiliaria yo le daría un dos\" (26:44-26:45)",
+            "\"hay una deuda grande que tiene la inmobiliaria con el clubhouse\" (28:41-28:44)"
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "Una intención latente de consolidar su relación y dejar de alquilar activó la búsqueda de una propiedad propia. El proyecto fue encontrado por casualidad en una zona de interés, y sus características (espacio para proyección familiar, terraza, y especialmente las áreas comunes/Clubhouse) encajaron con sus criterios. La decisión de compra se concretó rápidamente una vez que las tasas de interés bancarias mejoraron, superando una fricción inicial en el financiamiento.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad debido a la mala gestión de la comunicación y la falta de certezas por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada y habitada por un año. Se encuentran en la fase de post-venta, lidiando con problemas de mantenimiento y comunicación no resueltos por la inmobiliaria.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente, lo que puede llevar a conflictos futuros, una mala experiencia post-venta continua y la pérdida de cualquier posibilidad de recomendación o recompra."
+    }
+}

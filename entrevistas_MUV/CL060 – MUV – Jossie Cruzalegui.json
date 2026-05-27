@@ -1,0 +1,153 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La cliente inició la búsqueda para invertir capital en una propiedad en Perú. El objetivo a corto plazo es alquilarla para generar ingresos, y a largo plazo, mudarse a ella en 2-3 años al jubilarse, para vivir de su pensión estadounidense cerca de su familia. La idea surgió por la experiencia de un amigo.",
+        "punto_A": "Tener capital disponible en Estados Unidos sin generar rentabilidad óptima, viviendo lejos de su familia en Perú y sin una vivienda definida para su jubilación futura.",
+        "punto_B": "Poseer una propiedad en Perú que genere ingresos pasivos por alquiler, para luego habitarla al jubilarse, viviendo de su pensión de forma más económica y cerca de su familia.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesito invertir mi capital en una propiedad en Perú que pueda alquilar para generar ingresos, y que luego me sirva como mi hogar al jubilarme en 2-3 años, para vivir cómodamente con mi pensión cerca de mi familia.",
+        "urgencia": "latente",
+        "evidencias": [
+            "La idea es ir a vivir a al Perú este de aquí más o menos a unos dos, tres años. Entonces en el en el en mientras tanto eh y se puede, qué te digo, alquilar la propiedad como hace mucha gente, ¿no? Muchos peruanos que viven en el extranjero.",
+            "Todo nació de una idea de un amigo de la secundaria que vive en Miami.",
+            "Me animé y fui a averiguar, fui a ver los varios sitios.",
+            "Yo me jubilo en dos años. Entonces se me hace mucho más factible, o sea, y en verdad mucho más barato vivir allá con mi pensión.",
+            "Está la familia, acá es lindo y todo, pero estamos, o sea, yo soy la única que migró, entonces este mis hermanos, mi mamá, mis abuela, mi papá... esa era la meta desde el principio, yo no me quiero quedar toda la vida hasta viejita acá."
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La decisión de compra se concretó tras una búsqueda activa de propiedades en Perú, influenciada por la compra de un amigo y la cercanía de la propiedad de su madre. Descartó proyectos con pisos muy altos o ubicaciones percibidas como inseguras. El proyecto Move de ArKIMIA se convirtió en el disparador al ofrecer una ubicación ideal (cerca de la familia), áreas comunes atractivas, una distribución adecuada y acabados de calidad. Un factor decisivo fue la disponibilidad de entrega inmediata, lo que le permitió evitar los riesgos y demoras de los proyectos en construcción. La existencia de descuentos comerciales y la percepción de disponibilidad limitada de unidades también influyeron en la aceleración de la decisión.",
+        "categoria": "toma de conciencia y decisión",
+        "evento_disparador": "Descubrimiento del proyecto Move de ArKIMIA (a través de búsqueda y recomendación), que cumplía con sus criterios de ubicación (cercanía familiar), áreas comunes, acabados y, fundamentalmente, ofrecía entrega inmediata, evitando los riesgos de proyectos en plano. La visita al proyecto confirmó su idoneidad y la existencia de descuentos.",
+        "mecanismo_de_urgencia": "La oportunidad de adquirir una propiedad con entrega inmediata para evitar los riesgos y demoras de proyectos en construcción, sumado a la posibilidad de aprovechar descuentos comerciales y la presión del vendedor sobre la disponibilidad de la unidad.",
+        "violacion_expectativas": "Otros proyectos no cumplían con sus expectativas de altura de piso, seguridad de la zona o presentaban riesgos de demora al ser \"en plano\", lo que la llevó a descartarlos.",
+        "habilitadores": [
+            "Disponibilidad de capital para la cuota inicial (20%)",
+            "Proceso de mejora del historial crediticio en Perú (apertura de línea de crédito con BanBif)",
+            "El deseo de estar cerca de su familia en Perú"
+        ],
+        "evidencias": []
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir una propiedad de dos dormitorios, de tamaño práctico y con buenos acabados, ubicada estratégicamente cerca de su familia en Perú. La propiedad debe ser rentable para alquilar a corto plazo (mientras reside en EE. UU.) y, a futuro, servir como vivienda principal para ella y sus dos hijos menores tras su jubilación.",
+        "emocional": "Sentir tranquilidad y seguridad al haber realizado una inversión inteligente que garantiza su futuro financiero y el de su familia, permitiéndole regresar a su país de origen y reunirse con sus seres queridos, evitando la sensación de soledad o de envejecer lejos de ellos, y manteniendo el control sobre el uso futuro del activo.",
+        "social": "Posicionarse como madre y persona previsora que asegura el futuro financiero de la familia y facilita la vida de sus hijos, proveyéndoles una opción de vivienda conveniente y de calidad.",
+        "outcome_maestro": "Asegurar un activo inmobiliario flexible en Perú que funcione como una inversión rentable a corto plazo y como una potencial vivienda familiar a futuro, optimizando la conveniencia para sus hijos y la seguridad patrimonial post-jubilación."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en su residencia actual en Estados Unidos con su familia."
+        ],
+        "sostenibilidad": "Sostenible a corto plazo hasta su jubilación en 2-3 años. Sin embargo, no es su plan a largo plazo debido a que busca un menor costo de vida con su pensión en Perú y desea estar cerca de su familia extendida.",
+        "comportamiento_actual": "Antes de la compra, mantenía una actitud pasiva respecto a la inversión inmobiliaria en Perú. La idea se activó tras la experiencia de un amigo y la compra de un departamento por parte de su madre en un proyecto cercano, lo que la impulsó a una búsqueda activa."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "No tener una vivienda propia en Perú para su jubilación y el deseo de reunirse con su familia extendida.",
+            "Su capital no estaba generando ingresos pasivos en Perú."
+        ],
+        "costos": "Costo de oportunidad al no tener su capital invertido en una propiedad que generaría ingresos por alquiler y se apreciaría. El costo de vida en Estados Unidos es más alto en comparación con Perú para su pensión de jubilación.",
+        "riesgos": "El capital podría perder valor con el tiempo debido a la inflación si no se invierte adecuadamente. Riesgo de no asegurar una vivienda adecuada en Perú para su retiro futuro.",
+        "frustraciones": "No se evidencia una frustración activa, sino más bien la conciencia de una oportunidad financiera no aprovechada y el deseo de planificar su futuro retiro cerca de su familia."
+    },
+    "consideration_set": {
+        "opciones": [
+            "Un proyecto en la zona de El Derby, cerca de El Polo (Look and Feel).",
+            "Un proyecto cerca de la Panamericana.",
+            "El proyecto 'Wow' de Alquimia.",
+            "El proyecto 'Move' de Alquimia."
+        ],
+        "sustitutos": [
+            "Otros proyectos vistos superficialmente en internet y en visitas rápidas, sin llegar a investigar a fondo."
+        ],
+        "no_hacer_nada": "No comprar una propiedad en Perú, opción por defecto antes de que la compra de un amigo y la de su madre activaran la búsqueda activa.",
+        "peso_mental_opciones": "El proyecto 'Look and Feel' (cerca de El Polo) fue descartado por ofrecer solo pisos altos, lo cual no era de su agrado. El proyecto cerca de la Panamericana fue descartado por preocupaciones de seguridad (robos). El proyecto 'Wow' de Alquimia fue descartado por la distribución de sus departamentos. El proyecto 'Move' de Alquimia se convirtió rápidamente en la opción preferida.",
+        "evidencias": [
+            "mi mamá había recién comprado un apartamento en en el Look and Feel",
+            "los pisos que estaban disponibles eran muy altos y a mí no me gusta",
+            "quiero algo sencillo, de fácil acceso, no muy no tan arriba",
+            "el proyecto que estaba cerca de la Panamericana... mis amigos, mi familia dicen, no, por ahí no, que después salen... muchos robos",
+            "no me gusta mucho el de Wow"
+        ]
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 2 dormitorios en el proyecto 'Move' de la inmobiliaria Alquimia.",
+        "condicionantes": "La decisión fue influenciada por su plan de jubilación en 2 años y el deseo de regresar a vivir a Perú, buscando una inversión que se convierta en su hogar. La ubicación ideal cerca de su familia (madre y hermana) y la necesidad de un espacio práctico para ella y sus dos hijos menores fueron clave.",
+        "evidencia_preferencia": "La cliente se 'encantó' con el proyecto 'Move' debido a su ubicación, áreas comunes, distribución del departamento, acabados y calidad en los pequeños detalles, cumpliendo con sus requisitos clave.",
+        "evidencias": [
+            "me gustó el el move de Alquimia, me encantó.",
+            "la idea es ir a vivir al Perú este de aquí más o menos a unos dos, tres años.",
+            "la ubicación para mí es perfecta, porque está entre la casa de mi mami... y el departamento de mi hermana.",
+            "quiero estar cerca de la familia.",
+            "la ubicación, las áreas comunes, la distribución del departamento en Move... los acabados, la calidad, en los pequeños detalles, eso me llamó mucho la atención.",
+            "yo me jubilo en dos años. Entonces se me hace mucho más factible, o sea, y en verdad mucho más barato vivir allá con mi pensión.",
+            "Hasta donde he avanzado, sí. Son muy son amables, siempre están comunicándose conmigo... son bastante atentos."
+        ]
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la familia (madre, hermana, hermanos) para conveniencia y apoyo.",
+            "PRODUCTO > tipología: Distribución flexible que permita adaptar un departamento de 2 dormitorios para una familia con 3 hijos.",
+            "PROYECTO > áreas_comunes: Áreas comunes atractivas y funcionales.",
+            "PRODUCTO > acabados_calidad: Buenos acabados, calidad y atención a los pequeños detalles.",
+            "PRODUCTO > practicidad: Que la propiedad sea práctica."
+        ],
+        "emocionales": [
+            "GENERAL > flexibilidad: La propiedad debía ofrecer la tranquilidad de una doble funcionalidad: inversión y posible hogar futuro para la jubilación.",
+            "GENERAL > realización_personal: Cumplir el objetivo de regresar a vivir en Perú para la jubilación."
+        ],
+        "sociales": [
+            "GENERAL > conexión_familiar: La compra debía facilitar la reunificación familiar y el apoyo mutuo al estar cerca de sus seres queridos."
+        ],
+        "criterios_prioritarios": "La ubicación estratégica cerca de la familia, la flexibilidad de la tipología para acomodar a los hijos y la calidad de los acabados fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > ubicación: Descartaron un proyecto por problemas de seguridad y robos en la zona (cerca de la Panamericana).",
+            "PRODUCTO > pisos: Descartaron un proyecto por tener solo pisos muy altos disponibles, lo cual no era de su agrado.",
+            "PROYECTO > tipo_entrega: Descartaron proyectos en construcción debido a la incertidumbre de fechas de entrega y posibles demoras.",
+            "PRODUCTO > diseño: No le gustó la distribución del departamento en un proyecto competidor (Wow)."
+        ],
+        "riesgos_asociados": "El riesgo percibido al comprar en la competencia era la inseguridad personal y de la propiedad, así como la incertidumbre de entrega en proyectos en construcción.",
+        "señales_de_alerta": "Dificultades con el proceso de calificación crediticia y la lentitud en la mejora del score, además de problemas técnicos con el aplicativo de pago y falta de información sobre el proceso para peruanos en el extranjero."
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PROCESO_FINANCIERO > calificación_crediticia: Enfrentó dificultades y lentitud en el proceso de calificación crediticia desde el extranjero, requiriendo ayuda de terceros para gestiones.",
+            "PRODUCTO > espacio_habitacional: Optó por un departamento de 2 dormitorios para una familia de 3 (ella y dos hijos pequeños), implicando que los hijos compartirán habitación.",
+            "PROCESO_COMPRA > tiempo_investigación: Tuvo un tiempo muy limitado (7-8 días) para investigar proyectos en persona, lo que pudo haber restringido su análisis."
+        ],
+        "ganancias_obtenidas": [
+            "UBICACIÓN > cercanía_familiar: Aseguró una propiedad en una ubicación estratégica, muy cerca de toda su familia en Perú.",
+            "PRODUCTO > flexibilidad_uso: Adquirió un departamento que cumple un doble propósito: inversión a corto plazo (alquiler) y futura vivienda familiar (tras su jubilación).",
+            "PROYECTO > calidad_constructiva: Se sintió atraída por los acabados, la calidad y los 'pequeños detalles' del proyecto, que consideró superiores a otras opciones.",
+            "PROYECTO > áreas_comunes_y_diseño: Valoró positivamente las áreas comunes y la distribución del departamento en el proyecto elegido.",
+            "PROCESO_COMPRA > seguridad_inversión: Optó por un proyecto con entrega inmediata, evitando la incertidumbre y los posibles retrasos de los proyectos en construcción.",
+            "FINANCIERO > estrategia_jubilación: La compra es un pilar clave en su plan de jubilación, permitiéndole una vida más económica en Perú con su pensión.",
+            "UBICACIÓN > seguridad: Evitó proyectos en zonas percibidas como inseguras, priorizando la tranquilidad."
+        ],
+        "jerarquia_valor": "Las ganancias funcionales (ubicación familiar, calidad del proyecto, áreas comunes, distribución) y estratégicas (plan de jubilación, flexibilidad de uso) superaron con creces las dificultades y fricciones experimentadas en el proceso de compra, como la complejidad de la calificación crediticia o el tamaño del departamento."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "COMUNICACIÓN > proactividad: La inmobiliaria mantiene una comunicación proactiva y constante con el cliente.",
+            "ATENCIÓN_CLIENTE > amabilidad: El personal es amable y atento en su trato.",
+            "SOPORTE > información_continua: Informan constantemente sobre los pasos a seguir y los requerimientos.",
+            "CANALES_COMUNICACIÓN > múltiples: Utilizan diversos canales, incluyendo llamadas y grupos de WhatsApp."
+        ],
+        "impacto_en_confianza": "La comunicación constante, la amabilidad y la proactividad del personal han generado una alta confianza en el proceso post-venta, haciendo que el cliente se sienta bien informado y respaldado en su inversión.",
+        "evidencias": [
+            "\"Son muy amables, siempre están comunicándose conmigo.\"",
+            "\"Estamos en dos grupos de WhatsApp.\"",
+            "\"Me llaman constantemente, me dicen, mira, necesitamos esto.\"",
+            "\"Son bastante atentos.\""
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza de haber realizado una buena inversión inmobiliaria y la frustración y ansiedad generadas por las complejidades burocráticas y financieras del proceso de compra, especialmente al ser una peruana residente en el extranjero, lo que dificultó la calificación crediticia y los pagos iniciales.",
+        "camino_decision": "La intención de compra se activó por la recomendación de un amigo. Tras un año de investigación activa, visitó múltiples proyectos (incluyendo el de su madre) y los descartó por criterios como la altura de los pisos, la seguridad de la zona y la preferencia por proyectos con entrega inmediata. Finalmente, eligió 'Move' por su ubicación estratégica (cercanía familiar), la calidad de los acabados, la distribución y las áreas comunes.",
+        "coherencia_emo_racional_decision": "La decisión es altamente coherente. Racionalmente, la compra es una inversión estratégica para su jubilación en Perú, permitiéndole vivir de su pensión estadounidense y alquilar la propiedad mientras tanto. Emocionalmente, satisface su profundo deseo de regresar a su país y estar cerca de su familia. La elección del proyecto 'Move' se alinea con criterios funcionales (ubicación, calidad, entrega inmediata) y emocionales (gusto personal por el diseño y los detalles).",
+        "etapa_decision": "Compra realizada. Se encuentra en la fase de post-venta, esperando la entrega del inmueble (prevista para noviembre) y gestionando activamente los aspectos financieros y administrativos pendientes.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo, ya que la cliente está satisfecha con la propiedad y el trato recibido hasta el momento. El principal riesgo para la inmobiliaria es el deterioro de la relación con el cliente si surgen problemas con la entrega o si la comunicación post-venta (actualmente valorada positivamente) disminuye en calidad, lo que podría afectar futuras recomendaciones o la posibilidad de recompra."
+    }
+}

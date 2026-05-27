@@ -1,0 +1,183 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La búsqueda de una propiedad fue iniciada por el deseo de independizarse y mejorar su calidad de vida, impulsada por una mejor situación laboral y la disponibilidad de estacionamiento en su nuevo empleo, lo que le permitió priorizar la cercanía familiar y las amenidades del proyecto en una zona conocida.",
+        "punto_A": "Vivir con su familia (madre y hermano), con una experiencia previa frustrada de compra de propiedad, y con limitaciones laborales (sin estacionamiento propio en el trabajo anterior) que condicionaban sus opciones de vivienda y generaban gastos adicionales.",
+        "punto_B": "Residir de forma independiente en un departamento propio, con acceso a amenidades que complementen su estilo de vida (deportes), cerca de su familia en una zona familiar y en crecimiento, y con la comodidad de tener estacionamiento en su trabajo sin costos adicionales.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesito mi propio espacio para vivir de forma independiente, en una zona que conozco y que me ofrezca comodidades, ahora que mi situación laboral me lo permite y tengo estacionamiento, sin los problemas de mi intento de compra anterior.",
+        "urgencia": "latente",
+        "evidencias": [
+            "Compré para vivir.",
+            "Me mudo por independizarme.",
+            "Búsqueda iniciada en pandemia por deseo de irme.",
+            "Mejoré situación laboral con mejor puesto y sueldo.",
+            "Me dio el empuje para empezar a buscar.",
+            "Me encantan los deportes, el clubhouse, piscina y canchas me parecieron chéveres.",
+            "Mi familia está en Surco.",
+            "La zona de Surco ha crecido comercialmente y en salud (cine, comercios).",
+            "En trabajo anterior no tenía estacionamiento, ahora sí tengo en el nuevo puesto.",
+            "El estacionamiento en el trabajo me ayuda a no tener gastos adicionales.",
+            "No tener cochera antes condicionaba la ubicación, ahora con cochera en el trabajo tengo libertad para elegir Surco.",
+            "Pensaba no vivir sin balcón, pero la distribución y el clubhouse al frente compensan.",
+            "Las dos salidas del proyecto son importantes para moverme más tranquila (tráfico)."
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La decisión de compra se activó tras una mejora laboral que brindó estabilidad financiera y la eliminación de la necesidad de alquilar estacionamiento. A pesar de una experiencia previa negativa con otra inmobiliaria, la aparición de una publicidad online de un proyecto en una zona familiar (Surco) con atractivas áreas comunes (clubhouse) y la coincidencia con una vendedora conocida, impulsaron la visita y posterior compra.",
+        "categoria": "cambio de circunstancias",
+        "evento_disparador": "Ver una publicidad online de un proyecto en Surco que ofrecía áreas comunes atractivas (clubhouse) y la posibilidad de una entrega inmediata, sumado a la mejora de su situación laboral y la reaparición de una vendedora conocida.",
+        "mecanismo_de_urgencia": "El deseo de no esperar más por una vivienda y la disponibilidad de unidades para entrega inmediata.",
+        "violacion_expectativas": "Una experiencia previa negativa con otra inmobiliaria (problemas con la devolución de la cuota inicial) que la había desmotivado a comprar.",
+        "habilitadores": [
+            "Mejora de la situación laboral (mejor puesto y sueldo).",
+            "El nuevo trabajo incluye estacionamiento, eliminando un gasto y una restricción de ubicación.",
+            "La familiaridad con la zona (Surco, cerca de la familia).",
+            "La conexión con una vendedora conocida."
+        ],
+        "evidencias": [
+            "\"Mejoré mi situación laboral, ahorita ya estoy con un mejor puesto y con un mejor sueldo.\"",
+            "\"El trabajo anterior no tenía [cochera], en este sí.\"",
+            "\"Me encuentro con Ingrid, Ingrid es la ejecutiva, me había vendido el departamento anterior.\"",
+            "\"Fue el primer proyecto que vimos... siempre hemos pasado por ahí y siempre nos había llamado la atención.\"",
+            "\"Me encantan los deportes y me pareció super chévere cómo es el clubhouse que se tiene.\"",
+            "\"No quiero esperar más... hay que buscar algo que tenga más inmediates.\"",
+            "\"Acá en Surco está prácticamente toda mi familia.\""
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir un departamento de 1 dormitorio con entrega inmediata en Surco, cerca de su familia, que ofrezca amplias áreas comunes para deportes y recreación (clubhouse) y que incluya estacionamiento, evitando gastos adicionales y facilitando su movilidad.",
+        "emocional": "Sentir independencia y estabilidad tras superar obstáculos previos, disfrutar de un estilo de vida activo y cómodo, y tener la tranquilidad de una compra exitosa y bien pensada en una zona familiar.",
+        "social": "Mantener la cercanía con su familia mientras establece su propio espacio independiente, y participar en una comunidad que valora el bienestar y las actividades deportivas.",
+        "outcome_maestro": "Lograr la independencia habitacional en una ubicación familiar y conveniente, con acceso a un estilo de vida activo y sin preocupaciones de estacionamiento, superando experiencias negativas pasadas y asegurando una vivienda que se alinee con sus necesidades y aspiraciones actuales."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir con su mamá y hermano en una casa en Monterrico."
+        ],
+        "sostenibilidad": "No era sostenible a largo plazo para su objetivo de independencia, aunque el espacio actual era cómodo y adecuado para su mascota.",
+        "comportamiento_actual": "Su búsqueda de un departamento fue intermitente: inició por independencia, se detuvo por problemas de salud/económicos, luego por una mala experiencia con una compra anterior (pérdida de inicial), y finalmente retomó la búsqueda de forma casual impulsada por mejora laboral y apoyo familiar."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "Falta de independencia personal.",
+            "Experiencia negativa previa al intentar comprar otro departamento (pérdida de inicial)."
+        ],
+        "costos": "Costo de oportunidad al no tener su propia vivienda y autonomía. Pérdida de la inicial en un intento de compra anterior.",
+        "riesgos": "Riesgo de estancamiento personal al no lograr la independencia. Riesgo financiero materializado en la pérdida de la inicial de una compra anterior.",
+        "frustraciones": "Frustración por la falta de independencia y el retraso en sus planes. Desánimo y desconfianza generados por la mala experiencia con la compra anterior."
+    },
+    "consideration_set": {
+        "opciones": [
+            "Proyecto 'Wow' en Surco.",
+            "Un departamento en San Isidro (compra anterior fallida).",
+            "Otros proyectos vistos superficialmente por internet."
+        ],
+        "sustitutos": [
+            "Otros proyectos vistos superficialmente por internet, sin llegar a investigar a fondo."
+        ],
+        "no_hacer_nada": "Fue una opción recurrente debido a problemas de salud, económicos y una lesión, además de una compra anterior fallida. La publicidad del proyecto 'Wow' reactivó la búsqueda activa.",
+        "peso_mental_opciones": "El proyecto 'Wow' se convirtió rápidamente en la opción preferida debido a sus características (clubhouse, ubicación familiar, accesibilidad) y la resolución de condicionantes laborales (estacionamiento). La opción de San Isidro fue descartada por problemas con el desarrollador y cambios en las prioridades laborales.",
+        "evidencias": [
+            "Yo había comprado ya otro departamento... he tenido un problema con ese departamento... decidí ya no revisar la compra.",
+            "Eso medio que me bajoneó, la verdad dije ok ya no voy a comprar hasta el próximo año.",
+            "No compro en agosto porque yo me termino, yo juego fútbol y me lesioné.",
+            "Dijimos, vamos a ir para curiosear bien cómo es, porque siempre hemos pasado por ahí y siempre nos había llamado la atención.",
+            "Fue el primer proyecto que vimos, la verdad.",
+            "No me llenaban del 100% (refiriéndose a otros proyectos)."
+        ]
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 1 dormitorio en el proyecto 'Wow' de la inmobiliaria Alquimia.",
+        "condicionantes": "La decisión fue influenciada por la cercanía a su familia en Surco, la mejora de su situación laboral (con estacionamiento propio en el trabajo), su gusto por los deportes (clubhouse), y la necesidad de un espacio cómodo y bien distribuido. La presencia de Ingrid, quien le había vendido un departamento anteriormente, también fue un factor de confianza.",
+        "evidencia_preferencia": "La decisión de compra fue muy rápida después de la visita, ya que el proyecto cumplía con sus requisitos clave (ubicación, áreas comunes, tipología de 1 dormitorio que le gustó más que el de 2) y había una oferta comercial atractiva. La resolución de su necesidad de estacionamiento y la familiaridad con la vendedora también fueron cruciales.",
+        "evidencias": [
+            "Entramos al departamento, nos gustó bastante.",
+            "A mí me encantan los deportes y me pareció super chévere cómo es el clubhouse que se tiene, la piscina, las canchas.",
+            "Te hace como que tengas varias cosas a tu disposición y en un espacio super rápido que puedes ir, te cambias al toque en tu casa y te vas de la oficina.",
+            "Ese día que fuimos, ese día lo terminé separando.",
+            "Acá en Surco está prácticamente toda mi familia.",
+            "El Polo ha ido creciendo, ya volvió un cine... se han ido mejorando el tema comercial y hasta de salud que hay por acá.",
+            "No me parece mal y un espacio tranquilo para vivir.",
+            "El tema de no tener cochera en el otro trabajo, te condicionaba a estar cerca en la nueva en la compra. Correcto. Pero como en el nuevo trabajo tiene cochera, te abre un grado de libertad y ahí más bien ves con mejores ojos quedarte en Surco. Correcto.",
+            "Me gustó mucho más el de uno que el de dos.",
+            "El mío va a ver al club.",
+            "La forma en cómo está distribuido y cómo tiene las cosas no me pareció mal y tener el clubhouse al frente como que también me hacía sentir que era como que ese era mi patio.",
+            "El tener las dos las dos salidas es super importante, o sea, me parece un un plus para poder moverme más tranquila."
+        ]
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la familia en Surco y mejoras en la zona (comercio, salud).",
+            "PRODUCTO > tipología: Distribución espaciosa y cómoda del departamento de 1 dormitorio.",
+            "PROYECTO > áreas_comunes: Clubhouse con piscina y canchas para deportes, fácil acceso y conveniencia.",
+            "PRODUCTO > disponibilidad: Entrega inmediata del departamento.",
+            "PRODUCTO > vista: Vista al club desde el departamento.",
+            "PROYECTO > accesibilidad: Múltiples rutas de salida de la zona para evitar tráfico.",
+            "PRODUCTO > estacionamiento: Cochera incluida.",
+            "PROYECTO > pet_friendly: Áreas pet-friendly y comunidad con mascotas.",
+            "GENERAL > fin_compra: Comprar para vivir.",
+            "GENERAL > finanzas: Mejora de situación laboral y salarial para la compra.",
+            "GENERAL > movilidad: Estacionamiento en el trabajo que ofrece flexibilidad en la ubicación de la vivienda."
+        ],
+        "emocionales": [
+            "GENERAL > independencia: Lograr independencia manteniendo cercanía familiar.",
+            "GENERAL > confianza: Familiaridad y confianza con la ejecutiva de ventas (percibido como una señal).",
+            "PROYECTO > ambiente: Sensación de tranquilidad en el entorno.",
+            "PRODUCTO > confort: Distribución que compensa la falta de balcón, sintiendo el clubhouse como extensión del hogar.",
+            "GENERAL > aspiración: El proyecto superó el deseo inicial de un dúplex."
+        ],
+        "sociales": [
+            "GENERAL > apoyo_familiar: Apoyo y motivación de la madre para la compra.",
+            "GENERAL > cercanía_familiar: Proximidad a la familia en Surco."
+        ],
+        "criterios_prioritarios": "La disponibilidad inmediata, la distribución cómoda del 1 dormitorio, las áreas comunes deportivas (clubhouse), la ubicación cercana a la familia y la vista al club fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > ubicación: Otros proyectos no céntricos o con ubicación 'escondida' para algunos perfiles de compradores.",
+            "PRODUCTO > precio: Precio más alto de departamentos de 2 dormitorios.",
+            "PRODUCTO > vista: Pos"
+        ]
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PROCESO_PRECOMPRA > experiencia_previa: Tuvo una mala experiencia previa con la compra de otro departamento, perdiendo dinero y teniendo que recurrir a Indecopi.",
+            "PRODUCTO > tipología: No pudo adquirir un dúplex (su sueño) ni un departamento de 1+flex por disponibilidad inmediata, y el de 2 dormitorios era más caro.",
+            "PRODUCTO > balcón: Aceptó un departamento sin balcón, algo que inicialmente no quería, compensado por las áreas comunes.",
+            "MASCOTA > convivencia: Su perro no podrá vivir con ella en el nuevo departamento debido al tamaño y la falta de patio, aunque lo llevará de visita."
+        ],
+        "ganancias_obtenidas": [
+            "PROYECTO > áreas_comunes: Obtuvo acceso a un club house con piscina y canchas, un diferenciador clave que se alinea con sus intereses deportivos y de ocio.",
+            "PROYECTO > ubicación: Aseguró una propiedad en Surco, cerca de su familia y en una zona que ha mejorado comercial y socialmente, con buenas vías de acceso y dos salidas importantes.",
+            "PRODUCTO > tipología: El departamento de 1 dormitorio, aunque no era un dúplex, le resultó cómodo y espacioso, superando sus expectativas.",
+            "COMERCIAL > confianza: La presencia de una vendedora conocida (Ingrid) que le generaba confianza fue un factor decisivo en la compra.",
+            "PROYECTO > disponibilidad: Encontró un departamento de entrega inmediata, lo cual era una prioridad para su mudanza.",
+            "PRODUCTO > vista: Su departamento de 1 dormitorio tendrá vista al club, evitando la obstrucción de vista que tendría un departamento de 2 dormitorios.",
+            "PROYECTO > pet_friendly: El condominio es pet-friendly, lo que le permite llevar a su mascota de visita.",
+            "PROCESO_PRECOMPRA > precio_percibido: El precio del proyecto resultó ser más accesible de lo que inicialmente pensaba, lo que facilitó la decisión.",
+            "TRABAJO > estacionamiento: Su nuevo trabajo le proporciona estacionamiento, eliminando la necesidad de alquilar uno, lo que le dio más libertad para elegir la ubicación de su vivienda."
+        ],
+        "jerarquia_valor": "Las ganancias funcionales (áreas comunes, ubicación, comodidad del departamento, vista) y la confianza en la vendedora, junto con la disponibilidad inmediata y la flexibilidad que le dio el estacionamiento en su nuevo trabajo, fueron mucho más importantes que los sacrificios (no dúplex, no balcón, mascota no vive con ella) y las fricciones de su experiencia previa."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Incertidumbre sobre la fecha exacta del desembolso final.",
+            "Incertidumbre sobre la fecha de entrega final del departamento.",
+            "Falta de comunicación proactiva sobre los siguientes pasos del proceso post-venta."
+        ],
+        "impacto_en_confianza": "La falta de información clara y proactiva sobre los próximos pasos y fechas clave (desembolso, entrega) ha generado un estado de incertidumbre y la sensación de estar 'en el aire' con una inversión importante.",
+        "evidencias": [
+            "\"Todavía no se hace el desembolso, entiendo que es entre esta y la próxima semana.\"",
+            "\"La fecha más o menos de entrega estaba como para el 3, 4 de noviembre.\"",
+            "\"Todavía estoy en proceso.\""
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la satisfacción con la elección del inmueble y la ansiedad generada por la espera de la entrega y el desembolso final, exacerbada por una experiencia previa negativa con otra compra inmobiliaria que resultó en problemas legales.",
+        "camino_decision": "La intención de independizarse, pospuesta por salud y economía, se reactivó por mejora laboral y apoyo familiar. Tras una mala experiencia previa con otra inmobiliaria, la búsqueda se centró en un proyecto que conocían de vista. El encuentro fortuito con una vendedora de confianza (Ingrid) y la oferta de un departamento con excelentes áreas comunes (clubhouse, deportes) que satisfacía su estilo de vida y evitaba el tráfico, catalizaron una decisión de compra inmediata.",
+        "coherencia_emo_racional_decision": "La decisión es altamente coherente a nivel racional, ya que el departamento cumple con sus necesidades funcionales (ubicación familiar, cerca de familia, estacionamiento incluido, buenas vías de acceso, servicios comerciales y de salud) y emocionales (independencia, comodidad, estilo de vida activo con excelentes áreas comunes). Sin embargo, la fase post-compra genera disonancia emocional debido a la incertidumbre por la demora en el desembolso y la entrega, lo que se ve amplificado por una experiencia previa negativa con otra inmobiliaria.",
+        "etapa_decision": "Compra realizada. Se encuentra en la fase de espera pre-entrega, lidiando con los primeros problemas de la post-venta (demora en el desembolso).",
+        "riesgo_abandono": "El riesgo de abandono de la compra actual es nulo. El principal riesgo es para la inmobiliaria: un deterioro de la relación con el cliente debido a la gestión de la entrega, lo que podría afectar futuras recomendaciones y la percepción de la marca, especialmente dada la experiencia negativa previa de la cliente con otra inmobiliaria."
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La búsqueda fue iniciada por la necesidad de la familia de mudarse de Chorrillos a Surco, buscando una zona más segura y tranquila, y principalmente para que el hermano de la cliente estuviera cerca de su universidad (UPC).",
+        "punto_A": "Vivir en Chorrillos, en una zona percibida como menos segura y tranquila, y con una ubicación inconveniente para la universidad del hermano.",
+        "punto_B": "Vivir en Surco, en un departamento nuevo en una zona más segura, tranquila y con fácil acceso a la universidad del hermano.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesitamos un departamento en Surco, más seguro y cerca de la universidad de mi hermano, para mejorar nuestra calidad de vida.",
+        "urgencia": "latente",
+        "evidencias": []
+    },
+    "switching_trigger": {
+        "descripcion": "La familia decidió mudarse de Chorrillos a Surco buscando mayor seguridad, tranquilidad y cercanía a la universidad del hermano (UPC). La hija encontró el proyecto en línea (Nexo), y tras varias visitas, eligieron este departamento por ser un edificio de menor altura (8 pisos frente a 17 de otro proyecto), lo cual agradó a la madre, y por ofrecer más áreas comunes. La compra se realizó al contado después de un proceso de decisión reflexivo.",
+        "categoria": "toma de conciencia",
+        "evento_disparador": "La necesidad de un cambio de residencia debido a la insatisfacción con la seguridad y tranquilidad en Chorrillos y la inconveniencia para la universidad del hermano. El hallazgo del proyecto en el sitio web de Nexo y las visitas posteriores que confirmaron su idoneidad según las preferencias familiares (tamaño del edificio, áreas comunes) fueron clave para la decisión de compra.",
+        "mecanismo_de_urgencia": "No se identificó un mecanismo de urgencia explícito. La cliente indicó que se tomaron su tiempo para la decisión.",
+        "violacion_expectativas": "La vivienda anterior en Chorrillos no cumplía con las expectativas de seguridad y tranquilidad, y su ubicación no era práctica para la universidad del hermano.",
+        "habilitadores": [
+            "Disponibilidad de capital para realizar una compra al 100% al contado.",
+            "La proactividad de la hija en la búsqueda y visita de propiedades.",
+            "La decisión final de compra por parte de la madre, con el acuerdo de la familia."
+        ],
+        "evidencias": [
+            "\"anteriormente vivía en Chorrillos y queríamos hacer un cambio a Surco, a una zona más bonita, más tranquila para nosotros\"",
+            "\"también para que mi hermano estudie porque estudia cerca en la UPC\"",
+            "\"encontré en toda esta zona este departamento y otro más\"",
+            "\"el otro creo que tiene como 17 pisos y este tiene como 8 pisos, más le gustó eso y aparte que era un condominio más grande y había más áreas comunes\"",
+            "\"nos tomamos un tiempo para tomar la decisión... la tercera vez ya creo que fue en abril, nos decidimos con comprar\"",
+            "\"pagaron 100%... Sí.\""
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir un departamento nuevo de tres dormitorios en Surco que proporcionara mayor seguridad y tranquilidad, y que estuviera convenientemente ubicado cerca de la universidad del hermano (UPC). El proyecto debía ofrecer amplias áreas comunes y ser un edificio de altura moderada.",
+        "emocional": "Sentir tranquilidad y seguridad en el nuevo hogar, y la satisfacción de haber provisto una solución de vivienda cómoda y estratégica para los estudios del hermano. La madre se sintió más cómoda y segura en un edificio de menor altura.",
+        "social": "Cumplir con las necesidades de la familia de un entorno de vida mejorado y apoyar la educación del hermano, reflejando una dinámica familiar responsable y previsora.",
+        "outcome_maestro": "Establecer un nuevo hogar familiar en Surco que fuera seguro, tranquilo y convenientemente ubicado para la educación del hermano, con suficiente espacio (tres dormitorios) y áreas comunes adecuadas, en un edificio de altura preferida por la familia."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en su casa propia en Chorrillos."
+        ],
+        "sostenibilidad": "Totalmente sostenible. Poseían una casa propia en Chorrillos que ahora alquilan, sin urgencia de mudarse y con planes de mantenerla a largo plazo.",
+        "comportamiento_actual": "Antes de la compra, mantenían una actitud pasiva, con la idea de cambiar de vivienda por curiosidad y sin una búsqueda activa hasta que se toparon con una oportunidad específica en un portal web."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "La ubicación en Chorrillos no ofrecía la tranquilidad y seguridad deseadas.",
+            "La distancia de la vivienda anterior a la universidad del hermano era inconveniente.",
+            "Necesidad de mayor espacio y privacidad, requiriendo tres dormitorios."
+        ],
+        "costos": "Costo de oportunidad en términos de calidad de vida (seguridad y tranquilidad) y conveniencia logística (proximidad a la universidad).",
+        "riesgos": "Riesgo percibido de menor seguridad y tranquilidad en la ubicación anterior.",
+        "frustraciones": "Insatisfacción con la ubicación y el nivel de seguridad de la vivienda anterior, así como la distancia a la universidad del hermano."
+    },
+    "consideration_set": {
+        "opciones": [
+            "Proyecto 'Move' (Alquimia)",
+            "Proyecto 'Lukanfield' (TIC)"
+        ],
+        "sustitutos": [
+            "Otros departamentos nuevos o usados encontrados en la plataforma Nexo, que no fueron visitados."
+        ],
+        "no_hacer_nada": "Permanecer en la vivienda actual en Chorrillos, a pesar de la búsqueda de mayor seguridad y una mejor ubicación.",
+        "peso_mental_opciones": "El proyecto 'Move' fue preferido por tener menos pisos (8 vs 17 del competidor), lo cual era importante para la madre, y por ofrecer un condominio más grande con más áreas comunes. El proyecto 'Lukanfield' ofrecía un cuarto de servicio, pero no fue un factor decisivo.",
+        "evidencias": []
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 3 dormitorios en el proyecto 'Move' de la inmobiliaria Alquimia.",
+        "condicionantes": "La decisión fue influenciada por la necesidad de mayor seguridad, una zona más tranquila y bonita (Surco), la cercanía a la universidad (UPC) para el hermano, y la preferencia de la madre por edificios de menor altura.",
+        "evidencia_preferencia": "La decisión de compra se tomó después de varias visitas y una evaluación familiar (incluyendo al padre). El proyecto cumplía con los requisitos clave de ubicación, seguridad, número de habitaciones y áreas comunes, y la preferencia por edificios de menor altura.",
+        "evidencias": []
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la UPC para conveniencia de estudios del hermano.",
+            "PROYECTO > entorno: Ubicación en una zona más bonita y tranquila (Surco).",
+            "PRODUCTO > tipología: Departamento de 3 dormitorios para asegurar un cuarto para cada miembro de la familia.",
+            "PROYECTO > tamaño: Preferencia por edificios de menos pisos (8 pisos) en comparación con la competencia (17 pisos).",
+            "PROYECTO > áreas_comunes: Condominio más grande con más áreas comunes."
+        ],
+        "emocionales": [
+            "GENERAL > seguridad: Sentirse más seguros en la nueva ubicación.",
+            "GENERAL > tranquilidad: Vivir en un entorno que transmita paz y tranquilidad.",
+            "GENERAL > comodidad: La madre se sentía más cómoda en edificios de menor altura."
+        ],
+        "sociales": [
+            "GENERAL > decisión_familiar: La compra fue un proyecto familiar, buscando el bienestar y la comodidad de todos sus miembros."
+        ],
+        "criterios_prioritarios": "La ubicación estratégica cerca de la UPC, la tipología de 3 dormitorios, la seguridad y la tranquilidad de la zona, y la preferencia por edificios de menor altura fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > tamaño: El proyecto competidor (Lucanfield) fue descartado por tener un edificio de 17 pisos, lo cual generaba incomodidad a la madre.",
+            "PROYECTO > áreas_comunes: El proyecto competidor no ofrecía un condominio tan grande ni con tantas áreas comunes como el elegido."
+        ],
+        "riesgos_asociados": "El riesgo percibido era adquirir una propiedad que no cumpliera con las expectativas de tranquilidad, seguridad y comodidad familiar, especialmente en cuanto al tamaño del edificio y las áreas comunes.",
+        "señales_de_alerta": "La información sobre la disponibilidad de entrenadores en las áreas comunes fue engañosa, ya que al consultar se les indicó que no existían."
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PRODUCTO > tipología: Renunciaron a un cuarto de servicio que ofrecía otro proyecto, priorizando otras características del condominio.",
+            "SEGURIDAD > acceso: Aceptaron un sistema de acceso que permite a los visitantes llegar directamente a la puerta del departamento, generando preocupación por la seguridad.",
+            "SERVICIOS > áreas_comunes: Compraron con la expectativa de tener entrenadores disponibles en las áreas comunes, pero descubrieron que no existen, lo que implicó una gestión adicional."
+        ],
+        "ganancias_obtenidas": [
+            "UBICACIÓN > conveniencia: Se mudaron a una zona más tranquila y cercana a la universidad de su hermano (UPC).",
+            "PRODUCTO > tipología: Consiguieron un departamento de tres dormitorios, asegurando privacidad para cada miembro de la familia.",
+            "PROYECTO > diseño: Obtuvieron un edificio de menor altura (8 pisos), lo que era una preferencia familiar por comodidad.",
+            "PROYECTO > áreas_comunes: Accedieron a un condominio con más áreas comunes en comparación con otras opciones.",
+            "EXPERIENCIA > ambiente: Disfrutan de un ambiente tranquilo en su nuevo hogar."
+        ],
+        "jerarquia_valor": "Las ganancias funcionales (ubicación, tipología, diseño del edificio y áreas comunes) y la tranquilidad del ambiente superaron las fricciones y problemas experimentados (seguridad en entradas, olores y expectativas no cumplidas sobre servicios), lo que se refleja en una alta calificación y recomendación del proyecto."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Falta de comunicación proactiva y relevante por parte de la inmobiliaria, limitándose a enviar invitaciones a eventos festivos.",
+            "Percepción de seguridad deficiente en las entradas, permitiendo que visitantes lleguen directamente a la puerta del departamento.",
+            "Olores desagradables recurrentes provenientes de las tuberías, que afectan la calidad de vida.",
+            "Información engañosa sobre la disponibilidad de entrenadores en las áreas comunes, generando expectativas no cumplidas.",
+            "Ausencia de un sistema formal de gestión para servicios en áreas comunes, obligando a los residentes a coordinar a través de grupos de WhatsApp."
+        ],
+        "impacto_en_confianza": "Aunque la cliente valora positivamente el proyecto en general, la falta de comunicación proactiva, los problemas de seguridad percibida, los olores recurrentes y la información engañosa sobre los servicios han generado una sensación de frustración y desconfianza en la gestión y el soporte post-venta de la inmobiliaria.",
+        "evidencias": []
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "La necesidad de un cambio a una zona más segura y cercana a la universidad del hermano activó la búsqueda. Un anuncio en línea (Nexo) fue el 'switching trigger' que los llevó a un proyecto que cumplía sus criterios funcionales (3 dormitorios, ubicación) y emocionales (seguridad, preferencia de la madre por edificios bajos), resultando en una decisión de compra relativamente rápida.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad debido a la mala gestión de la comunicación y la falta de certezas por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada. Llevan un año viviendo en el departamento y están lidiando con problemas de post-venta relacionados con la seguridad, olores y la gestión de las áreas comunes.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente debido a la deficiente gestión post-venta, lo que puede llevar a conflictos futuros y a la pérdida de cualquier posibilidad de recomendación o recompra, a pesar de su actual satisfacción general."
+    }
+}

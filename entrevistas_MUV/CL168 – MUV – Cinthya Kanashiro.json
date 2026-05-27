@@ -1,0 +1,143 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La búsqueda fue iniciada por la necesidad de proporcionar un espacio de vida propio, seguro y conveniente para el hijo mayor que se mudaba a Lima para estudiar en la universidad. Los padres, que residen en Cusco, buscaban evitar las limitaciones de los alquileres y asegurar la tranquilidad y cercanía del hijo a su centro de estudios. También consideraban el uso futuro del departamento para sus otros hijos.",
+        "punto_A": "Tener al hijo estudiando en Lima, viviendo en un departamento alquilado con restricciones para personalizar y sin la seguridad deseada por los padres, quienes residen en Cusco y viajan ocasionalmente.",
+        "punto_B": "Que el hijo viva en un departamento propio, seguro y ubicado convenientemente cerca de su universidad en Lima, con libertad para personalizarlo y que sirva como base para futuras visitas familiares y estudios de sus hermanos menores.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesitamos comprar un departamento propio en Lima para que nuestro hijo viva seguro y cerca de la universidad, y no tener que depender de alquileres.",
+        "urgencia": "latente",
+        "evidencias": [
+            "nuestro hijo mayor terminó colegio y se estaba yendo a estudiar a Lima",
+            "lo más conveniente era que era un departamento que estuviese cerca de la universidad",
+            "hemos comprado el departamento porque él iba a estudiar y va a quedar ahí",
+            "tenía un departamento alquilado",
+            "en lo que no es tuyo ni un clavo",
+            "si quieres poner un cuadro lo piensas 20 veces porque después tienes que devolver la pared entera",
+            "por eso buscamos algo propio",
+            "lo que nos interesó siempre era la seguridad de nuestro hijo",
+            "para evitar el hecho de que se tenga que movilizar mucho y exponer",
+            "Nosotros siempre optamos por eso",
+            "lo más probable es de que yo al final siempre utilice el departamento para ellos"
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La decisión de compra fue impulsada por la necesidad de una residencia estable y propia para el hijo mayor, quien estudiaba en Lima mientras la familia residía en Cusco. La insatisfacción con el alquiler y el deseo de una propiedad permanente cerca de la universidad fueron motivadores clave. El proyecto específico fue descubierto por el hijo, quien lo veía diariamente, notó su publicidad y realizó un recorrido con un amigo. Su experiencia positiva y entusiasmo convencieron a su padre, y posteriormente a la madre, consolidando la decisión familiar de adquirir la propiedad.",
+        "categoria": "toma de conciencia de la necesidad de una vivienda propia",
+        "evento_disparador": "El hijo, al pasar diariamente por el proyecto, vio la publicidad, realizó un recorrido por las instalaciones y, convencido de su idoneidad, persuadió a su padre para que consideraran la compra.",
+        "mecanismo_de_urgencia": "",
+        "violacion_expectativas": "",
+        "habilitadores": [
+            "Disponibilidad de capital para la cuota inicial"
+        ],
+        "evidencias": [
+            "El hijo mayor se fue a estudiar a Lima mientras la familia vivía en Cusco (02:22-02:25, 03:05).",
+            "La familia buscaba un departamento cerca de la universidad para el hijo (02:34-02:35, 02:44-02:45).",
+            "Insatisfacción con el alquiler: 'lo que no es tuyo ni un clavo' y la imposibilidad de personalizar (03:45-03:55).",
+            "Deseo de 'buscar algo propio' (03:59-04:00).",
+            "El hijo pasaba por el proyecto de camino a la universidad (04:23-04:25).",
+            "El hijo y un amigo entraron al proyecto tras ver la publicidad (04:33, 04:38-04:39).",
+            "Les hicieron un recorrido por el proyecto y se 'encantaron' (04:42-04:44, 04:50-04:51).",
+            "El hijo convenció a su padre de comprar (04:56-05:00)."
+        ]
+    },
+    "desired_outcome": {
+        "funcional": "Adquirir una propiedad propia en una ubicación estratégica (cerca de la universidad) para que el hijo mayor viviera de forma segura y cómoda durante sus estudios en Lima, evitando los inconvenientes del alquiler. La propiedad también se concibió para ser utilizada por los otros hijos en el futuro y, en el interín, ser alquilada para cubrir gastos y generar rentabilidad, manteniendo la flexibilidad de uso.",
+        "emocional": "Sentir tranquilidad y seguridad al saber que su hijo estaba en un lugar seguro y propio, minimizando las preocupaciones sobre su movilidad y exposición en la ciudad. Experimentar la satisfacción de haber realizado una inversión inteligente que beneficia a sus hijos y les proporciona un sentido de pertenencia y estabilidad.",
+        "social": "Posicionarse como padres previsores y protectores, asegurando una vivienda adecuada y segura para sus hijos durante su etapa universitaria y futura, lo que refleja un compromiso con su bienestar y educación, y proporciona una base sólida para el patrimonio familiar.",
+        "outcome_maestro": "Asegurar un activo inmobiliario flexible que funcione como un hogar seguro y conveniente para los hijos universitarios, una inversión rentable a corto plazo mediante alquiler, y una potencial vivienda familiar a futuro, optimizando la seguridad y el patrimonio familiar."
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "El hijo vivía en un departamento alquilado en Lima."
+        ],
+        "sostenibilidad": "No era sostenible a largo plazo por la falta de personalización y la ausencia de inversión en un activo propio.",
+        "comportamiento_actual": "Actitud pasiva, la búsqueda se activó por la necesidad de un espacio propio para el hijo en Lima, quien ya estaba alquilando."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "No poder personalizar el espacio alquilado y no generar patrimonio."
+        ],
+        "costos": "El alquiler no generaba un activo ni valor a largo plazo.",
+        "riesgos": "Inestabilidad del alquiler y falta de control sobre el inmueble.",
+        "frustraciones": "Restricciones para modificar o mejorar el departamento alquilado (ej. 'poner un cuadro')."
+    },
+    "consideration_set": {
+        "opciones": [
+            "El proyecto de la inmobiliaria ubicado cerca de la UPC."
+        ],
+        "sustitutos": [
+            "Alquilar un departamento (opción actual del hijo), o comprar/alquilar en otros distritos o zonas más alejadas de Surco con menor costo."
+        ],
+        "no_hacer_nada": "Continuar con el alquiler del departamento actual del hijo, aunque no permitía personalización ni la sensación de 'algo propio'.",
+        "peso_mental_opciones": "El proyecto actual (cerca de la UPC) se convirtió rápidamente en la opción preferida debido a su ubicación estratégica para la universidad del hijo y la percepción de seguridad. La madre fue convencida por el hijo y el padre, quienes quedaron 'encantados' con las instalaciones.",
+        "evidencias": []
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 2 dormitorios en el proyecto de la inmobiliaria ubicado cerca de la UPC.",
+        "condicionantes": "La decisión fue impulsada por la necesidad de un lugar propio para el hijo mayor que estudiaba en la UPC, priorizando la cercanía a la universidad y la seguridad. La posibilidad de que la segunda hija también lo use en el futuro fue un factor adicional.",
+        "evidencia_preferencia": "El hijo y el padre quedaron 'encantados' con el proyecto y sus instalaciones (canchas, piscina, gimnasio). La madre, aunque no lo visitó antes de la compra, aceptó la decisión al ser superada en número ('dos convencidos contra una ya no hay'). La ubicación cercana a la universidad y la seguridad eran requisitos clave.",
+        "evidencias": []
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la Universidad de Lima, para conveniencia y seguridad de sus hijos.",
+            "PRODUCTO > tipología: Distribución flexible que permita convertirlo en un departamento de 3 dormitorios para uso familiar futuro.",
+            "PROYECTO > áreas_comunes: Contar con piscina y gimnasio, ya que sus hijos los utilizaron y les gustaron.",
+            "PROYECTO > entorno: Estar ubicado en una zona segura y tranquila."
+        ],
+        "emocionales": [
+            "GENERAL > flexibilidad: La propiedad debía ofrecer la tranquilidad de una doble funcionalidad: inversión (alquiler) y posible hogar (para los hijos)."
+        ],
+        "sociales": [
+            "GENERAL > conveniencia_familiar: La compra debía facilitar la logística de sus hijos, reforzando su rol como proveedores atentos y asegurando su bienestar."
+        ],
+        "criterios_prioritarios": "La ubicación estratégica cerca de la universidad para la seguridad y conveniencia de los hijos, la tipología flexible adaptable a 3 dormitorios y la tranquilidad del entorno fueron los criterios decisivos."
+    },
+    "firing_criteria": {
+        "razones_descartar": [
+            "PROYECTO > ubicación: Descartaron ubicaciones que implicaran mayor movilización y exposición para sus hijos, priorizando la cercanía a la universidad."
+        ],
+        "riesgos_asociados": "El riesgo percibido era adquirir una propiedad en un entorno poco seguro o que requiriera mucha movilización para los hijos, afectando su bienestar. También, la falta de transparencia y profesionalismo de la inmobiliaria en la gestión de la propiedad.",
+        "señales_de_alerta": "La demora significativa en la entrega del departamento, la falta de comunicación de la inmobiliaria, los problemas recurrentes con la asignación del estacionamiento y los defectos en los acabados del departamento generaron desconfianza y molestia."
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "PROCESO_COMPRA > demora_entrega: Soportaron un retraso de un año en la entrega del departamento.",
+            "PROCESO_POSTVENTA > comunicación: Experimentaron falta de comunicación proactiva y respuestas tardías/nulas a consultas post-venta (aunque sus casos urgentes fueron atendidos).",
+            "PRODUCTO > acabados_menores: Tuvieron que instalar luces y lidiar con barandas oxidadas y topes de baño desmoronados.",
+            "UNIDAD > estacionamiento: Su espacio de estacionamiento asignado fue vendido a otra persona, generando confusión y malestar.",
+            "PROCESO_POSTVENTA > compensación_alquiler: La inmobiliaria no cumplió con la promesa de cubrir el alquiler extra por el retraso."
+        ],
+        "ganancias_obtenidas": [
+            "PROYECTO > ubicación: Aseguraron una propiedad muy cerca de la universidad de su hijo, una prioridad clave.",
+            "PROYECTO > seguridad: Obtuvieron un entorno seguro y tranquilo, reduciendo la preocupación por la seguridad de sus hijos.",
+            "PRODUCTO > propiedad_propia: Consiguieron una propiedad propia para evitar las limitaciones de un alquiler y permitir personalización.",
+            "PRODUCTO > uso_familiar_futuro: La propiedad servirá para sus otros dos hijos cuando vayan a la universidad.",
+            "PRODUCTO > tipología: El departamento de dos dormitorios se ajusta a la necesidad de espacio para visitas familiares.",
+            "PROYECTO > áreas_comunes: El hijo disfrutó de las instalaciones como la piscina y el gimnasio."
+        ],
+        "jerarquia_valor": "La seguridad y la conveniencia de la ubicación para la educación de sus hijos, junto con el valor de la propiedad propia y su uso a largo plazo para la familia, superaron significativamente las frustraciones por los retrasos, problemas de estacionamiento y acabados menores. La satisfacción de los hijos con el departamento fue el factor más importante."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Retraso de un año en la entrega del departamento.",
+            "Falta de comunicación proactiva sobre el estado de la entrega y trámites.",
+            "Incumplimiento de la promesa de cubrir el alquiler adicional por el retraso.",
+            "Venta del estacionamiento asignado a otra persona, generando confusión y la necesidad de reasignación.",
+            "Problemas con acabados menores (luces no instaladas, barandas oxidadas, topes de baño desmoronados) no detectados en la recepción.",
+            "Proceso de independización y titulación aún en curso con plazos extendidos.",
+            "Información contradictoria sobre el estacionamiento.",
+            "Percepción de lentitud en la respuesta de la inmobiliaria a otros vecinos en el chat grupal."
+        ],
+        "impacto_en_confianza": "La confianza se vio afectada por el incumplimiento de promesas (alquiler), la desorganización (estacionamiento vendido dos veces) y la falta de transparencia en los procesos (papeles, retrasos). Aunque sus problemas puntuales fueron resueltos al presionar, la experiencia general generó frustración y la sensación de que la inmobiliaria no gestiona adecuadamente los procesos post-venta. El puntaje de 8/10 refleja que los beneficios funcionales y emocionales de la compra superaron las deficiencias del servicio.",
+        "evidencias": []
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria (ubicación, propósito) y la ansiedad emocional provocada por una comunicación post-venta deficiente y problemas administrativos (retraso, estacionamiento, acabados), que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "La necesidad de una vivienda propia para su hijo, quien se mudaba a Lima para estudiar, actuó como el 'switching trigger'. El hijo descubrió el proyecto al pasar por la zona, se sintió atraído por la publicidad y las instalaciones, y convenció al padre. La decisión de compra fue impulsada por la conveniencia de la ubicación (cerca de la universidad) y el deseo de tener una propiedad, a pesar de que la madre no participó en la visita inicial.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos (vivienda propia y segura para el hijo). Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad y frustración debido a la mala gestión de la comunicación y los problemas administrativos por parte de la inmobiliaria.",
+        "etapa_decision": "Compra realizada y entregada. Actualmente, el departamento está desocupado y están en la fase de decisión sobre su uso futuro (alquiler), mientras gestionan las secuelas de los problemas de post-venta y titulación.",
+        "riesgo_abandono": "El riesgo de abandono de la compra es nulo. El principal riesgo es para la inmobiliaria: un severo deterioro de la relación con el cliente, lo que puede llevar a conflictos futuros, una mala experiencia de entrega y la pérdida de cualquier posibilidad de recomendación o recompra."
+    }
+}

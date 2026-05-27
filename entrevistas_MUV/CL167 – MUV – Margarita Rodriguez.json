@@ -1,0 +1,139 @@
+{
+    "tipo_audio": "CLIENTES",
+    "job_trigger": {
+        "descripcion": "La cliente se muda para vivir al lado de su hija y yerno, quienes ya habían comprado un departamento en el mismo condominio. La decisión fue impulsada por la necesidad de apoyo mutuo y la preferencia de la hija de vivir cerca de su madre, especialmente porque la madre es una persona mayor y no tiene más familia en la ciudad. La cliente vendió su casa anterior para financiar la compra de este nuevo departamento.",
+        "punto_A": "Vivir sola en su casa anterior, con su hija y yerno viviendo en un departamento independiente en otro lugar, lo que implicaba una distancia física y la falta de apoyo inmediato en caso de emergencia.",
+        "punto_B": "Vivir en un departamento propio, al lado de su hija y yerno en el mismo condominio, asegurando cercanía, apoyo mutuo y la posibilidad de compartir momentos familiares, además de disfrutar de las comodidades del condominio.",
+        "tipo_trigger": "FUNCIONAL",
+        "frase_mental_resumen": "Necesito vivir cerca de mi hija y mi familia, especialmente ahora que soy mayor y no tengo a nadie más en la ciudad.",
+        "urgencia": "activa",
+        "evidencias": [
+            "1:38 - Yo compré este departamento porque mi hija, bueno, mi yerno compraron con mi hija su departamento. Y yo"
+        ]
+    },
+    "switching_trigger": {
+        "descripcion": "La decisión de compra fue impulsada por la mudanza de su hija a un nuevo condominio, lo que llevó a la cliente a buscar un apartamento adyacente para mantener la cercanía familiar. La disponibilidad de amenidades atractivas en el proyecto también influyó en su elección.",
+        "categoria": "búsqueda de oportunidad",
+        "evento_disparador": "La decisión del yerno de la cliente de mudarse a un nuevo condominio, lo que llevó a la cliente a establecer como condición la compra de un apartamento adyacente en el mismo proyecto.",
+        "mecanismo_de_urgencia": "El deseo de asegurar una unidad adyacente en un proyecto en construcción, con la promesa del vendedor de que una se liberaría. La insistencia de la madre en comprar de inmediato a pesar de las reservas de la hija.",
+        "violacion_expectativas": "La indisponibilidad inicial de un apartamento adyacente, el temor a ser estafada al comprar en planos, y la dificultad para adaptarse a 'mini-departamentos' en otras zonas debido a su experiencia previa en casas grandes.",
+        "habilitadores": [
+            "Disponibilidad de ahorros (CTS y bono) para realizar el pago al contado.",
+            "Asesoramiento legal que confirmó la credibilidad del desarrollador.",
+            "Participación activa en la revisión y personalización de los planos del"
+        ]
+    },
+    "existing_alternative": {
+        "alternativas": [
+            "Vivir en un departamento propio, más grande que el adquirido, en la misma casa que su hija y yerno.",
+            "Vivir en un departamento propio, más grande que el adquirido, en San Martín de Porres."
+        ],
+        "sostenibilidad": "Totalmente sostenible. La cliente vivía en un departamento independiente dentro de la misma casa que su hija y yerno, en una zona que le era familiar. No tenía una necesidad imperiosa de mudarse.",
+        "comportamiento_actual": "La cliente vivía cómodamente en su departamento anterior, que era más grande y con más comodidades. Su decisión de compra fue reactiva, impulsada por la decisión de su hija y yerno de mudarse a un nuevo proyecto."
+    },
+    "problems_existing_alternative": {
+        "problemas": [
+            "La hija y el yerno de la cliente decidieron mudarse a un nuevo proyecto inmobiliario.",
+            "La cliente es una persona mayor y no tiene más familiares en Lima, por lo que necesita la cercanía de su hija para cualquier emergencia."
+        ],
+        "costos": "No se mencionan costos directos asociados a la alternativa existente, más allá del costo de oportunidad de no invertir el capital disponible.",
+        "riesgos": "El riesgo principal era la separación familiar, ya que la cliente es una persona mayor y dependía de la cercanía de"
+    },
+    "consideration_set": {
+        "opciones": [
+            "El proyecto 'Wow' de la inmobiliaria Alquimia, que permitía vivir junto a su hija."
+        ],
+        "sustitutos": [
+            "Otros proyectos vistos en Miraflores, descartados por ser mini-departamentos y difíciles de adaptar."
+        ],
+        "no_hacer_nada": "Permanecer en su casa grande en San Martín de Porres, opción por defecto hasta que la decisión de su hija de mudarse activó su propia búsqueda de vivienda cercana.",
+        "peso_mental_opciones": "El proyecto 'Wow' tuvo un peso mental mucho mayor debido a la condición no negociable de vivir junto a su hija. Además, ofrecía amenidades atractivas (gimnasio, piscina, spa) y una ubicación más tranquila y segura en Surco, lo que superó las opciones de mini-departamentos en Miraflores.",
+        "evidencias": [
+            "\"Sí, yo he buscado por Miraflores, pero en realidad ha sido difícil para mí adaptarme a un mini-departamento, como le repito, yo he vivido en casa.\" (8:56-9:11)",
+            "\"Sí me, sí me gustó porque bueno, tiene todo lo que a mí me gusta, que es el gimnasio, la piscina, el spa, bueno, a mí siempre me gusta hacer deporte.\" (8:09-8:28)",
+            "\"No quería alejarme.\" (8:44-8:45)",
+            "\"No es que yo viva junto a ellos, siempre hemos tenido departamentos separados, pero en la misma casa.\" (2:05-2:14)",
+            "\"Sí o sí hay dos departamentos juntos. Si no había la opción de un departamento al costado del otro no era opción para mí.\" (4:32-4:42)",
+            "\"Me favorece porque de acá voy a la clínica caminando. No tengo que luchar con el tráfico.\" (11:03-11:13)"
+        ]
+    },
+    "chosen_solution": {
+        "solucion_preferida": "Departamento de 2 dormitorios con un estacionamiento y un depósito en el proyecto 'Wow' de la inmobiliaria Alquimia, ubicado junto a los departamentos de su hija.",
+        "condicionantes": "La condición principal era vivir en un departamento adyacente al de su hija. Otros factores incluyeron la necesidad de un departamento de 2 dormitorios (por su costumbre de casa grande y visitas), amenidades (gimnasio, piscina, spa), un vecindario más tranquilo y seguro, y un depósito para guardar sus pertenencias.",
+        "evidencia_preferencia": "La decisión de compra fue rápida, a pesar de su inicial renuencia a mudarse y preocupaciones sobre la compra en planos, una vez que se confirmó la disponibilidad de departamentos adyacentes a su hija. Su participación activa en la revisión de planos y el pago al contado refuerzan esta preferencia.",
+        "evidencias": [
+            "\"Sí o sí hay dos departamentos juntos. Si no había la opción de un departamento al costado del otro no era opción para mí.\" (4:32-4:42)",
+            "\"Sí me, sí me gustó porque bueno, tiene todo lo que a mí me gusta, que es el gimnasio, la piscina, el spa, bueno, a mí siempre me gusta hacer deporte.\" (8:09-8:28)",
+            "\"Me favorece porque de acá voy a la clínica caminando. No tengo que luchar con el tráfico.\" (11:03-11:13)",
+            "\"Dos dormitorios porque siempre he vivido en casa grande y bueno, siempre caen visitas.\" (7:39-7:50)",
+            "\"Yo necesito un depósito porque, por ejemplo, mi árbol de Navidad, mi nacimiento, ¿dónde lo voy a guardar? Yo no lo quiero tener debajo de la cama o en la sala, qué sé yo.\" (19:12-19:23)",
+            "\"Mi compra: un estacionamiento y un depósito.\" (19:53-19:55)"
+        ]
+    },
+    "hiring_criteria": {
+        "funcionales": [
+            "PROYECTO > ubicación: Proximidad a la Universidad de Lima, para conveniencia de sus nietos.",
+            "PRODUCTO > tipología: Distribución flexible que permita unir dos departamentos en uno, para vivir junto a su hija.",
+            "PROYECTO > áreas_comunes: Contar con gimnasio, piscina y spa, ya que le gusta hacer deporte.",
+            "PRODUCTO > características_adicionales: Contar con un depósito, para guardar objetos personales como el árbol de Navidad.",
+            "PRODUCTO > estacionamiento: Estacionamiento al costado del ascensor, para facilitar el acceso a su madre.",
+            "PROYECTO > ubicación: Cercanía a clínicas (Clínica Internacional, Tesa) y una zona con poco tráfico.",
+            "PRODUCTO > tipología: Dos dormitorios, para tener espacio para visitas."
+        ],
+        "emocionales": [
+            "GENERAL > flexibilidad: La propiedad debía ofrecer la tranquilidad de una doble funcionalidad: inversión (para el esposo) y posible hogar (para ella y su madre).",
+            "GENERAL > seguridad: La nueva zona es más tranquila, menos ruidosa y menos peligrosa que la anterior.",
+            "GENERAL > comodidad: La posibilidad de vivir cerca de su hija y nietos, manteniendo su independencia."
+        ],
+        "sociales": [
+            "GENERAL > conveniencia_"
+        ]
+    },
+    "tradeoffs": {
+        "sacrificios": [
+            "ESPACIO > tamaño: Se decepcionó por los ambientes pequeños, lo que la obligó a deshacerse de todos sus muebles grandes.",
+            "PROCESO_PRECOMPRA > condiciones_cambiantes: Las condiciones de compra de estacionamiento y depósito cambiaron unilateralmente después de la firma, tanto para ella como para su madre.",
+            "PROCESO_PRECOMPRA > sentimiento_estafa: Se sintió estafada por los cambios en las condiciones de compra post-firma, lo que la llevó a firmar una adenda desfavorable.",
+            "PRODUCTO > depósito: Perdió la oportunidad de alquilar un depósito adicional, incurriendo en gastos por un espacio que no necesita completamente.",
+            "ENTORNO > infraestructura_edificio: Experimenta problemas constantes con el desagüe (mal olor, bomba que se malogra, desbordes de aguas residuales, mosquitos) debido a fallas de diseño no reveladas.",
+            "EMOCIONAL > adaptación: Sufrió estrés y depresión al adaptarse a un espacio más pequeño y al proceso de venta de su casa anterior."
+        ],
+        "ganancias_obtenidas": [
+            "UBICACIÓN > familia: Aseguró la proximidad a su hija, yerno, nietos y su hijo, lo cual era una prioridad fundamental.",
+            "UBICACIÓN > entorno: Se mudó a un barrio más tranquilo y seguro, con menos bullicio y tráfico.",
+            "UBICACIÓN > conveniencia: Obtuvo la conveniencia de poder caminar a la clínica y evitar el tráfico.",
+            "PROYECTO > áreas_comunes: Accedió a amenidades como gimnasio, piscina y spa, que se alinean con sus intereses personales.",
+            "PRODUCTO > personalización: Logró personalizar el diseño de su departamento para unir dos unidades en una, adaptándolo a sus necesidades familiares."
+        ],
+        "jerarquia_valor": "Las ganancias emocionales y funcionales relacionadas con la proximidad familiar, las amenidades de estilo de vida y un entorno más tranquilo superaron significativamente las frustraciones, los cambios contractuales y los problemas de infraestructura post-venta. La capacidad de personalizar el espacio también fue un factor clave."
+    },
+    "experiencia_postventa": {
+        "observaciones": [
+            "Cambios unilaterales en las condiciones de compra de estacionamiento y depósito después de la firma del contrato, tanto para ella como para su madre.",
+            "Sentimiento de estafa y obligación de firmar adendas contractuales desfavorables.",
+            "Problemas graves y recurrentes con el sistema de desagüe del edificio (mal olor, bomba que se atora, desbordes de aguas residuales, mosquitos) debido a fallas de diseño no reveladas.",
+            "Falta de soluciones efectivas por parte de la inmobiliaria, con respuestas evasivas y promesas de solución a largo plazo (ej. 'esperar la cuarta etapa').",
+            "Pérdida financiera al pagar impuestos y mantenimiento por un depósito sobredimensionado que no puede alquilar.",
+            "Daños en los estacionamientos por inundaciones causadas por factores externos (riego del Club del Polo).",
+            "Quejas formales y cartas notariales de los vecinos por problemas no resueltos, con la inmobiliaria mostrando una actitud pasiva."
+        ],
+        "impacto_en_confianza": "La confianza de la cliente en la inmobiliaria ha sido gravemente erosionada. Se siente engañada y frustrada por la falta de transparencia, los cambios contractuales y la ineficacia en la resolución de problemas críticos de infraestructura. La necesidad de gestionar activamente estas deficiencias y la actitud displicente de la inmobiliaria han generado un profundo arrepentimiento y desilusión.",
+        "evidencias": [
+            "\"Ahí la verdad yo me sí me he sentido estafada.\"",
+            "\"nos llaman para decirnos que no nos van a entregar así.\"",
+            "\"le llaman para decirle que ya no hay el estacionamiento y el depósito para ella.\"",
+            "\"perdí el negocio de alquilar ese depósito.\"",
+            "\"el olor del sumidero sale fuerte.\"",
+            "\"la bomba se malogra cada o se atora cada semana, cada dos semanas.\"",
+            "\"el problema que tiene Arqmia... es que no tiene salida de desagüe.\"",
+            "\"ha habido desbordes en los pisos SS, ya desborde de materia fecal y todo eso.\"",
+            "\"ha habido quejas con Arqmia y Arqmia es más han hecho una carta notarial y todo con todas esas quejas.\"",
+            "\"Arqmia no le ha encontrado solución, o sea, para Arqmia todo es una maravilla y le han dicho de que es así, se va a solucionar. Espérense hasta la cuarta etapa.\""
+        ]
+    },
+    "resumen_global": {
+        "conflicto_central": "La tensión entre la certeza racional de haber hecho una excelente inversión inmobiliaria y la ansiedad emocional provocada por una comunicación post-venta deficiente, que los deja con una sensación de incertidumbre y desprotección sobre su capital invertido.",
+        "camino_decision": "Una intención latente de invertir se activó por un anuncio online específico. Este 'switching trigger' los llevó a un producto que encajaba perfectamente con sus criterios funcionales y emocionales, resultando en una decisión de compra rápida a pesar de algunas fricciones en el proceso de venta.",
+        "coherencia_emo_racional_decision": "La decisión es racionalmente sólida y coherente con sus objetivos. Sin embargo, hay una creciente disonancia emocional post-compra, donde la tranquilidad esperada tras la inversión se ve reemplazada por la ansiedad debido a la mala gestión de la comunicaci\\u0"
+    }
+}
